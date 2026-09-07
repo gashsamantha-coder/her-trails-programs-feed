@@ -1,0 +1,101 @@
+<!-- Her Trails programs calendar. Paste into a Custom Code block on the /programs page.
+     Set FEED_URL below. Everything else updates itself from Airtable. -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,400&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* Her Trails brand tokens */
+  .ht-wrap{background:#f8f5f2;font-family:'Work Sans',Helvetica,Arial,sans-serif;color:#1d1d1d;padding:8px 0 32px}
+  .ht-filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px}
+  .ht-filter{border:1px solid #e2d9d2;background:#fff;color:#555;font:600 11px/1 'Work Sans',sans-serif;letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-radius:20px;cursor:pointer}
+  .ht-filter.is-on{background:#1d1d1d;color:#faf9f6;border-color:#1d1d1d}
+  .ht-grid{display:flex;flex-wrap:wrap;gap:16px}
+  .ht-up-card{flex:1 1 300px;max-width:100%;background:#fff;border:1px solid #e2d9d2;border-radius:6px;padding:26px 24px;display:flex;flex-direction:column;gap:10px}
+  .ht-up-card.is-progress{background:#faf9f6}
+  .ht-up-ename{font-weight:600;font-size:15px;color:#1d1d1d;line-height:1.3}
+  .ht-up-loc{font-size:11px;color:#666;letter-spacing:.06em;text-transform:uppercase}
+  .ht-up-tline{font-size:13px;color:#555;line-height:1.5}
+  .ht-up-tags{display:flex;flex-wrap:wrap;gap:6px}
+  .ht-tag{font-size:10px;background:#f0ebe6;color:#555;padding:3px 8px;border-radius:20px;text-transform:uppercase;letter-spacing:.06em}
+  .ht-up-div{border:0;border-top:1px solid #f0ebe6;margin:4px 0}
+  .ht-up-plabel{font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:#c45c33;font-weight:600}
+  .ht-up-pname{font-family:'Playfair Display',Georgia,serif;font-size:clamp(18px,2.4vw,21px);color:#1d1d1d;line-height:1.3}
+  .ht-up-wks{font-size:12px;color:#666}
+  .ht-dates{display:flex;flex-wrap:wrap;gap:8px}
+  .ht-date-badge{display:inline-flex;align-items:center;gap:6px;font-size:12px;border:1px solid #e2d9d2;border-radius:4px;padding:6px 10px;background:#faf9f6}
+  .ht-date-label{color:#666}
+  .ht-date-val{font-weight:600;color:#1d1d1d}
+  .ht-price{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:#c45c33}
+  .ht-price small{font-family:'Work Sans',sans-serif;font-size:12px;color:#666;margin-left:6px}
+  .ht-up-pdesc{font-size:13px;color:#555;line-height:1.55}
+  .ht-up-avail{font-size:12px;color:#555;line-height:1.5;background:#faf9f6;border-left:3px solid #597b52;padding:8px 10px;border-radius:0 4px 4px 0}
+  .ht-ctas{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:6px}
+  .ht-btn-fill,.ht-btn-out{flex:1 1 140px;text-align:center;font:700 12px/1 'Work Sans',sans-serif;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;padding:13px 14px;border-radius:3px}
+  .ht-btn-fill{background:#c45c33;color:#faf9f6}
+  .ht-btn-out{border:2px solid #1d1d1d;color:#1d1d1d;background:transparent}
+  .ht-empty{font-size:14px;color:#666;padding:24px 0}
+</style>
+
+<div class="ht-wrap" id="ht-programs">
+  <div class="ht-filters" id="ht-filters"></div>
+  <div class="ht-grid" id="ht-grid"><div class="ht-empty">Loading programs.</div></div>
+</div>
+
+<script>
+(function(){
+  var FEED_URL = 'https://gashsamantha-coder.github.io/her-trails-programs-feed/programs.json';   // <- set this once
+  var ALL_IN   = 'https://www.hertrails.com/all-in-member';
+
+  var SVG_S='<svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0"><circle cx="7" cy="7" r="6" stroke="#597b52" stroke-width="1.5"/><circle cx="7" cy="7" r="2.5" fill="#597b52"/></svg>';
+  var SVG_R='<svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0"><line x1="3" y1="1" x2="3" y2="13" stroke="#c45c33" stroke-width="1.5" stroke-linecap="round"/><path d="M3 2 L11 4 L3 6 Z" fill="#c45c33"/></svg>';
+  var M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function fmt(iso){var p=iso.split('-');return (+p[2])+' '+M[+p[1]-1]+' '+p[0];}
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+
+  var CATS=[['All','*'],['Race specific','Event Based Programs'],['50km events','50km events - tier allocation'],
+            ['Distance based','Distance Based'],['Road marathon','Road Marathon'],['Strength and cycle','Strength & Cycle Programs']];
+
+  function card(p){
+    var name=esc(p.name), km=p.km?(' &middot; '+p.km+'K'):'', el=p.elevation?(' ('+p.elevation+'m+)'):'';
+    var tags=(p.tags||[]).slice(0,4).map(function(t){return '<span class="ht-tag">'+esc(t)+'</span>';}).join('');
+    var price=p.price!=null?('$'+p.price+' AUD'):'', plan=p.plan?('<small>or '+esc(p.plan)+'</small>'):'';
+    var prog=p.status==='in_progress';
+    var avail=prog
+      ?'<strong>In progress:</strong> this block is already underway. Join now for full program access, the Her Trails Community Hub and Coaching Corner, and work forward from the current week.'
+      :'<strong>Available now:</strong> Introductory content, access to the Her Trails Community Hub, Coaching Corner and Week 1 of your program.';
+    return '<div class="ht-up-card'+(prog?' is-progress':'')+'">'
+      +'<div class="ht-up-ename">'+name+km+el+'</div>'
+      +(p.location?'<div class="ht-up-loc">'+esc(p.location)+'</div>':'')
+      +(p.tagline?'<div class="ht-up-tline">'+esc(p.tagline)+'</div>':'')
+      +(tags?'<div class="ht-up-tags">'+tags+'</div>':'')
+      +'<hr class="ht-up-div">'
+      +'<div class="ht-up-plabel">Program</div>'
+      +'<div class="ht-up-pname">'+name+'</div>'
+      +(p.weeks?'<div class="ht-up-wks">'+p.weeks+' weeks</div>':'')
+      +'<div class="ht-dates">'
+      +'<div class="ht-date-badge">'+SVG_S+'<span class="ht-date-label">Program starts</span> <span class="ht-date-val">'+fmt(p.startDate)+'</span></div>'
+      +'<div class="ht-date-badge">'+SVG_R+'<span class="ht-date-label">Race day</span> <span class="ht-date-val">'+fmt(p.raceDate)+'</span></div>'
+      +'</div>'
+      +(price||plan?'<div class="ht-price">'+price+plan+'</div>':'')
+      +'<div class="ht-up-avail">'+avail+'</div>'
+      +'<div class="ht-ctas">'
+      +'<a class="ht-btn-fill" href="'+ALL_IN+'" target="_blank" rel="noopener">Join All In + Get Access</a>'
+      +'<a class="ht-btn-out" href="'+esc(p.checkoutUrl)+'" target="_blank" rel="noopener">Buy Standalone</a>'
+      +'</div></div>';
+  }
+
+  var data=null, active='*';
+  function render(){
+    var grid=document.getElementById('ht-grid');
+    var rows=data.programs.filter(function(p){return active==='*'||p.category===active;});
+    grid.innerHTML=rows.length?rows.map(card).join(''):'<div class="ht-empty">No programs in this category right now.</div>';
+  }
+  function filters(){
+    var box=document.getElementById('ht-filters'), present={};
+    data.programs.forEach(function(p){present[p.category]=1;});
+    box.innerHTML=CATS.filter(function(c){return c[1]==='*'||present[c[1]];}).map(function(c){
+      return '<button class="ht-filter'+(c[1]===active?' is-on':'')+'" data-c="'+esc(c[1])+'">'+c[0]+'</button>';}).join('');
+    box.onclick=function(e){var b=e.target.closest('.ht-filter');if(!b)return;active=b.getAttribute('data-c');filters();render();};
+  }
+  fetch(FEED_URL,{cache:'no-store'}).then(function(r){return r.json();}).then(function(j){data=j;filters();render();})
+    .catch(function(){document.getElementById('ht-grid').innerHTML='<div class="ht-empty">Programs are loading slowly. Please refresh in a moment.</div>';});
+})();
+</script>
