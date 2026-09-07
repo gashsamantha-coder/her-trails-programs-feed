@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:44:14.079Z",
+  "generatedAt": "2026-09-07T21:29:32.723Z",
   "today": "2026-09-07",
   "count": 95,
   "programs": [
@@ -1595,7 +1595,9 @@
       "km": 42.2,
       "elevation": 100,
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "tagline": "Flat out-and-back course, two laps of the half marathon route. Starts on Sky Stadium Walkway, heads south on Waterloo Quay toward Railway Station. Scenic tour of Wellington's harbour bays passing iconic landmarks. IAAF & AIMS certified course.",
       "weeks": 16,
       "raceDate": "2027-06-27",
@@ -1693,7 +1695,9 @@
       "km": 42.2,
       "elevation": 150,
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "tagline": "Runs through the Red Centre with views of Uluru and Kata Tjuta. Relatively flat with a couple of inclines and sand dunes. Mostly unsealed roads, bush tracks and soft-sand trails with red earth. A once-in-a-lifetime outback running experience.",
       "weeks": 16,
       "raceDate": "2027-07-31",
@@ -1711,7 +1715,9 @@
       "km": 42.2,
       "elevation": 60,
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "tagline": "AIMS accredited fast, flat coastal course. Starts at Jezzine Barracks. Hugs the coastline with views of the Coral Sea, Magnetic Island and The Strand. Tropical winter conditions.",
       "weeks": 16,
       "raceDate": "2027-08-01",
@@ -1863,26 +1869,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/FQMZCEKy/checkout"
     },
     {
-      "id": "recBSTwQyahguvp2Z",
-      "name": "Sydney Marathon: 42.2K",
-      "category": "Road Marathon",
-      "location": "Sydney",
-      "km": 42.2,
-      "elevation": 313,
-      "tier": null,
-      "tags": [
-        "Road Marathon"
-      ],
-      "tagline": "Starts at Miller Street, North Sydney. Crosses the Sydney Harbour Bridge, runs through the CBD and inner suburbs, past Centennial Park, before finishing at the Sydney Opera House forecourt. Flat, fast course with harbour and city views.",
-      "weeks": 16,
-      "raceDate": "2027-08-29",
-      "startDate": "2027-05-10",
-      "status": "upcoming",
-      "price": 445,
-      "plan": "149 x 3 = 447",
-      "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
-    },
-    {
       "id": "recPusPgPsm7iUmxG",
       "name": "Macedon 50km",
       "category": "50km events - tier allocation",
@@ -1922,6 +1908,26 @@
       "price": 300,
       "plan": "160 x 2",
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
+    },
+    {
+      "id": "recBSTwQyahguvp2Z",
+      "name": "Sydney Marathon: 42.2K",
+      "category": "Road Marathon",
+      "location": "Sydney",
+      "km": 42.2,
+      "elevation": 313,
+      "tier": null,
+      "tags": [
+        "Road Marathon"
+      ],
+      "tagline": "Starts at Miller Street, North Sydney. Crosses the Sydney Harbour Bridge, runs through the CBD and inner suburbs, past Centennial Park, before finishing at the Sydney Opera House forecourt. Flat, fast course with harbour and city views.",
+      "weeks": 16,
+      "raceDate": "2027-05-10",
+      "startDate": "2027-08-29",
+      "status": "upcoming",
+      "price": 445,
+      "plan": "149 x 3 = 447",
+      "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
     }
   ]
 }

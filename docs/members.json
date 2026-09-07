@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:44:14.079Z",
+  "generatedAt": "2026-09-07T21:29:32.723Z",
   "today": "2026-09-07",
   "count": 130,
   "programs": [
@@ -870,7 +870,9 @@
       "elevClass2": "Flat",
       "techRating": "Runnable",
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -2283,7 +2285,9 @@
       "elevClass2": "Flat",
       "techRating": "Runnable",
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -2841,9 +2845,9 @@
       "cc": "#597b52",
       "event": "road-marathon",
       "eventLabel": "Road Marathons",
-      "openDateISO": "2027-05-10",
-      "raceDateISO": "2027-08-29",
-      "raceDateDisplay": "Aug 2027",
+      "openDateISO": "2027-08-29",
+      "raceDateISO": "2027-05-10",
+      "raceDateDisplay": "May 2027",
       "elevGainDisplay": "313m",
       "dur": "14-16",
       "elev": "flat",
@@ -2983,7 +2987,9 @@
       "elevClass2": "Flat",
       "techRating": "Runnable",
       "tier": null,
-      "tags": [],
+      "tags": [
+        "Road Marathon"
+      ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
