@@ -198,6 +198,7 @@ function transformMembers(records, today) {
     const elevation = typeof f[F.elevation] === 'number' ? f[F.elevation] : null;
     const tier = sel(f[F.tier]);
     const tags = (f[F.tags] || []).map(sel).filter(Boolean).map(s => s.trim());
+    const summary = (f[F.summary] || '').trim();
     const skip = why => skipped.push({ name, why });
     if (!name) continue;
     if (category === 'Archive') { skip('archived'); continue; }
@@ -224,17 +225,25 @@ function transformMembers(records, today) {
     if (weeks) subParts.push(`${weeks} weeks`);
     rows.push({
       id: rec.id, name, sub: subParts.join(' · '),
+      location: loc, tagline: summary || TIER_LINE[tier] || null, startDateDisplay: monthYear(start),
       distKm: km ? (Number.isInteger(km) ? `${km}km` : `${km}km`) : '-',
       km, weeks, dist, cat: DIST_LABEL[dist], cc: DIST_COLOUR[dist],
       event, eventLabel: EVENT_LABELS[event] || 'Other',
       openDateISO: start || '', raceDateISO: race || '', raceDateDisplay: monthYear(race),
+      raceMonth: race ? +race.slice(5, 7) : null, startMonth: start ? +start.slice(5, 7) : null,
       elevGainDisplay: elevation ? `${elevation.toLocaleString('en-AU')}m` : '',
       dur: durationBand(weeks), elev: t.elevBucket, elevClass2: t.elevClass, techRating: t.techRating,
       tier: tier || null, tags, allin: true,
       link: url.replace(/\/?$/, '').replace(/(\/offers\/[A-Za-z0-9]+)(\/checkout)?$/, '$1/checkout'),
     });
   }
-  rows.sort((a, b) => a.name.localeCompare(b.name));
+  // Soonest-starting programs first; programs with no fixed start (join-any-time) sort alphabetically at the end.
+  rows.sort((a, b) => {
+    if (a.openDateISO && b.openDateISO) return a.openDateISO.localeCompare(b.openDateISO) || a.raceDateISO.localeCompare(b.raceDateISO);
+    if (a.openDateISO) return -1;
+    if (b.openDateISO) return 1;
+    return a.name.localeCompare(b.name);
+  });
   return { rows, skipped };
 }
 
