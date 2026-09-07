@@ -23,7 +23,14 @@ const F = {
   category:  'fldm7vYjplOccthOO',
   tags:      'flducRJF1yNBXlcJe',
   summary:   'fldWUeiTFvpA07z08',   // short course summary shown on the card
+  publicStatus: 'fldg3lF0dxXNp1mq3', // "Public Feed Status" formula field in Airtable — "Publishing" or a skip reason
+  memberStatus: 'fldL4UbccSJwlc7AR', // "Member Feed Status" formula field in Airtable — "Publishing" or a skip reason
 };
+
+// Turn a Program offer url into its /checkout variant. Used for every program
+// category — including Recommended — so there is exactly one checkout-link
+// field and exactly one place that builds the URL from it.
+const toCheckoutUrl = url => url.replace(/\/?$/, '').replace(/(\/offers\/[A-Za-z0-9]+)(\/checkout)?$/, '$1/checkout');
 
 const STATE = {
   'New South Wales, Australia':'NSW, Australia', 'Victoria, Australia':'VIC, Australia',
@@ -80,15 +87,14 @@ function transform(records, today) {
     const skip = why => skipped.push({ name, why });
 
     if (!name) continue;
-    if (category === 'Archive') { skip('archived'); continue; }
-    if (!/hertrails\.com\/offers\/[A-Za-z0-9]+/.test(url)) { skip('no customer checkout link'); continue; }
-    if (!race) { skip('no race date'); continue; }
-    if (race < today) { skip('race already run'); continue; }
+    // Eligibility (archived, checkout link, race date, start date/duration, price)
+    // is decided by the "Public Feed Status" formula field in Airtable, not here —
+    // see that field for the exact rule, kept in sync with README.md.
+    const publicStatus = f[F.publicStatus] || '';
+    if (publicStatus !== 'Publishing') { skip(publicStatus || 'not eligible'); continue; }
     if (!start && weeks) start = mondayStart(race, weeks);
-    if (!start) { skip('no program start and no duration to compute one'); continue; }
     const price = typeof f[F.price] === 'number' ? f[F.price] : null;
     const plan = (f[F.plan] || '').trim() || null;
-    if (price === null && !plan) { skip('no price'); continue; }
 
     const tier = sel(f[F.tier]);
     const tags = (f[F.tags] || []).map(sel).filter(Boolean);
@@ -102,7 +108,7 @@ function transform(records, today) {
       weeks, raceDate: race, startDate: start,
       status: start <= today ? 'in_progress' : 'upcoming',
       price, plan,
-      checkoutUrl: url.replace(/\/?$/, '').replace(/(\/offers\/[A-Za-z0-9]+)(\/checkout)?$/, '$1/checkout'),
+      checkoutUrl: toCheckoutUrl(url),
     });
   }
   rows.sort((a, b) => a.startDate.localeCompare(b.startDate) || a.raceDate.localeCompare(b.raceDate));
@@ -201,11 +207,10 @@ function transformMembers(records, today) {
     const summary = (f[F.summary] || '').trim();
     const skip = why => skipped.push({ name, why });
     if (!name) continue;
-    if (category === 'Archive') { skip('archived'); continue; }
-    if (category === 'All in Member Program') { skip('member-only variant or service, not a program card'); continue; }
-    if (!/hertrails\.com\/offers\/[A-Za-z0-9]+/.test(url)) { skip('no customer checkout link'); continue; }
-    if (race && race < today) { skip('race already run'); continue; }
-    if (!km && !weeks) { skip('no distance or duration'); continue; }
+    // Eligibility is decided by the "Member Feed Status" formula field in Airtable —
+    // see that field for the exact rule, kept in sync with README.md.
+    const memberStatus = f[F.memberStatus] || '';
+    if (memberStatus !== 'Publishing') { skip(memberStatus || 'not eligible'); continue; }
     let start = f[F.startDate] || null;
     if (!start && race && weeks) start = mondayStart(race, weeks);
 
@@ -234,7 +239,7 @@ function transformMembers(records, today) {
       elevGainDisplay: elevation ? `${elevation.toLocaleString('en-AU')}m` : '',
       dur: durationBand(weeks), elev: t.elevBucket, elevClass2: t.elevClass, techRating: t.techRating,
       tier: tier || null, tags, allin: true,
-      link: url.replace(/\/?$/, '').replace(/(\/offers\/[A-Za-z0-9]+)(\/checkout)?$/, '$1/checkout'),
+      link: toCheckoutUrl(url),
     });
   }
   // Soonest-starting programs first; programs with no fixed start (join-any-time) sort alphabetically at the end.
