@@ -3,5 +3,6 @@
 <h1 style="font-size:20px">Her Trails programs feed</h1>
 <p>This site publishes <a href="programs.json">programs.json</a>, generated from Airtable on a schedule. The Kajabi programs page reads it. Nothing here needs editing by hand.</p>
 <p>Programs left out of the feed, and why: <a href="skipped.json">skipped.json</a>.</p>
+<p>The Member Program Library finder reads <a href="members.json">members.json</a> (left out: <a href="members-skipped.json">members-skipped.json</a>).</p>
 <p id="s">Loading…</p>
 <script>fetch('programs.json').then(r=>r.json()).then(j=>{document.getElementById('s').textContent=j.count+' programs published, last refreshed '+new Date(j.generatedAt).toLocaleString()})</script>
