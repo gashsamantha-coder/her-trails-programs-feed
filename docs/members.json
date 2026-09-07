@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:53:17.432Z",
+  "generatedAt": "2026-09-07T23:28:04.867Z",
   "today": "2026-09-07",
   "count": 130,
   "programs": [
@@ -326,7 +326,7 @@
     },
     {
       "id": "recXqy6nb1Y671lpM",
-      "name": "Hounslow 17km - 12 weeks",
+      "name": "Hounslow 17km",
       "sub": "Blue Mountains · 12 weeks",
       "location": "Blue Mountains",
       "tagline": "A 12-week program built specifically for the Hounslow Classic 17km. With 900m of vertical in only 17km, an average gradient of 53m per kilometre and a sustained technical descent through the Grand Canyon, this is sky-running terrain. The program prepares you for what the course actually asks of you.\nStarting at Allview Escape, runners make their way across the stony clifftops to the Grand Canyon, descending into ancient canyon trails before returning to reset for Round 2: the famous out-and-back to the Pinnacles via Perrys Lookdown, the Blue Gum Forest, and Lockleys Pylon. Technical Blue Mountains terrain with major climbs.",
@@ -454,7 +454,7 @@
     },
     {
       "id": "recRtX5oA6iZj1eS4",
-      "name": "GPT 100 Mile Staged (20 Weeks)",
+      "name": "GPT 100 Mile Staged",
       "sub": "Grampians National Park, VIC · 20 weeks",
       "location": "Grampians National Park, VIC",
       "tagline": null,
@@ -488,7 +488,7 @@
     },
     {
       "id": "recTp9J2l55SFY6F7",
-      "name": "GPT 50km (49.5km) - 20 weeks",
+      "name": "GPT 50km (49.5km)",
       "sub": "Grampians National Park, VIC · 20 weeks",
       "location": "Grampians National Park, VIC",
       "tagline": null,
@@ -521,7 +521,7 @@
     },
     {
       "id": "recWYNEchJBPsqvnu",
-      "name": "GPT 100 Mile Solo (20 Weeks)",
+      "name": "GPT 100 Mile Solo",
       "sub": "Grampians National Park, VIC · 20 weeks",
       "location": "Grampians National Park, VIC",
       "tagline": null,
@@ -810,7 +810,7 @@
     },
     {
       "id": "recGtn10HTB4TiH41",
-      "name": "Grampians Peaks Trail: GPT 100/Relay (16 Weeks)",
+      "name": "Grampians Peaks Trail: GPT 100/Relay",
       "sub": "Grampians National Park, VIC · 16 weeks",
       "location": "Grampians National Park, VIC",
       "tagline": null,
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "rec5x40MLerA8xwzR",
-      "name": "Kunanyi Mountain Run: Ultra Solo 66km - 20 weeks",
+      "name": "Kunanyi Mountain Run: Ultra Solo 66km",
       "sub": "Hobart · 20 weeks",
       "location": "Hobart",
       "tagline": null,

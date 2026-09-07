@@ -1,209 +1,209 @@
 {
-  "generatedAt": "2026-09-07T22:53:17.432Z",
+  "generatedAt": "2026-09-07T23:28:04.867Z",
   "skipped": [
     {
       "name": "Yandina Five ’O’ - 21K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "The Guzzler Ultra 100",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "The Archie 50 (Mt Buller)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Maven Resources",
-      "why": "member-only variant or service, not a program card"
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Grampians Peaks Trail: 30km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Feral Pig Ultra 50",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
-      "name": "* All in Members* Half Trail Marathon: Foundations - 12 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* Half Trail Marathon: Foundations",
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Scenic Rim Ultra 25",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Alpine Challenge 100",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Coastal Classic: 30km",
-      "why": "race already run"
+      "why": "Race already run"
     },
     {
       "name": "Lithgow Ridgy-Didge 50",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Wilsons Prom 100km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Her Stride",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
-      "name": "* All in Members* Half Trail Marathon Progressions - 12 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* Half Trail Marathon Progressions",
+      "why": "Member-only variant, not a program card"
     },
     {
-      "name": "* All in Members* Ranges 50km Trail Ultra - 20 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* Ranges 50km Trail Ultra",
+      "why": "Member-only variant, not a program card"
     },
     {
-      "name": "* All in Members* 10km Trail Progressions - 8 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* 10km Trail Progressions",
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Macedon Trail Run 42.2km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Speight’s Taupo Marathon: 42.2K",
-      "why": "race already run"
+      "why": "Race already run"
     },
     {
-      "name": "* All in Members* 10km Trail Foundations - 8 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* 10km Trail Foundations",
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Macedon Trail Run 21.1km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
-      "name": "* All in Members* 5km Foundations - 6 weeks",
-      "why": "member-only variant or service, not a program card"
+      "name": "* All in Members* 5km Foundations",
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Scenic Rim Ultra 65",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Heysen Trail Ultra: 115km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Coastal High: 28K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Brisbane Trail Ultra 60 (BTU)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Wonderland Run 50",
-      "why": "race already run"
+      "why": "Race already run"
     },
     {
       "name": "Macedon Trail Run 30km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Kunanyi Mountain Run: Mountain Run 25K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "1:1 Coaching",
-      "why": "member-only variant or service, not a program card"
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Base Camp",
-      "why": "member-only variant or service, not a program card"
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "Recovery Module: Ultra Style",
-      "why": "member-only variant or service, not a program card"
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "100km Trail Ultra Program 2025",
-      "why": "archived"
+      "why": "Archived"
     },
     {
       "name": "Yandina Five ’O’ - 50K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Coastal High 50",
-      "why": "race already run"
+      "why": "Race already run"
     },
     {
       "name": "Her Trails Cycle Training",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Blackall100: 100K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Blackall50",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Larapinta Hike and Adventure Fit Program",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Her Life Hub",
-      "why": "member-only variant or service, not a program card"
+      "why": "Member-only variant, not a program card"
     },
     {
       "name": "HER Strength Orientation",
-      "why": "no distance or duration"
+      "why": "No distance or duration"
     },
     {
       "name": "Peri Framework Bundle",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Macedon Trail Run 10km",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Federation Ultra Trail 55K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
-      "name": "City2Surf Training Program (8 Weeks)",
-      "why": "no customer checkout link"
+      "name": "City2Surf Training Program",
+      "why": "No customer checkout link"
     },
     {
       "name": "Brisbane Trail Ultra 30 (BTU)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Federation Ultra Trail 26K",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Alpine Challenge 60",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Blackall 100",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     },
     {
       "name": "Run Larapinta Stage Race – Namatjira (Short Course)",
-      "why": "no customer checkout link"
+      "why": "No customer checkout link"
     }
   ]
 }
