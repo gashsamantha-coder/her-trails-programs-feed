@@ -1,0 +1,7 @@
+<!doctype html><meta charset="utf-8"><title>Her Trails programs feed</title>
+<body style="font:15px/1.5 -apple-system,Segoe UI,sans-serif;max-width:640px;margin:48px auto;padding:0 20px;color:#1d1d1d">
+<h1 style="font-size:20px">Her Trails programs feed</h1>
+<p>This site publishes <a href="programs.json">programs.json</a>, generated from Airtable on a schedule. The Kajabi programs page reads it. Nothing here needs editing by hand.</p>
+<p>Programs left out of the feed, and why: <a href="skipped.json">skipped.json</a>.</p>
+<p id="s">Loading…</p>
+<script>fetch('programs.json').then(r=>r.json()).then(j=>{document.getElementById('s').textContent=j.count+' programs published, last refreshed '+new Date(j.generatedAt).toLocaleString()})</script>
