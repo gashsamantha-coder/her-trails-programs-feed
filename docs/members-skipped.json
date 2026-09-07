@@ -2,12 +2,8 @@
   "generatedAt": "2026-09-07T12:02:13.133Z",
   "skipped": [
     {
-      "name": "Yandina Five ’O’ -  21K",
+      "name": "Yandina Five ’O’ - 21K",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "Her Shift",
-      "why": "no race date"
     },
     {
       "name": "The Guzzler Ultra 100",
@@ -19,23 +15,11 @@
     },
     {
       "name": "Maven Resources",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Grampians Peaks Trail: 30km",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "Run Narawntapu 50",
-      "why": "no race date"
-    },
-    {
-      "name": "42.2km Trail Marathon Program",
-      "why": "no race date"
-    },
-    {
-      "name": "42.2km Road Program",
-      "why": "no race date"
     },
     {
       "name": "Feral Pig Ultra 50",
@@ -43,19 +27,11 @@
     },
     {
       "name": "* All in Members* Half Trail Marathon: Foundations - 12 weeks",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Scenic Rim Ultra 25",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "50km Road (light urban trail)",
-      "why": "no race date"
-    },
-    {
-      "name": "50km Trail Ultra [Coast & Forest 1000m to 1500m)",
-      "why": "no race date"
     },
     {
       "name": "Alpine Challenge 100",
@@ -64,10 +40,6 @@
     {
       "name": "Coastal Classic: 30km",
       "why": "race already run"
-    },
-    {
-      "name": "Snowy Mountains UTRA50",
-      "why": "no race date"
     },
     {
       "name": "Lithgow Ridgy-Didge 50",
@@ -82,71 +54,27 @@
       "why": "no customer checkout link"
     },
     {
-      "name": "60-65km Trail Program",
-      "why": "no race date"
-    },
-    {
-      "name": "Half Trail Marathon Program - Intermediate",
-      "why": "no race date"
-    },
-    {
       "name": "* All in Members* Half Trail Marathon Progressions - 12 weeks",
-      "why": "no customer checkout link"
-    },
-    {
-      "name": "5km Foundations: For New Runners, Returners & Seekers of Balance",
-      "why": "no race date"
-    },
-    {
-      "name": "Her Training Cycles",
-      "why": "no race date"
-    },
-    {
-      "name": "Rotorua Trail Festival 21K",
-      "why": "no race date"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "* All in Members* Ranges 50km Trail Ultra - 20 weeks",
-      "why": "no race date"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "* All in Members* 10km Trail Progressions - 8 weeks",
-      "why": "no race date"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Macedon Trail Run 42.2km",
       "why": "no customer checkout link"
     },
     {
-      "name": "Wilsons Prom Festival 50",
-      "why": "no race date"
-    },
-    {
-      "name": "Woodlands Trail Run 50",
-      "why": "no race date"
-    },
-    {
       "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
       "why": "no customer checkout link"
     },
     {
-      "name": "Truth or Consequences 50",
-      "why": "no race date"
-    },
-    {
-      "name": "Glasshouse 100",
-      "why": "no race date"
-    },
-    {
-      "name": "Her Strength: Peri Power",
-      "why": "no race date"
-    },
-    {
-      "name": "10km Foundations\nNew or Returning to Run",
-      "why": "no race date"
-    },
-    {
-      "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+      "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
       "why": "no customer checkout link"
     },
     {
@@ -155,55 +83,31 @@
     },
     {
       "name": "* All in Members* 10km Trail Foundations - 8 weeks",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Macedon Trail Run 21.1km",
       "why": "no customer checkout link"
     },
     {
-      "name": "10km Progressions: Intermediate Trail Program",
-      "why": "no race date"
-    },
-    {
       "name": "* All in Members* 5km Foundations - 6 weeks",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Scenic Rim Ultra 65",
       "why": "no customer checkout link"
     },
     {
-      "name": "Ultra Adelaide 50",
-      "why": "no race date"
-    },
-    {
       "name": "Heysen Trail Ultra: 115km",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "Heroes & Villains 50",
-      "why": "no race date"
     },
     {
       "name": "Coastal High: 28K",
       "why": "no customer checkout link"
     },
     {
-      "name": "Rotorua Trail Festival 10K",
-      "why": "no race date"
-    },
-    {
-      "name": "100km Trail Ultra Program - Undulating",
-      "why": "no race date"
-    },
-    {
       "name": "Brisbane Trail Ultra 60 (BTU)",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "Walhalla Wound Up 50",
-      "why": "no race date"
     },
     {
       "name": "Wonderland Run 50",
@@ -218,32 +122,16 @@
       "why": "no customer checkout link"
     },
     {
-      "name": "Great Ocean Trail Ultra 45",
-      "why": "no race date"
-    },
-    {
-      "name": "Her Strength",
-      "why": "no race date"
-    },
-    {
-      "name": "Marysville Marathon 50",
-      "why": "no race date"
-    },
-    {
       "name": "1:1 Coaching",
-      "why": "no race date"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Base Camp",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "Recovery Module: Ultra Style",
-      "why": "no customer checkout link"
-    },
-    {
-      "name": "Rainbow Beach Trail 50",
-      "why": "no race date"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "100km Trail Ultra Program 2025",
@@ -258,10 +146,6 @@
       "why": "race already run"
     },
     {
-      "name": "50km Trail Ultra [Alpine & Technical - 2500m+]",
-      "why": "no race date"
-    },
-    {
       "name": "Her Trails Cycle Training",
       "why": "no customer checkout link"
     },
@@ -274,24 +158,16 @@
       "why": "no customer checkout link"
     },
     {
-      "name": "NYE Rock Around the Clock 50",
-      "why": "no race date"
-    },
-    {
-      "name": "Ikara Ultra 100K",
-      "why": "no price"
-    },
-    {
       "name": "Larapinta Hike and Adventure Fit Program",
       "why": "no customer checkout link"
     },
     {
       "name": "Her Life Hub",
-      "why": "no customer checkout link"
+      "why": "member-only variant or service, not a program card"
     },
     {
       "name": "HER Strength Orientation",
-      "why": "no race date"
+      "why": "no distance or duration"
     },
     {
       "name": "Peri Framework Bundle",
@@ -314,10 +190,6 @@
       "why": "no customer checkout link"
     },
     {
-      "name": "Half Trail Marathon Program - Foundations",
-      "why": "no race date"
-    },
-    {
       "name": "Federation Ultra Trail 26K",
       "why": "no customer checkout link"
     },
@@ -326,24 +198,12 @@
       "why": "no customer checkout link"
     },
     {
-      "name": "Yurrebilla 56K",
-      "why": "no race date"
-    },
-    {
       "name": "Blackall 100 – 100 km",
       "why": "no customer checkout link"
     },
     {
       "name": "Run Larapinta Stage Race – Namatjira (Short Course)",
       "why": "no customer checkout link"
-    },
-    {
-      "name": "50km Trail Ultra [Ranges - 1500 to 2500m]",
-      "why": "no race date"
-    },
-    {
-      "name": "Find Your Fast 10km",
-      "why": "no race date"
     }
   ]
 }
