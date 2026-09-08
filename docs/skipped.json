@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:31:30.690Z",
+  "generatedAt": "2026-09-08T11:14:42.128Z",
   "skipped": [
     {
       "name": "Yandina Five ’O’ -  21K",
@@ -38,10 +38,6 @@
       "why": "No race date"
     },
     {
-      "name": "Feral Pig Ultra 50",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "* All in Members* Half Trail Marathon: Foundations",
       "why": "No customer checkout link"
     },
@@ -68,14 +64,6 @@
     {
       "name": "Snowy Mountains UTRA50",
       "why": "No race date"
-    },
-    {
-      "name": "Lithgow Ridgy-Didge 50",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Wilsons Prom 100km",
-      "why": "No customer checkout link"
     },
     {
       "name": "Her Stride",
@@ -123,7 +111,7 @@
     },
     {
       "name": "Woodlands Trail Run 50",
-      "why": "No race date"
+      "why": "Race already run"
     },
     {
       "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
@@ -131,7 +119,7 @@
     },
     {
       "name": "Truth or Consequences 50",
-      "why": "No race date"
+      "why": "Race already run"
     },
     {
       "name": "Glasshouse 100",
@@ -175,15 +163,11 @@
     },
     {
       "name": "Ultra Adelaide 50",
-      "why": "No race date"
+      "why": "Race already run"
     },
     {
       "name": "Heysen Trail Ultra: 115km",
       "why": "No customer checkout link"
-    },
-    {
-      "name": "Heroes & Villains 50",
-      "why": "No race date"
     },
     {
       "name": "Coastal High: 28K",
@@ -218,15 +202,7 @@
       "why": "No customer checkout link"
     },
     {
-      "name": "Great Ocean Trail Ultra 45",
-      "why": "No race date"
-    },
-    {
       "name": "Her Strength",
-      "why": "No race date"
-    },
-    {
-      "name": "Marysville Marathon 50",
       "why": "No race date"
     },
     {
@@ -243,7 +219,7 @@
     },
     {
       "name": "Rainbow Beach Trail 50",
-      "why": "No race date"
+      "why": "Race already run"
     },
     {
       "name": "100km Trail Ultra Program 2025",
@@ -272,10 +248,6 @@
     {
       "name": "Blackall50",
       "why": "No customer checkout link"
-    },
-    {
-      "name": "NYE Rock Around the Clock 50",
-      "why": "No race date"
     },
     {
       "name": "Larapinta Hike and Adventure Fit Program",
@@ -319,11 +291,7 @@
     },
     {
       "name": "Alpine Challenge 60",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Yurrebilla 56K",
-      "why": "No race date"
+      "why": "No price"
     },
     {
       "name": "Blackall 100",

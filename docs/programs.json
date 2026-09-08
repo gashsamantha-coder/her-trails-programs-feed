@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-09-08T04:31:30.690Z",
+  "generatedAt": "2026-09-08T11:14:42.128Z",
   "today": "2026-09-08",
-  "count": 96,
+  "count": 104,
   "programs": [
+    {
+      "id": "recfj6avKfYlxbHsC",
+      "name": "Great Ocean Trail Ultra 45",
+      "category": "Recommended programs",
+      "location": "VIC, Australia",
+      "km": 45,
+      "elevation": 1700,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 45,
+      "raceDate": "2026-10-24",
+      "startDate": "2025-12-15",
+      "status": "in_progress",
+      "price": 450,
+      "plan": "195 x 3 = $585",
+      "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
+    },
     {
       "id": "recjMmDJcauBZjs7I",
       "name": "Sydney 50km Trail Ultra",
@@ -103,6 +123,26 @@
       "price": 440,
       "plan": "169 x 3 = $507",
       "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout"
+    },
+    {
+      "id": "recx0VNH1k8f3jKVS",
+      "name": "Yurrebilla 56K",
+      "category": "50km events - tier allocation",
+      "location": "SA, Australia",
+      "km": 56,
+      "elevation": 1865,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2026-09-27",
+      "startDate": "2026-05-11",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
     },
     {
       "id": "rec3p4n7vmexmnVbG",
@@ -367,6 +407,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
     },
     {
+      "id": "rec5lEmgC7GGRXVhd",
+      "name": "Feral Pig Ultra 50",
+      "category": "50km events - tier allocation",
+      "location": "WA, Australia",
+      "km": 53,
+      "elevation": 1290,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2026-11-07",
+      "startDate": "2026-06-22",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout"
+    },
+    {
       "id": "recQsvsiozSkTPH6y",
       "name": "Whaka Ultra 50K",
       "category": "50km events - tier allocation",
@@ -385,6 +445,26 @@
       "price": 440,
       "plan": "169 x 3 = $507",
       "checkoutUrl": "https://www.hertrails.com/offers/p22MW2J6/checkout"
+    },
+    {
+      "id": "rechLd64einS6Ua83",
+      "name": "Marysville Marathon 50",
+      "category": "50km events - tier allocation",
+      "location": "VIC, Australia",
+      "km": 50,
+      "elevation": 1700,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2026-11-08",
+      "startDate": "2026-06-22",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout"
     },
     {
       "id": "rec49EGB3QrKMPpob",
@@ -485,6 +565,26 @@
       "price": 499,
       "plan": "149 x 4 = $596",
       "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
+    },
+    {
+      "id": "recZ67WvNznFJo8G7",
+      "name": "Heroes & Villains 50",
+      "category": "50km events - tier allocation",
+      "location": "VIC, Australia",
+      "km": 50,
+      "elevation": null,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "weeks": 20,
+      "raceDate": "2026-11-28",
+      "startDate": "2026-07-13",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout"
     },
     {
       "id": "recCAIGvojWhxez0G",
@@ -670,6 +770,26 @@
       "price": 350,
       "plan": null,
       "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout"
+    },
+    {
+      "id": "recoJ7YuEQ4MNci4M",
+      "name": "NYE Rock Around the Clock 50",
+      "category": "50km events - tier allocation",
+      "location": "VIC, Australia",
+      "km": 50,
+      "elevation": null,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "weeks": 20,
+      "raceDate": "2026-12-31",
+      "startDate": "2026-08-17",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout"
     },
     {
       "id": "reco3HyosgpTLHMqJ",
@@ -1040,6 +1160,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
+      "id": "recCl6LbF5McWZg0d",
+      "name": "Lithgow Ridgy-Didge 50",
+      "category": "50km events - tier allocation",
+      "location": "NSW, Australia",
+      "km": 50,
+      "elevation": 2400,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-04-03",
+      "startDate": "2026-11-16",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
+    },
+    {
       "id": "recSip0esYN0NJyRM",
       "name": "Tarawera Ultra-Trail by UTMB: T21",
       "category": "Event Based Programs",
@@ -1241,6 +1381,27 @@
       "price": 450,
       "plan": null,
       "checkoutUrl": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
+    },
+    {
+      "id": "recDBkQEpxBQTJqAe",
+      "name": "Wilsons Prom 100km",
+      "category": "Recommended programs",
+      "location": "Wilsons Promontory",
+      "km": 100,
+      "elevation": 3500,
+      "tier": null,
+      "tags": [
+        "100km Trail Ultra ",
+        "Coastal"
+      ],
+      "tagline": "Official 100km race starting and finishing at the Australian Commando Memorial, Ring Rd, Tidal River VIC 3960. Start time 6:00am, approximately 3,500m ascent/descent and a 24-hour cut-off. No drop bags are available because of remote aid-station access.",
+      "weeks": 20,
+      "raceDate": "2027-05-01",
+      "startDate": "2026-12-14",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "149 x 4 = $596",
+      "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
     },
     {
       "id": "recE3agjLlCcBdDC9",
