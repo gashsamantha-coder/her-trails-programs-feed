@@ -1,28 +1,8 @@
 {
-  "generatedAt": "2026-09-08T11:14:42.128Z",
+  "generatedAt": "2026-09-08T16:36:06.628Z",
   "today": "2026-09-08",
-  "count": 104,
+  "count": 102,
   "programs": [
-    {
-      "id": "recfj6avKfYlxbHsC",
-      "name": "Great Ocean Trail Ultra 45",
-      "category": "Recommended programs",
-      "location": "VIC, Australia",
-      "km": 45,
-      "elevation": 1700,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 45,
-      "raceDate": "2026-10-24",
-      "startDate": "2025-12-15",
-      "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
-      "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
-    },
     {
       "id": "recjMmDJcauBZjs7I",
       "name": "Sydney 50km Trail Ultra",
@@ -39,8 +19,8 @@
       "raceDate": "2027-07-16",
       "startDate": "2026-03-08",
       "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
     },
     {
@@ -60,8 +40,8 @@
       "raceDate": "2026-09-12",
       "startDate": "2026-04-27",
       "status": "in_progress",
-      "price": 420,
-      "plan": "159 x 3 = $477",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout"
     },
     {
@@ -81,7 +61,7 @@
       "startDate": "2026-05-04",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/8V3PnAyU/checkout"
     },
     {
@@ -101,7 +81,7 @@
       "startDate": "2026-05-11",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/LnEKfdZg/checkout"
     },
     {
@@ -121,7 +101,7 @@
       "startDate": "2026-05-11",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout"
     },
     {
@@ -141,7 +121,7 @@
       "startDate": "2026-05-11",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
     },
     {
@@ -161,7 +141,7 @@
       "startDate": "2026-05-18",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/Uxzfrotv/checkout"
     },
     {
@@ -181,7 +161,7 @@
       "startDate": "2026-05-18",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
     {
@@ -201,14 +181,34 @@
       "startDate": "2026-05-25",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/jevwazob/checkout"
+    },
+    {
+      "id": "recfj6avKfYlxbHsC",
+      "name": "Great Ocean Trail Ultra 45",
+      "category": "Recommended programs",
+      "location": "VIC, Australia",
+      "km": 45,
+      "elevation": 1700,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2026-10-24",
+      "startDate": "2026-06-08",
+      "status": "in_progress",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
     },
     {
       "id": "recQruHUL1508NKHG",
       "name": "Heysen / Deep Creek 50",
       "category": "Event Based Programs",
-      "location": "SA, Australia",
+      "location": "Deep Creek, South Australia",
       "km": 50,
       "elevation": 1278,
       "tier": "T1 Coast & Forest",
@@ -220,8 +220,8 @@
       "raceDate": "2026-10-25",
       "startDate": "2026-06-08",
       "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
     },
     {
@@ -240,15 +240,15 @@
       "raceDate": "2026-10-17",
       "startDate": "2026-06-15",
       "status": "in_progress",
-      "price": 420,
-      "plan": "159 x 3 = $477",
+      "price": 460,
+      "plan": "180 x 3 = $540",
       "checkoutUrl": "https://www.hertrails.com/offers/D9FEuqZs/checkout"
     },
     {
       "id": "recXqy6nb1Y671lpM",
       "name": "Hounslow 17km",
       "category": "Event Based Programs",
-      "location": "Blue Mountains",
+      "location": "Blackheath, Blue Mountains, NSW",
       "km": 17,
       "elevation": 900,
       "tier": null,
@@ -261,8 +261,8 @@
       "raceDate": "2026-09-13",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 299,
-      "plan": null,
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout"
     },
     {
@@ -282,7 +282,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
     },
     {
@@ -302,35 +302,17 @@
       "raceDate": "2026-10-24",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 500,
-      "plan": "187 x 3 = $561",
+      "price": 460,
+      "plan": "180 x 3 = $540",
       "checkoutUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout"
-    },
-    {
-      "id": "recLQ6T3nnzB4Fs5z",
-      "name": "Grampians Peaks Trail Ultra: 50K",
-      "category": "Event Based Programs",
-      "location": "Mount Zero to Halls Gap, Grampians",
-      "km": 49.5,
-      "elevation": 2000,
-      "tier": "T3 Alpine & Technical",
-      "tags": [],
-      "tagline": "Starts at Mount Zero and follows the northern section of the Grampians Peaks Trail to Halls Gap. \n\nThe course opens with the iconic Flat Rock slab climb, passes beneath Taipan Wall, rolls through shorter technical climbs and descents to GAR Trailhead, then tackles a long exposed climb and technical descent around Mt Difficult before a faster but still demanding final section to Halls Gap.",
-      "weeks": 20,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
-      "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout"
     },
     {
       "id": "recRtX5oA6iZj1eS4",
       "name": "GPT 100 Mile Staged",
       "category": "Event Based Programs",
-      "location": "Grampians National Park, VIC",
+      "location": "Mount Zero to Dunkeld, Gariwerd/Grampians National Park, VIC",
       "km": 162,
-      "elevation": null,
+      "elevation": 7700,
       "tier": null,
       "tags": [
         "100mile Trail Ultra",
@@ -343,7 +325,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
     },
     {
@@ -352,7 +334,7 @@
       "category": "Event Based Programs",
       "location": "Grampians National Park, VIC",
       "km": 50,
-      "elevation": null,
+      "elevation": 2040,
       "tier": null,
       "tags": [
         "50km Trail Ultra",
@@ -363,17 +345,17 @@
       "raceDate": "2026-11-05",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout"
     },
     {
       "id": "recWYNEchJBPsqvnu",
       "name": "GPT 100 Mile Solo",
       "category": "Event Based Programs",
-      "location": "Grampians National Park, VIC",
+      "location": "Gariwerd/Grampians National Park, VIC",
       "km": 162,
-      "elevation": null,
+      "elevation": 7700,
       "tier": null,
       "tags": [
         "100mile Trail Ultra",
@@ -385,25 +367,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 499,
-      "plan": "149 x 4 = $596",
-      "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
-    },
-    {
-      "id": "rectobdgoHnsfW8Ef",
-      "name": "Grampians Peaks Trail Ultra: 100 Mile Solo",
-      "category": "Event Based Programs",
-      "location": "Grampians",
-      "km": 161,
-      "elevation": 7700,
-      "tier": null,
-      "tags": [],
-      "tagline": "Epic point-to-point traverse of the entire Grampians Peaks Trail. 173km from Mt Zero to Dunkeld through Gariwerd/Grampians National Park. Dramatic sandstone ridges, rocky peaks, dense bushland, and remote wilderness.",
-      "weeks": 20,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
     },
     {
@@ -423,7 +387,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout"
     },
     {
@@ -443,7 +407,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/p22MW2J6/checkout"
     },
     {
@@ -463,7 +427,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout"
     },
     {
@@ -482,8 +446,8 @@
       "raceDate": "2026-11-22",
       "startDate": "2026-07-06",
       "status": "in_progress",
-      "price": 500,
-      "plan": null,
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout"
     },
     {
@@ -498,12 +462,12 @@
         "21.1km Trail Half"
       ],
       "tagline": "Single 23km loop through the Dandenong Ranges National Park. Steep terrain with over 1,090m elevation gain through lush ferny forests. Start and finish at 1000 Steps, Dandenong Ranges.",
-      "weeks": 16,
+      "weeks": 14,
       "raceDate": "2026-10-17",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 400,
-      "plan": "150 x 3 =$450",
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/PVSmTNyD/checkout"
     },
     {
@@ -523,8 +487,8 @@
       "raceDate": "2026-10-31",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "price": 420,
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout"
     },
     {
@@ -544,8 +508,8 @@
       "raceDate": "2026-11-26",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 549,
+      "plan": "161 x 4 = $644",
       "checkoutUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout"
     },
     {
@@ -563,7 +527,7 @@
       "startDate": "2026-07-13",
       "status": "in_progress",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
     },
     {
@@ -583,38 +547,16 @@
       "startDate": "2026-07-13",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout"
     },
     {
-      "id": "recCAIGvojWhxez0G",
-      "name": "Grampians Peaks Trail: 100 Mile Team Relay [continuous] (4 person)",
-      "category": "Event Based Programs",
-      "location": "Grampians, Victoria ",
-      "km": 160,
-      "elevation": 7700,
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Relay event",
-        "Technical"
-      ],
-      "tagline": "Teams of four will tackle the 100 mile course running alongside the solo competitors.\n\nThe Legs of the team’s race will be the same as the stage race, where teams will relay at the three major aid stations in Halls Gap, Mt William Carpark and Griffin Fireline.\n\nTeams will have to play to each other’s strengths with some legs being longer or at night. Night runners will get to experience the beauty of the Grampians in the dark while being fresh, and able to absorb the nature and landscapes they run through.\n\nIf one or more runner cannot complete their leg, we will be flexible in letting the other runners share the load in completing the full course.\n\nTeams in the Miler Team Relay will be responsible for transporting their next runner to the changeover points. The first runner can get the shuttle to the start and the last runner can get the shuttle back to Halls Gap if required.\n\nIt is highly encouraged that teams book accomodation in Halls Gap from Thursday to Monday as this will be where the event village is and all the shuttles will leave from and return to the Event Village at Centenary Hall.\n\nThe first Leg to Halls Gap starts with the iconic climb up Flat Rock to reveal the entirety of the world famous Taipan Wall. After running under the rock wall the trail finds its groove as it toggles between a thin rocky uneven surface and a smooth dirt ribbon. There are numerous waterfalls through here, with continual 360 views of the entire Grampians grandeur, which is a common theme throughout the whole run.\n\nThe second Leg through to Duwul/Mt William has continual long climbs. It may be nightfall for the majority of the field heading up to the famous Pinnacles Lookout or Mount Rosea. This section is draining with foot placement and ankle stability being the key. Conserve energy when possible. Take time at Borough Huts to compose yourself and fuel and hydrate. The next 15km to Mt William are the crux of the race. There is much technical trail, especially up to, and across the Seven Dials and Redmans Bluff. However, the trail improves from here and the views from the top are spectacular as the trail adheres to a clifftop along to Mt William Aid Station. \n\nThe third Leg through to Griffin Fireline is a net downhill. Except for the speedy teams it will be into the daylight of Saturday for the bulk of the field to navigate this difficult stretch in the day. It starts with a very challenging 19k which crosses the Major Mitchell Plateau up to the high point of the race, Durd Durd at 1167m asl. A very long and initially steep descent brings you to Jimmy Creek where the runner will be rewarded for having done the hardest section of their race. Many short punchy climbs and flowy downs follow. There is a lot of newly built trail, and it is much appreciated. It will be hard to find rhythm through these shorter continual hills, with some rock hopping, choppy climbs mixed in with fast terrain.\n\nThe fourth Leg passes over some of the well-known peaks in the southern section of the range. This means lots of steep ascent, often on stairs to some striking summits including Mud-Dadjug/Mt Abrupt, and Wurgarri/Mt Sturgeon. Despite being a short Leg it has three big steep climbs with stairs. It is pound for pound the most scenic section of the route. Teams will have a sense of the journey’s end, which may bring joy but also sadness that the adventure must come to an end. Runners take an enjoyable river trail to the town centre, where the celebration awaits!\n\nin summary - \nUnlike solo runners, team relay success hinges entirely on your vehicle choreography and timing at the three designated aid stations GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER:Halls Gap (End of Leg 1 / Start of Leg 2): High energy, easy vehicle access, and the central basecamp of the event GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER.Mt William Carpark (End of Leg 2 / Start of Leg 3): High elevation and highly exposed. Your incoming runner will experience rapid temperature drops; the crew must have heavy insulation ready Grampians Peak Trail: Section C4 - Duwul (Mt William) to Durd Durd.Griffin Fireline (End of Leg 3 / Start of Leg 4): Remote, deeper into the southern section, requiring precise navigation across open pasture transitions [Grampians Peaks Trail: Section S2 - Wannon to Djardji-djawara].",
-      "weeks": 16,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-07-20",
-      "status": "in_progress",
-      "price": null,
-      "plan": "195 x 3 = $585",
-      "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
-    },
-    {
       "id": "recGtn10HTB4TiH41",
-      "name": "Grampians Peaks Trail: GPT 100/Relay",
+      "name": "GPT100 Stage Race Team Relay",
       "category": "Event Based Programs",
       "location": "Grampians National Park, VIC",
       "km": 162,
-      "elevation": null,
+      "elevation": 7700,
       "tier": null,
       "tags": [
         "100mile Trail Ultra",
@@ -626,29 +568,31 @@
       "raceDate": "2026-11-05",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": null,
-      "plan": "195 x 3 = $585",
-      "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
+      "price": 380,
+      "plan": "149 x 3 = $447",
+      "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout"
     },
     {
-      "id": "reckdxOfglAsGuYzt",
-      "name": "Grampians Peaks Trail 100 mile Team Relay [Staged] (3 person)",
+      "id": "recCAIGvojWhxez0G",
+      "name": "GPT100 Miler Team Relay - Continuous",
       "category": "Event Based Programs",
-      "location": "Grampians",
+      "location": "Grampians, Victoria ",
       "km": 162,
       "elevation": 7700,
       "tier": null,
       "tags": [
-        "Stage Race – Team Relay (3-person team)"
+        "100mile Trail Ultra",
+        "Relay event",
+        "Technical"
       ],
-      "tagline": "A 4-day stage race covering the full 162km Grampians Peaks Trail, from Mt Zero in the north to Dunkeld in the south. Teams of 3 each run one leg per day across the four stages. Stage 1 (Thu 6 Nov): Mt Zero to Halls Gap, 49.5km, 2000m+ - opens with the iconic Flat Rock climb and Taipan Wall, waterfalls and 360 views. Stage 2 (Fri 7 Nov): Halls Gap to Mt William Carpark, 37.5km, 2350m+ - hardest sustained climbing through Seven Dials and Redmans Bluff. Stage 3 (Sat 8 Nov): Mt William to Griffin Fireline, 42km, 1795m+, net downhill over Major Mitchell Plateau and Durd Durd high point (1167m). Stage 4 (Sun 9 Nov): Griffin Fireline to Dunkeld, 33km, 1555m+ - most scenic section over Signal Peak, Mt Abrupt and Mt Sturgeon to the Dunkeld finish.",
+      "tagline": "Teams of four will tackle the 100 mile course running alongside the solo competitors.\n\nThe Legs of the team’s race will be the same as the stage race, where teams will relay at the three major aid stations in Halls Gap, Mt William Carpark and Griffin Fireline.\n\nTeams will have to play to each other’s strengths with some legs being longer or at night. Night runners will get to experience the beauty of the Grampians in the dark while being fresh, and able to absorb the nature and landscapes they run through.\n\nIf one or more runner cannot complete their leg, we will be flexible in letting the other runners share the load in completing the full course.\n\nTeams in the Miler Team Relay will be responsible for transporting their next runner to the changeover points. The first runner can get the shuttle to the start and the last runner can get the shuttle back to Halls Gap if required.\n\nIt is highly encouraged that teams book accomodation in Halls Gap from Thursday to Monday as this will be where the event village is and all the shuttles will leave from and return to the Event Village at Centenary Hall.\n\nThe first Leg to Halls Gap starts with the iconic climb up Flat Rock to reveal the entirety of the world famous Taipan Wall. After running under the rock wall the trail finds its groove as it toggles between a thin rocky uneven surface and a smooth dirt ribbon. There are numerous waterfalls through here, with continual 360 views of the entire Grampians grandeur, which is a common theme throughout the whole run.\n\nThe second Leg through to Duwul/Mt William has continual long climbs. It may be nightfall for the majority of the field heading up to the famous Pinnacles Lookout or Mount Rosea. This section is draining with foot placement and ankle stability being the key. Conserve energy when possible. Take time at Borough Huts to compose yourself and fuel and hydrate. The next 15km to Mt William are the crux of the race. There is much technical trail, especially up to, and across the Seven Dials and Redmans Bluff. However, the trail improves from here and the views from the top are spectacular as the trail adheres to a clifftop along to Mt William Aid Station. \n\nThe third Leg through to Griffin Fireline is a net downhill. Except for the speedy teams it will be into the daylight of Saturday for the bulk of the field to navigate this difficult stretch in the day. It starts with a very challenging 19k which crosses the Major Mitchell Plateau up to the high point of the race, Durd Durd at 1167m asl. A very long and initially steep descent brings you to Jimmy Creek where the runner will be rewarded for having done the hardest section of their race. Many short punchy climbs and flowy downs follow. There is a lot of newly built trail, and it is much appreciated. It will be hard to find rhythm through these shorter continual hills, with some rock hopping, choppy climbs mixed in with fast terrain.\n\nThe fourth Leg passes over some of the well-known peaks in the southern section of the range. This means lots of steep ascent, often on stairs to some striking summits including Mud-Dadjug/Mt Abrupt, and Wurgarri/Mt Sturgeon. Despite being a short Leg it has three big steep climbs with stairs. It is pound for pound the most scenic section of the route. Teams will have a sense of the journey’s end, which may bring joy but also sadness that the adventure must come to an end. Runners take an enjoyable river trail to the town centre, where the celebration awaits!\n\nin summary - \nUnlike solo runners, team relay success hinges entirely on your vehicle choreography and timing at the three designated aid stations GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER:Halls Gap (End of Leg 1 / Start of Leg 2): High energy, easy vehicle access, and the central basecamp of the event GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER.Mt William Carpark (End of Leg 2 / Start of Leg 3): High elevation and highly exposed. Your incoming runner will experience rapid temperature drops; the crew must have heavy insulation ready Grampians Peak Trail: Section C4 - Duwul (Mt William) to Durd Durd.Griffin Fireline (End of Leg 3 / Start of Leg 4): Remote, deeper into the southern section, requiring precise navigation across open pasture transitions [Grampians Peaks Trail: Section S2 - Wannon to Djardji-djawara].",
       "weeks": 16,
-      "raceDate": "2026-11-05",
+      "raceDate": "2026-11-06",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 499,
-      "plan": "195 x 3",
-      "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout"
+      "price": 380,
+      "plan": "149 x 3 = $447",
+      "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
     },
     {
       "id": "rec1RPISGtMGlVX5L",
@@ -656,7 +600,7 @@
       "category": "Event Based Programs",
       "location": "Te Anau, Fiordland, Southland",
       "km": 60,
-      "elevation": null,
+      "elevation": 1350,
       "tier": null,
       "tags": [
         "60km Trail Ultra"
@@ -666,8 +610,8 @@
       "raceDate": "2026-12-05",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 500,
-      "plan": "169 x 3 = $507",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/bU4dTsyF/checkout"
     },
     {
@@ -686,8 +630,8 @@
       "raceDate": "2026-12-06",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/3iTvmUoL/checkout"
     },
     {
@@ -706,8 +650,8 @@
       "raceDate": "2026-10-17",
       "startDate": "2026-07-27",
       "status": "in_progress",
-      "price": 299,
-      "plan": "110 x 3",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/Hyt9pBcU/checkout"
     },
     {
@@ -727,7 +671,7 @@
       "startDate": "2026-07-27",
       "status": "in_progress",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
     },
     {
@@ -747,8 +691,8 @@
       "raceDate": "2026-10-24",
       "startDate": "2026-08-03",
       "status": "in_progress",
-      "price": 300,
-      "plan": null,
+      "price": 299,
+      "plan": "117 x 3 = $351",
       "checkoutUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout"
     },
     {
@@ -767,8 +711,8 @@
       "raceDate": "2026-11-22",
       "startDate": "2026-08-17",
       "status": "in_progress",
-      "price": 350,
-      "plan": null,
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout"
     },
     {
@@ -788,14 +732,14 @@
       "startDate": "2026-08-17",
       "status": "in_progress",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout"
     },
     {
       "id": "reco3HyosgpTLHMqJ",
-      "name": "UTMB Kosci 30km",
+      "name": "Kosci30",
       "category": "Event Based Programs",
-      "location": "Snowy Mountains",
+      "location": "Perisher to Thredbo, Snowy Mountains, NSW",
       "km": 32,
       "elevation": 670,
       "tier": null,
@@ -808,8 +752,8 @@
       "raceDate": "2026-11-26",
       "startDate": "2026-08-24",
       "status": "in_progress",
-      "price": 350,
-      "plan": "131 x 3 = $393",
+      "price": 420,
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout"
     },
     {
@@ -829,7 +773,7 @@
       "startDate": "2026-09-28",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/8ruFKwzz/checkout"
     },
     {
@@ -848,8 +792,8 @@
       "raceDate": "2027-02-13",
       "startDate": "2026-09-28",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/Y6Uwkd76/checkout"
     },
     {
@@ -869,7 +813,7 @@
       "startDate": "2026-09-28",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout"
     },
     {
@@ -889,7 +833,7 @@
       "startDate": "2026-10-05",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout"
     },
     {
@@ -908,8 +852,8 @@
       "raceDate": "2027-02-20",
       "startDate": "2026-10-05",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/M7nSbzfF/checkout"
     },
     {
@@ -929,8 +873,8 @@
       "raceDate": "2027-01-17",
       "startDate": "2026-10-12",
       "status": "upcoming",
-      "price": 390,
-      "plan": "150 x 3 = 450",
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/FurRFHQ4/checkout"
     },
     {
@@ -950,7 +894,7 @@
       "startDate": "2026-10-12",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/vuJNPWFn/checkout"
     },
     {
@@ -970,7 +914,7 @@
       "startDate": "2026-10-19",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/hLZVLho3/checkout"
     },
     {
@@ -990,8 +934,8 @@
       "raceDate": "2027-01-17",
       "startDate": "2026-10-26",
       "status": "upcoming",
-      "price": 399,
-      "plan": "149 x 3 = $447",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/rodo5tLj/checkout"
     },
     {
@@ -1012,7 +956,7 @@
       "startDate": "2026-10-26",
       "status": "upcoming",
       "price": 420,
-      "plan": "150 x 3",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/LGNSkDAB/checkout"
     },
     {
@@ -1032,7 +976,7 @@
       "startDate": "2026-10-26",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/7tsHmwfJ/checkout"
     },
     {
@@ -1053,16 +997,16 @@
       "startDate": "2026-11-02",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/o4c2o8CL/checkout"
     },
     {
       "id": "rec5x40MLerA8xwzR",
       "name": "Kunanyi Mountain Run: Ultra Solo 66km",
       "category": "Event Based Programs",
-      "location": "Hobart",
+      "location": "nipaluna/Hobart and kunanyi/Mount Wellington, TAS",
       "km": 66,
-      "elevation": 3700,
+      "elevation": 3900,
       "tier": null,
       "tags": [
         "60km Trail Ultra",
@@ -1074,8 +1018,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 495,
-      "plan": null,
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout"
     },
     {
@@ -1095,7 +1039,7 @@
       "startDate": "2026-11-02",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/xkjUA9MG/checkout"
     },
     {
@@ -1115,7 +1059,7 @@
       "startDate": "2026-11-02",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/3tqirzMU/checkout"
     },
     {
@@ -1135,8 +1079,8 @@
       "raceDate": "2027-03-21",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 420,
-      "plan": "159 x 3 = $477",
+      "price": 470,
+      "plan": "138 x 4 = $552",
       "checkoutUrl": "https://www.hertrails.com/offers/FAq7LrTt/checkout"
     },
     {
@@ -1155,8 +1099,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-16",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 460,
+      "plan": "180 x 3 = $540",
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
@@ -1176,8 +1120,29 @@
       "startDate": "2026-11-16",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
+    },
+    {
+      "id": "recwNrAG5HkmrXcnf",
+      "name": "Alpine Challenge 60",
+      "category": "Recommended programs",
+      "location": "Bright",
+      "km": 61,
+      "elevation": 1980,
+      "tier": null,
+      "tags": [
+        "60km Trail Ultra",
+        "Mountain"
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-04-03",
+      "startDate": "2026-11-16",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout"
     },
     {
       "id": "recSip0esYN0NJyRM",
@@ -1193,8 +1158,8 @@
       "raceDate": "2027-02-13",
       "startDate": "2026-11-23",
       "status": "upcoming",
-      "price": 300,
-      "plan": "115 x 3",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/PyRFfEpr/checkout"
     },
     {
@@ -1213,8 +1178,8 @@
       "raceDate": "2027-04-11",
       "startDate": "2026-11-23",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/Wo7xRLAL/checkout"
     },
     {
@@ -1235,7 +1200,7 @@
       "startDate": "2026-11-30",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout"
     },
     {
@@ -1255,8 +1220,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-30",
       "status": "upcoming",
-      "price": 400,
-      "plan": "149.50 x 3 = 448.50",
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/jiB26aYn/checkout"
     },
     {
@@ -1276,8 +1241,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-30",
       "status": "upcoming",
-      "price": 349,
-      "plan": "129 x 3",
+      "price": 380,
+      "plan": "149 x 3 = $447",
       "checkoutUrl": "https://www.hertrails.com/offers/UXgEzJoa/checkout"
     },
     {
@@ -1297,7 +1262,7 @@
       "startDate": "2026-11-30",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout"
     },
     {
@@ -1317,17 +1282,17 @@
       "raceDate": "2027-04-30",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "price": 549,
+      "plan": "161 x 4 = $644",
       "checkoutUrl": "https://www.hertrails.com/offers/CoESymVJ/checkout"
     },
     {
       "id": "recRXLlBm0McUWyFH",
       "name": "Ikara Ultra 100 Mile",
       "category": "Event Based Programs",
-      "location": "Mt Little Station to Wilpena Pound, Flinders Ranges, South Australia",
-      "km": 161,
-      "elevation": null,
+      "location": "Mount Little Station to Wilpena Pound, Ikara-Flinders Ranges, SA",
+      "km": 170,
+      "elevation": 5684,
       "tier": null,
       "tags": [
         "100mile Trail Ultra"
@@ -1338,7 +1303,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/GUwyd8NX/checkout"
     },
     {
@@ -1358,16 +1323,16 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/kquTVB4D/checkout"
     },
     {
       "id": "recBDfnCHgMLbUsys",
       "name": "Ikara Ultra 50 Mile",
       "category": "Event Based Programs",
-      "location": "Parachilna Gorge (Heysen Trail Head) to Wilpena Pound, Flinders Ranges, South Australia",
+      "location": "Parachilna Trailhead to Wilpena Pound, Ikara-Flinders Ranges, SA",
       "km": 80.5,
-      "elevation": null,
+      "elevation": 2903,
       "tier": null,
       "tags": [
         "80km Trail Ultra",
@@ -1378,8 +1343,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 450,
-      "plan": null,
+      "price": 549,
+      "plan": "161 x 4 = $644",
       "checkoutUrl": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
     },
     {
@@ -1400,7 +1365,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
     },
     {
@@ -1419,8 +1384,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout"
     },
     {
@@ -1440,7 +1405,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout"
     },
     {
@@ -1459,8 +1424,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 300,
-      "plan": "112 x 3",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/mZi6BuoY/checkout"
     },
     {
@@ -1479,8 +1444,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 300,
-      "plan": null,
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
     },
     {
@@ -1501,8 +1466,8 @@
       "raceDate": "2027-05-15",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "price": 549,
+      "plan": "161 x 4 = $644",
       "checkoutUrl": "https://www.hertrails.com/offers/aLFUiqEz/checkout"
     },
     {
@@ -1522,8 +1487,8 @@
       "raceDate": "2027-05-15",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 549,
+      "plan": "161 x 4 = $644",
       "checkoutUrl": "https://www.hertrails.com/offers/vnpzvHhr/checkout"
     },
     {
@@ -1544,8 +1509,8 @@
       "raceDate": "2027-05-16",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 550,
-      "plan": "150 x 4 = $640",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout"
     },
     {
@@ -1565,7 +1530,7 @@
       "startDate": "2026-12-28",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/ndzzPsqG/checkout"
     },
     {
@@ -1585,8 +1550,8 @@
       "raceDate": "2027-05-14",
       "startDate": "2027-01-25",
       "status": "upcoming",
-      "price": 450,
-      "plan": "169 x 3 = $507 or $450 upfront",
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/rEke2LPA/checkout"
     },
     {
@@ -1606,7 +1571,7 @@
       "startDate": "2027-01-25",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1626,7 +1591,7 @@
       "startDate": "2027-01-25",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/yengwzXc/checkout"
     },
     {
@@ -1646,8 +1611,8 @@
       "raceDate": "2027-05-13",
       "startDate": "2027-02-08",
       "status": "upcoming",
-      "price": 350,
-      "plan": "130 x 3 = $390 or $350 upfront",
+      "price": 370,
+      "plan": "145 x 3 = $435",
       "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
     {
@@ -1665,7 +1630,7 @@
       "startDate": "2027-02-08",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/2mGUC7Yr/checkout"
     },
     {
@@ -1685,7 +1650,7 @@
       "startDate": "2027-02-08",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/gt2HJv6i/checkout"
     },
     {
@@ -1705,7 +1670,7 @@
       "startDate": "2027-02-15",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1725,7 +1690,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/ruTfs5pd/checkout"
     },
     {
@@ -1744,8 +1709,8 @@
       "raceDate": "2027-07-17",
       "startDate": "2027-03-01",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/nQr3XFcN/checkout"
     },
     {
@@ -1765,7 +1730,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/e5jTTP52/checkout"
     },
     {
@@ -1785,7 +1750,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/ZU23fHwo/checkout"
     },
     {
@@ -1805,7 +1770,7 @@
       "startDate": "2027-03-08",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1825,7 +1790,7 @@
       "startDate": "2027-03-15",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
     },
     {
@@ -1845,7 +1810,7 @@
       "startDate": "2027-03-22",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1865,7 +1830,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/mL9WuEGz/checkout"
     },
     {
@@ -1885,7 +1850,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1905,7 +1870,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1925,7 +1890,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -1940,12 +1905,12 @@
         "Trail Short (<20km)"
       ],
       "tagline": "10km Geothermal Traverse. Starts at the steaming pools of Whakarewarewa Living Maori Village, heads through Manuka-lined trails into the towering Redwoods. Unique blend of geothermal and forest landscapes.",
-      "weeks": 14,
+      "weeks": 8,
       "raceDate": "2027-07-31",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 200,
-      "plan": "130 x 3 = $390",
+      "price": 249,
+      "plan": "146 x 2 = $292",
       "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
     {
@@ -1964,8 +1929,8 @@
       "raceDate": "2027-09-11",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": null,
-      "plan": "140 x 4 = $560",
+      "price": 440,
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout"
     },
     {
@@ -1985,8 +1950,8 @@
       "raceDate": "2027-09-11",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 450,
-      "plan": "195 x 3 = $585",
+      "price": 499,
+      "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout"
     },
     {
@@ -2006,7 +1971,7 @@
       "startDate": "2027-05-03",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout"
     },
     {
@@ -2025,8 +1990,8 @@
       "raceDate": "2027-07-31",
       "startDate": "2027-05-10",
       "status": "upcoming",
-      "price": 300,
-      "plan": "112 x 3 = $336",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
@@ -2045,8 +2010,8 @@
       "raceDate": "2027-07-31",
       "startDate": "2027-05-10",
       "status": "upcoming",
-      "price": null,
-      "plan": "100 x 3 = $300",
+      "price": 335,
+      "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/FQMZCEKy/checkout"
     },
     {
@@ -2066,7 +2031,7 @@
       "startDate": "2027-05-17",
       "status": "upcoming",
       "price": 440,
-      "plan": "169 x 3 = $507",
+      "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
     {
@@ -2086,8 +2051,8 @@
       "raceDate": "2027-09-11",
       "startDate": "2027-06-21",
       "status": "upcoming",
-      "price": 300,
-      "plan": "160 x 2",
+      "price": 299,
+      "plan": "117 x 3 = $351",
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
     },
     {
@@ -2107,7 +2072,7 @@
       "startDate": "2027-08-29",
       "status": "upcoming",
       "price": 420,
-      "plan": "159 x 3 = $477",
+      "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
     }
   ]
