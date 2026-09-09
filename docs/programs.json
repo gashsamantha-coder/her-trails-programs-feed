@@ -1,28 +1,8 @@
 {
-  "generatedAt": "2026-09-09T11:19:10.604Z",
+  "generatedAt": "2026-09-09T16:36:07.853Z",
   "today": "2026-09-09",
   "count": 119,
   "programs": [
-    {
-      "id": "recjMmDJcauBZjs7I",
-      "name": "Sydney 50km Trail Ultra",
-      "category": "Event Based Programs",
-      "location": "St Ives, Sydney, NSW (Ku-ring-gai Chase National Park)",
-      "km": 50,
-      "elevation": 1575,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Starts at St Ives Showground, through Wildflower Gardens on technical sandstone singletrack, via North Turramurra Trails, into Ku-ring-gai Chase National Park via Murrua Track, Bobbin Head Fire Trail with marina views, Warimoo Track along Cowan Creek, returns to St Ives Showground (51km loop).",
-      "weeks": 20,
-      "raceDate": "2027-07-16",
-      "startDate": "2026-03-08",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
-    },
     {
       "id": "recj60iklTvAEXMRs",
       "name": "Hounslow Classic: Marathon 43km",
@@ -225,26 +205,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
     },
     {
-      "id": "recfj6avKfYlxbHsC",
-      "name": "Great Ocean Trail Ultra 45",
-      "category": "Recommended programs",
-      "location": "VIC, Australia",
-      "km": 45,
-      "elevation": 1700,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-10-24",
-      "startDate": "2026-06-08",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
-    },
-    {
       "id": "recQruHUL1508NKHG",
       "name": "Heysen / Deep Creek 50",
       "category": "Event Based Programs",
@@ -304,26 +264,6 @@
       "price": 335,
       "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout"
-    },
-    {
-      "id": "recj0NjScucXoWJmt",
-      "name": "Nike Melbourne Marathon Festival: Marathon 42.2K",
-      "category": "Road Marathon",
-      "location": "Melbourne",
-      "km": 42.2,
-      "elevation": 150,
-      "tier": null,
-      "tags": [
-        "Road Marathon"
-      ],
-      "tagline": "Starts on Batman Avenue, passes Flinders Street Station, Royal Botanic Gardens, Albert Park Lake and St Kilda foreshore. 2026 course redesigned to be faster with reduced elevation and fewer turns. Finishes with a lap inside the MCG. Flat, fast road course.",
-      "weeks": 16,
-      "raceDate": "2026-10-11",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 420,
-      "plan": "165 x 3 = $495",
-      "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
     },
     {
       "id": "recZeK2gNCY7yA0Pa",
@@ -409,26 +349,6 @@
       "price": 499,
       "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
-    },
-    {
-      "id": "rec5lEmgC7GGRXVhd",
-      "name": "Feral Pig Ultra 50",
-      "category": "50km events - tier allocation",
-      "location": "WA, Australia",
-      "km": 53,
-      "elevation": 1290,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-11-07",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout"
     },
     {
       "id": "recQsvsiozSkTPH6y",
@@ -1581,6 +1501,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/aLFUiqEz/checkout"
     },
     {
+      "id": "recfj6avKfYlxbHsC",
+      "name": "Great Ocean Trail Ultra 45",
+      "category": "Recommended programs",
+      "location": "VIC, Australia",
+      "km": 45,
+      "elevation": 1700,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-05-15",
+      "startDate": "2026-12-28",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
+    },
+    {
       "id": "reczy0iBoo7J2B7sW",
       "name": "Ultra-Trail Australia: UTA50",
       "category": "Event Based Programs",
@@ -1683,6 +1623,26 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "rec5lEmgC7GGRXVhd",
+      "name": "Feral Pig Ultra 50",
+      "category": "50km events - tier allocation",
+      "location": "WA, Australia",
+      "km": 53,
+      "elevation": 1290,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-06-12",
+      "startDate": "2027-01-25",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout"
     },
     {
       "id": "recliULW117vx4ztQ",
@@ -1828,6 +1788,26 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "recjMmDJcauBZjs7I",
+      "name": "Sydney 50km Trail Ultra",
+      "category": "Event Based Programs",
+      "location": "St Ives, Sydney, NSW (Ku-ring-gai Chase National Park)",
+      "km": 50,
+      "elevation": 1575,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Starts at St Ives Showground, through Wildflower Gardens on technical sandstone singletrack, via North Turramurra Trails, into Ku-ring-gai Chase National Park via Murrua Track, Bobbin Head Fire Trail with marina views, Warimoo Track along Cowan Creek, returns to St Ives Showground (51km loop).",
+      "weeks": 20,
+      "raceDate": "2027-07-16",
+      "startDate": "2027-03-01",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
     },
     {
       "id": "rec2MyylkR8uhCFc2",
@@ -2151,26 +2131,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/cTgSAoLD/checkout"
     },
     {
-      "id": "recXZmpjhXXQV74xZ",
-      "name": "Run the Forest (Rotorua): 10K",
-      "category": "Event Based Programs",
-      "location": "Rotorua, Bay of Plenty, New Zealand",
-      "km": 10.7,
-      "elevation": 93,
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)"
-      ],
-      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
-      "weeks": 8,
-      "raceDate": "2027-07-31",
-      "startDate": "2027-04-26",
-      "status": "upcoming",
-      "price": 249,
-      "plan": "146 x 2 = $292",
-      "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
-    },
-    {
       "id": "recyG9rjAD2sowHv8",
       "name": "Run Larapinta Stage Race – Namatjira (Short Course)",
       "category": "Recommended programs",
@@ -2295,6 +2255,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/FQMZCEKy/checkout"
     },
     {
+      "id": "recBSTwQyahguvp2Z",
+      "name": "Sydney Marathon: 42.2K",
+      "category": "Road Marathon",
+      "location": "Sydney",
+      "km": 42.2,
+      "elevation": 313,
+      "tier": null,
+      "tags": [
+        "Road Marathon"
+      ],
+      "tagline": "Starts at Miller Street, North Sydney. Crosses the Sydney Harbour Bridge, runs through the CBD and inner suburbs, past Centennial Park, before finishing at the Sydney Opera House forecourt. Flat, fast course with harbour and city views.",
+      "weeks": 16,
+      "raceDate": "2027-08-29",
+      "startDate": "2027-05-10",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
+    },
+    {
       "id": "recPusPgPsm7iUmxG",
       "name": "Macedon 50km",
       "category": "50km events - tier allocation",
@@ -2313,6 +2293,26 @@
       "price": 440,
       "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
+    },
+    {
+      "id": "recXZmpjhXXQV74xZ",
+      "name": "Run the Forest (Rotorua): 10K",
+      "category": "Event Based Programs",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "km": 10.7,
+      "elevation": 93,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)"
+      ],
+      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
+      "weeks": 8,
+      "raceDate": "2027-07-31",
+      "startDate": "2027-06-07",
+      "status": "upcoming",
+      "price": 249,
+      "plan": "146 x 2 = $292",
+      "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
     {
       "id": "recP1HD9gyluRt3ox",
@@ -2377,6 +2377,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
     },
     {
+      "id": "recj0NjScucXoWJmt",
+      "name": "Nike Melbourne Marathon Festival: Marathon 42.2K",
+      "category": "Road Marathon",
+      "location": "Melbourne",
+      "km": 42.2,
+      "elevation": 150,
+      "tier": null,
+      "tags": [
+        "Road Marathon"
+      ],
+      "tagline": "Starts on Batman Avenue, passes Flinders Street Station, Royal Botanic Gardens, Albert Park Lake and St Kilda foreshore. 2026 course redesigned to be faster with reduced elevation and fewer turns. Finishes with a lap inside the MCG. Flat, fast road course.",
+      "weeks": 16,
+      "raceDate": "2027-10-10",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
+    },
+    {
       "id": "recVOqL0gEIKTA4TP",
       "name": "Macedon Trail Run 21.1km",
       "category": "Event Based Programs",
@@ -2415,26 +2435,6 @@
       "price": 249,
       "plan": "146 x 2 = $292",
       "checkoutUrl": "https://www.hertrails.com/offers/Htai82FB/checkout"
-    },
-    {
-      "id": "recBSTwQyahguvp2Z",
-      "name": "Sydney Marathon: 42.2K",
-      "category": "Road Marathon",
-      "location": "Sydney",
-      "km": 42.2,
-      "elevation": 313,
-      "tier": null,
-      "tags": [
-        "Road Marathon"
-      ],
-      "tagline": "Starts at Miller Street, North Sydney. Crosses the Sydney Harbour Bridge, runs through the CBD and inner suburbs, past Centennial Park, before finishing at the Sydney Opera House forecourt. Flat, fast course with harbour and city views.",
-      "weeks": 16,
-      "raceDate": "2027-05-10",
-      "startDate": "2027-08-29",
-      "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
-      "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
     }
   ]
 }
