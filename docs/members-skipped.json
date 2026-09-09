@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:38:16.402Z",
+  "generatedAt": "2026-09-09T11:19:10.604Z",
   "skipped": [
     {
       "name": "The Archie 50 (Mt Buller)",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Scenic Rim Ultra 25",
-      "why": "No customer checkout link"
+      "why": "Race already run"
     },
     {
       "name": "Coastal Classic: 30km",
@@ -46,16 +46,8 @@
       "why": "Race already run"
     },
     {
-      "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Truth or Consequences 50",
       "why": "Race already run"
-    },
-    {
-      "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
-      "why": "No customer checkout link"
     },
     {
       "name": "Speight’s Taupo Marathon: 42.2K",
@@ -79,19 +71,11 @@
     },
     {
       "name": "Coastal High: 28K",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Brisbane Trail Ultra 60 (BTU)",
-      "why": "No customer checkout link"
+      "why": "Race already run"
     },
     {
       "name": "Wonderland Run 50",
       "why": "Race already run"
-    },
-    {
-      "name": "Macedon Trail Run 30km",
-      "why": "No customer checkout link"
     },
     {
       "name": "1:1 Coaching Session",
@@ -147,18 +131,6 @@
     },
     {
       "name": "City2Surf Training Program",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Brisbane Trail Ultra 30 (BTU)",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Federation Ultra Trail 26K",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Run Larapinta Stage Race – Namatjira (Short Course)",
       "why": "No customer checkout link"
     }
   ]

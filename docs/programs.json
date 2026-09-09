@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T04:38:16.402Z",
+  "generatedAt": "2026-09-09T11:19:10.604Z",
   "today": "2026-09-09",
-  "count": 112,
+  "count": 119,
   "programs": [
     {
       "id": "recjMmDJcauBZjs7I",
@@ -1063,8 +1063,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 495,
+      "plan": "189 x 3 = $567",
       "checkoutUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout"
     },
     {
@@ -1268,8 +1268,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-30",
       "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 480,
+      "plan": "160 x 3 = $480",
       "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout"
     },
     {
@@ -1439,7 +1439,7 @@
     {
       "id": "recDBkQEpxBQTJqAe",
       "name": "Wilsons Prom 100km",
-      "category": "Recommended programs",
+      "category": "Event Based Programs",
       "location": "Wilsons Promontory",
       "km": 100,
       "elevation": 3500,
@@ -1536,6 +1536,27 @@
       "price": 335,
       "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
+    },
+    {
+      "id": "recUXwvjSVvZCgxFM",
+      "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+      "category": "Event Based Programs",
+      "location": "Hobart, Tasmania",
+      "km": 16.5,
+      "elevation": 945,
+      "tier": null,
+      "tags": [
+        "Adapted Program",
+        "Relay event"
+      ],
+      "tagline": "Teams of up to 6 runners divide the full 66km ultra course across kunanyi/Mt Wellington into legs of roughly 7-12km each, traversing technical alpine terrain with views across nipaluna/Hobart.",
+      "weeks": 12,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-12-28",
+      "status": "upcoming",
+      "price": 299,
+      "plan": "117 x 3 = $351",
+      "checkoutUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout"
     },
     {
       "id": "recOy5jxRaSuSuhlT",
@@ -1767,6 +1788,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/gt2HJv6i/checkout"
     },
     {
+      "id": "recb84phlxq0HBddH",
+      "name": "Brisbane Trail Ultra 60 (BTU)",
+      "category": "Recommended programs",
+      "location": "Brisbane, Queensland (D'Aguilar National Park and Brisbane Hinterland, finishing at Kangaroo Point Cliffs)",
+      "km": 60,
+      "elevation": 2200,
+      "tier": null,
+      "tags": [
+        "60km Trail Ultra",
+        "Mountain",
+        "Technical"
+      ],
+      "tagline": "The BTU60 course traverses D'Aguilar National Park rainforest and eucalypt woodland trails, connects through Brisbane's western suburbs via challenging single track with views of the Brisbane skyline, and finishes at Kangaroo Point Cliffs along the Brisbane River.",
+      "weeks": 20,
+      "raceDate": "2027-06-26",
+      "startDate": "2027-02-08",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/wmcJLUHH/checkout"
+    },
+    {
       "id": "recT0O307B8GQdvfy",
       "name": "Brisbane Marathon Festival: Marathon 42.2K",
       "category": "Road Marathon",
@@ -1947,6 +1990,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/CHtc3AGp/checkout"
     },
     {
+      "id": "recvB7k3WGhBzN1b6",
+      "name": "Brisbane Trail Ultra 30 (BTU)",
+      "category": "Event Based Programs",
+      "location": "D'Aguilar National Park / Mt Coot-tha area, Brisbane, Queensland",
+      "km": 30.6,
+      "elevation": 900,
+      "tier": null,
+      "tags": [
+        "30km - 40km Trail Mid "
+      ],
+      "tagline": null,
+      "weeks": 14,
+      "raceDate": "2027-06-26",
+      "startDate": "2027-03-22",
+      "status": "upcoming",
+      "price": 370,
+      "plan": "145 x 3 = $435",
+      "checkoutUrl": "https://www.hertrails.com/offers/Rbri99Kd/checkout"
+    },
+    {
       "id": "recLDL7MEIiXG3uLs",
       "name": "Cairns Marathon: 42.2K",
       "category": "Road Marathon",
@@ -1965,6 +2028,27 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "recR6gSaCrs05IKtv",
+      "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
+      "category": "Recommended programs",
+      "location": "Alice Springs / MacDonnell Ranges, Northern Territory",
+      "km": 128,
+      "elevation": 3780,
+      "tier": null,
+      "tags": [
+        "Staged Race",
+        "Desert"
+      ],
+      "tagline": "Stage 1: Old Telegraph Station to The Mercure (19.5km). Stage 2: Simpsons Gap via Jay Creek and a technical high route to Standley Chasm (41km). Stage 3: Birthday Waterhole turnoff over Brinkley Bluff to Standley Chasm (33km). Stage 4: Ochre Pits via Counts Point and Serpentine Gorge to Ellery Creek Waterhole (34km).",
+      "weeks": 20,
+      "raceDate": "2027-08-13",
+      "startDate": "2027-03-29",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/oUrPXmcL/checkout"
     },
     {
       "id": "recDYEgZchWmvqT3s",
@@ -2047,6 +2131,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
+      "id": "recw7vZr6WtViSDF2",
+      "name": "Federation Ultra Trail 26K",
+      "category": "Recommended programs",
+      "location": "Murraylands region (Monarto to Murray Bridge), South Australia",
+      "km": 26,
+      "elevation": 600,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid "
+      ],
+      "tagline": null,
+      "weeks": 16,
+      "raceDate": "2027-08-08",
+      "startDate": "2027-04-19",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/cTgSAoLD/checkout"
+    },
+    {
       "id": "recXZmpjhXXQV74xZ",
       "name": "Run the Forest (Rotorua): 10K",
       "category": "Event Based Programs",
@@ -2065,6 +2169,27 @@
       "price": 249,
       "plan": "146 x 2 = $292",
       "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
+    },
+    {
+      "id": "recyG9rjAD2sowHv8",
+      "name": "Run Larapinta Stage Race – Namatjira (Short Course)",
+      "category": "Recommended programs",
+      "location": "Alice Springs / West MacDonnell Ranges, NT",
+      "km": 83.5,
+      "elevation": 2000,
+      "tier": null,
+      "tags": [
+        "Staged Race",
+        "Desert"
+      ],
+      "tagline": null,
+      "weeks": 16,
+      "raceDate": "2027-08-13",
+      "startDate": "2027-04-26",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/mBLWy6kE/checkout"
     },
     {
       "id": "recGa81EjzoNSjGlu",
@@ -2208,6 +2333,26 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/S5rEUQH7/checkout"
+    },
+    {
+      "id": "recdUxTJGsf8gu31D",
+      "name": "Macedon Trail Run 30km",
+      "category": "Event Based Programs",
+      "location": "Macedon Ranges Regional Park, Mt Macedon, VIC",
+      "km": 30,
+      "elevation": 1005,
+      "tier": null,
+      "tags": [
+        "30km - 40km Trail Mid "
+      ],
+      "tagline": "Pushes further out via the Hemphills Track and Baringo Road loop before returning via Camels Hump and the summit. Rolling, technical singletrack with sustained undulation and a marshalled main-road crossing each way.",
+      "weeks": 16,
+      "raceDate": "2027-10-03",
+      "startDate": "2027-06-14",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/qUNgLqqe/checkout"
     },
     {
       "id": "reckd54rsvsw9oe3A",
