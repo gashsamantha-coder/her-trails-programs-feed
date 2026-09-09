@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T21:07:19.095Z",
-  "today": "2026-09-08",
-  "count": 102,
+  "generatedAt": "2026-09-09T04:38:16.402Z",
+  "today": "2026-09-09",
+  "count": 112,
   "programs": [
     {
       "id": "recjMmDJcauBZjs7I",
@@ -125,6 +125,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
     },
     {
+      "id": "recYIEWvEboOSia2a",
+      "name": "Heysen Trail Ultra: 115km",
+      "category": "Recommended programs",
+      "location": "Meadows to Victor Harbor, Fleurieu Peninsula, SA",
+      "km": 115,
+      "elevation": 2481,
+      "tier": null,
+      "tags": [
+        ">100km Trail Ultra "
+      ],
+      "tagline": "Point-to-point 115km along the iconic Heysen Trail from Rocky Creek to Victor Harbor, South Australia. Route includes paddocks, country roads, pine forests, beaches, and the hilly Yultie and Myponga singletrack. Finishes at Heysen Village on the Esplanade, Victor Harbor.",
+      "weeks": 24,
+      "raceDate": "2026-10-24",
+      "startDate": "2026-05-11",
+      "status": "in_progress",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout"
+    },
+    {
       "id": "rec3p4n7vmexmnVbG",
       "name": "Lakes Trail Festival 50",
       "category": "50km events - tier allocation",
@@ -183,6 +203,26 @@
       "price": 440,
       "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/jevwazob/checkout"
+    },
+    {
+      "id": "recxnBStS6EYwCKRB",
+      "name": "Blackall 100",
+      "category": "Event Based Programs",
+      "location": "Mapleton, Sunshine Coast Hinterland, QLD",
+      "km": 100,
+      "elevation": 3290,
+      "tier": null,
+      "tags": [
+        "100km Trail Ultra "
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2026-10-17",
+      "startDate": "2026-06-01",
+      "status": "in_progress",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
     },
     {
       "id": "recfj6avKfYlxbHsC",
@@ -397,11 +437,11 @@
       "location": "Rotorua, Bay of Plenty",
       "km": 50.2,
       "elevation": 2240,
-      "tier": null,
+      "tier": "T2 Ranges",
       "tags": [
         "50km Trail Ultra"
       ],
-      "tagline": null,
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
       "weeks": 20,
       "raceDate": "2026-11-07",
       "startDate": "2026-06-22",
@@ -520,7 +560,12 @@
       "km": 106,
       "elevation": 3260,
       "tier": null,
-      "tags": [],
+      "tags": [
+        ">100km Trail Ultra ",
+        "Mountain",
+        "Technical",
+        "HT Pinnacle Event"
+      ],
       "tagline": "100km race starting and finishing at Friday Flat, Thredbo, Kosciuszko National Park. Start time 7:30am. Kosci100 is a runnable alpine 100K. The program is built to develop aerobic durability first, then layer in the skills that determine whether an amateur athlete can keep moving well for up to 28 hours: fuelling, power hiking, low-light confidence, alpine kit fluency, downhill resilience, decision-making under fatigue and energy availability protection. This is not a mileage contest. It is a 20-week progression in becoming organised, durable, fuelled and calm enough to execute a long alpine race.",
       "weeks": 20,
       "raceDate": "2026-11-27",
@@ -1048,7 +1093,7 @@
       "category": "50km events - tier allocation",
       "location": "VIC, Australia",
       "km": 50,
-      "elevation": null,
+      "elevation": 566,
       "tier": "T1 Coast & Forest",
       "tags": [
         "50km Trail Ultra"
@@ -1104,6 +1149,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
+      "id": "rec7t3fVuk7bcdT81",
+      "name": "Alpine Challenge 100 Mile",
+      "category": "Recommended programs",
+      "location": "Falls Creek, Victoria",
+      "km": 160,
+      "elevation": 7050,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Mountain",
+        "Technical"
+      ],
+      "tagline": "Australia's most challenging ultra at Falls Creek, Victorian Alps. 100-mile with 6 major climbs: Mt Feathertop, Mt Hotham, Mt McKay, Spion Kopje, Mt Nelse and Mt Bogong. Multiple distances available.",
+      "weeks": 20,
+      "raceDate": "2027-04-03",
+      "startDate": "2026-11-16",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/igGCodzH/checkout"
+    },
+    {
       "id": "recCl6LbF5McWZg0d",
       "name": "Lithgow Ridgy-Didge 50",
       "category": "50km events - tier allocation",
@@ -1127,7 +1194,7 @@
       "id": "recwNrAG5HkmrXcnf",
       "name": "Alpine Challenge 60",
       "category": "Recommended programs",
-      "location": "Bright",
+      "location": "Falls Creek, Victoria",
       "km": 61,
       "elevation": 1980,
       "tier": null,
@@ -1152,7 +1219,9 @@
       "km": 23,
       "elevation": 400,
       "tier": null,
-      "tags": [],
+      "tags": [
+        "22km - 29km Trail Mid "
+      ],
       "tagline": "The Tarawera T21 is an achievable point to point trail race from Lake Tikitapu (Blue Lake) to Rotorua’s Village Green, officially listed as 23 km with 400 m+ of elevation gain. The course is designed to be runnable rather than highly technical, moving through forest trails, forestry roads, the Redwoods, parkland, and geothermal landscapes, with aid available at 6.0 km and 15.8 km before the finish.",
       "weeks": 12,
       "raceDate": "2027-02-13",
@@ -1264,6 +1333,26 @@
       "price": 440,
       "plan": "129 x 4 = $516",
       "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout"
+    },
+    {
+      "id": "receEYtGl3ZVg6ARR",
+      "name": "Kunanyi Mountain Run: Mountain Run 25K",
+      "category": "Event Based Programs",
+      "location": "Nipaluna/Hobart, Tasmania, Australia",
+      "km": 24.6,
+      "elevation": 1575,
+      "tier": null,
+      "tags": [
+        "Adapted Program"
+      ],
+      "tagline": null,
+      "weeks": 14,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-12-14",
+      "status": "upcoming",
+      "price": 370,
+      "plan": "145 x 3 = $435",
+      "checkoutUrl": "https://www.hertrails.com/offers/Ai2fWF9N/checkout"
     },
     {
       "id": "recCZCXOJYSBvYLM5",
@@ -1575,6 +1664,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
+      "id": "recliULW117vx4ztQ",
+      "name": "Yandina Five ’O’ - 50K",
+      "category": "Event Based Programs",
+      "location": "North Arm / Yandina, Sunshine Coast hinterland, QLD",
+      "km": 50,
+      "elevation": 1600,
+      "tier": "T1-T2 borderline",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Course starts and finishes at Terella Brewing in North Arm, running through Mapleton National Park and adjoining private land, crossing bubbling creeks, passing a scenic lookout.",
+      "weeks": 20,
+      "raceDate": "2027-06-12",
+      "startDate": "2027-01-25",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/bTrRLMGr/checkout"
+    },
+    {
       "id": "recfpWnofAOHYt7He",
       "name": "WildBoar Trail Run 50",
       "category": "50km events - tier allocation",
@@ -1623,7 +1732,11 @@
       "km": 110,
       "elevation": 4800,
       "tier": null,
-      "tags": [],
+      "tags": [
+        ">100km Trail Ultra ",
+        "Mountain",
+        "Technical"
+      ],
       "tagline": "Starts in the D'Aguilar National Park / Mt Coot-tha hinterland area west of Brisbane and finishes at the Kangaroo Point Cliffs along the Brisbane River, running through eucalyptus forest and rainforest singletrack trails.",
       "weeks": 20,
       "raceDate": "2027-06-26",
@@ -1631,7 +1744,7 @@
       "status": "upcoming",
       "price": 499,
       "plan": "147 x 4 = $588",
-      "checkoutUrl": "https://www.hertrails.com/offers/2mGUC7Yr/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/SYAFKAAz/checkout"
     },
     {
       "id": "recNoGltiy39ytiqs",
@@ -1672,6 +1785,26 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "rec2MyylkR8uhCFc2",
+      "name": "The Guzzler Ultra 100",
+      "category": "Recommended programs",
+      "location": "Brisbane, Queensland (Mt Coot-tha)",
+      "km": 100,
+      "elevation": 4400,
+      "tier": null,
+      "tags": [
+        "100km Trail Ultra "
+      ],
+      "tagline": "Starts and finishes at Mt Coot-tha, looping out through Brisbane's historic reservoirs via single-track and hill trails before returning to the start/finish precinct.",
+      "weeks": 20,
+      "raceDate": "2027-07-17",
+      "startDate": "2027-03-01",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "checkoutUrl": "https://www.hertrails.com/offers/oGZ2dkeh/checkout"
     },
     {
       "id": "recdJCOSxwlgFCoBc",
@@ -1794,6 +1927,26 @@
       "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
     },
     {
+      "id": "rec0VJ1yYYO3h6C5E",
+      "name": "Yandina Five ’O’ -  21K",
+      "category": "Event Based Programs",
+      "location": "Yandina / North Arm, Sunshine Coast hinterland, QLD",
+      "km": 21,
+      "elevation": 600,
+      "tier": null,
+      "tags": [
+        "21.1km Trail Half"
+      ],
+      "tagline": "The 21km course runs through Mapleton National Park and adjoining private land from the Terella Brewing venue at North Arm, crossing creeks, passing a scenic lookout, and climbing and descending hilly forest terrain before finishing back at the brewery.",
+      "weeks": 12,
+      "raceDate": "2027-06-12",
+      "startDate": "2027-03-22",
+      "status": "upcoming",
+      "price": 335,
+      "plan": "131 x 3 = $393",
+      "checkoutUrl": "https://www.hertrails.com/offers/CHtc3AGp/checkout"
+    },
+    {
       "id": "recLDL7MEIiXG3uLs",
       "name": "Cairns Marathon: 42.2K",
       "category": "Road Marathon",
@@ -1857,7 +2010,7 @@
       "id": "recbThPk2TjhNEImR",
       "name": "Townsville Running Festival: Marathon 42.2K",
       "category": "Road Marathon",
-      "location": "Gold Coast",
+      "location": "Townsville, Queensland",
       "km": 42.2,
       "elevation": 60,
       "tier": null,
@@ -1897,14 +2050,14 @@
       "id": "recXZmpjhXXQV74xZ",
       "name": "Run the Forest (Rotorua): 10K",
       "category": "Event Based Programs",
-      "location": "Blue Mountains, NSW",
-      "km": 11.5,
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "km": 10.7,
       "elevation": 93,
       "tier": null,
       "tags": [
         "Trail Short (<20km)"
       ],
-      "tagline": "10km Geothermal Traverse. Starts at the steaming pools of Whakarewarewa Living Maori Village, heads through Manuka-lined trails into the towering Redwoods. Unique blend of geothermal and forest landscapes.",
+      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
       "weeks": 8,
       "raceDate": "2027-07-31",
       "startDate": "2027-04-26",
@@ -1919,18 +2072,20 @@
       "category": "Event Based Programs",
       "location": "Anglesea, Victoria (Great Ocean Road)",
       "km": 50,
-      "elevation": 2285,
+      "elevation": 1205,
       "tier": null,
       "tags": [
-        "Relay event"
+        "50km Trail Ultra",
+        "Relay event",
+        "Coastal"
       ],
-      "tagline": "A four-leg loop course starting and finishing at Anglesea. Leg 1 Anglesea Beach to Torquay via Point Addis clifftops and Bells Beach reef platforms. Leg 2 Torquay to Anglesea via Jan Juc, Bells Beach and Eumeralla singletrack. Leg 3 out from Anglesea through remote coastal bushland past Currawong Falls and Ironbark Gorge to Moggs Creek. Leg 4 finishes via Fairhaven, Aireys Inlet lighthouse and clifftop trails back to Anglesea.",
+      "tagline": "Two-person teams run two legs each, either consecutive or alternating: legs 1 and 2 are 49km with 1,080m of gain, legs 3 and 4 are 51km with 1,205m of gain. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
       "weeks": 20,
       "raceDate": "2027-09-11",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 440,
-      "plan": "129 x 4 = $516",
+      "price": 450,
+      "plan": "175 x 3 = $525",
       "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout"
     },
     {
@@ -2035,25 +2190,86 @@
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
     {
+      "id": "recP1HD9gyluRt3ox",
+      "name": "Macedon Trail Run 42.2km",
+      "category": "Event Based Programs",
+      "location": "Macedon Ranges Regional Park, Mt Macedon, VIC",
+      "km": 42.2,
+      "elevation": 1660,
+      "tier": null,
+      "tags": [
+        "42.2km Trail Marathon"
+      ],
+      "tagline": "Extends the 30km route further north toward the Quarry/Loop Road area via Hoods Track before returning over the Mt Macedon summit. Sustained technical singletrack throughout with several extreme-care descents.",
+      "weeks": 16,
+      "raceDate": "2027-10-03",
+      "startDate": "2027-06-14",
+      "status": "upcoming",
+      "price": 420,
+      "plan": "165 x 3 = $495",
+      "checkoutUrl": "https://www.hertrails.com/offers/S5rEUQH7/checkout"
+    },
+    {
       "id": "reckd54rsvsw9oe3A",
       "name": "Surf Coast Century 100K Relay (team of 4)",
       "category": "Event Based Programs",
       "location": "Anglesea",
       "km": 25,
-      "elevation": 450,
+      "elevation": 715,
       "tier": null,
       "tags": [
-        "Trail Short (<20km)",
-        "Relay event"
+        "22km - 29km Trail Mid ",
+        "Relay event",
+        "Coastal"
       ],
-      "tagline": "This is your chance to take on a 100km ultra, as a team. In this four-person relay, each runner completes one leg of the course, experiencing a distinct slice of Victoria’s coastal and inland beauty.\n\nLeg 1 (21km) features clifftop views and soft sand beaches. \n\nLeg 2 (28km) moves through forested singletrack and undulating inland trail. \n\nLeg 3 (28km) is the toughest: steep, technical, and the most elevation-heavy. \n\nLeg 4 (23km) closes with coastal views, rocky terrain, and the buzz of the finish line.\n\nWith ~1,800m total elevation, this event is a team-based challenge full of support, stoke, and story-worthy moments. Ideal for first-timers, friendship groups, or training crews looking to celebrate the trail together.",
+      "tagline": "Four-person teams run one leg each on the same four-leg 100km loop. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
       "weeks": 12,
       "raceDate": "2027-09-11",
       "startDate": "2027-06-21",
       "status": "upcoming",
       "price": 299,
-      "plan": "117 x 3 = $351",
+      "plan": "115 x 3 = $345",
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
+    },
+    {
+      "id": "recVOqL0gEIKTA4TP",
+      "name": "Macedon Trail Run 21.1km",
+      "category": "Event Based Programs",
+      "location": "Macedon Ranges Regional Park, Mt Macedon, VIC",
+      "km": 21.1,
+      "elevation": 610,
+      "tier": null,
+      "tags": [
+        "21.1km Trail Half"
+      ],
+      "tagline": "Extends the 10km loop out via the Link Track and Baringo Road before returning via Camels Hump. Crosses Mt Macedon Road, a marshalled main-road crossing, both outbound and on return.",
+      "weeks": 12,
+      "raceDate": "2027-10-03",
+      "startDate": "2027-07-12",
+      "status": "upcoming",
+      "price": 335,
+      "plan": "131 x 3 = $393",
+      "checkoutUrl": "https://www.hertrails.com/offers/MMLwNHkL/checkout"
+    },
+    {
+      "id": "rectjlhhc0hKodEGk",
+      "name": "Macedon Trail Run 10km",
+      "category": "Event Based Programs",
+      "location": "Macedon Ranges Regional Park, Mt Macedon, VIC",
+      "km": 10,
+      "elevation": 245,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)"
+      ],
+      "tagline": "Loop from the summit start/finish area, climbing to Camels Hump (1,011m) via rocky singletrack before returning. Shortest and least technical of the five distances but still includes the exposed Camels Hump climb and a rocky opening kilometre.",
+      "weeks": 8,
+      "raceDate": "2027-10-03",
+      "startDate": "2027-08-09",
+      "status": "upcoming",
+      "price": 249,
+      "plan": "146 x 2 = $292",
+      "checkoutUrl": "https://www.hertrails.com/offers/Htai82FB/checkout"
     },
     {
       "id": "recBSTwQyahguvp2Z",

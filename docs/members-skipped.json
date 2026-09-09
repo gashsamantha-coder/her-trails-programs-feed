@@ -1,21 +1,13 @@
 {
-  "generatedAt": "2026-09-08T21:07:19.095Z",
+  "generatedAt": "2026-09-09T04:38:16.402Z",
   "skipped": [
-    {
-      "name": "Yandina Five ’O’ - 21K",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "The Guzzler Ultra 100",
-      "why": "No customer checkout link"
-    },
     {
       "name": "The Archie 50 (Mt Buller)",
       "why": "No customer checkout link"
     },
     {
       "name": "Maven Resources",
-      "why": "Member-only variant, not a program card"
+      "why": "No customer checkout link"
     },
     {
       "name": "Grampians Peaks Trail: 30km",
@@ -27,10 +19,6 @@
     },
     {
       "name": "Scenic Rim Ultra 25",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Alpine Challenge 100",
       "why": "No customer checkout link"
     },
     {
@@ -52,10 +40,6 @@
     {
       "name": "* All in Members* 10km Trail Progressions",
       "why": "Member-only variant, not a program card"
-    },
-    {
-      "name": "Macedon Trail Run 42.2km",
-      "why": "No customer checkout link"
     },
     {
       "name": "Woodlands Trail Run 50",
@@ -82,24 +66,16 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Macedon Trail Run 21.1km",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "* All in Members* 5km Foundations",
       "why": "Member-only variant, not a program card"
     },
     {
       "name": "Scenic Rim Ultra 65",
-      "why": "No customer checkout link"
+      "why": "Race already run"
     },
     {
       "name": "Ultra Adelaide 50",
       "why": "Race already run"
-    },
-    {
-      "name": "Heysen Trail Ultra: 115km",
-      "why": "No customer checkout link"
     },
     {
       "name": "Coastal High: 28K",
@@ -118,11 +94,7 @@
       "why": "No customer checkout link"
     },
     {
-      "name": "Kunanyi Mountain Run: Mountain Run 25K",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "1:1 Coaching",
+      "name": "1:1 Coaching Session",
       "why": "Member-only variant, not a program card"
     },
     {
@@ -130,7 +102,7 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Recovery Module: Ultra Style",
+      "name": "Race Ready: Taper, Race Week and Recovery",
       "why": "Member-only variant, not a program card"
     },
     {
@@ -142,10 +114,6 @@
       "why": "Archived"
     },
     {
-      "name": "Yandina Five ’O’ - 50K",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Coastal High 50",
       "why": "Race already run"
     },
@@ -155,7 +123,7 @@
     },
     {
       "name": "Blackall100: 100K",
-      "why": "No customer checkout link"
+      "why": "Archived"
     },
     {
       "name": "Blackall50",
@@ -174,14 +142,6 @@
       "why": "No distance or duration"
     },
     {
-      "name": "Peri Framework Bundle",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Macedon Trail Run 10km",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Federation Ultra Trail 55K",
       "why": "No customer checkout link"
     },
@@ -195,10 +155,6 @@
     },
     {
       "name": "Federation Ultra Trail 26K",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Blackall 100",
       "why": "No customer checkout link"
     },
     {
