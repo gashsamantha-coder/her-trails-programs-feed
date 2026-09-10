@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:15:27.595Z",
+  "generatedAt": "2026-09-10T16:22:04.960Z",
   "today": "2026-09-10",
   "count": 145,
   "programs": [
@@ -1680,7 +1680,7 @@
       "raceDateDisplay": "Mar 2027",
       "raceMonth": 3,
       "startMonth": 11,
-      "elevGainDisplay": "773m",
+      "elevGainDisplay": "876m",
       "dur": "18-20",
       "elev": "rolling",
       "elevClass2": "Rolling",
