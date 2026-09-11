@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T20:49:48.431Z",
-  "today": "2026-09-10",
-  "count": 119,
+  "generatedAt": "2026-09-11T04:36:40.219Z",
+  "today": "2026-09-11",
+  "count": 118,
   "programs": [
     {
       "id": "recj60iklTvAEXMRs",
@@ -584,8 +584,8 @@
       "name": "Mt Buller SkyRun 45",
       "category": "Recommended programs",
       "location": "VIC, Australia",
-      "km": 44,
-      "elevation": 2250,
+      "km": 45,
+      "elevation": 2400,
       "tier": "T2-T3 borderline",
       "tags": [
         "50km Trail Ultra"
@@ -709,7 +709,7 @@
       "elevation": 670,
       "tier": null,
       "tags": [
-        "22km - 29km Trail Mid ",
+        "30km - 40km Trail Mid ",
         "HT Pinnacle Event"
       ],
       "tagline": "32km trail race in Thredbo, Kosciuszko National Park. Shorter distance option through the Snowy Mountains with alpine trails and mountain scenery.",
@@ -1506,7 +1506,7 @@
       "category": "Recommended programs",
       "location": "VIC, Australia",
       "km": 45,
-      "elevation": 1700,
+      "elevation": null,
       "tier": "T2 Ranges",
       "tags": [
         "50km Trail Ultra"
@@ -1562,26 +1562,6 @@
       "price": 499,
       "plan": "147 x 4 = $588",
       "checkoutUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout"
-    },
-    {
-      "id": "recYz6mHHPweu8o03",
-      "name": "Convicts & Wenches 50",
-      "category": "50km events - tier allocation",
-      "location": "TAS, Australia",
-      "km": 50,
-      "elevation": null,
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
-      "weeks": 20,
-      "raceDate": "2027-05-16",
-      "startDate": "2026-12-28",
-      "status": "upcoming",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "checkoutUrl": "https://www.hertrails.com/offers/ndzzPsqG/checkout"
     },
     {
       "id": "rec7CsGAXnWzl39jb",
@@ -1670,12 +1650,12 @@
       "category": "50km events - tier allocation",
       "location": "VIC, Australia",
       "km": 50,
-      "elevation": null,
-      "tier": "T1-T2 borderline",
+      "elevation": 2050,
+      "tier": "T2 Ranges",
       "tags": [
         "50km Trail Ultra"
       ],
-      "tagline": "Rolling to ranges terrain with steady climbing through the middle of the course.",
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
       "weeks": 20,
       "raceDate": "2027-06-13",
       "startDate": "2027-01-25",

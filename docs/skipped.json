@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:49:48.431Z",
+  "generatedAt": "2026-09-11T04:36:40.219Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -138,6 +138,10 @@
       "why": "Race already run"
     },
     {
+      "name": "DORMANT / VERIFY — Convicts & Wenches 50",
+      "why": "No race date"
+    },
+    {
       "name": "Coastal High: 28K",
       "why": "Race already run"
     },
@@ -150,7 +154,7 @@
       "why": "No race date"
     },
     {
-      "name": "Walhalla Wound Up 50",
+      "name": "DORMANT / VERIFY — Walhalla Wound Up 50",
       "why": "No race date"
     },
     {
@@ -174,8 +178,8 @@
       "why": "No customer checkout link"
     },
     {
-      "name": "Rainbow Beach Trail 50",
-      "why": "Race already run"
+      "name": "DO NOT SELL — Rainbow Beach Trail 50 (race does not exist)",
+      "why": "No race date"
     },
     {
       "name": "100km Trail Ultra Program 2025",
