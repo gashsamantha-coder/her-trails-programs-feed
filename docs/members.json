@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:17:01.772Z",
+  "generatedAt": "2026-09-11T16:26:15.125Z",
   "today": "2026-09-11",
   "count": 144,
   "programs": [
@@ -552,7 +552,7 @@
         "Technical"
       ],
       "allin": true,
-      "link": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
+      "link": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
     },
     {
       "id": "recQsvsiozSkTPH6y",
@@ -653,13 +653,13 @@
     {
       "id": "recJZWWVt9AJwA01z",
       "name": "Roller Coaster Run: 23km Double Loop",
-      "sub": "Dandenong Ranges · 14 weeks",
+      "sub": "Dandenong Ranges · 16 weeks",
       "location": "Dandenong Ranges",
       "tagline": "Single 23km loop through the Dandenong Ranges National Park. Steep terrain with over 1,090m elevation gain through lush ferny forests. Start and finish at 1000 Steps, Dandenong Ranges.",
       "startDateDisplay": "Jul 2026",
       "distKm": "23km",
       "km": 23,
-      "weeks": 14,
+      "weeks": 16,
       "dist": "mid",
       "cat": "Trail Mid",
       "cc": "#c45c33",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:17:01.772Z",
+  "generatedAt": "2026-09-11T16:26:15.125Z",
   "today": "2026-09-11",
   "count": 118,
   "programs": [
@@ -348,7 +348,7 @@
       "status": "in_progress",
       "price": 499,
       "plan": "147 x 4 = $588",
-      "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
     },
     {
       "id": "recQsvsiozSkTPH6y",
@@ -422,12 +422,12 @@
         "21.1km Trail Half"
       ],
       "tagline": "Single 23km loop through the Dandenong Ranges National Park. Steep terrain with over 1,090m elevation gain through lush ferny forests. Start and finish at 1000 Steps, Dandenong Ranges.",
-      "weeks": 14,
+      "weeks": 16,
       "raceDate": "2026-10-17",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 299,
+      "plan": "115 x 3 = $345",
       "checkoutUrl": "https://www.hertrails.com/offers/PVSmTNyD/checkout"
     },
     {
@@ -1291,8 +1291,8 @@
       "raceDate": "2027-04-30",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 549,
-      "plan": "161 x 4 = $644",
+      "price": 499,
+      "plan": "149 x 4 = $596",
       "checkoutUrl": "https://www.hertrails.com/offers/CoESymVJ/checkout"
     },
     {
@@ -1312,7 +1312,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": "149 x 4 = $596",
       "checkoutUrl": "https://www.hertrails.com/offers/GUwyd8NX/checkout"
     },
     {
@@ -1352,8 +1352,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 549,
-      "plan": "161 x 4 = $644",
+      "price": 475,
+      "plan": "185 x 3 = $555",
       "checkoutUrl": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
     },
     {
@@ -1393,8 +1393,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 450,
+      "plan": "175 x 3 = $525",
       "checkoutUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout"
     },
     {
@@ -1414,7 +1414,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": "149 x 4 = $596",
       "checkoutUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout"
     },
     {
@@ -1453,8 +1453,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 350,
+      "plan": "135 x 3 = $405",
       "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
     },
     {
