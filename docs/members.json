@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T04:36:40.219Z",
+  "generatedAt": "2026-09-11T11:17:01.772Z",
   "today": "2026-09-11",
-  "count": 146,
+  "count": 144,
   "programs": [
     {
       "id": "recj60iklTvAEXMRs",
@@ -4185,38 +4185,6 @@
       "link": "https://www.hertrails.com/offers/H2EooCX4/checkout"
     },
     {
-      "id": "reckjnpJ23Tn57oSX",
-      "name": "DO NOT SELL — Rainbow Beach Trail 50 (race does not exist)",
-      "sub": "QLD, Australia · 20 weeks",
-      "location": "QLD, Australia",
-      "tagline": null,
-      "startDateDisplay": "",
-      "distKm": "50km",
-      "km": 50,
-      "weeks": 20,
-      "dist": "ultra",
-      "cat": "Trail Ultra",
-      "cc": "#9b5e3a",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "",
-      "raceDateISO": "",
-      "raceDateDisplay": "",
-      "raceMonth": null,
-      "startMonth": null,
-      "elevGainDisplay": "",
-      "dur": "18-20",
-      "elev": "rolling",
-      "elevClass2": "Rolling",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/fppW5LVT/checkout"
-    },
-    {
       "id": "recYz6mHHPweu8o03",
       "name": "DORMANT / VERIFY — Convicts & Wenches 50",
       "sub": "TAS, Australia · 20 weeks",
@@ -4600,38 +4568,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/SWUAQH6Q/checkout"
-    },
-    {
-      "id": "recany8m7cnia416i",
-      "name": "Rotorua Trail Festival 10K",
-      "sub": "Whakarewarewa Forest, Rotorua, New Zealand · 12 weeks",
-      "location": "Whakarewarewa Forest, Rotorua, New Zealand",
-      "tagline": null,
-      "startDateDisplay": "",
-      "distKm": "10km",
-      "km": 10,
-      "weeks": 12,
-      "dist": "short",
-      "cat": "5 to 10km",
-      "cc": "#7a9b7a",
-      "event": "rtf",
-      "eventLabel": "Rotorua",
-      "openDateISO": "",
-      "raceDateISO": "",
-      "raceDateDisplay": "",
-      "raceMonth": null,
-      "startMonth": null,
-      "elevGainDisplay": "430m",
-      "dur": "12",
-      "elev": "rolling",
-      "elevClass2": "Rolling",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
     },
     {
       "id": "rec4LG19VZu0zLxWA",
