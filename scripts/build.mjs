@@ -31,6 +31,11 @@ const F = {
 // category — including Recommended — so there is exactly one checkout-link
 // field and exactly one place that builds the URL from it.
 const toCheckoutUrl = url => url.replace(/\/?$/, '').replace(/(\/offers\/[A-Za-z0-9]+)(\/checkout)?$/, '$1/checkout');
+const isCustomerOfferUrl = url => /^https:\/\/www\.hertrails\.com\/offers\/[A-Za-z0-9]+(?:\/checkout)?\/?$/.test(url);
+const distanceLabel = km => {
+  if (typeof km !== 'number' || !Number.isFinite(km)) return null;
+  return `${Number.isInteger(km) ? km : km.toFixed(1).replace(/\.0$/, '')}km`;
+};
 
 const STATE = {
   'New South Wales, Australia':'NSW, Australia', 'Victoria, Australia':'VIC, Australia',
@@ -92,7 +97,14 @@ function transform(records, today) {
     // see that field for the exact rule, kept in sync with README.md.
     const publicStatus = f[F.publicStatus] || '';
     if (publicStatus !== 'Publishing') { skip(publicStatus || 'not eligible'); continue; }
+
+    // Defensive publication checks. Airtable remains authoritative, but a formula
+    // regression must never expose an expired cohort or malformed purchase link.
+    if (!isCustomerOfferUrl(url)) { skip('Invalid customer checkout link'); continue; }
+    if (!race) { skip('No race date'); continue; }
+    if (race < today) { skip('Race already run'); continue; }
     if (!start && weeks) start = mondayStart(race, weeks);
+    if (!start) { skip('No program start date or duration'); continue; }
     const price = typeof f[F.price] === 'number' ? f[F.price] : null;
     const plan = (f[F.plan] || '').trim() || null;
 
@@ -102,12 +114,14 @@ function transform(records, today) {
     rows.push({
       id: rec.id, name, category,
       location: STATE[f[F.location]] || f[F.location] || null,
-      km: f[F.km] ?? null, elevation: f[F.elevation] ?? null,
+      km: f[F.km] ?? null, distanceLabel: distanceLabel(f[F.km]),
+      elevation: f[F.elevation] ?? null,
       tier, tags,
       tagline: summary || TIER_LINE[tier] || null,
       weeks, raceDate: race, startDate: start,
       status: start <= today ? 'in_progress' : 'upcoming',
       price, plan,
+      canPurchase: true,
       checkoutUrl: toCheckoutUrl(url),
     });
   }
@@ -252,9 +266,23 @@ function transformMembers(records, today) {
   return { rows, skipped };
 }
 
+function assertFeedIntegrity(rows, today) {
+  const failures = [];
+  for (const p of rows) {
+    if (!p.canPurchase || !isCustomerOfferUrl(p.checkoutUrl)) failures.push(`${p.name}: invalid purchase link`);
+    if (!p.raceDate || p.raceDate < today) failures.push(`${p.name}: expired or missing race date`);
+    if (/rainbow beach trail 50/i.test(p.name)) failures.push(`${p.name}: non-existent race must not publish`);
+    if (/tarawera.*(?:t?102|102k)/i.test(p.name) && p.distanceLabel !== '102km') {
+      failures.push(`${p.name}: expected 102km, got ${p.distanceLabel || 'no distance'}`);
+    }
+  }
+  if (failures.length) throw new Error(`Feed integrity failed:\n${failures.join('\n')}`);
+}
+
 const today = iso(new Date());
 const records = await fetchAll();
 const { rows, skipped } = transform(records, today);
+assertFeedIntegrity(rows, today);
 const members = transformMembers(records, today);
 const payload = { generatedAt: new Date().toISOString(), today, count: rows.length, programs: rows };
 const membersPayload = { generatedAt: payload.generatedAt, today, count: members.rows.length, programs: members.rows };

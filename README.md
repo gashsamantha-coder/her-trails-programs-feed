@@ -33,7 +33,9 @@ isn't `Publishing`. Open that field's formula in Airtable any time to see or cha
 - it is not in the Archive category
 
 Everything else is listed in `docs/skipped.json` with the reason (copied straight from the
-Airtable field), so nothing disappears silently.
+Airtable field), so nothing disappears silently. The build also applies a defensive final check:
+a public row must have a future-or-today race date and a valid Her Trails checkout URL. It fails
+the workflow if Rainbow Beach Trail 50 appears or if Tarawera T102 is not labelled `102km`.
 
 ## What gets published to members.json
 Eligibility here is decided by the companion **"Member Feed Status"** formula field: `Publishing`
@@ -47,9 +49,7 @@ The finder block in Kajabi (`kajabi/member-finder-tail.js` shows the loader that
 keeps its old hard-coded list only as a fallback for when the feed cannot be reached.
 
 ## Refresh schedule
-The feed refreshes automatically **Monday and Thursday, ~6am Melbourne time** (GitHub Actions cron
-runs in UTC, so it drifts an hour with daylight saving — see the comment in
-`.github/workflows/publish.yml`). Two ways to run it on demand instead of waiting:
+The feed refreshes automatically **every six hours**. Two ways to run it on demand instead of waiting:
 - GitHub → Actions tab → "Publish programs feed" → "Run workflow"
 - Ask Claude to fire the matching Cowork scheduled task, which also alerts if a run fails or if
   programs unexpectedly disappear from the feed between runs.
