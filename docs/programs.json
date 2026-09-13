@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T16:10:23.476Z",
+  "generatedAt": "2026-09-13T16:14:01.794Z",
   "today": "2026-09-13",
-  "count": 116,
+  "count": 115,
   "programs": [
     {
       "id": "rec3nL9RogiHiQh3x",
@@ -359,7 +359,7 @@
       "price": 499,
       "plan": "147 x 4 = $588",
       "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
     },
     {
       "id": "recQsvsiozSkTPH6y",
@@ -676,7 +676,7 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
       "id": "recNcOpkQJWI2oNiZ",
@@ -1148,30 +1148,6 @@
       "plan": "180 x 3 = $540",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
-    },
-    {
-      "id": "rec7t3fVuk7bcdT81",
-      "name": "Alpine Challenge 100 Mile",
-      "category": "Recommended programs",
-      "location": "Falls Creek, Victoria",
-      "km": 160,
-      "distanceLabel": "160km",
-      "elevation": 7050,
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Mountain",
-        "Technical"
-      ],
-      "tagline": "Australia's most challenging ultra at Falls Creek, Victorian Alps. 100-mile with 6 major climbs: Mt Feathertop, Mt Hotham, Mt McKay, Spion Kopje, Mt Nelse and Mt Bogong. Multiple distances available.",
-      "weeks": 20,
-      "raceDate": "2027-04-03",
-      "startDate": "2026-11-16",
-      "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/igGCodzH/checkout"
     },
     {
       "id": "recCl6LbF5McWZg0d",
@@ -2406,7 +2382,29 @@
       "price": 335,
       "plan": "131 x 3 = $393",
       "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout"
+    },
+    {
+      "id": "recXZmpjhXXQV74xZ",
+      "name": "Run the Forest (Rotorua): 10K",
+      "category": "Event Based Programs",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "km": 10.7,
+      "distanceLabel": "10.7km",
+      "elevation": 93,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)"
+      ],
+      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
+      "weeks": 12,
+      "raceDate": "2027-07-31",
+      "startDate": "2027-05-10",
+      "status": "upcoming",
+      "price": 335,
+      "plan": "131 x 3 = $393",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
     },
     {
       "id": "recBSTwQyahguvp2Z",
@@ -2451,28 +2449,6 @@
       "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
-    },
-    {
-      "id": "recXZmpjhXXQV74xZ",
-      "name": "Run the Forest (Rotorua): 10K",
-      "category": "Event Based Programs",
-      "location": "Rotorua, Bay of Plenty, New Zealand",
-      "km": 10.7,
-      "distanceLabel": "10.7km",
-      "elevation": 93,
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)"
-      ],
-      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
-      "weeks": 8,
-      "raceDate": "2027-07-31",
-      "startDate": "2027-06-07",
-      "status": "upcoming",
-      "price": 249,
-      "plan": "146 x 2 = $292",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
     {
       "id": "recP1HD9gyluRt3ox",

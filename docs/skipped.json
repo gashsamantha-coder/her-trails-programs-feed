@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:10:23.476Z",
+  "generatedAt": "2026-09-13T16:14:01.794Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -46,8 +46,12 @@
       "why": "No race date"
     },
     {
+      "name": "Alpine Challenge 100 Mile",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Coastal Classic: 30km",
-      "why": "Race already run"
+      "why": "No customer checkout link"
     },
     {
       "name": "Snowy Mountains UTRA50",
@@ -95,7 +99,7 @@
     },
     {
       "name": "Woodlands Trail Run 50",
-      "why": "Race already run"
+      "why": "No customer checkout link"
     },
     {
       "name": "Truth or Consequences 50",

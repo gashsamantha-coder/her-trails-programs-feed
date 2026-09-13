@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T16:10:23.476Z",
+  "generatedAt": "2026-09-13T16:14:01.794Z",
   "today": "2026-09-13",
-  "count": 142,
+  "count": 141,
   "programs": [
     {
       "id": "rec3nL9RogiHiQh3x",
@@ -519,7 +519,7 @@
         "Technical"
       ],
       "allin": true,
-      "link": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
+      "link": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
     },
     {
       "id": "recQsvsiozSkTPH6y",
@@ -976,7 +976,7 @@
         "Road Marathon"
       ],
       "allin": true,
-      "link": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
+      "link": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
       "id": "recNcOpkQJWI2oNiZ",
@@ -1658,40 +1658,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
-    },
-    {
-      "id": "rec7t3fVuk7bcdT81",
-      "name": "Alpine Challenge 100 Mile",
-      "sub": "Falls Creek, Victoria · 20 weeks",
-      "location": "Falls Creek, Victoria",
-      "tagline": "Australia's most challenging ultra at Falls Creek, Victorian Alps. 100-mile with 6 major climbs: Mt Feathertop, Mt Hotham, Mt McKay, Spion Kopje, Mt Nelse and Mt Bogong. Multiple distances available.",
-      "startDateDisplay": "Nov 2026",
-      "distKm": "160km",
-      "km": 160,
-      "weeks": 20,
-      "dist": "mountain",
-      "cat": "Mountain Ultra",
-      "cc": "#3d5a4c",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-11-16",
-      "raceDateISO": "2027-04-03",
-      "raceDateDisplay": "Apr 2027",
-      "raceMonth": 4,
-      "startMonth": 11,
-      "elevGainDisplay": "7,050m",
-      "dur": "18-20",
-      "elev": "alpine",
-      "elevClass2": "Alpine",
-      "techRating": "Technical",
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Mountain",
-        "Technical"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/igGCodzH/checkout"
     },
     {
       "id": "recCl6LbF5McWZg0d",
@@ -3476,7 +3442,39 @@
         "21.1km Trail Half"
       ],
       "allin": true,
-      "link": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+      "link": "https://www.hertrails.com/offers/DEZoVXtu/checkout"
+    },
+    {
+      "id": "recXZmpjhXXQV74xZ",
+      "name": "Run the Forest (Rotorua): 10K",
+      "sub": "Rotorua, Bay of Plenty, New Zealand · 12 weeks",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
+      "startDateDisplay": "May 2027",
+      "distKm": "10.7km",
+      "km": 10.7,
+      "weeks": 12,
+      "dist": "short",
+      "cat": "5 to 10km",
+      "cc": "#7a9b7a",
+      "event": "rtf",
+      "eventLabel": "Rotorua",
+      "openDateISO": "2027-05-10",
+      "raceDateISO": "2027-07-31",
+      "raceDateDisplay": "Jul 2027",
+      "raceMonth": 7,
+      "startMonth": 5,
+      "elevGainDisplay": "93m",
+      "dur": "12",
+      "elev": "rolling",
+      "elevClass2": "Rolling",
+      "techRating": "Runnable",
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)"
+      ],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
     },
     {
       "id": "recBSTwQyahguvp2Z",
@@ -3541,38 +3539,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
-    },
-    {
-      "id": "recXZmpjhXXQV74xZ",
-      "name": "Run the Forest (Rotorua): 10K",
-      "sub": "Rotorua, Bay of Plenty, New Zealand · 8 weeks",
-      "location": "Rotorua, Bay of Plenty, New Zealand",
-      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
-      "startDateDisplay": "Jun 2027",
-      "distKm": "10.7km",
-      "km": 10.7,
-      "weeks": 8,
-      "dist": "short",
-      "cat": "5 to 10km",
-      "cc": "#7a9b7a",
-      "event": "rtf",
-      "eventLabel": "Rotorua",
-      "openDateISO": "2027-06-07",
-      "raceDateISO": "2027-07-31",
-      "raceDateDisplay": "Jul 2027",
-      "raceMonth": 7,
-      "startMonth": 6,
-      "elevGainDisplay": "93m",
-      "dur": "6-8",
-      "elev": "rolling",
-      "elevClass2": "Rolling",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
     {
       "id": "recP1HD9gyluRt3ox",
