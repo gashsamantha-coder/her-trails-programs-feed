@@ -54,7 +54,8 @@
             ['Distance based','Distance Based'],['Road marathon','Road Marathon'],['Strength and cycle','Strength & Cycle Programs']];
 
   function card(p){
-    var name=esc(p.name), km=p.km?(' &middot; '+p.km+'K'):'', el=p.elevation?(' ('+p.elevation+'m+)'):'';
+    var name=esc(p.name), km=p.distanceLabel?(' &middot; '+esc(p.distanceLabel)):(p.km?(' &middot; '+esc(p.km)+'km'):''), el=p.elevation?(' ('+p.elevation+'m+)'):'';
+    var canBuy=p.canPurchase===true && /^https:\/\/www\.hertrails\.com\/offers\/[A-Za-z0-9]+\/checkout\/?$/.test(p.checkoutUrl||'');
     var tags=(p.tags||[]).slice(0,4).map(function(t){return '<span class="ht-tag">'+esc(t)+'</span>';}).join('');
     var price=p.price!=null?('$'+p.price+' AUD'):'', plan=p.plan?('<small>or '+esc(p.plan)+'</small>'):'';
     var prog=p.status==='in_progress';
@@ -78,7 +79,7 @@
       +'<div class="ht-up-avail">'+avail+'</div>'
       +'<div class="ht-ctas">'
       +'<a class="ht-btn-fill" href="'+ALL_IN+'" target="_blank" rel="noopener">Join All In + Get Access</a>'
-      +'<a class="ht-btn-out" href="'+esc(p.checkoutUrl)+'" target="_blank" rel="noopener">Buy Standalone</a>'
+      +(canBuy?'<a class="ht-btn-out" href="'+esc(p.checkoutUrl)+'" target="_blank" rel="noopener">Buy Standalone</a>':'')
       +'</div></div>';
   }
 
