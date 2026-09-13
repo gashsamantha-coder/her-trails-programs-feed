@@ -1,0 +1,3694 @@
+{
+  "generatedAt": "2026-09-13T16:05:33.388Z",
+  "sourceFeedGeneratedAt": "2026-09-13T15:54:46.339Z",
+  "summary": {
+    "uniqueCheckoutUrls": 122,
+    "live": 121,
+    "broken": 1,
+    "identityNeedsReview": 69,
+    "sharedCheckoutUrls": 25
+  },
+  "results": [
+    {
+      "url": "https://www.hertrails.com/offers/2aadNZ55/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ikara Ultra 50km Program for Women",
+      "bytes": 93997,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ikara Ultra 50K"
+      ],
+      "sourceRecordIds": [
+        "recE3agjLlCcBdDC9"
+      ],
+      "expectedPrices": [
+        450
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/2E22kFRh/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/2E22kFRh/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "50km Trail Ultra Alpine & Technical: 2,500m+ Program for Women",
+      "bytes": 102917,
+      "identityNeedsReview": false,
+      "programs": [
+        "50km Trail Ultra [Alpine & Technical - 2500m+]"
+      ],
+      "sourceRecordIds": [
+        "recm5k8KQ0maUwplu"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/2mGUC7Yr/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/2mGUC7Yr/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "100km Trail Ultra Program for Women",
+      "bytes": 90506,
+      "identityNeedsReview": true,
+      "programs": [
+        "100km Trail Ultra Program - Undulating"
+      ],
+      "sourceRecordIds": [
+        "recaxwRXr4lK6fXKJ"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/2xCHkU5V/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/2xCHkU5V/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 70021,
+      "identityNeedsReview": true,
+      "programs": [
+        "Her Strength"
+      ],
+      "sourceRecordIds": [
+        "rechICXvoWDFvcyvW"
+      ],
+      "expectedPrices": [
+        249
+      ],
+      "expectedWeeks": [
+        6
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/3iTvmUoL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/3iTvmUoL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 59661,
+      "identityNeedsReview": true,
+      "programs": [
+        "Mt Buller SkyRun 45"
+      ],
+      "sourceRecordIds": [
+        "recNIn1Ufd9MpGgNu"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/3tqirzMU/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/3tqirzMU/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73259,
+      "identityNeedsReview": true,
+      "programs": [
+        "Brimbank Running Festival 50"
+      ],
+      "sourceRecordIds": [
+        "rec1zC9HGXHNa68YP"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/5FXCWNQs/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/5FXCWNQs/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 82811,
+      "identityNeedsReview": true,
+      "programs": [
+        "10km Progressions: Intermediate Trail Program"
+      ],
+      "sourceRecordIds": [
+        "recWd8rNtqgJbeYGs"
+      ],
+      "expectedPrices": [
+        220
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/5uAiHDuy/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/5uAiHDuy/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60660,
+      "identityNeedsReview": true,
+      "programs": [
+        "Glasshouse 100 - 50"
+      ],
+      "sourceRecordIds": [
+        "recTzKFFN5Zz7zuyR"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/6djWJ6sd/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 72942,
+      "identityNeedsReview": true,
+      "programs": [
+        "Lithgow Ridgy-Didge 50"
+      ],
+      "sourceRecordIds": [
+        "recCl6LbF5McWZg0d"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/6ki9po47/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/6ki9po47/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73202,
+      "identityNeedsReview": true,
+      "programs": [
+        "Run Narawntapu 50"
+      ],
+      "sourceRecordIds": [
+        "rec4LG19VZu0zLxWA"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/7FBYecqb/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 74075,
+      "identityNeedsReview": true,
+      "programs": [
+        "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+        "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)"
+      ],
+      "sourceRecordIds": [
+        "recUXwvjSVvZCgxFM"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/7LwyLYqf/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ikara Ultra 100km Program for Women",
+      "bytes": 94509,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ikara Ultra 100K"
+      ],
+      "sourceRecordIds": [
+        "recowLXzA5lfqOlUU"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/7tsHmwfJ/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/7tsHmwfJ/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73212,
+      "identityNeedsReview": true,
+      "programs": [
+        "Six Foot Track 45"
+      ],
+      "sourceRecordIds": [
+        "rec0P08yNsSJgEagX"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/8ruFKwzz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/8ruFKwzz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73237,
+      "identityNeedsReview": true,
+      "programs": [
+        "Yaberoo Trail Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "rec10h1BwdyNMWVDw"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/8V3PnAyU/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/8V3PnAyU/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73297,
+      "identityNeedsReview": true,
+      "programs": [
+        "Great North Walk Trail Running Festival 50"
+      ],
+      "sourceRecordIds": [
+        "rec3nL9RogiHiQh3x"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/9fEZusRx/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Bondi to Manly 80km Solo",
+      "bytes": 96665,
+      "identityNeedsReview": false,
+      "programs": [
+        "Bondi to Manly 80km (Solo)"
+      ],
+      "sourceRecordIds": [
+        "recZeK2gNCY7yA0Pa"
+      ],
+      "expectedPrices": [
+        460
+      ],
+      "expectedWeeks": [
+        18
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/9op2yzwU/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/9op2yzwU/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "10km Find Your Fast Program for Women",
+      "bytes": 106836,
+      "identityNeedsReview": false,
+      "programs": [
+        "Find Your Fast 10km"
+      ],
+      "sourceRecordIds": [
+        "reczuzv4OJ4MpcgDk"
+      ],
+      "expectedPrices": [
+        199
+      ],
+      "expectedWeeks": [
+        6
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/AgS2ELMA/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/AgS2ELMA/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73220,
+      "identityNeedsReview": true,
+      "programs": [
+        "Snowy Mountains UTRA50"
+      ],
+      "sourceRecordIds": [
+        "rec9Imt98wKHUaXm8"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Ai2fWF9N/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Ai2fWF9N/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "kunanyi Mountain Run 25km Program for Women",
+      "bytes": 103848,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kunanyi Mountain Run: Mountain Run 25K"
+      ],
+      "sourceRecordIds": [
+        "receEYtGl3ZVg6ARR"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/aLFUiqEz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/aLFUiqEz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "UTA100 Program for Women",
+      "bytes": 100780,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ultra-Trail Australia: UTA100"
+      ],
+      "sourceRecordIds": [
+        "recOy5jxRaSuSuhlT"
+      ],
+      "expectedPrices": [
+        549
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GPT 100 Miler Staged (solo) Program for Women",
+      "bytes": 103094,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT 100 Mile Solo",
+        "GPT 100 Mile Staged",
+        "Grampians Peaks Trail Ultra: 100 Mile Solo",
+        "Grampians Peaks Trail Ultra: 100 Mile Staged Solo"
+      ],
+      "sourceRecordIds": [
+        "recRtX5oA6iZj1eS4",
+        "recWYNEchJBPsqvnu"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 4
+    },
+    {
+      "url": "https://www.hertrails.com/offers/AwH9y22H/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73215,
+      "identityNeedsReview": true,
+      "programs": [
+        "Feral Pig Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "rec5lEmgC7GGRXVhd"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/bTrRLMGr/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/bTrRLMGr/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60465,
+      "identityNeedsReview": true,
+      "programs": [
+        "Yandina Five O - 50K",
+        "Yandina Five ’O’ - 50K"
+      ],
+      "sourceRecordIds": [
+        "recliULW117vx4ztQ"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/bU4dTsyF/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/bU4dTsyF/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Kepler Challenge 60km Program for Women",
+      "bytes": 117105,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kepler Challenge 60km"
+      ],
+      "sourceRecordIds": [
+        "rec1RPISGtMGlVX5L"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/CHtc3AGp/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/CHtc3AGp/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60461,
+      "identityNeedsReview": true,
+      "programs": [
+        "Yandina Five O - 21K",
+        "Yandina Five ’O’ -  21K"
+      ],
+      "sourceRecordIds": [
+        "rec0VJ1yYYO3h6C5E"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/CJq4JzFW/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 74022,
+      "identityNeedsReview": true,
+      "programs": [
+        "Blackall 100",
+        "Blackall 100: 100K"
+      ],
+      "sourceRecordIds": [
+        "recxnBStS6EYwCKRB"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/CoESymVJ/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/CoESymVJ/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ikara Ultra NorthSouth 50+50 Program for Women",
+      "bytes": 92310,
+      "identityNeedsReview": false,
+      "programs": [
+        "Ikara Ultra NorthSouth 50+50"
+      ],
+      "sourceRecordIds": [
+        "recCZCXOJYSBvYLM5"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/cTgSAoLD/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/cTgSAoLD/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60467,
+      "identityNeedsReview": true,
+      "programs": [
+        "Federation Ultra Trail 26K"
+      ],
+      "sourceRecordIds": [
+        "recw7vZr6WtViSDF2"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/D9FEuqZs/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/D9FEuqZs/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Roller Coaster 46km Program for Women",
+      "bytes": 102201,
+      "identityNeedsReview": false,
+      "programs": [
+        "Roller Coaster Run: 46K Double Loop"
+      ],
+      "sourceRecordIds": [
+        "recT1TLPz11slkVqt"
+      ],
+      "expectedPrices": [
+        460
+      ],
+      "expectedWeeks": [
+        18
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/DEZoVXtu/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Run The Forest 21km Pohutu Geyser Trail Program for Women",
+      "bytes": 84576,
+      "identityNeedsReview": true,
+      "programs": [
+        "Rotorua Trail Festival 21K"
+      ],
+      "sourceRecordIds": [
+        "recLnNDYRqAIT8TXP"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73228,
+      "identityNeedsReview": true,
+      "programs": [
+        "Run the Lighthouse 50"
+      ],
+      "sourceRecordIds": [
+        "recSleW75jWWaa9me"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/e3kYFrjo/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail Pomona Sundowner 30km Program for Women",
+      "bytes": 90707,
+      "identityNeedsReview": false,
+      "programs": [
+        "Noosa Ultra-Trail:  30km Pomona Sundowner",
+        "Noosa Ultra-Trail: 30km Pomona Sundowner"
+      ],
+      "sourceRecordIds": [
+        "recIX8RvI5GJIF6mA"
+      ],
+      "expectedPrices": [
+        350
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/e5jTTP52/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/e5jTTP52/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73264,
+      "identityNeedsReview": true,
+      "programs": [
+        "Goldfields Pipeline Marathon 50"
+      ],
+      "sourceRecordIds": [
+        "recrEem5KbMjQkU8k"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ey5okEmT/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GPT100 Stage Race Team Relay Program for Women",
+      "bytes": 95534,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT100 Stage Race Team Relay",
+        "Grampians Peaks Trail 100 mile Team Relay [Staged] (3 person)"
+      ],
+      "sourceRecordIds": [
+        "recGtn10HTB4TiH41"
+      ],
+      "expectedPrices": [
+        380
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/FAq7LrTt/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/FAq7LrTt/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Buffalo SkyMarathon 42km Program for Women",
+      "bytes": 103682,
+      "identityNeedsReview": false,
+      "programs": [
+        "Buffalo Stampede: SkyMarathon 42K"
+      ],
+      "sourceRecordIds": [
+        "recIl8fBLy627yrgc"
+      ],
+      "expectedPrices": [
+        470
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Hounslow Classic 17km Program for Women",
+      "bytes": 85108,
+      "identityNeedsReview": false,
+      "programs": [
+        "Hounslow 17km",
+        "Hounslow 17km - 12 weeks"
+      ],
+      "sourceRecordIds": [
+        "recXqy6nb1Y671lpM"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/FQMZCEKy/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/FQMZCEKy/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Half Trail Marathon: Intermediate Program for Women",
+      "bytes": 98805,
+      "identityNeedsReview": false,
+      "programs": [
+        "Half Trail Marathon Program - Intermediate"
+      ],
+      "sourceRecordIds": [
+        "recHKISkJJNrcAR9q"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/frvKyC9N/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ultra-Trail Kosciuszko 100km by UTMB Program for Women",
+      "bytes": 100908,
+      "identityNeedsReview": false,
+      "programs": [
+        "UTMB Kosci 100km",
+        "Wilsons Prom 100km"
+      ],
+      "sourceRecordIds": [
+        "recDBkQEpxBQTJqAe",
+        "recaJxOlc4xHHs937"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/FurRFHQ4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/FurRFHQ4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Two Bays Ultra 56 km",
+      "bytes": 79531,
+      "identityNeedsReview": false,
+      "programs": [
+        "Two Bays Trail Run 56km"
+      ],
+      "sourceRecordIds": [
+        "recv2iiUhcLlsFfeo"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/gAcgvSV2/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Surf Coast Century 100km Relay (Team of 2) Program for Women",
+      "bytes": 121656,
+      "identityNeedsReview": false,
+      "programs": [
+        "Surf Coast Century Relay 100km (team of 2)"
+      ],
+      "sourceRecordIds": [
+        "recGa81EjzoNSjGlu"
+      ],
+      "expectedPrices": [
+        450
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/gQ2BctUD/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/gQ2BctUD/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Her Strength: Peri Power",
+      "bytes": 60067,
+      "identityNeedsReview": false,
+      "programs": [
+        "Her Strength: Peri Power"
+      ],
+      "sourceRecordIds": [
+        "recUDsaR88ElBBcSJ"
+      ],
+      "expectedPrices": [],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/gt2HJv6i/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/gt2HJv6i/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73219,
+      "identityNeedsReview": true,
+      "programs": [
+        "Lofty's Revenge 50"
+      ],
+      "sourceRecordIds": [
+        "recNoGltiy39ytiqs"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Gt8bHS3M/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ultra-Trail Kosciuszko 30km by UTMB Program for Women",
+      "bytes": 81492,
+      "identityNeedsReview": false,
+      "programs": [
+        "UTMB Kosci 30km",
+        "UTMB Kosci 32"
+      ],
+      "sourceRecordIds": [
+        "reco3HyosgpTLHMqJ"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/GUwyd8NX/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/GUwyd8NX/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 71040,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ikara Ultra 100 Mile"
+      ],
+      "sourceRecordIds": [
+        "recRXLlBm0McUWyFH"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/H2EooCX4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "60-65km Trail Ultra Build the mountains, perfect your descent",
+      "bytes": 125240,
+      "identityNeedsReview": true,
+      "programs": [
+        "Alpine Challenge 60"
+      ],
+      "sourceRecordIds": [
+        "recwNrAG5HkmrXcnf"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/hLZVLho3/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/hLZVLho3/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73197,
+      "identityNeedsReview": true,
+      "programs": [
+        "Gone Nuts 50"
+      ],
+      "sourceRecordIds": [
+        "recpH86KuGC8FYxBH"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Htai82FB/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Htai82FB/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60459,
+      "identityNeedsReview": true,
+      "programs": [
+        "Macedon Trail Run 10km"
+      ],
+      "sourceRecordIds": [
+        "rectjlhhc0hKodEGk"
+      ],
+      "expectedPrices": [
+        249
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Hyt9pBcU/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Hyt9pBcU/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Roller Coaster 12km Program for Women",
+      "bytes": 107294,
+      "identityNeedsReview": false,
+      "programs": [
+        "Roller Coaster Run: 12.4km"
+      ],
+      "sourceRecordIds": [
+        "recKUH5lsRnfa63xP"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/igGCodzH/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/igGCodzH/checkout",
+      "status": 404,
+      "ok": false,
+      "broken": true,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "The page you were looking for doesn't exist (404)",
+      "heading": "Hmm... the page you're looking for doesn't exist.",
+      "bytes": 9415,
+      "identityNeedsReview": false,
+      "programs": [
+        "Alpine Challenge",
+        "Alpine Challenge 100 Mile"
+      ],
+      "sourceRecordIds": [
+        "rec7t3fVuk7bcdT81"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/jevwazob/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/jevwazob/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73245,
+      "identityNeedsReview": true,
+      "programs": [
+        "Hume & Hovell Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "recydnlyWiNHv7zOi"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/jiB26aYn/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/jiB26aYn/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Buffalo Stampede 20km Program for Women",
+      "bytes": 111315,
+      "identityNeedsReview": false,
+      "programs": [
+        "Buffalo Stampede: Bright SkyRun 10k",
+        "Buffalo Stampede: Bright SkyRun 20K"
+      ],
+      "sourceRecordIds": [
+        "rec8Mn53jfSKbctMN",
+        "recnQzw5EkjIXYVdG"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/jm2v3dU4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "TCS Sydney Marathon Program for Women",
+      "bytes": 111932,
+      "identityNeedsReview": false,
+      "programs": [
+        "Sydney Marathon: 42.2K"
+      ],
+      "sourceRecordIds": [
+        "recBSTwQyahguvp2Z"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Kunanyi Alpine Marathon Climb the mountain, own the ridge",
+      "bytes": 107349,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kunanyi Mountain Run: Alpine Marathon 46K"
+      ],
+      "sourceRecordIds": [
+        "rec0pmkLGMqi34QDe"
+      ],
+      "expectedPrices": [
+        480
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/kMjrpU3L/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73235,
+      "identityNeedsReview": true,
+      "programs": [
+        "Heroes & Villains 50"
+      ],
+      "sourceRecordIds": [
+        "recZ67WvNznFJo8G7"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/kquTVB4D/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/kquTVB4D/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73243,
+      "identityNeedsReview": true,
+      "programs": [
+        "DIVERGE Mt Lyell Skyrun 50"
+      ],
+      "sourceRecordIds": [
+        "recAhuWBPyIzNPBLH"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/KxrSgHGF/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/KxrSgHGF/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73213,
+      "identityNeedsReview": true,
+      "programs": [
+        "Wilsons Prom Festival 50"
+      ],
+      "sourceRecordIds": [
+        "recQXB2Xovrv3LTyl"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/L3n9XfQH/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "4 Peaks Bright Alpine Climb Program for Women",
+      "bytes": 93044,
+      "identityNeedsReview": false,
+      "programs": [
+        "4 Peaks: Alpine multi staged program"
+      ],
+      "sourceRecordIds": [
+        "reccLC9pX4SMP5RHK"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/LGNSkDAB/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/LGNSkDAB/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Coast to Coast Mountain Run 30km · 16 Weeks Program for Women",
+      "bytes": 91088,
+      "identityNeedsReview": false,
+      "programs": [
+        "Coast to Coast Mountain Run (Mingha to Deception): 30.5km",
+        "Coast to Coast Mountain Run (Mingha-Deception): 30.5"
+      ],
+      "sourceRecordIds": [
+        "rechVo5J1lNI6JWqY"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/LnEKfdZg/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/LnEKfdZg/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73250,
+      "identityNeedsReview": true,
+      "programs": [
+        "Waterous Trail on Foot 50"
+      ],
+      "sourceRecordIds": [
+        "recAKnUpIOtArKPko"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/M7nSbzfF/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/M7nSbzfF/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Oscars Hut 2 Hut 50km Program for Women",
+      "bytes": 99545,
+      "identityNeedsReview": false,
+      "programs": [
+        "Oscars Hut 2 Hut 50km"
+      ],
+      "sourceRecordIds": [
+        "recj6XSh2aNJ7SbKi"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/mBLWy6kE/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/mBLWy6kE/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60489,
+      "identityNeedsReview": true,
+      "programs": [
+        "Run Larapinta Stage Race - Namatjira (Short Course)",
+        "Run Larapinta Stage Race – Namatjira (Short Course)"
+      ],
+      "sourceRecordIds": [
+        "recyG9rjAD2sowHv8"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/md9m2zJ8/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73237,
+      "identityNeedsReview": true,
+      "programs": [
+        "Heysen / Deep Creek 50"
+      ],
+      "sourceRecordIds": [
+        "recQruHUL1508NKHG"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/MFBNj7ro/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73213,
+      "identityNeedsReview": true,
+      "programs": [
+        "Yurrebilla 56K"
+      ],
+      "sourceRecordIds": [
+        "recx0VNH1k8f3jKVS"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/mL9WuEGz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/mL9WuEGz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Trail Marathon 42.2km Program for Women",
+      "bytes": 88941,
+      "identityNeedsReview": false,
+      "programs": [
+        "42.2km Trail Marathon Program"
+      ],
+      "sourceRecordIds": [
+        "rec4ZSKHqvMo6tiGt"
+      ],
+      "expectedPrices": [
+        380
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/MMLwNHkL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/MMLwNHkL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 74046,
+      "identityNeedsReview": true,
+      "programs": [
+        "Macedon Trail Run 21.1km"
+      ],
+      "sourceRecordIds": [
+        "recVOqL0gEIKTA4TP"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/mZi6BuoY/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/mZi6BuoY/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail Cross Country 25km Program for Women",
+      "bytes": 90723,
+      "identityNeedsReview": false,
+      "programs": [
+        "Noosa Ultra-Trail: 25K Cross Country"
+      ],
+      "sourceRecordIds": [
+        "rec9Fk6xME3aOEKLE"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/nCJFznkz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73237,
+      "identityNeedsReview": true,
+      "programs": [
+        "Marysville Marathon 50"
+      ],
+      "sourceRecordIds": [
+        "rechLd64einS6Ua83"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ndzzPsqG/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ndzzPsqG/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60664,
+      "identityNeedsReview": true,
+      "programs": [
+        "Convicts & Wenches 50"
+      ],
+      "sourceRecordIds": [
+        "recYz6mHHPweu8o03"
+      ],
+      "expectedPrices": [],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/NLwJ3wJs/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60674,
+      "identityNeedsReview": true,
+      "programs": [
+        "Great Ocean Trail Ultra 45"
+      ],
+      "sourceRecordIds": [
+        "recfj6avKfYlxbHsC"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/nQr3XFcN/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/nQr3XFcN/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Guzzler 50 (The Glass Half Full) Program for Women",
+      "bytes": 92352,
+      "identityNeedsReview": false,
+      "programs": [
+        "The Guzzler Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "recktvUNIAl0wpX3Q"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/nwL5wZpR/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "65km Standley Monster Program for Women",
+      "bytes": 121819,
+      "identityNeedsReview": false,
+      "programs": [
+        "65km Standley Monster"
+      ],
+      "sourceRecordIds": [
+        "rec4sz2FcGedjzMwA"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/o4c2o8CL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/o4c2o8CL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Buffalo Stampede 100km Program for Women",
+      "bytes": 91518,
+      "identityNeedsReview": false,
+      "programs": [
+        "Buffalo Stampede: Bright Ultra 100K"
+      ],
+      "sourceRecordIds": [
+        "rec0QkF8U28IEs9qe"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/oGZ2dkeh/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/oGZ2dkeh/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 61052,
+      "identityNeedsReview": true,
+      "programs": [
+        "The Guzzler Ultra 100"
+      ],
+      "sourceRecordIds": [
+        "rec2MyylkR8uhCFc2"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Grampians Peaks Trail 50km Program for Women",
+      "bytes": 92283,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT 50km (49.5km)",
+        "Grampians Peaks Trail Ultra: 50K"
+      ],
+      "sourceRecordIds": [
+        "recTp9J2l55SFY6F7"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/oUrPXmcL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/oUrPXmcL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60487,
+      "identityNeedsReview": true,
+      "programs": [
+        "Run Larapinta Stage Race - Malbunka (Long Course)",
+        "Run Larapinta Stage Race – Malbunka (Long Course)"
+      ],
+      "sourceRecordIds": [
+        "recR6gSaCrs05IKtv"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/p22MW2J6/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/p22MW2J6/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "50km Trail Ultra Ranges Tier: 1,500 to 2,500m Elevation 20-Week Program for Women",
+      "bytes": 98718,
+      "identityNeedsReview": false,
+      "programs": [
+        "50km Trail Ultra [Ranges - 1500 to 2500m]",
+        "Whaka Ultra 50K"
+      ],
+      "sourceRecordIds": [
+        "recQsvsiozSkTPH6y",
+        "recypBpPuBvrc7Hdr"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/p4mfWio2/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/p4mfWio2/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 56701,
+      "identityNeedsReview": true,
+      "programs": [
+        "Her Shift"
+      ],
+      "sourceRecordIds": [
+        "rec1XFN6QIXQkcKTX"
+      ],
+      "expectedPrices": [
+        97
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/pCjFmhUy/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Gold Coast Marathon Program for Women",
+      "bytes": 90684,
+      "identityNeedsReview": false,
+      "programs": [
+        "Gold Coast Marathon: 42.2K",
+        "Queenstown Marathon: 42.2k"
+      ],
+      "sourceRecordIds": [
+        "reccW9lu7MbjhXNfn",
+        "recnQlkfy1KEgiOwQ"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/PVSmTNyD/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/PVSmTNyD/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Roller Coaster 23km Program for Women",
+      "bytes": 124134,
+      "identityNeedsReview": false,
+      "programs": [
+        "Roller Coaster Run: 23km Double Loop"
+      ],
+      "sourceRecordIds": [
+        "recJZWWVt9AJwA01z"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/PyRFfEpr/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/PyRFfEpr/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Tarawera Ultra-Trail T21 Program for Women",
+      "bytes": 103026,
+      "identityNeedsReview": false,
+      "programs": [
+        "Tarawera Ultra-Trail by UTMB: T21"
+      ],
+      "sourceRecordIds": [
+        "recSip0esYN0NJyRM"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/qrRJMnAn/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/qrRJMnAn/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "5km Foundations Program for Women",
+      "bytes": 92474,
+      "identityNeedsReview": false,
+      "programs": [
+        "5km Foundations: For New Runners, Returners & Seekers of Balance"
+      ],
+      "sourceRecordIds": [
+        "recIIs5W01sh92Wxl"
+      ],
+      "expectedPrices": [
+        199
+      ],
+      "expectedWeeks": [
+        6
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/qUNgLqqe/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/qUNgLqqe/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60463,
+      "identityNeedsReview": true,
+      "programs": [
+        "Macedon Trail Run 30km"
+      ],
+      "sourceRecordIds": [
+        "recdUxTJGsf8gu31D"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Rbri99Kd/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Rbri99Kd/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60468,
+      "identityNeedsReview": true,
+      "programs": [
+        "Brisbane Trail Ultra 30 (BTU)"
+      ],
+      "sourceRecordIds": [
+        "recvB7k3WGhBzN1b6"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/REBfa7Kv/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Kunanyi Ultra Solo 66km Circumnavigate the mountain, own the whole day",
+      "bytes": 118126,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kunanyi Mountain Run: Ultra Solo 66km",
+        "Kunanyi Mountain Run: Ultra Solo 66km - 20 weeks"
+      ],
+      "sourceRecordIds": [
+        "rec5x40MLerA8xwzR"
+      ],
+      "expectedPrices": [
+        495
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/rEke2LPA/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/rEke2LPA/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "UTA22 Program for Women",
+      "bytes": 89443,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ultra-Trail Australia: UTA22",
+        "Ultra-Trail Australia: UTA22 week 8"
+      ],
+      "sourceRecordIds": [
+        "rec7CsGAXnWzl39jb"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/rmtTGhHu/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Macedon Trail Run 50km Program for Women",
+      "bytes": 83633,
+      "identityNeedsReview": false,
+      "programs": [
+        "Macedon 50km",
+        "Macedon Trail Run 50"
+      ],
+      "sourceRecordIds": [
+        "rec3ci4T7ZtmA6AYr",
+        "recPusPgPsm7iUmxG"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/rodo5tLj/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/rodo5tLj/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Two Bays Trail Run 28km",
+      "bytes": 86338,
+      "identityNeedsReview": false,
+      "programs": [
+        "Two Bays Trail Run 28km"
+      ],
+      "sourceRecordIds": [
+        "rec3FBDKfutjDoyf4"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Rsjwtzg9/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Surf Coast Century 100km Relay (Team of 4) Program for Women",
+      "bytes": 118234,
+      "identityNeedsReview": false,
+      "programs": [
+        "Surf Coast Century 100K Relay (team of 4)"
+      ],
+      "sourceRecordIds": [
+        "reckd54rsvsw9oe3A"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ruTfs5pd/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ruTfs5pd/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73246,
+      "identityNeedsReview": true,
+      "programs": [
+        "Elephant Trail Race (ETR50)"
+      ],
+      "sourceRecordIds": [
+        "recdJCOSxwlgFCoBc"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/S5rEUQH7/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/S5rEUQH7/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 74621,
+      "identityNeedsReview": true,
+      "programs": [
+        "Macedon Trail Run 42.2km"
+      ],
+      "sourceRecordIds": [
+        "recP1HD9gyluRt3ox"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Nike Melbourne Marathon Program for Women",
+      "bytes": 89628,
+      "identityNeedsReview": false,
+      "programs": [
+        "Nike Melbourne Marathon Festival: Marathon 42.2K"
+      ],
+      "sourceRecordIds": [
+        "recj0NjScucXoWJmt"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/SpddxDBE/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "UTA11 Program for Women",
+      "bytes": 91026,
+      "identityNeedsReview": true,
+      "programs": [
+        "Run the Forest (Rotorua): 10K",
+        "Ultra-Trail Australia: UTA11"
+      ],
+      "sourceRecordIds": [
+        "recDMT9NOl1zODJr3",
+        "recXZmpjhXXQV74xZ"
+      ],
+      "expectedPrices": [
+        249,
+        370
+      ],
+      "expectedWeeks": [
+        8,
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/SqmMLkcg/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/SqmMLkcg/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "50km Trail Ultra Coast & Forest: 1,000 to 1,500m Program for Women",
+      "bytes": 97893,
+      "identityNeedsReview": false,
+      "programs": [
+        "50km Trail Ultra [Coast & Forest 1000m to 1500m)"
+      ],
+      "sourceRecordIds": [
+        "rec7QnNVJobKwYe0C"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/sWJhVVqL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "SUM 50 12-Week Build for Women",
+      "bytes": 117913,
+      "identityNeedsReview": true,
+      "programs": [
+        "Sydney 50km Trail Ultra"
+      ],
+      "sourceRecordIds": [
+        "recjMmDJcauBZjs7I"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/SYAFKAAz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/SYAFKAAz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60467,
+      "identityNeedsReview": true,
+      "programs": [
+        "Brisbane Trail Ultra 110 (BTU)"
+      ],
+      "sourceRecordIds": [
+        "recKkHCumYdfpXo2c"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/SzNwzaMT/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Surf Coast Century 50km Program for Women",
+      "bytes": 114080,
+      "identityNeedsReview": false,
+      "programs": [
+        "Surf Coast Century: 50K"
+      ],
+      "sourceRecordIds": [
+        "recSSOY6XkRkgrkcb"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/t4sHWD7o/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Tarawera Ultra-Trail by UTMB T102 20 weeks of race-specific training for women",
+      "bytes": 92132,
+      "identityNeedsReview": false,
+      "programs": [
+        "Tarawera Ultra-Trail by UTMB: T102"
+      ],
+      "sourceRecordIds": [
+        "recu7zAv4R8jHQ8yN"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/TenXYSfk/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ultra-Trail Kosciuszko 50km by UTMB Program for Women",
+      "bytes": 81568,
+      "identityNeedsReview": false,
+      "programs": [
+        "UTMB Kosci 50km"
+      ],
+      "sourceRecordIds": [
+        "recTwdTPS6KtCYT00"
+      ],
+      "expectedPrices": [
+        549
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/TRYgWB6J/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/TRYgWB6J/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Ikara Ultra 50 Mile Program for Women",
+      "bytes": 94055,
+      "identityNeedsReview": false,
+      "programs": [
+        "Ikara Ultra 50 Mile"
+      ],
+      "sourceRecordIds": [
+        "recBDfnCHgMLbUsys"
+      ],
+      "expectedPrices": [
+        475
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ubvvhgVv/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail Out'N'Back 50km Program for Women",
+      "bytes": 95465,
+      "identityNeedsReview": false,
+      "programs": [
+        "Noosa Ultra-Trail: 50K Out'n'Back",
+        "Noosa Ultra-Trail: 50K Out’n’Back"
+      ],
+      "sourceRecordIds": [
+        "recjP0T4whGmfqYqB"
+      ],
+      "expectedPrices": [
+        460
+      ],
+      "expectedWeeks": [
+        18
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/UsejcnH5/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Road Marathon Program for Women",
+      "bytes": 85075,
+      "identityNeedsReview": true,
+      "programs": [
+        "42.2km Road Program",
+        "ASICS Runaway Hawke's Bay Marathon: 42.2K",
+        "ASICS Runaway Hawke’s Bay Marathon: 42.2K",
+        "Brisbane Marathon Festival: Marathon 42.2K",
+        "Cairns Marathon: 42.2K",
+        "Gazley Volkswagen Wellington Marathon: 42.2K",
+        "Outback Marathon: 42.2K",
+        "Run the Forest (Rotorua): Half Marathon 21K",
+        "Sunshine Coast Marathon: 42.2K",
+        "Townsville Running Festival: Marathon 42.2K"
+      ],
+      "sourceRecordIds": [
+        "rec5IFrrNhpJO4FQv",
+        "rec68vDTmDFeSW6rj",
+        "rec6uzbPj1y3aEg4U",
+        "recLDL7MEIiXG3uLs",
+        "recT0O307B8GQdvfy",
+        "recbThPk2TjhNEImR",
+        "reccVNzgMpSGLcSKw",
+        "receuJJGhdFNTyG1E",
+        "recg2kJGX687f5Vsq"
+      ],
+      "expectedPrices": [
+        335,
+        380,
+        420
+      ],
+      "expectedWeeks": [
+        12,
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 10
+    },
+    {
+      "url": "https://www.hertrails.com/offers/UXgEzJoa/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/UXgEzJoa/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Buffalo Stampede 100km Relay",
+      "bytes": 98930,
+      "identityNeedsReview": false,
+      "programs": [
+        "Buffalo Stampede: Bright Ultra 100K Relay"
+      ],
+      "sourceRecordIds": [
+        "recYL7AfM2O3SZnpb"
+      ],
+      "expectedPrices": [
+        380
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Uxzfrotv/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Uxzfrotv/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73240,
+      "identityNeedsReview": true,
+      "programs": [
+        "Lakes Trail Festival 50"
+      ],
+      "sourceRecordIds": [
+        "rec3p4n7vmexmnVbG"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/vnpzvHhr/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/vnpzvHhr/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "UTA50 Program for Women",
+      "bytes": 89598,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ultra-Trail Australia: UTA50"
+      ],
+      "sourceRecordIds": [
+        "reczy0iBoo7J2B7sW"
+      ],
+      "expectedPrices": [
+        549
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/vtquSYao/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/vtquSYao/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73219,
+      "identityNeedsReview": true,
+      "programs": [
+        "Maroondah Dam 50"
+      ],
+      "sourceRecordIds": [
+        "recchKrJEE5niGsye"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/vuJNPWFn/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/vuJNPWFn/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73212,
+      "identityNeedsReview": true,
+      "programs": [
+        "Belair 50km Ultra"
+      ],
+      "sourceRecordIds": [
+        "recc1aVib4W2U07Xf"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/WjmSeT6u/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GPT100 Miler Team Relay Program for Women",
+      "bytes": 95853,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT100 Miler Team Relay - Continuous",
+        "Grampians Peaks Trail: 100 Mile Team Relay [continuous] (4 person)"
+      ],
+      "sourceRecordIds": [
+        "recCAIGvojWhxez0G"
+      ],
+      "expectedPrices": [
+        380
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/wmcJLUHH/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/wmcJLUHH/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60464,
+      "identityNeedsReview": true,
+      "programs": [
+        "Brisbane Trail Ultra 60 (BTU)"
+      ],
+      "sourceRecordIds": [
+        "recb84phlxq0HBddH"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Wo7xRLAL/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Wo7xRLAL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60652,
+      "identityNeedsReview": true,
+      "programs": [
+        "Mt Solitary Ultra 45"
+      ],
+      "sourceRecordIds": [
+        "recmEdnwU5ng7a624"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/xkjUA9MG/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/xkjUA9MG/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail 100km Program for Women",
+      "bytes": 83282,
+      "identityNeedsReview": true,
+      "programs": [
+        "Noosa Ultra Trail: 100k"
+      ],
+      "sourceRecordIds": [
+        "recC18C6MWYogUn2P"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/xPpAw5yj/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/xPpAw5yj/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60662,
+      "identityNeedsReview": true,
+      "programs": [
+        "Walhalla Wound Up 50"
+      ],
+      "sourceRecordIds": [
+        "recc6hicHli82gB8o"
+      ],
+      "expectedPrices": [],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/XpQqMw28/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Heysen Trail Ultra 115km Rocky Creek to Victor Harbor, 20-week build",
+      "bytes": 82083,
+      "identityNeedsReview": false,
+      "programs": [
+        "Heysen Trail Ultra: 115km"
+      ],
+      "sourceRecordIds": [
+        "recYIEWvEboOSia2a"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        24
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/XPYFDk53/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GSER 56km · 20 Week Training Program",
+      "bytes": 87468,
+      "identityNeedsReview": true,
+      "programs": [
+        "GSER: 56K"
+      ],
+      "sourceRecordIds": [
+        "rec49EGB3QrKMPpob"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/XxzsfFXr/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73234,
+      "identityNeedsReview": true,
+      "programs": [
+        "Collie River Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "recM4YEb8GArfG7qE"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Y6Uwkd76/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Y6Uwkd76/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Tarawera 50km A 20-Week Program for Women",
+      "bytes": 93809,
+      "identityNeedsReview": true,
+      "programs": [
+        "Tarawera Ultra-Trail by UTMB: T50"
+      ],
+      "sourceRecordIds": [
+        "recXzzJFAsv90d5xK"
+      ],
+      "expectedPrices": [
+        450
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/yengwzXc/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/yengwzXc/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73234,
+      "identityNeedsReview": true,
+      "programs": [
+        "WildBoar Trail Run 50"
+      ],
+      "sourceRecordIds": [
+        "recfpWnofAOHYt7He"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/YNjZFpBR/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Bondi to Manly Relay Program for Women",
+      "bytes": 88808,
+      "identityNeedsReview": false,
+      "programs": [
+        "Bondi to Manly 80km (Team relay)"
+      ],
+      "sourceRecordIds": [
+        "recNcOpkQJWI2oNiZ"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/YvNeBKbB/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73255,
+      "identityNeedsReview": true,
+      "programs": [
+        "NYE Rock Around the Clock 50"
+      ],
+      "sourceRecordIds": [
+        "recoJ7YuEQ4MNci4M"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GSER 28km Program for Women",
+      "bytes": 85402,
+      "identityNeedsReview": true,
+      "programs": [
+        "GSER: 28K"
+      ],
+      "sourceRecordIds": [
+        "rec7r0jobxvfWHZcy"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ZU23fHwo/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ZU23fHwo/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73238,
+      "identityNeedsReview": true,
+      "programs": [
+        "You Yangs Festival 50"
+      ],
+      "sourceRecordIds": [
+        "rectlCZE0STjurdlp"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Zvxo6pgb/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 73247,
+      "identityNeedsReview": true,
+      "programs": [
+        "Lonely Mountain Ultra 50"
+      ],
+      "sourceRecordIds": [
+        "recJijgzI7tXaFCaf"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/zWemmaPa/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/zWemmaPa/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "10km Trail Foundations Program for Women",
+      "bytes": 94824,
+      "identityNeedsReview": false,
+      "programs": [
+        "10km Foundations New or Returning to Run"
+      ],
+      "sourceRecordIds": [
+        "recUIM2kEySNBWz3T"
+      ],
+      "expectedPrices": [
+        220
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "program finder"
+      ],
+      "sharedByPrograms": 1
+    }
+  ]
+}
