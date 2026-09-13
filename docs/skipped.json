@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:14:01.794Z",
+  "generatedAt": "2026-09-13T16:18:50.504Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Alpine Challenge 100 Mile",
-      "why": "No customer checkout link"
+      "why": "Archived"
     },
     {
       "name": "Coastal Classic: 30km",
@@ -56,6 +56,10 @@
     {
       "name": "Snowy Mountains UTRA50",
       "why": "No race date"
+    },
+    {
+      "name": "Wilsons Prom 100km",
+      "why": "No customer checkout link"
     },
     {
       "name": "Her Stride",
@@ -203,6 +207,10 @@
     },
     {
       "name": "Blackall100: 100K",
+      "why": "Archived"
+    },
+    {
+      "name": "Buffalo Stampede: Bright SkyRun 10k",
       "why": "Archived"
     },
     {

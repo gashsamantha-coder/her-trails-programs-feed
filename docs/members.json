@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T16:14:01.794Z",
+  "generatedAt": "2026-09-13T16:18:50.504Z",
   "today": "2026-09-13",
-  "count": 141,
+  "count": 139,
   "programs": [
     {
       "id": "rec3nL9RogiHiQh3x",
@@ -1888,39 +1888,6 @@
       "link": "https://www.hertrails.com/offers/UXgEzJoa/checkout"
     },
     {
-      "id": "recnQzw5EkjIXYVdG",
-      "name": "Buffalo Stampede: Bright SkyRun 10k",
-      "sub": "Bright · 16 weeks",
-      "location": "Bright",
-      "tagline": "20km skyrunning race from Bright. Fast, technical Victorian Alps course.",
-      "startDateDisplay": "Nov 2026",
-      "distKm": "20km",
-      "km": 20,
-      "weeks": 16,
-      "dist": "half",
-      "cat": "Trail Half",
-      "cc": "#597b52",
-      "event": "buffalo",
-      "eventLabel": "Buffalo",
-      "openDateISO": "2026-11-30",
-      "raceDateISO": "2027-03-20",
-      "raceDateDisplay": "Mar 2027",
-      "raceMonth": 3,
-      "startMonth": 11,
-      "elevGainDisplay": "1,400m",
-      "dur": "14-16",
-      "elev": "high",
-      "elevClass2": "Hilly",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)",
-        "Mountain"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/jiB26aYn/checkout"
-    },
-    {
       "id": "recchKrJEE5niGsye",
       "name": "Maroondah Dam 50",
       "sub": "VIC, Australia · 20 weeks",
@@ -2113,39 +2080,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
-    },
-    {
-      "id": "recDBkQEpxBQTJqAe",
-      "name": "Wilsons Prom 100km",
-      "sub": "Wilsons Promontory · 20 weeks",
-      "location": "Wilsons Promontory",
-      "tagline": "Official 100km race starting and finishing at the Australian Commando Memorial, Ring Rd, Tidal River VIC 3960. Start time 6:00am, approximately 3,500m ascent/descent and a 24-hour cut-off. No drop bags are available because of remote aid-station access.",
-      "startDateDisplay": "Dec 2026",
-      "distKm": "100km",
-      "km": 100,
-      "weeks": 20,
-      "dist": "mountain",
-      "cat": "Mountain Ultra",
-      "cc": "#3d5a4c",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-12-14",
-      "raceDateISO": "2027-05-01",
-      "raceDateDisplay": "May 2027",
-      "raceMonth": 5,
-      "startMonth": 12,
-      "elevGainDisplay": "3,500m",
-      "dur": "18-20",
-      "elev": "high",
-      "elevClass2": "Mountain",
-      "techRating": "Moderate",
-      "tier": null,
-      "tags": [
-        "100km Trail Ultra",
-        "Coastal"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/frvKyC9N/checkout"
     },
     {
       "id": "recE3agjLlCcBdDC9",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:14:01.794Z",
+  "generatedAt": "2026-09-13T16:18:50.504Z",
   "today": "2026-09-13",
   "hierarchy": [
     "exact",
@@ -995,7 +995,7 @@
       "id": "recFPuxWk38Oj7uV1",
       "sourceRecordId": "recXZmpjhXXQV74xZ",
       "name": "Run the Forest (Rotorua): 10K",
-      "weeks": 8,
+      "weeks": 12,
       "description": null,
       "raceCategories": [],
       "terrainCategories": [],
@@ -4418,8 +4418,8 @@
         "raceDate": "2027-05-01",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
