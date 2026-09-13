@@ -27,6 +27,28 @@ const F = {
   memberStatus: 'fldL4UbccSJwlc7AR', // "Member Feed Status" formula field in Airtable — "Publishing" or a skip reason
 };
 
+const FINDER_PROGRAMS_TABLE = 'tblWNfDzq6pmKlbCG';
+const FINDER_RACES_TABLE = 'tblAHqO3OVzWPYiKa';
+const PF = {
+  name:'fld6j0M7fnpaBnkCI', sourceId:'fld1zzv5x4NUxOEtH', weeks:'fldm1HZSGggRtYkIR',
+  description:'fldk9e2HTwXLGoLL9', raceCategories:'fldG7puWsxLEf358n',
+  terrainCategories:'fldIvTWocU6ocr1p0', distanceMin:'fldvhvoEQHtHujqmO',
+  distanceMax:'fldCx0adrgI4emkHy', elevationMin:'fldd6x4wvBRw8Qaut',
+  elevationMax:'fldXOG4qnS6LKs8Te', technicality:'fldNkoBtqSRdxxbsQ',
+  timeOnFeet:'fld9ppDNjIj1urhva', tier50:'fldkx4BZyFYQfOra5',
+  eligible:'fldiMOhMnRobtfEcS', priority:'fld7Ldtwb4ywTWnz1',
+};
+const RF = {
+  name:'fld9PbaWAE2Wb37M8', date:'fld7k4al6tVwxLihu', distance:'fldaYzYE4aAACtfbG',
+  elevation:'fld7tmmdhPUlNuM5y', terrain:'fldclhDRPbvwZZqvq', environment:'fldinlEt0AVsnwTsp',
+  categories:'fldHfNLfWJL28j6Ww', timeOnFeet:'fldp326hdnIbXIPv3',
+  tier50:'fldwVst9xAQStCPKc', status:'fldNqwoVfRNw5j3Dp',
+  exact:'fldTmeEirOdW0BksG', curated1:'fldzi1QcOn1uaFxBk', why1:'fldyC75vPmVHCbAU4',
+  curated2:'fldy54ZGdGc9lajLU', why2:'fldDR6jejrnMKpvFr',
+  curated3:'fldAXVxbsH0LFqdvO', why3:'fld2uYzbP3GR83IlY',
+  role:'fld98je93Wb4yU660', technicality:'fldh37Ck1PfS9LIL8',
+};
+
 // Turn a Program offer url into its /checkout variant. Used for every program
 // category — including Recommended — so there is exactly one checkout-link
 // field and exactly one place that builds the URL from it.
@@ -51,14 +73,14 @@ const TIER_LINE = {
   'T2-T3 borderline':      'Ranges terrain edging into alpine, with steep and exposed sections.',
 };
 
-async function fetchAll() {
+async function fetchTable(table, fields) {
   const out = [];
   let offset;
   do {
-    const u = new URL(`https://api.airtable.com/v0/${BASE}/${TABLE}`);
+    const u = new URL(`https://api.airtable.com/v0/${BASE}/${table}`);
     u.searchParams.set('returnFieldsByFieldId', 'true');
     u.searchParams.set('pageSize', '100');
-    Object.values(F).forEach(id => u.searchParams.append('fields[]', id));
+    fields.forEach(id => u.searchParams.append('fields[]', id));
     if (offset) u.searchParams.set('offset', offset);
     const r = await fetch(u, { headers: { Authorization: `Bearer ${TOKEN}` } });
     if (!r.ok) throw new Error(`Airtable ${r.status}: ${await r.text()}`);
@@ -68,6 +90,7 @@ async function fetchAll() {
   } while (offset);
   return out;
 }
+const fetchAll = () => fetchTable(TABLE, Object.values(F));
 
 const iso = d => d.toISOString().slice(0, 10);
 function mondayStart(raceISO, weeks) {
@@ -266,6 +289,172 @@ function transformMembers(records, today) {
   return { rows, skipped };
 }
 
+const many = v => (v || []).map(sel).filter(Boolean);
+const linkIds = v => (v || []).map(x => x && x.id).filter(Boolean);
+const clean = v => String(v || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const TECH = { low:1, moderate:2, high:3 };
+
+function rangeScore(value, min, max, weight) {
+  if (typeof value !== 'number' || typeof min !== 'number' || typeof max !== 'number') return { score:0, available:false };
+  if (value >= min && value <= max) return { score:weight, available:true };
+  const span = Math.max(max - min, Math.max(max * 0.25, 10));
+  const gap = value < min ? min - value : value - max;
+  return { score:Math.max(0, weight * (1 - gap / span)), available:true };
+}
+function terrainKeys(values) {
+  const s = clean((values || []).join(' ')), out = new Set();
+  const tests = {
+    road:/road/, urban:/urban|light trail/, runnable:/runnable|flowing/,
+    coast:/coast|sand|beach/, forest:/forest|rainforest|bushland|eucalyptus/,
+    mountain:/range|mountain|skyrun|hinterland/, alpine:/alpine|high country/,
+    technical:/technical|rock|scree|singletrack/, steep:/stair|steep|pinch/,
+    remote:/remote|self supported|outback|desert/,
+  };
+  for (const [k, re] of Object.entries(tests)) if (re.test(s)) out.add(k);
+  return out;
+}
+function intersectionCount(a, b) {
+  let n = 0;
+  for (const x of a) if (b.has(x)) n++;
+  return n;
+}
+function scoreProgram(race, program) {
+  let score = 0, availableWeight = 0;
+  const factors = [], mismatches = [];
+  const dist = rangeScore(race.distance, program.distanceMin, program.distanceMax, 35);
+  score += dist.score; if (dist.available) availableWeight += 35;
+  if (dist.score >= 30) factors.push('distance'); else if (dist.available && dist.score < 15) mismatches.push('distance');
+
+  const elev = rangeScore(race.elevation, program.elevationMin, program.elevationMax, 25);
+  score += elev.score; if (elev.available) availableWeight += 25;
+  if (elev.score >= 20) factors.push('elevation'); else if (elev.available && elev.score < 10) mismatches.push('elevation');
+
+  const raceCats = new Set(race.categories.map(clean));
+  const progCats = new Set(program.raceCategories.map(clean));
+  const catOverlap = intersectionCount(raceCats, progCats);
+  const raceTerrain = terrainKeys([race.terrain, race.environment, ...race.categories]);
+  const progTerrain = terrainKeys([...program.terrainCategories, ...program.raceCategories]);
+  const terrainOverlap = intersectionCount(raceTerrain, progTerrain);
+  availableWeight += 20;
+  const terrainScore = Math.min(20, (catOverlap ? 10 : 0) + Math.min(10, terrainOverlap * 5));
+  score += terrainScore;
+  if (terrainScore >= 10) factors.push('terrain'); else mismatches.push('terrain');
+
+  if (race.technicality && program.technicality.length) {
+    availableWeight += 5;
+    const exact = program.technicality.map(clean).includes(clean(race.technicality));
+    const best = Math.max(...program.technicality.map(x => TECH[clean(x)] || 0));
+    const rv = TECH[clean(race.technicality)] || 0;
+    const techScore = exact ? 5 : (best >= rv ? 3 : 0);
+    score += techScore;
+    if (techScore >= 3) factors.push('technicality'); else mismatches.push('technicality');
+  }
+
+  if (race.timeOnFeet && program.timeOnFeet.length) {
+    availableWeight += 5;
+    const tofScore = program.timeOnFeet.map(clean).includes(clean(race.timeOnFeet)) ? 5 : 0;
+    score += tofScore;
+    if (tofScore) factors.push('time on feet'); else mismatches.push('time on feet');
+  }
+
+  const is50 = race.distance >= 45 && race.distance <= 60;
+  if (is50 && race.tier50 && program.tier50.length) {
+    availableWeight += 10;
+    const tierScore = program.tier50.map(clean).includes(clean(race.tier50)) ? 10 : 0;
+    score += tierScore;
+    if (tierScore) factors.push('50km demand tier'); else mismatches.push('50km demand tier');
+  }
+
+  const pct = availableWeight ? Math.round(score / availableWeight * 100) : 0;
+  return { score:pct, factors:[...new Set(factors)], mismatches:[...new Set(mismatches)] };
+}
+function calculatedReason(program, result) {
+  const good = result.factors.slice(0, 3).join(', ');
+  const caution = result.mismatches.slice(0, 2).join(' and ');
+  let out = good ? `This is the strongest calculated fit for the race's ${good}.` : 'This is the closest available programme match.';
+  if (caution) out += ` The ${caution} fit is less exact, so bring that part to Coaching Corner.`;
+  return out;
+}
+function sourceSale(rec, today) {
+  if (!rec) return null;
+  const f = rec.fields, url = f[F.offerUrl] || '';
+  const publishable = f[F.memberStatus] === 'Publishing' && isCustomerOfferUrl(url);
+  let start = f[F.startDate] || null;
+  const weeks = Number(f[F.weeks]) || null, raceDate = f[F.raceDate] || null;
+  if (!start && raceDate && weeks) start = mondayStart(raceDate, weeks);
+  return {
+    sourceRecordId:rec.id, name:(f[F.name] || '').trim(), weeks,
+    startDate:start, raceDate:raceDate && raceDate >= today ? raceDate : null,
+    price:typeof f[F.price] === 'number' ? f[F.price] : null,
+    plan:(f[F.plan] || '').trim() || null,
+    checkoutUrl:publishable ? toCheckoutUrl(url) : null,
+    available:publishable,
+  };
+}
+function transformFinder(raceRecords, programRecords, sourceRecords, today) {
+  const sourceById = new Map(sourceRecords.map(r => [r.id, r]));
+  const programs = programRecords.map(rec => {
+    const f = rec.fields, sourceId = f[PF.sourceId] || null;
+    return {
+      id:rec.id, sourceRecordId:sourceId, name:(f[PF.name] || '').trim(),
+      weeks:Number(f[PF.weeks]) || null, description:(f[PF.description] || '').trim() || null,
+      raceCategories:many(f[PF.raceCategories]), terrainCategories:many(f[PF.terrainCategories]),
+      distanceMin:f[PF.distanceMin] ?? null, distanceMax:f[PF.distanceMax] ?? null,
+      elevationMin:f[PF.elevationMin] ?? null, elevationMax:f[PF.elevationMax] ?? null,
+      technicality:many(f[PF.technicality]), timeOnFeet:many(f[PF.timeOnFeet]),
+      tier50:many(f[PF.tier50]), eligible:f[PF.eligible] === true,
+      priority:Number(f[PF.priority]) || 999, sale:sourceSale(sourceById.get(sourceId), today),
+    };
+  }).filter(p => p.name);
+  const programById = new Map(programs.map(p => [p.id, p]));
+  const calculatedPool = programs.filter(p => p.eligible && p.sale && p.sale.available);
+
+  const races = [];
+  for (const rec of raceRecords) {
+    const f = rec.fields;
+    if (sel(f[RF.role]) !== 'Physical Race') continue;
+    const race = {
+      id:rec.id, name:(f[RF.name] || '').trim(), raceDate:(f[RF.date] || null),
+      distance:typeof f[RF.distance] === 'number' ? f[RF.distance] : null,
+      elevation:typeof f[RF.elevation] === 'number' ? f[RF.elevation] : null,
+      terrain:(f[RF.terrain] || '').trim() || null, environment:(f[RF.environment] || '').trim() || null,
+      categories:many(f[RF.categories]), technicality:sel(f[RF.technicality]),
+      timeOnFeet:sel(f[RF.timeOnFeet]), tier50:sel(f[RF.tier50]), finderStatus:sel(f[RF.status]),
+    };
+    if (race.raceDate && race.raceDate < today) race.raceDate = null;
+
+    let recommendations = [];
+    const addLinks = (field, kind, reason) => {
+      for (const id of linkIds(f[field])) {
+        const p = programById.get(id);
+        if (p) recommendations.push({ programId:id, kind, reason:reason || null });
+      }
+    };
+    if (race.finderStatus === 'Exact event-specific program') {
+      addLinks(RF.exact, 'exact', 'Her Trails has a programme built specifically for this event.');
+    } else if (race.finderStatus === 'Curated recommendation') {
+      addLinks(RF.curated1, 'curated', f[RF.why1]);
+      addLinks(RF.curated2, 'curated', f[RF.why2]);
+      addLinks(RF.curated3, 'curated', f[RF.why3]);
+    } else {
+      recommendations = calculatedPool.map(p => ({ p, result:scoreProgram(race, p) }))
+        .sort((a,b) => b.result.score - a.result.score || a.p.priority - b.p.priority || a.p.name.localeCompare(b.p.name))
+        .slice(0, 3)
+        .map(({p,result}) => ({ programId:p.id, kind:'calculated', score:result.score, reason:calculatedReason(p, result) }));
+    }
+    races.push({ ...race, recommendations });
+  }
+  races.sort((a,b) => a.name.localeCompare(b.name));
+  return {
+    generatedAt:new Date().toISOString(), today,
+    hierarchy:['exact','curated','calculated'],
+    scoringWeights:{ distance:35, elevation:25, terrain:20, technicality:5, timeOnFeet:5, tier50:10 },
+    caveat:'Time-on-feet contributes only when the race has a populated band. Readiness guidance is advisory and configured separately.',
+    counts:{ races:races.length, programs:programs.length, calculatedPool:calculatedPool.length },
+    programs, races,
+  };
+}
+
 function assertFeedIntegrity(rows, today) {
   const failures = [];
   for (const p of rows) {
@@ -280,10 +469,15 @@ function assertFeedIntegrity(rows, today) {
 }
 
 const today = iso(new Date());
-const records = await fetchAll();
+const [records, finderProgramRecords, finderRaceRecords] = await Promise.all([
+  fetchAll(),
+  fetchTable(FINDER_PROGRAMS_TABLE, Object.values(PF)),
+  fetchTable(FINDER_RACES_TABLE, Object.values(RF)),
+]);
 const { rows, skipped } = transform(records, today);
 assertFeedIntegrity(rows, today);
 const members = transformMembers(records, today);
+const finder = transformFinder(finderRaceRecords, finderProgramRecords, records, today);
 const payload = { generatedAt: new Date().toISOString(), today, count: rows.length, programs: rows };
 const membersPayload = { generatedAt: payload.generatedAt, today, count: members.rows.length, programs: members.rows };
 await import('node:fs').then(fs => {
@@ -292,7 +486,8 @@ await import('node:fs').then(fs => {
   fs.writeFileSync('docs/skipped.json', JSON.stringify({ generatedAt: payload.generatedAt, skipped }, null, 2));
   fs.writeFileSync('docs/members.json', JSON.stringify(membersPayload, null, 2));
   fs.writeFileSync('docs/members-skipped.json', JSON.stringify({ generatedAt: payload.generatedAt, skipped: members.skipped }, null, 2));
+  fs.writeFileSync('docs/finder.json', JSON.stringify(finder, null, 2));
 });
-console.log(`Published ${rows.length} public programs (skipped ${skipped.length}) and ${members.rows.length} member programs (skipped ${members.skipped.length}).`);
+console.log(`Published ${rows.length} public programs (skipped ${skipped.length}), ${members.rows.length} member programs (skipped ${members.skipped.length}), and ${finder.races.length} finder races.`);
 for (const s of skipped) console.log(`  public skip  ${s.name}  (${s.why})`);
 for (const s of members.skipped) console.log(`  member skip  ${s.name}  (${s.why})`);
