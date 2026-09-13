@@ -62,6 +62,74 @@ for (const program of finderFeed.programs || []) {
   });
 }
 
+const airtableFields = {
+  name: "fldk7hRn85v7PKHfs",
+  weeks: "fld3KJAASkyUQuJQ8",
+  price: "fldsHiRBqDFuoeZe5",
+  publicStatus: "fldg3lF0dxXNp1mq3",
+  memberStatus: "fldL4UbccSJwlc7AR",
+  urls: {
+    "Program offer": "fldE1uSdOFE4GN1Nn",
+    "Recommended Program offer": "fldxdjUkVzMYntL2g",
+    "Recommended Program Name (legacy URL data)": "fld9TxnewuelBz3bk",
+    "Kajabi Product Link": "fldzPAoC1OusaiJgI",
+    "Recommended Offer Link": "fldtzp8LqN45ERS7a",
+  },
+};
+
+async function fetchSourceRecords() {
+  const token = process.env.AIRTABLE_TOKEN;
+  if (!token) return [];
+  const records = [];
+  let offset = null;
+  do {
+    const params = new URLSearchParams({
+      pageSize: "100",
+      returnFieldsByFieldId: "true",
+    });
+    for (const fieldId of [
+      airtableFields.name,
+      airtableFields.weeks,
+      airtableFields.price,
+      airtableFields.publicStatus,
+      airtableFields.memberStatus,
+      ...Object.values(airtableFields.urls),
+    ]) {
+      params.append("fields[]", fieldId);
+    }
+    if (offset) params.set("offset", offset);
+    const response = await fetch(
+      "https://api.airtable.com/v0/appdX0V5prYYgR9Jm/tblHODgkd3uMS1nAM?" + params,
+      { headers: { Authorization: "Bearer " + token } },
+    );
+    if (!response.ok) {
+      throw new Error("Airtable source fetch failed: " + response.status + " " + await response.text());
+    }
+    const page = await response.json();
+    records.push(...page.records);
+    offset = page.offset || null;
+  } while (offset);
+  return records;
+}
+
+for (const record of await fetchSourceRecords()) {
+  const fields = record.fields || {};
+  const statuses = [fields[airtableFields.publicStatus], fields[airtableFields.memberStatus]]
+    .filter(Boolean)
+    .join(" / ");
+  for (const [label, fieldId] of Object.entries(airtableFields.urls)) {
+    const url = fields[fieldId];
+    if (!/^https:\/\/(?:www\.)?hertrails\.com\/offers\//i.test(String(url || "").trim())) continue;
+    addOffer(url, {
+      name: fields[airtableFields.name],
+      sourceRecordId: record.id,
+      price: fields[airtableFields.price],
+      weeks: fields[airtableFields.weeks],
+      surface: "source: " + label + (statuses ? " [" + statuses + "]" : ""),
+    });
+  }
+}
+
 const decode = (value = "") => value
   .replace(/&amp;/gi, "&")
   .replace(/&quot;/gi, '"')
