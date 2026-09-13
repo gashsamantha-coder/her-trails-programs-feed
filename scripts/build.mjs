@@ -290,7 +290,7 @@ function transformMembers(records, today) {
 }
 
 const many = v => (v || []).map(sel).filter(Boolean);
-const linkIds = v => (v || []).map(x => x && x.id).filter(Boolean);
+const linkIds = v => (v || []).map(x => typeof x === 'string' ? x : (x && x.id)).filter(Boolean);
 const clean = v => String(v || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 const TECH = { low:1, moderate:2, high:3 };
 
@@ -445,6 +445,10 @@ function transformFinder(raceRecords, programRecords, sourceRecords, today) {
     races.push({ ...race, recommendations });
   }
   races.sort((a,b) => a.name.localeCompare(b.name));
+  const unrouted = races.filter(r => !r.recommendations.length);
+  if (unrouted.length) {
+    throw new Error(`Finder routing failed for ${unrouted.length} physical races:\n${unrouted.map(r => r.name).join('\n')}`);
+  }
   return {
     generatedAt:new Date().toISOString(), today,
     hierarchy:['exact','curated','calculated'],
