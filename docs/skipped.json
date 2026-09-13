@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:31:43.020Z",
+  "generatedAt": "2026-09-13T04:43:17.791Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -176,6 +176,10 @@
     {
       "name": "Race Ready: Taper, Race Week and Recovery",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Hounslow Classic: Marathon 43km",
+      "why": "Race already run"
     },
     {
       "name": "100km Trail Ultra Program 2025",

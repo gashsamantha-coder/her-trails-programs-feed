@@ -1,29 +1,8 @@
 {
-  "generatedAt": "2026-09-12T20:31:43.020Z",
-  "today": "2026-09-12",
-  "count": 118,
+  "generatedAt": "2026-09-13T04:43:17.791Z",
+  "today": "2026-09-13",
+  "count": 116,
   "programs": [
-    {
-      "id": "recj60iklTvAEXMRs",
-      "name": "Hounslow Classic: Marathon 43km",
-      "category": "Event Based Programs",
-      "location": "Blue Mountains",
-      "km": 43,
-      "elevation": 2500,
-      "tier": null,
-      "tags": [
-        "42.2km Trail Marathon",
-        "Mountain"
-      ],
-      "tagline": "Starting at Allview Escape, runners make their way across the stony clifftops to the Grand Canyon, heading clockwise through the canyon to Evans Lookout, descending into carved canyon walls and swirling pools, then climbing back to Neates Glen and the Grand Canyon Aid Station before returning to Allview Escape for Round 2. The second part is the famous out-and-back to the Pinnacles via Perrys Lookdown, plunging into the Grose Wilderness to the Giant Blue Gum Forest, crossing Govetts Creek and ascending to Lockleys Pylon, traversing to the Pinnacles Aid Station, then returning up the steps of Perrys Lookdown to the finish.",
-      "weeks": 20,
-      "raceDate": "2026-09-12",
-      "startDate": "2026-04-27",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout"
-    },
     {
       "id": "rec3nL9RogiHiQh3x",
       "name": "Great North Walk Trail Running Festival 50",
@@ -702,7 +681,7 @@
     },
     {
       "id": "reco3HyosgpTLHMqJ",
-      "name": "Kosci30",
+      "name": "UTMB Kosci 30km",
       "category": "Event Based Programs",
       "location": "Perisher to Thredbo, Snowy Mountains, NSW",
       "km": 32,
@@ -1233,6 +1212,27 @@
       "price": 380,
       "plan": "149 x 3 = $447",
       "checkoutUrl": "https://www.hertrails.com/offers/UXgEzJoa/checkout"
+    },
+    {
+      "id": "recnQzw5EkjIXYVdG",
+      "name": "Buffalo Stampede: Bright SkyRun 10k",
+      "category": "Event Based Programs",
+      "location": "Bright",
+      "km": 20,
+      "elevation": 1400,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)",
+        "Mountain"
+      ],
+      "tagline": "20km skyrunning race from Bright. Fast, technical Victorian Alps course.",
+      "weeks": 16,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-11-30",
+      "status": "upcoming",
+      "price": 370,
+      "plan": "145 x 3 = $435",
+      "checkoutUrl": "https://www.hertrails.com/offers/jiB26aYn/checkout"
     },
     {
       "id": "recchKrJEE5niGsye",
@@ -2011,26 +2011,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/oUrPXmcL/checkout"
     },
     {
-      "id": "recDYEgZchWmvqT3s",
-      "name": "Rainbow Beach Trail Festival: Marathon",
-      "category": "Recommended programs",
-      "location": "Rainbow Beach, QLD (start/finish at Phil Rogers Park, Wide Bay Esplanade)",
-      "km": 42.2,
-      "elevation": 800,
-      "tier": null,
-      "tags": [
-        "42.2km Trail Marathon"
-      ],
-      "tagline": "Starts and finishes at Phil Rogers Park, running through Cooloola National Park via single track, fire roads and beach, passing coloured sand cliffs, forest, perched lakes, sand dunes and Double Island Point lighthouse.",
-      "weeks": 16,
-      "raceDate": "2027-07-31",
-      "startDate": "2027-04-12",
-      "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
-      "checkoutUrl": "https://www.hertrails.com/offers/mL9WuEGz/checkout"
-    },
-    {
       "id": "reccVNzgMpSGLcSKw",
       "name": "Outback Marathon: 42.2K",
       "category": "Road Marathon",
@@ -2213,26 +2193,6 @@
       "price": 335,
       "plan": "131 x 3 = $393",
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
-    },
-    {
-      "id": "recd71VIOo86CkMzd",
-      "name": "Rainbow Beach Trail Festival: Half Marathon",
-      "category": "Recommended programs",
-      "location": "Rainbow Beach, QLD",
-      "km": 21,
-      "elevation": 400,
-      "tier": null,
-      "tags": [
-        "21.1km Trail Half"
-      ],
-      "tagline": "Starts and finishes at Phil Rogers Park (south end of Wide Bay Esplanade), Rainbow Beach, looping through the Cooloola Coast's towering sand cliffs, lush forests, perched lakes, rising sand dunes and past the historic Double Island Point lighthouse.",
-      "weeks": 12,
-      "raceDate": "2027-07-31",
-      "startDate": "2027-05-10",
-      "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
-      "checkoutUrl": "https://www.hertrails.com/offers/FQMZCEKy/checkout"
     },
     {
       "id": "recBSTwQyahguvp2Z",
