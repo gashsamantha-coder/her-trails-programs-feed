@@ -1,0 +1,40 @@
+name: Audit live checkouts
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit-checkouts.mjs'
+      - '.github/workflows/audit-checkouts.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audit-live-checkouts
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Audit Finder-visible checkouts
+        run: node scripts/audit-checkouts.mjs
+      - name: Commit audit evidence
+        run: |
+          git config user.name "programs-feed-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/checkout-audit.json docs/checkout-audit.md
+          if git diff --cached --quiet; then
+            echo "No audit change"
+          else
+            git commit -m "chore: refresh checkout audit"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Fail on broken checkout URLs
+        run: |
+          node -e "const r=require('./docs/checkout-audit.json'); if(r.summary.broken){console.error(r.summary.broken+' broken checkout URL(s)'); process.exit(1)}"
