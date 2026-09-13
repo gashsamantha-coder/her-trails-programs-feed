@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:46:54.206Z",
+  "generatedAt": "2026-09-13T15:48:57.712Z",
   "today": "2026-09-13",
   "hierarchy": [
     "exact",
@@ -4722,7 +4722,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recPUUxHgWFaHmVUW",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recBeX1CvE5b4o6jU",
@@ -4740,7 +4746,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recog1iRkDgzyQUG5",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec8Jl6uwFhlm6Q3V",
@@ -4757,7 +4769,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "A standard road marathon profile is best matched by the 42.2km Road Program, with event-specific course and conditions layered on."
+        }
+      ]
     },
     {
       "id": "recLrkIrolN4mBkdt",
@@ -4774,7 +4792,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Undulating park trail with around 1,800m climbing is a clear Ranges profile."
+        }
+      ]
     },
     {
       "id": "rech3qpyIhXH9NFC5",
@@ -4792,7 +4816,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recve4OGlFUEuv9u2",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recJjukQVF3N61fvS",
@@ -4809,7 +4839,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Long time on feet, heat and moderate-high technicality make the Ranges build more appropriate than the lower-vert profile alone suggests."
+        }
+      ]
     },
     {
       "id": "rec7CQm0uAdNsH2xv",
@@ -4827,7 +4863,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rechnQceAI7GjRAQw",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recpjiALn9d7LYzrZ",
@@ -4845,7 +4887,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recLy3poKHPpm2wHs",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recrwmNWVKXyZP1fK",
@@ -4863,7 +4911,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Low-relief urban-park trail and river paths fit the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recGSGK859CsGCLdM",
@@ -4880,7 +4934,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "This road marathon is best served by the 42.2km Road Program, with race-specific heat, pacing and logistics added through the event overlay."
+        }
+      ]
     },
     {
       "id": "recxjcVOhnqGdRA05",
@@ -4935,7 +4995,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recgYMnid2Lws3sZa",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recZy9SyaUsLOFcUP",
@@ -4991,7 +5057,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recP3FQbK3YGbld47",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recpf1aDnzbU5WiQq",
@@ -5010,7 +5082,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recCYP7mQsjwwuTiO",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec46NoafsJ4QqIlH",
@@ -5029,7 +5107,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recuqSFHmmqzxBm8o",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recxeDanDf1ouwZqn",
@@ -5048,7 +5132,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reci6PKgYJ6Nk2Afh",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rectTZrbtVM5a6qKV",
@@ -5065,7 +5155,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "Cairns is best served by the 42.2km Road Program, with heat, humidity and event-specific pacing layered on."
+        }
+      ]
     },
     {
       "id": "rec0vRkoHjPDWKSwv",
@@ -5083,7 +5179,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec5PGzVdXoz2nDGW",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recazOBCwM7XGSA4r",
@@ -5139,7 +5241,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "About 2,000m climbing with technical singletrack, stairs and steep sections fits the 50km Ranges program."
+        }
+      ]
     },
     {
       "id": "reckvoHvv2L1tTkSa",
@@ -5157,7 +5265,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Rainforest and clifftop trail with about 1,900m climbing and high technicality fits the upper end of Ranges."
+        }
+      ]
     },
     {
       "id": "rec8D4rkTUAzqKWmX",
@@ -5211,7 +5325,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Runnable forest trail and moderate climbing are best matched by the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recKtTRYgMsKhQDVN",
@@ -5229,7 +5349,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Low-vert coastal running and headland trail are best served by the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recgnZZ5H1YnGtGkR",
@@ -5248,7 +5374,13 @@
       "timeOnFeet": null,
       "tier50": "T3 - Alpine & Technical",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnLbqMUuoiduMYf",
+          "kind": "curated",
+          "reason": "Around 3,000m climbing with exposed alpine skyrunning and boulder scrambling requires the Alpine & Technical build."
+        }
+      ]
     },
     {
       "id": "reclwkYVngzJz0SZD",
@@ -5266,7 +5398,13 @@
       "timeOnFeet": null,
       "tier50": "T3 - Alpine & Technical",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnLbqMUuoiduMYf",
+          "kind": "curated",
+          "reason": "Roughly 2,900m climbing with steep, technical forest terrain fits Alpine & Technical."
+        }
+      ]
     },
     {
       "id": "recowXFFKYUjogSQ4",
@@ -5319,7 +5457,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Runnable, relatively low-vert trail profile makes Coast & Forest the best fit."
+        }
+      ]
     },
     {
       "id": "reckVc8IhQQ0IeRcW",
@@ -5336,7 +5480,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Although the vert is lower, longer time on feet, heat and moderate-high technicality make the Ranges build more appropriate."
+        }
+      ]
     },
     {
       "id": "recdThVIEX6Z5uNrQ",
@@ -5353,7 +5503,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "The 42.2km Road Program is the best-fit training product, with Wellington-specific course and weather guidance added as an overlay."
+        }
+      ]
     },
     {
       "id": "recMUyNkxlGbrcEy0",
@@ -5370,7 +5526,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Lower overall vert with gravel and trail running is best served by the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recliPKnBNCuf1QSI",
@@ -5387,7 +5549,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "A fast road marathon profile is best served by the 42.2km Road Program, with Gold Coast-specific heat, pacing and race execution layered on."
+        }
+      ]
     },
     {
       "id": "recnjiCqO7O7B0Yc3",
@@ -5404,7 +5572,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Flat to gently undulating exposed bush trail aligns best with Coast & Forest."
+        }
+      ]
     },
     {
       "id": "recOhE6Mr3kMbimLM",
@@ -5421,7 +5595,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Coastal singletrack, rocky sections and around 1,500m climbing make Ranges the stronger fit."
+        }
+      ]
     },
     {
       "id": "recQmGAfMFQcU14Do",
@@ -5441,7 +5621,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recch93rxasEwBSNz",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec9etgCMrKiGKEWD",
@@ -5459,7 +5645,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnU5Nvi8ii4Ksve",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recjQRMD66YEeTHxE",
@@ -5478,7 +5670,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclFyzREt896G4Kr",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recqhkUJUjMts8UM9",
@@ -5496,7 +5694,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recXSDe9slIVr4Yw8",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recUI99c25IelrJQH",
@@ -5515,7 +5719,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recaR3quxfGSQ1xgQ",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recjRRDCwoOXpr9r1",
@@ -5533,7 +5743,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec9MzlmI6RIHd2xH",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recij5Mb0uklhBr6i",
@@ -5550,7 +5766,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Technical Great North Walk singletrack and roughly 1,500m climbing push this into the Ranges profile."
+        }
+      ]
     },
     {
       "id": "rect4ZwQbrztoNfSn",
@@ -5568,7 +5790,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Rugged coastal singletrack, headlands and roughly 1,700m-plus climbing fit the Ranges program."
+        }
+      ]
     },
     {
       "id": "recriYCV9IO5FWEQR",
@@ -5586,7 +5814,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recn3hvBItRdvnsU1",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec870AIIJrVH2ZJE",
@@ -5604,7 +5838,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recpRJOKmtfxqSgHP",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recBLEfe1jG7uj942",
@@ -5621,7 +5861,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Low-vert looped trail running is a Coast & Forest profile; night-running preparation can be layered on."
+        }
+      ]
     },
     {
       "id": "rec9tZGjyK8gAHuDX",
@@ -5638,7 +5884,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Moderate climbing across Heysen and coastal trail terrain sits within the Coast & Forest profile."
+        }
+      ]
     },
     {
       "id": "rec7DL0PvlQHSyWu0",
@@ -5655,7 +5907,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recPpwiJjKfbLYBjN",
+          "kind": "curated",
+          "reason": "Heysen's 115km distance, moderate technicality and roughly 2,500m of climbing are best matched by the 100km Trail Ultra Program - Undulating. The race overlay should extend the long-duration preparation for the extra distance and point-to-point terrain."
+        }
+      ]
     },
     {
       "id": "recX2hlAvPa07QF2p",
@@ -5673,7 +5931,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recHBdwN8c7gHwnOk",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "receA1hLkjf9AqtG1",
@@ -5691,7 +5955,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recxzyfaunJwfzAqA",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recCGSKdkHJVRm6zr",
@@ -5708,7 +5978,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Mostly runnable singletrack and fire road with about 1,500m climbing fits the upper end of Coast & Forest."
+        }
+      ]
     },
     {
       "id": "rec8mTwxi4tEp0zIn",
@@ -5725,7 +6001,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recjPqpfFhCDA3UrI",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recl4sA5xNpHrBRJS",
@@ -5743,7 +6025,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Rocky, rugged Flinders Ranges terrain with around 1,600m climbing is best matched by the 50km Ranges program."
+        }
+      ]
     },
     {
       "id": "recJWAng74DUXA4zA",
@@ -5762,7 +6050,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recTgrWfnKSzr5jzu",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec9EA0k39COxFHCf",
@@ -5781,7 +6075,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recYdRf45fCJsTwXc",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recT5PL2Xm8agqm2P",
@@ -5800,7 +6100,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rechYPoMq3FsMTMFd",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recmNKuc4KS8rnvf6",
@@ -5819,7 +6125,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recM2TiQuOKL2WQGX",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recyz2w0p4tRoc1zl",
@@ -5836,7 +6148,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Very low climbing with beaches, headlands and coastal trail makes Coast & Forest the clear fit."
+        }
+      ]
     },
     {
       "id": "recGAuJG0BbmLAHsY",
@@ -5854,7 +6172,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "High-end Ranges terrain with roughly 2,400m climbing and technical ridgelines; race-specific overlay should emphasise technicality."
+        }
+      ]
     },
     {
       "id": "recVear9TxyaloESQ",
@@ -5872,7 +6196,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 1,800m climbing across mixed trail and road sits squarely in the Ranges profile."
+        }
+      ]
     },
     {
       "id": "recyxMZOC4uxovv7Z",
@@ -5890,7 +6220,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 1,900m climbing and high technicality make the 50km Ranges program the strongest fit."
+        }
+      ]
     },
     {
       "id": "recvqPkXh0VLHKZ1D",
@@ -5908,7 +6244,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 1,900m of climbing with forested mountain trail and steeper ascents fits the 50km Ranges program."
+        }
+      ]
     },
     {
       "id": "recFspOk1UO3ALLNH",
@@ -5926,7 +6268,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Rugged forest and reservoir terrain with about 2,300m climbing sits at the upper end of Ranges."
+        }
+      ]
     },
     {
       "id": "recmDB2kKJyqtKVTl",
@@ -5944,7 +6292,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Runnable forest terrain but around 1,700m climbing makes Ranges the best overall match."
+        }
+      ]
     },
     {
       "id": "recHaqPMIS1biCtkb",
@@ -5963,7 +6317,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "About 2,250m of alpine climbing sits in the Ranges band, with an alpine/technical overlay needed for race specificity."
+        }
+      ]
     },
     {
       "id": "reccLTsRpk4l5OHXp",
@@ -5981,7 +6341,13 @@
       "timeOnFeet": null,
       "tier50": "T3 - Alpine & Technical",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnLbqMUuoiduMYf",
+          "kind": "curated",
+          "reason": "More than 2,500m climbing plus technical singletrack, stairs and scrambling requires Alpine & Technical."
+        }
+      ]
     },
     {
       "id": "receJKUtvqia4NwrH",
@@ -5998,7 +6364,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reccRvOaRU7gtAuFr",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "reccj1XznzCYGWnDD",
@@ -6015,7 +6387,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recpmYxPDWvDdsQfl",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recFSiZg9EiE91HYg",
@@ -6032,7 +6410,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recRd9pipb9Gr2L1R",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "reclFL9odqpkuHbM0",
@@ -6049,7 +6433,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec6JJQocvNmJsok7",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recDeMQ9jJwWKLxlJ",
@@ -6066,7 +6456,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recTdIi8ASfbk72w7",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recPxsnwhULjpPooL",
@@ -6083,7 +6479,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Low-vert looped trail running fits Coast & Forest, with a specific night-running overlay for race execution."
+        }
+      ]
     },
     {
       "id": "recIEH3nKdf9PsvTl",
@@ -6101,7 +6503,13 @@
       "timeOnFeet": null,
       "tier50": "T3 - Alpine & Technical",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnLbqMUuoiduMYf",
+          "kind": "curated",
+          "reason": "More than 2,500m climbing and alpine technical terrain make Alpine & Technical the best fit."
+        }
+      ]
     },
     {
       "id": "recZyd46NrrCLLXP8",
@@ -6118,7 +6526,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "The 42.2km Road Program provides the appropriate marathon build; the event overlay should account for the Outback setting and race-day conditions."
+        }
+      ]
     },
     {
       "id": "recxvJS81Dd9Olz5p",
@@ -6135,7 +6549,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "The 42.2km Road Program is the appropriate base, with Queenstown-specific rolling terrain, pacing and conditions layered on."
+        }
+      ]
     },
     {
       "id": "rec82msnc21bDq9GN",
@@ -6153,7 +6573,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rechJRFMVlMnANszH",
+          "kind": "curated",
+          "reason": "The Half Trail Marathon Intermediate program is the existing Her Trails recommendation, with soft sand and technical coastal trail added through the race overlay."
+        }
+      ]
     },
     {
       "id": "recP3bfasn89ziz9g",
@@ -6171,7 +6597,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnAJAnlnayaKvZg",
+          "kind": "curated",
+          "reason": "The 42.2km Trail Marathon Program is the existing Her Trails recommendation, with beach, sand and coastal trail demands layered on."
+        }
+      ]
     },
     {
       "id": "recSo0HaT4Y8hKxNE",
@@ -6189,7 +6621,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recNYAxtcez21XA1I",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recgWH89a4xUGrzXR",
@@ -6207,7 +6645,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recxOiqaiDl4TWVIt",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recglUdcuh6vh5T8p",
@@ -6225,7 +6669,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "46km with about 2,200m of climbing and sustained mountain terrain fits the 50km Ranges program. Use the race-specific overlay for the repeated climbing and descending demands."
+        }
+      ]
     },
     {
       "id": "rechLRifkp3lwyDV4",
@@ -6242,7 +6692,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recUbXLHlE0SbdscI",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recZMKMsP13CTVRN8",
@@ -6369,7 +6825,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Low-vert, runnable coastal trail profile is best matched by the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recMIrz2HhAH0Ly8v",
@@ -6386,7 +6848,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recFPuxWk38Oj7uV1",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec7W54wsO9fzvRSR",
@@ -6403,7 +6871,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recqPQkYr74zWgxjt",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recV3hoWcFZXGIBwP",
@@ -6421,7 +6895,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Mountain, beach and navigation demands with around 1,500m-plus climbing fit the Ranges program."
+        }
+      ]
     },
     {
       "id": "rec3DTDdCoFqTm0VV",
@@ -6513,7 +6993,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Six Foot Track's sustained climbing, long descents and moderate-high technicality are best matched by the 50km Ranges program."
+        }
+      ]
     },
     {
       "id": "recmI6PXReYXFOXjn",
@@ -6531,7 +7017,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "The existing Her Trails allocation is the 50km Coast & Forest program, with Snowy Mountains-specific conditions and terrain layered on."
+        }
+      ]
     },
     {
       "id": "recmejfmtOcQ9du2y",
@@ -6548,7 +7040,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "The 42.2km Road Program provides the core marathon build, with Taupo-specific course and weather considerations added through the race overlay."
+        }
+      ]
     },
     {
       "id": "reca39GAxreM5lpyj",
@@ -6565,7 +7063,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "This road marathon is best matched by the 42.2km Road Program, with race-specific heat and pacing guidance layered on."
+        }
+      ]
     },
     {
       "id": "rectgEFE6EqpwBPeL",
@@ -6583,7 +7087,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recSkhx45eGXIN1xB",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec44t1AEtO6f7bug",
@@ -6601,7 +7111,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reckmwJHt6rphp9mh",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec9zNIcxrL0jV6kx",
@@ -6619,7 +7135,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recNB5jAt8zqOJlwq",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recXdbmdHyEhdVrIq",
@@ -6637,7 +7159,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recAq6satqLHxQU4Y",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recUcGikngf2sGMNz",
@@ -6654,7 +7182,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 1,575m climbing over sandstone trail and fire road makes Ranges the best fit."
+        }
+      ]
     },
     {
       "id": "rec7FZR8Y3ZdQfPNL",
@@ -6671,7 +7205,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reczCES3ul6vAEETa",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rect6DwhWEro86g3L",
@@ -6688,7 +7228,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recsZKfn6oCIVbZ8q",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec1ZJUctj1b5tlc3",
@@ -6705,7 +7251,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recadgDiwZr6R7OS6",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recDhKr18m7UNjZoe",
@@ -6722,7 +7274,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec0GuMDfd89mIEdR",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recbGqyxkcJLTLqty",
@@ -6741,7 +7299,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recnLbqMUuoiduMYf",
+          "kind": "curated",
+          "reason": "Around 2,900m climbing with a high-technicality Mt Buller profile makes the 50km Alpine & Technical program the best fit."
+        }
+      ]
     },
     {
       "id": "recIVr9TiLjj6tzAS",
@@ -6795,7 +7359,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Technical reservoir climbs and about 2,300m vert sit at the upper end of the Ranges program."
+        }
+      ]
     },
     {
       "id": "rec3888mE6xGV8taf",
@@ -6812,7 +7382,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recKwqbV4lyPs0Jzo",
+          "kind": "curated",
+          "reason": "A standard road marathon profile is best matched by the 42.2km Road Program. Race-specific pacing, climate and course notes can sit in the race overlay."
+        }
+      ]
     },
     {
       "id": "recKSI1EJBSRT6x1r",
@@ -6829,7 +7405,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 1,500m-plus climbing with rocks and boulders makes Ranges the safer fit."
+        }
+      ]
     },
     {
       "id": "recCO67R9Yz6GSm57",
@@ -6847,7 +7429,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recTy5JmXfIioG2eR",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recKIEmoGBSvNcIAp",
@@ -6865,7 +7453,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec3hQbwJg6pn7FeJ",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recLqZyUjfIkyKLbe",
@@ -6882,7 +7476,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Sustained trail climbing around the Ranges band makes the 50km Ranges program the best fit."
+        }
+      ]
     },
     {
       "id": "recCCQuSKFA26Qr1B",
@@ -6900,7 +7500,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recgFIT4SRopPV2vZ",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recdGDzBK6Hh9DQWD",
@@ -6918,7 +7524,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recNb8idQ8STX3sGE",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recHNTUwyrUbdJhXJ",
@@ -6936,7 +7548,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recRM6IMsoKpTN4oE",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rechymPhaROQ8sltd",
@@ -6954,7 +7572,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reckhaSqXrqHIX6YJ",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "rec4pDwpiW7SSpa7y",
@@ -6972,7 +7596,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec0L53mpI6XdOTz4",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recBF8SNiFid0ZPzi",
@@ -6990,7 +7620,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "rec88VuANURNq70t0",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recyBXkPaIRBveZjh",
@@ -7008,7 +7644,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recY4Tycd5LnxKvid",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recXE6WtsI4XCjyvb",
@@ -7026,7 +7668,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "The existing Her Trails allocation is the 50km Coast & Forest program, with Walhalla-specific trail and climbing demands layered on."
+        }
+      ]
     },
     {
       "id": "recmIkmlmxRZKhhpr",
@@ -7043,7 +7691,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "About 1,760m climbing over trail and 4WD track fits the Ranges profile."
+        }
+      ]
     },
     {
       "id": "rectKzpXpTwe1W3rA",
@@ -7061,7 +7715,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Around 2,240m climbing and moderate-high technicality make the 50km Ranges program the best fit."
+        }
+      ]
     },
     {
       "id": "recV3hsMpkQnju5XG",
@@ -7078,7 +7738,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "The existing Her Trails allocation is the 50km Coast & Forest program, with race-specific terrain notes layered on."
+        }
+      ]
     },
     {
       "id": "recOewubqIICuEA6Y",
@@ -7096,7 +7762,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recwhr9iB5WcTYXCC",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recEBcvxskIkHtLRq",
@@ -7114,7 +7786,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "About 2,000m climbing across coastal trail, beaches and mountain sections fits the Ranges program."
+        }
+      ]
     },
     {
       "id": "recw8aRIUx7iHWLpS",
@@ -7132,7 +7810,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Rocky Grampians terrain and meaningful climbing are best matched by the Ranges program."
+        }
+      ]
     },
     {
       "id": "recYg4V0JjfdWmzBK",
@@ -7149,7 +7833,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Gentle, runnable park trails are best matched by the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "rec19gkEZPRNECU1f",
@@ -7166,7 +7856,13 @@
       "timeOnFeet": null,
       "tier50": "T1 - Coast & Forest",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "Runnable limestone coastal trail with relatively low climbing fits the 50km Coast & Forest program."
+        }
+      ]
     },
     {
       "id": "recE9wFa8flr1F25N",
@@ -7183,7 +7879,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Exact event-specific program",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recJxhC1hoxue0MYw",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
     },
     {
       "id": "recMYVAhZRZtkMFXV",
@@ -7200,7 +7902,13 @@
       "timeOnFeet": null,
       "tier50": null,
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "reclZ76dEpSe6hodZ",
+          "kind": "curated",
+          "reason": "The existing Her Trails allocation is the 50km Coast & Forest program. Keep the race-specific climbing, creek crossings and course notes as the overlay."
+        }
+      ]
     },
     {
       "id": "recIIFzsoBiNWriLG",
@@ -7217,7 +7925,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Technical granite terrain and repeated climbing are better matched to the Ranges build."
+        }
+      ]
     },
     {
       "id": "recKoWLAEvA5kM69n",
@@ -7235,7 +7949,13 @@
       "timeOnFeet": null,
       "tier50": "T2 - Ranges",
       "finderStatus": "Curated recommendation",
-      "recommendations": []
+      "recommendations": [
+        {
+          "programId": "recDS1h4PLlQiiAQ9",
+          "kind": "curated",
+          "reason": "Technical singletrack, gorges and roughly 1,865m climbing fit the Ranges program."
+        }
+      ]
     }
   ]
 }
