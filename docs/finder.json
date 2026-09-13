@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:48:57.712Z",
+  "generatedAt": "2026-09-13T15:54:46.339Z",
   "today": "2026-09-13",
   "hierarchy": [
     "exact",
@@ -2425,7 +2425,7 @@
     },
     {
       "id": "recXSDe9slIVr4Yw8",
-      "sourceRecordId": "recLQ6T3nnzB4Fs5z",
+      "sourceRecordId": "recTp9J2l55SFY6F7",
       "name": "Grampians Peaks Trail Ultra: 50K",
       "weeks": 20,
       "description": null,
@@ -2440,7 +2440,17 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": null
+      "sale": {
+        "sourceRecordId": "recTp9J2l55SFY6F7",
+        "name": "GPT 50km (49.5km)",
+        "weeks": 20,
+        "startDate": "2026-06-22",
+        "raceDate": "2026-11-05",
+        "price": 499,
+        "plan": "147 x 4 = $588",
+        "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
+        "available": true
+      }
     },
     {
       "id": "recXeynoYFJUyk1OE",
@@ -2666,7 +2676,7 @@
     },
     {
       "id": "recch93rxasEwBSNz",
-      "sourceRecordId": "reckdxOfglAsGuYzt",
+      "sourceRecordId": "recGtn10HTB4TiH41",
       "name": "Grampians Peaks Trail 100 mile Team Relay [Staged] (3 person)",
       "weeks": 16,
       "description": null,
@@ -2681,7 +2691,17 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": null
+      "sale": {
+        "sourceRecordId": "recGtn10HTB4TiH41",
+        "name": "GPT100 Stage Race Team Relay",
+        "weeks": 16,
+        "startDate": "2026-07-20",
+        "raceDate": "2026-11-05",
+        "price": 380,
+        "plan": "149 x 3 = $447",
+        "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout",
+        "available": true
+      }
     },
     {
       "id": "rece7e8v2fbOAcvxX",
@@ -3383,7 +3403,7 @@
     },
     {
       "id": "reclFyzREt896G4Kr",
-      "sourceRecordId": "reczYNkOdpeGNwDJo",
+      "sourceRecordId": "recRtX5oA6iZj1eS4",
       "name": "Grampians Peaks Trail Ultra: 100 Mile Staged Solo",
       "weeks": 20,
       "description": null,
@@ -3398,7 +3418,17 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": null
+      "sale": {
+        "sourceRecordId": "recRtX5oA6iZj1eS4",
+        "name": "GPT 100 Mile Staged",
+        "weeks": 20,
+        "startDate": "2026-06-22",
+        "raceDate": "2026-11-05",
+        "price": 499,
+        "plan": "147 x 4 = $588",
+        "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+        "available": true
+      }
     },
     {
       "id": "reclZ76dEpSe6hodZ",
@@ -3649,7 +3679,7 @@
     },
     {
       "id": "recnU5Nvi8ii4Ksve",
-      "sourceRecordId": "rectobdgoHnsfW8Ef",
+      "sourceRecordId": "recWYNEchJBPsqvnu",
       "name": "Grampians Peaks Trail Ultra: 100 Mile Solo",
       "weeks": 20,
       "description": null,
@@ -3664,7 +3694,17 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": null
+      "sale": {
+        "sourceRecordId": "recWYNEchJBPsqvnu",
+        "name": "GPT 100 Mile Solo",
+        "weeks": 20,
+        "startDate": "2026-06-22",
+        "raceDate": "2026-11-05",
+        "price": 499,
+        "plan": "147 x 4 = $588",
+        "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+        "available": true
+      }
     },
     {
       "id": "reco6sdd6mqu8vkHr",
