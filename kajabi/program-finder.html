@@ -1,0 +1,91 @@
+<!-- Her Trails universal Program Finder.
+     Parallel-build asset: do not replace the live finder until the Airtable output diff
+     and coach-authored readiness thresholds are approved. -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+#htpf{--ink:#1d1d1d;--rust:#c45c33;--green:#597b52;--sand:#f8f5f2;--line:#e2d9d2;max-width:860px;margin:auto;background:var(--sand);padding:clamp(22px,5vw,48px);font-family:'Work Sans',sans-serif;color:var(--ink)}
+#htpf *{box-sizing:border-box}.htpf-kicker{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--green);font-weight:700}.htpf-title{font:600 clamp(30px,7vw,52px)/1.06 'Playfair Display',serif;margin:10px 0 12px}.htpf-copy{color:#555;line-height:1.65;max-width:680px}.htpf-step{display:none}.htpf-step.is-on{display:block}.htpf-choices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:26px}.htpf-choice,.htpf-btn{border:1px solid var(--line);background:#fff;color:var(--ink);padding:17px;text-align:left;border-radius:7px;font:600 14px/1.35 'Work Sans',sans-serif;cursor:pointer}.htpf-choice:hover,.htpf-choice:focus{border-color:var(--rust)}.htpf-choice small{display:block;font-weight:400;color:#666;margin-top:5px}.htpf-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin:24px 0}.htpf-field{display:flex;flex-direction:column;gap:6px}.htpf-field.wide{grid-column:1/-1}.htpf-field label{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.htpf-field input,.htpf-field select{width:100%;border:1px solid var(--line);background:#fff;border-radius:5px;padding:13px;font:14px 'Work Sans',sans-serif}.htpf-actions{display:flex;gap:10px;flex-wrap:wrap}.htpf-btn{padding:13px 18px}.htpf-btn.primary{background:var(--rust);border-color:var(--rust);color:#fff;text-align:center}.htpf-btn.back{background:transparent}.htpf-error{color:#9b3f28;margin:12px 0;font-size:13px}.htpf-result{background:#fff;border:1px solid var(--line);border-radius:8px;padding:clamp(20px,4vw,34px);margin-top:22px}.htpf-badge{display:inline-block;background:#edf2eb;color:#3d5a3a;border-radius:20px;padding:6px 10px;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}.htpf-result h2{font:600 clamp(24px,5vw,34px)/1.2 'Playfair Display',serif;margin:14px 0 8px}.htpf-meta{color:#666;font-size:13px;margin-bottom:18px}.htpf-why{border-left:3px solid var(--green);padding:10px 14px;background:#faf9f6;line-height:1.6}.htpf-ready{margin-top:16px;border-top:1px solid var(--line);padding-top:16px}.htpf-ready strong{color:var(--rust)}.htpf-ctas{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}.htpf-ctas a{flex:1 1 190px;text-align:center;text-decoration:none;padding:13px;border-radius:4px;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.06em}.htpf-buy{background:var(--rust);color:#fff}.htpf-allin{border:2px solid var(--ink);color:var(--ink)}.htpf-alt{margin-top:18px}.htpf-alt summary{cursor:pointer;font-weight:600}.htpf-alt li{margin:10px 0;color:#555}.htpf-note{font-size:12px;color:#777;line-height:1.5;margin-top:22px}
+@media(max-width:620px){#htpf{padding:22px 16px}.htpf-choices,.htpf-fields{grid-template-columns:1fr}.htpf-field.wide{grid-column:auto}}
+</style>
+
+<div id="htpf">
+  <div class="htpf-kicker">Her Trails · Program Finder</div>
+  <div class="htpf-step is-on" data-step="start">
+    <h1 class="htpf-title">What brings you here?</h1>
+    <p class="htpf-copy">Start with what you know. We’ll match the programme to the race or distance, then give you an advisory readiness check.</p>
+    <div class="htpf-choices">
+      <button class="htpf-choice" data-route="race">I have a race<small>Search the full Her Trails race catalogue.</small></button>
+      <button class="htpf-choice" data-route="distance">I know my distance<small>Match by distance, terrain and race demand.</small></button>
+      <button class="htpf-choice" data-route="rebuild">I want to start or rebuild<small>Begin with a sustainable foundation.</small></button>
+      <button class="htpf-choice" data-route="unsure">I’m not sure yet<small>Use a few simple questions to find a starting point.</small></button>
+    </div>
+  </div>
+
+  <div class="htpf-step" data-step="race">
+    <h2 class="htpf-title">Which race?</h2>
+    <p class="htpf-copy">Search by event name. Exact programmes come first, followed by coach-curated and calculated matches.</p>
+    <div class="htpf-fields"><div class="htpf-field wide"><label for="htpf-race">Race</label><input id="htpf-race" list="htpf-races" placeholder="Start typing your race name"><datalist id="htpf-races"></datalist></div></div>
+    <div class="htpf-error" id="htpf-race-error"></div>
+    <div class="htpf-actions"><button class="htpf-btn back" data-back>Back</button><button class="htpf-btn primary" id="htpf-race-go">Find my programme</button></div>
+  </div>
+
+  <div class="htpf-step" data-step="intake">
+    <h2 class="htpf-title" id="htpf-intake-title">Tell us what the day asks of you.</h2>
+    <div class="htpf-fields">
+      <div class="htpf-field"><label for="htpf-distance">Race distance (km)</label><input id="htpf-distance" type="number" min="3" max="250" step=".1"></div>
+      <div class="htpf-field"><label for="htpf-elevation">Elevation gain (m, if known)</label><input id="htpf-elevation" type="number" min="0" max="15000" step="10"></div>
+      <div class="htpf-field"><label for="htpf-terrain">Terrain</label><select id="htpf-terrain"><option value="runnable forest">Runnable / forest</option><option value="coastal sand">Coastal / sandy</option><option value="ranges mountain">Ranges / mountain</option><option value="alpine technical rocky">Alpine / technical</option><option value="road urban">Road / urban</option></select></div>
+      <div class="htpf-field"><label for="htpf-tech">Technicality</label><select id="htpf-tech"><option>Low</option><option selected>Moderate</option><option>High</option></select></div>
+      <div class="htpf-field"><label for="htpf-weeks">Consistent running recently</label><select id="htpf-weeks"><option value="0">Starting again</option><option value="4">Around 4 weeks</option><option value="8">Around 8 weeks</option><option value="12">12+ weeks</option></select></div>
+      <div class="htpf-field"><label for="htpf-long">Current comfortable long run (km)</label><input id="htpf-long" type="number" min="0" max="100" step="1" value="5"></div>
+      <div class="htpf-field"><label for="htpf-days">Training days available</label><select id="htpf-days"><option value="2">2 days</option><option value="3" selected>3 days</option><option value="4">4 days</option><option value="5">5+ days</option></select></div>
+      <div class="htpf-field"><label for="htpf-injury">Current injury affecting running?</label><select id="htpf-injury"><option value="no">No</option><option value="yes">Yes / unsure</option></select></div>
+    </div>
+    <div class="htpf-error" id="htpf-intake-error"></div>
+    <div class="htpf-actions"><button class="htpf-btn back" data-back>Back</button><button class="htpf-btn primary" id="htpf-intake-go">Show my match</button></div>
+  </div>
+
+  <div class="htpf-step" data-step="result">
+    <button class="htpf-btn back" data-back>Start again</button>
+    <div id="htpf-result"></div>
+  </div>
+  <p class="htpf-note">Your result is guidance, not a gate. It never prevents you viewing a programme. If injury, health or life context changes what is realistic, bring the recommendation to Coaching Corner.</p>
+</div>
+
+<script>
+(function(){
+var FEED='https://gashsamantha-coder.github.io/her-trails-programs-feed/finder.json';
+var ALL_IN='https://www.hertrails.com/all-in-member';
+var data=null,route=null;
+var $=function(s){return document.querySelector('#htpf '+s);};
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
+function show(step){document.querySelectorAll('#htpf .htpf-step').forEach(function(x){x.classList.toggle('is-on',x.getAttribute('data-step')===step);});}
+function many(v){return v||[];} function norm(s){return String(s||'').toLowerCase();}
+function rangeScore(v,min,max,w){if(typeof v!=='number'||typeof min!=='number'||typeof max!=='number')return 0;if(v>=min&&v<=max)return w;var span=Math.max(max-min,Math.max(max*.25,10)),gap=v<min?min-v:v-max;return Math.max(0,w*(1-gap/span));}
+function keywords(list){var s=norm(list.join(' ')),o=[];var m={road:/road/,urban:/urban|light trail/,runnable:/runnable|flowing/,coast:/coast|sand|beach/,forest:/forest|rainforest|bush/,mountain:/range|mountain|skyrun|hinterland/,alpine:/alpine|high country/,technical:/technical|rock|scree|singletrack/,steep:/stair|steep|pinch/,remote:/remote|self supported|outback|desert/};Object.keys(m).forEach(function(k){if(m[k].test(s))o.push(k);});return o;}
+function score(r,p){var s=rangeScore(r.distance,p.distanceMin,p.distanceMax,35)+rangeScore(r.elevation,p.elevationMin,p.elevationMax,25);var a=keywords([r.terrain]),b=keywords(many(p.terrainCategories).concat(many(p.raceCategories))),n=a.filter(function(x){return b.indexOf(x)>=0;}).length;s+=Math.min(20,n*5);if(many(p.technicality).map(norm).indexOf(norm(r.technicality))>=0)s+=5;if(r.distance>=45&&r.distance<=60&&r.tier50&&many(p.tier50).map(norm).indexOf(norm(r.tier50))>=0)s+=10;return Math.round(s);}
+function syntheticRecommendations(r){return data.programs.filter(function(p){return p.eligible&&p.sale&&p.sale.available;}).map(function(p){return {programId:p.id,kind:'calculated',score:score(r,p),reason:'This is the strongest available fit across distance, elevation, terrain and technicality.'};}).sort(function(a,b){return b.score-a.score;}).slice(0,3);}
+function readiness(p){
+  var d=p.distanceMax||p.distanceMin||10,w=+$('#htpf-weeks').value||0,l=+$('#htpf-long').value||0,days=+$('#htpf-days').value||0,inj=$('#htpf-injury').value==='yes';
+  if(inj)return {tier:'Bring this to Coaching Corner',copy:'An injury or unresolved niggle changes the decision. View the programme, then bring your current position to Coaching Corner before deciding how to enter it.'};
+  var req=d<=15?[4,3,3]:d<=30?[6,8,3]:d<=60?[8,12,4]:d<=120?[12,20,4]:[16,25,5];
+  if(w>=req[0]&&l>=req[1]&&days>=req[2])return {tier:'Ready now',copy:'Your recent consistency, long run and available training days are broadly aligned with this programme.'};
+  if(w>=req[0]-4&&l>=req[1]*.65&&days>=req[2]-1)return {tier:'Close · four-week preparation suggested',copy:'You are close. A short preparation block would make the transition into this programme more sustainable.'};
+  return {tier:'Start with Foundations',copy:'A foundation block is the stronger starting point before moving into this programme. You can still view the recommendation below.'};
+}
+function program(id){return data.programs.find(function(p){return p.id===id;});}
+function render(r,recs,useReadiness){
+  if(!recs.length){$('#htpf-result').innerHTML='<div class="htpf-result"><h2>No reliable match yet</h2><p>Bring this race or goal to Coaching Corner and we’ll point you in the right direction.</p></div>';show('result');return;}
+  var top=recs[0],p=program(top.programId),sale=p&&p.sale,ready=useReadiness?readiness(p):null;
+  var alts=recs.slice(1).map(function(x){var q=program(x.programId);return q?'<li><strong>'+esc(q.name)+'</strong>'+(x.reason?' — '+esc(x.reason):'')+'</li>':'';}).join('');
+  var ctas='<div class="htpf-ctas"><a class="htpf-allin" href="'+ALL_IN+'" target="_blank" rel="noopener">Explore All In</a>'+(sale&&sale.available?'<a class="htpf-buy" href="'+esc(sale.checkoutUrl)+'" target="_blank" rel="noopener">View standalone programme</a>':'')+'</div>';
+  $('#htpf-result').innerHTML='<div class="htpf-result"><span class="htpf-badge">'+esc(top.kind==='exact'?'Race-specific match':top.kind==='curated'?'Coach-curated match':'Calculated match')+'</span><h2>'+esc(p.name)+'</h2><div class="htpf-meta">'+(p.weeks?esc(p.weeks)+' weeks':'')+(sale&&sale.startDate?' · starts '+esc(sale.startDate):'')+(sale&&sale.price?' · $'+esc(sale.price)+' AUD':'')+'</div><div class="htpf-why"><strong>Why this fits</strong><br>'+esc(top.reason||'This programme is the strongest match in the Her Trails catalogue.')+'</div>'+(ready?'<div class="htpf-ready"><strong>'+esc(ready.tier)+'</strong><p>'+esc(ready.copy)+'</p></div>':'')+ctas+(alts?'<details class="htpf-alt"><summary>Other close matches</summary><ol>'+alts+'</ol></details>':'')+'</div>';
+  show('result');
+}
+document.querySelectorAll('#htpf [data-route]').forEach(function(b){b.onclick=function(){route=b.getAttribute('data-route');if(route==='race')show('race');else{show('intake');$('#htpf-intake-title').textContent=route==='rebuild'?'Let’s find a sustainable place to begin.':route==='unsure'?'A few simple questions will narrow it down.':'Tell us what the day asks of you.';if(route==='rebuild'||route==='unsure')$('#htpf-distance').value=route==='rebuild'?5:10;}};});
+document.querySelectorAll('#htpf [data-back]').forEach(function(b){b.onclick=function(){show('start');};});
+$('#htpf-race-go').onclick=function(){var q=norm($('#htpf-race').value).trim(),race=data.races.find(function(r){return norm(r.name)===q;});if(!race){$('#htpf-race-error').textContent='Choose a race from the list so we can use its verified profile.';return;}$('#htpf-race-error').textContent='';render(race,race.recommendations,false);};
+$('#htpf-intake-go').onclick=function(){var d=+$('#htpf-distance').value;if(!d){$('#htpf-intake-error').textContent='Add the distance you are preparing for.';return;}$('#htpf-intake-error').textContent='';var e=$('#htpf-elevation').value===''?null:+$('#htpf-elevation').value,t=$('#htpf-terrain').value,tech=$('#htpf-tech').value,tier=d>=45&&d<=60?(e==null?null:e<1500?'T1 - Coast & Forest':e<2500?'T2 - Ranges':'T3 - Alpine & Technical'):null;var r={distance:d,elevation:e,terrain:t,technicality:tech,tier50:tier};render(r,syntheticRecommendations(r),true);};
+fetch(FEED,{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('feed');return r.json();}).then(function(j){data=j;$('#htpf-races').innerHTML=data.races.map(function(r){return '<option value="'+esc(r.name)+'"></option>';}).join('');}).catch(function(){$('#htpf').innerHTML='<p>Program Finder is loading slowly. Please refresh in a moment, or browse all programs.</p>';});
+})();
+</script>
