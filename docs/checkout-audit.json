@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-13T16:05:33.388Z",
-  "sourceFeedGeneratedAt": "2026-09-13T15:54:46.339Z",
+  "generatedAt": "2026-09-13T16:10:30.104Z",
+  "sourceFeedGeneratedAt": "2026-09-13T16:05:25.816Z",
   "summary": {
-    "uniqueCheckoutUrls": 122,
-    "live": 121,
-    "broken": 1,
-    "identityNeedsReview": 69,
-    "sharedCheckoutUrls": 25
+    "uniqueCheckoutUrls": 157,
+    "live": 152,
+    "broken": 5,
+    "identityNeedsReview": 83,
+    "sharedCheckoutUrls": 43
   },
   "results": [
     {
@@ -35,7 +35,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -64,7 +68,41 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/2mbDpCdP/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/2mbDpCdP/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "50km Road Light urban trail program for women",
+      "bytes": 89293,
+      "identityNeedsReview": false,
+      "programs": [
+        "50km Road (light urban trail)"
+      ],
+      "sourceRecordIds": [
+        "rec6vefqCthaBRqjq"
+      ],
+      "expectedPrices": [
+        380
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -81,21 +119,30 @@
       "bytes": 90506,
       "identityNeedsReview": true,
       "programs": [
-        "100km Trail Ultra Program - Undulating"
+        "100km Trail Ultra Program - Undulating",
+        "Brisbane Trail Ultra 110 (BTU)"
       ],
       "sourceRecordIds": [
+        "recKkHCumYdfpXo2c",
         "recaxwRXr4lK6fXKJ"
       ],
       "expectedPrices": [
-        440
+        440,
+        499
       ],
       "expectedWeeks": [
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/2xCHkU5V/checkout",
@@ -122,7 +169,10 @@
         6
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -152,7 +202,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -182,7 +233,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -199,9 +252,12 @@
       "bytes": 82811,
       "identityNeedsReview": true,
       "programs": [
-        "10km Progressions: Intermediate Trail Program"
+        "* All in Members* 10km Trail Progressions",
+        "10km Progressions: Intermediate Trail Program",
+        "10km Progressions: Intermediate Trail Program "
       ],
       "sourceRecordIds": [
+        "recNVrLV2CKuykJCs",
         "recWd8rNtqgJbeYGs"
       ],
       "expectedPrices": [
@@ -211,9 +267,16 @@
         8
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Member-only variant, not a program card]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 3
     },
     {
       "url": "https://www.hertrails.com/offers/5uAiHDuy/checkout",
@@ -228,7 +291,8 @@
       "bytes": 60660,
       "identityNeedsReview": true,
       "programs": [
-        "Glasshouse 100 - 50"
+        "Glasshouse 100 - 50",
+        "Glasshouse 100: 50K"
       ],
       "sourceRecordIds": [
         "recTzKFFN5Zz7zuyR"
@@ -240,9 +304,11 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/6djWJ6sd/checkout",
@@ -270,7 +336,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -299,7 +368,9 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -330,7 +401,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -360,7 +432,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -390,7 +466,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -420,7 +497,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -450,7 +529,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -467,7 +548,8 @@
       "bytes": 96665,
       "identityNeedsReview": false,
       "programs": [
-        "Bondi to Manly 80km (Solo)"
+        "Bondi to Manly 80km (Solo)",
+        "Bondi to Manly 80km (Solo) "
       ],
       "sourceRecordIds": [
         "recZeK2gNCY7yA0Pa"
@@ -480,9 +562,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/9op2yzwU/checkout",
@@ -509,7 +595,11 @@
         6
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -538,7 +628,9 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -568,7 +660,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -585,7 +678,8 @@
       "bytes": 100780,
       "identityNeedsReview": true,
       "programs": [
-        "Ultra-Trail Australia: UTA100"
+        "Ultra-Trail Australia: UTA100",
+        "Ultra-Trail Australia: UTA100 "
       ],
       "sourceRecordIds": [
         "recOy5jxRaSuSuhlT"
@@ -598,7 +692,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/AoRVgTd4",
+      "finalUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GPT 100 Miler Staged (solo) Program for Women",
+      "bytes": 103094,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT 100 Mile Solo"
+      ],
+      "sourceRecordIds": [
+        "recWYNEchJBPsqvnu"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -632,7 +759,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 4
     },
@@ -662,7 +792,39 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/bJqgBPig/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/bJqgBPig/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 59665,
+      "identityNeedsReview": true,
+      "programs": [
+        "Truth or Consequences 50"
+      ],
+      "sourceRecordIds": [
+        "recRWKV8cC5Al8tI8"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Race already run / Race already run]",
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -693,7 +855,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -722,7 +885,8 @@
         20
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -753,7 +917,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -771,6 +936,7 @@
       "identityNeedsReview": true,
       "programs": [
         "Blackall 100",
+        "Blackall 100 ",
         "Blackall 100: 100K"
       ],
       "sourceRecordIds": [
@@ -784,9 +950,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 3
     },
     {
       "url": "https://www.hertrails.com/offers/CoESymVJ/checkout",
@@ -813,7 +980,9 @@
         20
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -843,7 +1012,69 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/cwuPt3GL",
+      "finalUrl": "https://www.hertrails.com/offers/cwuPt3GL/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 56001,
+      "identityNeedsReview": true,
+      "programs": [
+        "* All in Members* Ranges 50km Trail Ultra"
+      ],
+      "sourceRecordIds": [
+        "recMCPKzYk7JOwnZG"
+      ],
+      "expectedPrices": [],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program offer [No race date / Member-only variant, not a program card]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/D9FEuqZs",
+      "finalUrl": "https://www.hertrails.com/offers/D9FEuqZs/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Roller Coaster 46km Program for Women",
+      "bytes": 102201,
+      "identityNeedsReview": false,
+      "programs": [
+        "Roller Coaster Run: 46K Double Loop"
+      ],
+      "sourceRecordIds": [
+        "recT1TLPz11slkVqt"
+      ],
+      "expectedPrices": [
+        460
+      ],
+      "expectedWeeks": [
+        18
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -890,6 +1121,7 @@
       "bytes": 84576,
       "identityNeedsReview": true,
       "programs": [
+        "Legend of the Peaks: Half Marathon 21K",
         "Rotorua Trail Festival 21K"
       ],
       "sourceRecordIds": [
@@ -902,7 +1134,39 @@
         12
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/DfPnfLfq/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/DfPnfLfq/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 59655,
+      "identityNeedsReview": true,
+      "programs": [
+        "Ultra Adelaide 50"
+      ],
+      "sourceRecordIds": [
+        "recX6kgz3jSYMXeHJ"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -932,7 +1196,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/e3kYFrjo",
+      "finalUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail Pomona Sundowner 30km Program for Women",
+      "bytes": 90707,
+      "identityNeedsReview": false,
+      "programs": [
+        "Noosa Ultra-Trail:  30km Pomona Sundowner "
+      ],
+      "sourceRecordIds": [
+        "recIX8RvI5GJIF6mA"
+      ],
+      "expectedPrices": [
+        350
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -993,7 +1290,66 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/ELEcmMWz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 59657,
+      "identityNeedsReview": true,
+      "programs": [
+        "Coastal High 50"
+      ],
+      "sourceRecordIds": [
+        "reclpm53ipg9SkQjQ"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/etTGoeFn",
+      "finalUrl": "https://www.hertrails.com/offers/etTGoeFn/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60293,
+      "identityNeedsReview": true,
+      "programs": [
+        "1:1 Coaching Session"
+      ],
+      "sourceRecordIds": [
+        "reciMZxh59eU7br3O"
+      ],
+      "expectedPrices": [
+        149
+      ],
+      "expectedWeeks": [],
+      "surfaces": [
+        "source: Program offer [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Member-only variant, not a program card]",
+        "source: Recommended Program offer [No race date / Member-only variant, not a program card]"
       ],
       "sharedByPrograms": 1
     },
@@ -1024,9 +1380,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/F9HhnM3H/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/F9HhnM3H/checkout",
+      "status": 404,
+      "ok": false,
+      "broken": true,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "The page you were looking for doesn't exist (404)",
+      "heading": "Hmm... the page you're looking for doesn't exist.",
+      "bytes": 9415,
+      "identityNeedsReview": false,
+      "programs": [
+        "Woodlands Trail Run 50"
+      ],
+      "sourceRecordIds": [
+        "recR0nVXSZCLKQs84"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Race already run / Race already run]",
+        "source: Program offer [Race already run / Race already run]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/FAq7LrTt/checkout",
@@ -1041,7 +1428,8 @@
       "bytes": 103682,
       "identityNeedsReview": false,
       "programs": [
-        "Buffalo Stampede: SkyMarathon 42K"
+        "Buffalo Stampede: SkyMarathon 42K",
+        "Buffalo Stampede: SkyMarathon 42K "
       ],
       "sourceRecordIds": [
         "recIl8fBLy627yrgc"
@@ -1054,9 +1442,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
@@ -1085,7 +1477,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -1114,7 +1509,11 @@
         12
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1146,7 +1545,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -1176,7 +1579,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1206,7 +1613,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1233,7 +1644,10 @@
         8
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1263,7 +1677,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1294,7 +1710,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -1323,12 +1743,16 @@
         20
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
     {
-      "url": "https://www.hertrails.com/offers/H2EooCX4/checkout",
+      "url": "https://www.hertrails.com/offers/H2EooCX4",
       "finalUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout",
       "status": 200,
       "ok": true,
@@ -1352,9 +1776,46 @@
         20
       ],
       "surfaces": [
-        "public catalogue"
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/H2EooCX4/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "60-65km Trail Ultra Build the mountains, perfect your descent",
+      "bytes": 125240,
+      "identityNeedsReview": false,
+      "programs": [
+        "60-65km Trail Program",
+        "Alpine Challenge 60"
+      ],
+      "sourceRecordIds": [
+        "recH5o1eTb2hcUxBv",
+        "recwNrAG5HkmrXcnf"
+      ],
+      "expectedPrices": [
+        440,
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "public catalogue",
+        "source: Program offer [No race date / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
+      ],
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/hLZVLho3/checkout",
@@ -1382,7 +1843,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/hPq8tLEj/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/hPq8tLEj/checkout",
+      "status": 404,
+      "ok": false,
+      "broken": true,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "The page you were looking for doesn't exist (404)",
+      "heading": "Hmm... the page you're looking for doesn't exist.",
+      "bytes": 9415,
+      "identityNeedsReview": false,
+      "programs": [
+        "Coastal Classic: 30km"
+      ],
+      "sourceRecordIds": [
+        "rec81SP6FrnueEDtz"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Race already run / Race already run]",
+        "source: Program offer [Race already run / Race already run]",
+        "source: Recommended Program Name (legacy URL data) [Race already run / Race already run]",
+        "source: Recommended Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -1411,7 +1905,8 @@
         8
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1428,7 +1923,8 @@
       "bytes": 107294,
       "identityNeedsReview": false,
       "programs": [
-        "Roller Coaster Run: 12.4km"
+        "Roller Coaster Run: 12.4km",
+        "Roller Coaster Run: 12.4km "
       ],
       "sourceRecordIds": [
         "recKUH5lsRnfa63xP"
@@ -1441,9 +1937,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/igGCodzH/checkout",
@@ -1472,9 +1972,41 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/JbRMxVS3/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/JbRMxVS3/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Half Trail Marathon: Foundations Program for Women",
+      "bytes": 109483,
+      "identityNeedsReview": false,
+      "programs": [
+        "Half Trail Marathon Program - Foundations"
+      ],
+      "sourceRecordIds": [
+        "recw4xEqCZ0Chq5OS"
+      ],
+      "expectedPrices": [
+        299
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/jevwazob/checkout",
@@ -1502,7 +2034,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1534,9 +2067,45 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/jm2v3dU4",
+      "finalUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "TCS Sydney Marathon Program for Women",
+      "bytes": 111932,
+      "identityNeedsReview": false,
+      "programs": [
+        "Sydney Marathon: 42.2K"
+      ],
+      "sourceRecordIds": [
+        "recBSTwQyahguvp2Z"
+      ],
+      "expectedPrices": [
+        420
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/jm2v3dU4/checkout",
@@ -1569,6 +2138,36 @@
       "sharedByPrograms": 1
     },
     {
+      "url": "https://www.hertrails.com/offers/kHFUL8pa",
+      "finalUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Kunanyi Alpine Marathon Climb the mountain, own the ridge",
+      "bytes": 107349,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kunanyi Mountain Run: Alpine Marathon 46K"
+      ],
+      "sourceRecordIds": [
+        "rec0pmkLGMqi34QDe"
+      ],
+      "expectedPrices": [
+        480
+      ],
+      "expectedWeeks": [
+        16
+      ],
+      "surfaces": [
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
       "url": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
       "finalUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
       "status": 200,
@@ -1594,7 +2193,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1624,7 +2224,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1654,7 +2255,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1683,7 +2285,9 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1700,10 +2304,47 @@
       "bytes": 93044,
       "identityNeedsReview": false,
       "programs": [
-        "4 Peaks: Alpine multi staged program"
+        "4 Peaks: Alpine multi staged program",
+        "Kepler Challenge 60km"
       ],
       "sourceRecordIds": [
+        "rec1RPISGtMGlVX5L",
         "reccLC9pX4SMP5RHK"
+      ],
+      "expectedPrices": [
+        420,
+        499
+      ],
+      "expectedWeeks": [
+        16,
+        20
+      ],
+      "surfaces": [
+        "program finder",
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/LGNSkDAB",
+      "finalUrl": "https://www.hertrails.com/offers/LGNSkDAB/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Coast to Coast Mountain Run 30km · 16 Weeks Program for Women",
+      "bytes": 91088,
+      "identityNeedsReview": false,
+      "programs": [
+        "Coast to Coast Mountain Run (Mingha to Deception): 30.5km"
+      ],
+      "sourceRecordIds": [
+        "rechVo5J1lNI6JWqY"
       ],
       "expectedPrices": [
         420
@@ -1712,8 +2353,10 @@
         16
       ],
       "surfaces": [
-        "program finder",
-        "public catalogue"
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1731,22 +2374,27 @@
       "identityNeedsReview": false,
       "programs": [
         "Coast to Coast Mountain Run (Mingha to Deception): 30.5km",
-        "Coast to Coast Mountain Run (Mingha-Deception): 30.5"
+        "Coast to Coast Mountain Run (Mingha-Deception): 30.5",
+        "Tarawera Ultra-Trail by UTMB: T21"
       ],
       "sourceRecordIds": [
+        "recSip0esYN0NJyRM",
         "rechVo5J1lNI6JWqY"
       ],
       "expectedPrices": [
+        335,
         420
       ],
       "expectedWeeks": [
+        12,
         16
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 3
     },
     {
       "url": "https://www.hertrails.com/offers/LnEKfdZg/checkout",
@@ -1774,7 +2422,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/m4F8hdiZ/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/m4F8hdiZ/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Her Training Cycles for Women",
+      "bytes": 96582,
+      "identityNeedsReview": false,
+      "programs": [
+        "Her Training Cycles"
+      ],
+      "sourceRecordIds": [
+        "recLBgIE3mEjVWQkO"
+      ],
+      "expectedPrices": [
+        125
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1804,7 +2485,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1835,7 +2519,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -1865,7 +2550,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1895,7 +2582,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1924,7 +2612,40 @@
         16
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Mm5rMXXK/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Mm5rMXXK/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60457,
+      "identityNeedsReview": true,
+      "programs": [
+        "Coastal High: 28K"
+      ],
+      "sourceRecordIds": [
+        "recZt5CsOCCupWdEh"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -1953,7 +2674,40 @@
         12
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/mZi6BuoY",
+      "finalUrl": "https://www.hertrails.com/offers/mZi6BuoY/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Noosa Ultra-Trail Cross Country 25km Program for Women",
+      "bytes": 90723,
+      "identityNeedsReview": false,
+      "programs": [
+        "Noosa Ultra-Trail: 25K Cross Country"
+      ],
+      "sourceRecordIds": [
+        "rec9Fk6xME3aOEKLE"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -1988,6 +2742,40 @@
       "sharedByPrograms": 1
     },
     {
+      "url": "https://www.hertrails.com/offers/N2Fe2HuV",
+      "finalUrl": "https://www.hertrails.com/offers/N2Fe2HuV/checkout",
+      "status": 404,
+      "ok": false,
+      "broken": true,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "The page you were looking for doesn't exist (404)",
+      "heading": "Hmm... the page you're looking for doesn't exist.",
+      "bytes": 9415,
+      "identityNeedsReview": false,
+      "programs": [
+        "DIVERGE Mt Lyell Skyrun 50",
+        "Elephant Trail Race (ETR50)",
+        "Mt Solitary Ultra 45"
+      ],
+      "sourceRecordIds": [
+        "recAhuWBPyIzNPBLH",
+        "recdJCOSxwlgFCoBc",
+        "recmEdnwU5ng7a624"
+      ],
+      "expectedPrices": [
+        440,
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Recommended Offer Link [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 3
+    },
+    {
       "url": "https://www.hertrails.com/offers/nCJFznkz/checkout",
       "finalUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout",
       "status": 200,
@@ -2013,7 +2801,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2030,7 +2819,8 @@
       "bytes": 60664,
       "identityNeedsReview": true,
       "programs": [
-        "Convicts & Wenches 50"
+        "Convicts & Wenches 50",
+        "DORMANT / VERIFY — Convicts & Wenches 50"
       ],
       "sourceRecordIds": [
         "recYz6mHHPweu8o03"
@@ -2040,9 +2830,10 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/NLwJ3wJs/checkout",
@@ -2070,7 +2861,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2100,7 +2892,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2130,7 +2925,43 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/NxhdsKNz/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Hounslow Classic Marathon Program for Women",
+      "bytes": 108630,
+      "identityNeedsReview": false,
+      "programs": [
+        "Hounslow Classic: Marathon 43km"
+      ],
+      "sourceRecordIds": [
+        "recj60iklTvAEXMRs"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Race already run / Race already run]",
+        "source: Program offer [Race already run / Race already run]",
+        "source: Recommended Program Name (legacy URL data) [Race already run / Race already run]",
+        "source: Recommended Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -2147,7 +2978,8 @@
       "bytes": 91518,
       "identityNeedsReview": false,
       "programs": [
-        "Buffalo Stampede: Bright Ultra 100K"
+        "Buffalo Stampede: Bright Ultra 100K",
+        "Buffalo Stampede: Bright Ultra 100K "
       ],
       "sourceRecordIds": [
         "rec0QkF8U28IEs9qe"
@@ -2160,9 +2992,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/oGZ2dkeh/checkout",
@@ -2190,7 +3026,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2221,7 +3058,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2252,7 +3092,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2284,7 +3125,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [No race date / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2313,7 +3158,10 @@
         8
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2345,9 +3193,43 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GPT 100 Miler Solo Program for Women",
+      "bytes": 98633,
+      "identityNeedsReview": false,
+      "programs": [
+        "GPT 100 Mile Solo"
+      ],
+      "sourceRecordIds": [
+        "recWYNEchJBPsqvnu"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/PVSmTNyD/checkout",
@@ -2375,7 +3257,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2405,7 +3291,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2434,7 +3323,10 @@
         6
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2463,7 +3355,8 @@
         16
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2493,7 +3386,37 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/REBfa7Kv",
+      "finalUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Kunanyi Ultra Solo 66km Circumnavigate the mountain, own the whole day",
+      "bytes": 118126,
+      "identityNeedsReview": false,
+      "programs": [
+        "Kunanyi Mountain Run: Ultra Solo 66km"
+      ],
+      "sourceRecordIds": [
+        "rec5x40MLerA8xwzR"
+      ],
+      "expectedPrices": [
+        495
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2555,9 +3478,76 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/rJjwfsLU/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/rJjwfsLU/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Surf Coast Century 100km Program for Women",
+      "bytes": 100464,
+      "identityNeedsReview": true,
+      "programs": [
+        "100km Trail Ultra Program 2025"
+      ],
+      "sourceRecordIds": [
+        "reclevnBqEbIg2zoi"
+      ],
+      "expectedPrices": [
+        450
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Archived / Archived]",
+        "source: Program offer [Archived / Archived]",
+        "source: Recommended Program Name (legacy URL data) [Archived / Archived]",
+        "source: Recommended Program offer [Archived / Archived]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/rmtTGhHu",
+      "finalUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Macedon Trail Run 50km Program for Women",
+      "bytes": 83633,
+      "identityNeedsReview": false,
+      "programs": [
+        "Macedon 50km"
+      ],
+      "sourceRecordIds": [
+        "recPusPgPsm7iUmxG"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/rmtTGhHu/checkout",
@@ -2587,7 +3577,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2617,7 +3609,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2647,7 +3643,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2677,7 +3677,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2706,7 +3707,8 @@
         16
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2736,7 +3738,37 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Skw8MzG9/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Skw8MzG9/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60464,
+      "identityNeedsReview": true,
+      "programs": [
+        "Scenic Rim Ultra 65"
+      ],
+      "sourceRecordIds": [
+        "recX64EnQdMxJVz8H"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -2770,7 +3802,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Offer Link [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2787,21 +3823,60 @@
       "bytes": 97893,
       "identityNeedsReview": false,
       "programs": [
-        "50km Trail Ultra [Coast & Forest 1000m to 1500m)"
+        "50km Trail Ultra [Coast & Forest 1000m to 1500m)",
+        "Brimbank Running Festival 50",
+        "Collie River Ultra 50",
+        "DORMANT / VERIFY — Convicts & Wenches 50",
+        "DORMANT / VERIFY — Walhalla Wound Up 50",
+        "Glasshouse 100: 50K",
+        "Goldfields Pipeline Marathon 50",
+        "Heroes & Villains 50",
+        "Heysen / Deep Creek 50",
+        "Hume & Hovell Ultra 50",
+        "Lakes Trail Festival 50",
+        "NYE Rock Around the Clock 50",
+        "Run Narawntapu 50",
+        "Snowy Mountains UTRA50",
+        "WildBoar Trail Run 50",
+        "Woodlands Trail Run 50",
+        "Yaberoo Trail Ultra 50"
       ],
       "sourceRecordIds": [
-        "rec7QnNVJobKwYe0C"
+        "rec10h1BwdyNMWVDw",
+        "rec1zC9HGXHNa68YP",
+        "rec3p4n7vmexmnVbG",
+        "rec4LG19VZu0zLxWA",
+        "rec7QnNVJobKwYe0C",
+        "rec9Imt98wKHUaXm8",
+        "recM4YEb8GArfG7qE",
+        "recQruHUL1508NKHG",
+        "recR0nVXSZCLKQs84",
+        "recTzKFFN5Zz7zuyR",
+        "recYz6mHHPweu8o03",
+        "recZ67WvNznFJo8G7",
+        "recc6hicHli82gB8o",
+        "recfpWnofAOHYt7He",
+        "recoJ7YuEQ4MNci4M",
+        "recrEem5KbMjQkU8k",
+        "recydnlyWiNHv7zOi"
       ],
       "expectedPrices": [
-        440
+        440,
+        499
       ],
       "expectedWeeks": [
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Offer Link [No race date / Publishing]",
+        "source: Recommended Offer Link [Publishing / Publishing]",
+        "source: Recommended Offer Link [Race already run / Race already run]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 17
     },
     {
       "url": "https://www.hertrails.com/offers/sWJhVVqL/checkout",
@@ -2829,7 +3904,37 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/SWUAQH6Q/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/SWUAQH6Q/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "",
+      "heading": "",
+      "bytes": 0,
+      "identityNeedsReview": true,
+      "programs": [
+        "Peri Framework Bundle"
+      ],
+      "sourceRecordIds": [
+        "rectDir4N6QxhoGvB"
+      ],
+      "expectedPrices": [
+        500
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Program offer [No race date / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2859,7 +3964,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2889,7 +3995,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/t4sHWD7o",
+      "finalUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Tarawera Ultra-Trail by UTMB T102 20 weeks of race-specific training for women",
+      "bytes": 92132,
+      "identityNeedsReview": false,
+      "programs": [
+        "Tarawera Ultra-Trail by UTMB: T102"
+      ],
+      "sourceRecordIds": [
+        "recu7zAv4R8jHQ8yN"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2919,7 +4058,10 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2949,7 +4091,38 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/tmLnwYCq/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/tmLnwYCq/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 60460,
+      "identityNeedsReview": true,
+      "programs": [
+        "Scenic Rim Ultra 25"
+      ],
+      "sourceRecordIds": [
+        "rec6YuVieoP1m6zi0"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -2978,7 +4151,11 @@
         20
       ],
       "surfaces": [
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -2996,7 +4173,8 @@
       "identityNeedsReview": false,
       "programs": [
         "Noosa Ultra-Trail: 50K Out'n'Back",
-        "Noosa Ultra-Trail: 50K Out’n’Back"
+        "Noosa Ultra-Trail: 50K Out’n’Back",
+        "Noosa Ultra-Trail: 50K Out’n’Back "
       ],
       "sourceRecordIds": [
         "recjP0T4whGmfqYqB"
@@ -3009,9 +4187,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 3
     },
     {
       "url": "https://www.hertrails.com/offers/UsejcnH5/checkout",
@@ -3034,6 +4216,7 @@
         "Gazley Volkswagen Wellington Marathon: 42.2K",
         "Outback Marathon: 42.2K",
         "Run the Forest (Rotorua): Half Marathon 21K",
+        "Speight’s Taupo Marathon: 42.2K",
         "Sunshine Coast Marathon: 42.2K",
         "Townsville Running Festival: Marathon 42.2K"
       ],
@@ -3043,6 +4226,7 @@
         "rec6uzbPj1y3aEg4U",
         "recLDL7MEIiXG3uLs",
         "recT0O307B8GQdvfy",
+        "recUdTgVC1VEqRHXM",
         "recbThPk2TjhNEImR",
         "reccVNzgMpSGLcSKw",
         "receuJJGhdFNTyG1E",
@@ -3059,9 +4243,21 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Kajabi Product Link [Race already run / Race already run]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Program offer [Race already run / Race already run]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Race already run / Race already run]",
+        "source: Recommended Program offer [No race date / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]",
+        "source: Recommended Program offer [Race already run / Race already run]"
       ],
-      "sharedByPrograms": 10
+      "sharedByPrograms": 11
     },
     {
       "url": "https://www.hertrails.com/offers/UXgEzJoa/checkout",
@@ -3089,7 +4285,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3119,7 +4319,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3136,7 +4338,8 @@
       "bytes": 89598,
       "identityNeedsReview": true,
       "programs": [
-        "Ultra-Trail Australia: UTA50"
+        "Ultra-Trail Australia: UTA50",
+        "Ultra-Trail Australia: UTA50 "
       ],
       "sourceRecordIds": [
         "reczy0iBoo7J2B7sW"
@@ -3149,7 +4352,40 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 2
+    },
+    {
+      "url": "https://www.hertrails.com/offers/vrwXMzF2/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/vrwXMzF2/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "",
+      "bytes": 59665,
+      "identityNeedsReview": true,
+      "programs": [
+        "Wonderland Run 50"
+      ],
+      "sourceRecordIds": [
+        "recdUBC4scVG0mqjp"
+      ],
+      "expectedPrices": [
+        440
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Race already run / Race already run]"
       ],
       "sharedByPrograms": 1
     },
@@ -3179,7 +4415,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3209,7 +4446,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3227,10 +4465,12 @@
       "identityNeedsReview": false,
       "programs": [
         "GPT100 Miler Team Relay - Continuous",
+        "GPT100 Stage Race Team Relay",
         "Grampians Peaks Trail: 100 Mile Team Relay [continuous] (4 person)"
       ],
       "sourceRecordIds": [
-        "recCAIGvojWhxez0G"
+        "recCAIGvojWhxez0G",
+        "recGtn10HTB4TiH41"
       ],
       "expectedPrices": [
         380
@@ -3240,9 +4480,41 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 3
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Wm9Py6wB/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/Wm9Py6wB/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "HER Strength Orientation",
+      "bytes": 79844,
+      "identityNeedsReview": false,
+      "programs": [
+        "HER Strength Orientation"
+      ],
+      "sourceRecordIds": [
+        "recrQjF3iwgvPcIjM"
+      ],
+      "expectedPrices": [
+        40
+      ],
+      "expectedWeeks": [],
+      "surfaces": [
+        "source: Program offer [No race date / No distance or duration]",
+        "source: Recommended Program Name (legacy URL data) [No race date / No distance or duration]",
+        "source: Recommended Program offer [No race date / No distance or duration]"
+      ],
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/wmcJLUHH/checkout",
@@ -3270,7 +4542,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3300,7 +4573,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3317,7 +4591,8 @@
       "bytes": 83282,
       "identityNeedsReview": true,
       "programs": [
-        "Noosa Ultra Trail: 100k"
+        "Noosa Ultra Trail: 100k",
+        "Noosa Ultra Trail: 100k  "
       ],
       "sourceRecordIds": [
         "recC18C6MWYogUn2P"
@@ -3330,9 +4605,13 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/xPpAw5yj/checkout",
@@ -3347,6 +4626,7 @@
       "bytes": 60662,
       "identityNeedsReview": true,
       "programs": [
+        "DORMANT / VERIFY — Walhalla Wound Up 50",
         "Walhalla Wound Up 50"
       ],
       "sourceRecordIds": [
@@ -3357,9 +4637,10 @@
         20
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/XpQqMw28/checkout",
@@ -3387,7 +4668,37 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/XPYFDk53",
+      "finalUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GSER 56km · 20 Week Training Program",
+      "bytes": 87468,
+      "identityNeedsReview": true,
+      "programs": [
+        "GSER: 56K"
+      ],
+      "sourceRecordIds": [
+        "rec49EGB3QrKMPpob"
+      ],
+      "expectedPrices": [
+        499
+      ],
+      "expectedWeeks": [
+        20
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3422,6 +4733,66 @@
       "sharedByPrograms": 1
     },
     {
+      "url": "https://www.hertrails.com/offers/xuQwsuoA/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "Run The Forest 10km Geothermal Traverse Program for Women",
+      "bytes": 91797,
+      "identityNeedsReview": true,
+      "programs": [
+        "Rotorua Trail Festival 10K"
+      ],
+      "sourceRecordIds": [
+        "recany8m7cnia416i"
+      ],
+      "expectedPrices": [
+        335
+      ],
+      "expectedWeeks": [
+        12
+      ],
+      "surfaces": [
+        "source: Program offer [Archived / Archived]",
+        "source: Recommended Program Name (legacy URL data) [Archived / Archived]",
+        "source: Recommended Program offer [Archived / Archived]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/XXELLwPZ/checkout",
+      "finalUrl": "https://www.hertrails.com/offers/XXELLwPZ/checkout",
+      "status": 404,
+      "ok": false,
+      "broken": true,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "The page you were looking for doesn't exist (404)",
+      "heading": "Hmm... the page you're looking for doesn't exist.",
+      "bytes": 9415,
+      "identityNeedsReview": false,
+      "programs": [
+        "Run the Forest (Rotorua): 10K"
+      ],
+      "sourceRecordIds": [
+        "recXZmpjhXXQV74xZ"
+      ],
+      "expectedPrices": [
+        249
+      ],
+      "expectedWeeks": [
+        8
+      ],
+      "surfaces": [
+        "source: Kajabi Product Link [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
       "url": "https://www.hertrails.com/offers/XxzsfFXr/checkout",
       "finalUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout",
       "status": 200,
@@ -3447,7 +4818,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3477,7 +4850,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3507,7 +4884,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3537,7 +4915,11 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3567,7 +4949,37 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
+      ],
+      "sharedByPrograms": 1
+    },
+    {
+      "url": "https://www.hertrails.com/offers/Z7LwLz3W",
+      "finalUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
+      "status": 200,
+      "ok": true,
+      "broken": false,
+      "unavailable": false,
+      "redirectedAway": false,
+      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
+      "heading": "GSER 28km Program for Women",
+      "bytes": 85402,
+      "identityNeedsReview": true,
+      "programs": [
+        "GSER: 28K"
+      ],
+      "sourceRecordIds": [
+        "rec7r0jobxvfWHZcy"
+      ],
+      "expectedPrices": [
+        370
+      ],
+      "expectedWeeks": [
+        14
+      ],
+      "surfaces": [
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3627,7 +5039,8 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3657,7 +5070,9 @@
       ],
       "surfaces": [
         "program finder",
-        "public catalogue"
+        "public catalogue",
+        "source: Kajabi Product Link [Publishing / Publishing]",
+        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 1
     },
@@ -3674,6 +5089,7 @@
       "bytes": 94824,
       "identityNeedsReview": false,
       "programs": [
+        "10km Foundations\nNew or Returning to Run",
         "10km Foundations New or Returning to Run"
       ],
       "sourceRecordIds": [
@@ -3686,9 +5102,13 @@
         8
       ],
       "surfaces": [
-        "program finder"
+        "program finder",
+        "source: Kajabi Product Link [No race date / Publishing]",
+        "source: Program offer [No race date / Publishing]",
+        "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     }
   ]
 }
