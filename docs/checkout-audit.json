@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-13T16:10:30.104Z",
-  "sourceFeedGeneratedAt": "2026-09-13T16:05:25.816Z",
+  "generatedAt": "2026-09-13T16:18:34.063Z",
+  "sourceFeedGeneratedAt": "2026-09-13T16:14:01.794Z",
   "summary": {
-    "uniqueCheckoutUrls": 157,
-    "live": 152,
-    "broken": 5,
+    "uniqueCheckoutUrls": 151,
+    "live": 151,
+    "broken": 0,
     "identityNeedsReview": 83,
-    "sharedCheckoutUrls": 43
+    "sharedCheckoutUrls": 41
   },
   "results": [
     {
@@ -701,35 +701,6 @@
       "sharedByPrograms": 2
     },
     {
-      "url": "https://www.hertrails.com/offers/AoRVgTd4",
-      "finalUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
-      "status": 200,
-      "ok": true,
-      "broken": false,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "Her Trails | Women's Trail Running Coaching, AU & NZ",
-      "heading": "GPT 100 Miler Staged (solo) Program for Women",
-      "bytes": 103094,
-      "identityNeedsReview": false,
-      "programs": [
-        "GPT 100 Mile Solo"
-      ],
-      "sourceRecordIds": [
-        "recWYNEchJBPsqvnu"
-      ],
-      "expectedPrices": [
-        499
-      ],
-      "expectedWeeks": [
-        20
-      ],
-      "surfaces": [
-        "source: Program offer [Publishing / Publishing]"
-      ],
-      "sharedByPrograms": 1
-    },
-    {
       "url": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
       "finalUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
       "status": 200,
@@ -742,14 +713,11 @@
       "bytes": 103094,
       "identityNeedsReview": false,
       "programs": [
-        "GPT 100 Mile Solo",
         "GPT 100 Mile Staged",
-        "Grampians Peaks Trail Ultra: 100 Mile Solo",
         "Grampians Peaks Trail Ultra: 100 Mile Staged Solo"
       ],
       "sourceRecordIds": [
-        "recRtX5oA6iZj1eS4",
-        "recWYNEchJBPsqvnu"
+        "recRtX5oA6iZj1eS4"
       ],
       "expectedPrices": [
         499
@@ -764,7 +732,7 @@
         "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
         "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 4
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/AwH9y22H/checkout",
@@ -1122,9 +1090,11 @@
       "identityNeedsReview": true,
       "programs": [
         "Legend of the Peaks: Half Marathon 21K",
-        "Rotorua Trail Festival 21K"
+        "Rotorua Trail Festival 21K",
+        "Run the Forest (Rotorua): Half Marathon 21K"
       ],
       "sourceRecordIds": [
+        "rec68vDTmDFeSW6rj",
         "recLnNDYRqAIT8TXP"
       ],
       "expectedPrices": [
@@ -1135,11 +1105,15 @@
       ],
       "surfaces": [
         "program finder",
+        "public catalogue",
         "source: Program offer [No race date / Publishing]",
+        "source: Program offer [Publishing / Publishing]",
         "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
-        "source: Recommended Program offer [No race date / Publishing]"
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [No race date / Publishing]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 3
     },
     {
       "url": "https://www.hertrails.com/offers/DfPnfLfq/checkout",
@@ -1384,36 +1358,6 @@
         "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
-    },
-    {
-      "url": "https://www.hertrails.com/offers/F9HhnM3H/checkout",
-      "finalUrl": "https://www.hertrails.com/offers/F9HhnM3H/checkout",
-      "status": 404,
-      "ok": false,
-      "broken": true,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "The page you were looking for doesn't exist (404)",
-      "heading": "Hmm... the page you're looking for doesn't exist.",
-      "bytes": 9415,
-      "identityNeedsReview": false,
-      "programs": [
-        "Woodlands Trail Run 50"
-      ],
-      "sourceRecordIds": [
-        "recR0nVXSZCLKQs84"
-      ],
-      "expectedPrices": [
-        440
-      ],
-      "expectedWeeks": [
-        20
-      ],
-      "surfaces": [
-        "source: Kajabi Product Link [Race already run / Race already run]",
-        "source: Program offer [Race already run / Race already run]"
-      ],
-      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/FAq7LrTt/checkout",
@@ -1849,38 +1793,6 @@
       "sharedByPrograms": 1
     },
     {
-      "url": "https://www.hertrails.com/offers/hPq8tLEj/checkout",
-      "finalUrl": "https://www.hertrails.com/offers/hPq8tLEj/checkout",
-      "status": 404,
-      "ok": false,
-      "broken": true,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "The page you were looking for doesn't exist (404)",
-      "heading": "Hmm... the page you're looking for doesn't exist.",
-      "bytes": 9415,
-      "identityNeedsReview": false,
-      "programs": [
-        "Coastal Classic: 30km"
-      ],
-      "sourceRecordIds": [
-        "rec81SP6FrnueEDtz"
-      ],
-      "expectedPrices": [
-        335
-      ],
-      "expectedWeeks": [
-        12
-      ],
-      "surfaces": [
-        "source: Kajabi Product Link [Race already run / Race already run]",
-        "source: Program offer [Race already run / Race already run]",
-        "source: Recommended Program Name (legacy URL data) [Race already run / Race already run]",
-        "source: Recommended Program offer [Race already run / Race already run]"
-      ],
-      "sharedByPrograms": 1
-    },
-    {
       "url": "https://www.hertrails.com/offers/Htai82FB/checkout",
       "finalUrl": "https://www.hertrails.com/offers/Htai82FB/checkout",
       "status": 200,
@@ -1942,38 +1854,6 @@
         "source: Program offer [Publishing / Publishing]",
         "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
         "source: Recommended Program offer [Publishing / Publishing]"
-      ],
-      "sharedByPrograms": 2
-    },
-    {
-      "url": "https://www.hertrails.com/offers/igGCodzH/checkout",
-      "finalUrl": "https://www.hertrails.com/offers/igGCodzH/checkout",
-      "status": 404,
-      "ok": false,
-      "broken": true,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "The page you were looking for doesn't exist (404)",
-      "heading": "Hmm... the page you're looking for doesn't exist.",
-      "bytes": 9415,
-      "identityNeedsReview": false,
-      "programs": [
-        "Alpine Challenge",
-        "Alpine Challenge 100 Mile"
-      ],
-      "sourceRecordIds": [
-        "rec7t3fVuk7bcdT81"
-      ],
-      "expectedPrices": [
-        499
-      ],
-      "expectedWeeks": [
-        20
-      ],
-      "surfaces": [
-        "program finder",
-        "public catalogue",
-        "source: Program offer [Publishing / Publishing]"
       ],
       "sharedByPrograms": 2
     },
@@ -2742,40 +2622,6 @@
       "sharedByPrograms": 1
     },
     {
-      "url": "https://www.hertrails.com/offers/N2Fe2HuV",
-      "finalUrl": "https://www.hertrails.com/offers/N2Fe2HuV/checkout",
-      "status": 404,
-      "ok": false,
-      "broken": true,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "The page you were looking for doesn't exist (404)",
-      "heading": "Hmm... the page you're looking for doesn't exist.",
-      "bytes": 9415,
-      "identityNeedsReview": false,
-      "programs": [
-        "DIVERGE Mt Lyell Skyrun 50",
-        "Elephant Trail Race (ETR50)",
-        "Mt Solitary Ultra 45"
-      ],
-      "sourceRecordIds": [
-        "recAhuWBPyIzNPBLH",
-        "recdJCOSxwlgFCoBc",
-        "recmEdnwU5ng7a624"
-      ],
-      "expectedPrices": [
-        440,
-        499
-      ],
-      "expectedWeeks": [
-        20
-      ],
-      "surfaces": [
-        "source: Recommended Offer Link [Publishing / Publishing]"
-      ],
-      "sharedByPrograms": 3
-    },
-    {
       "url": "https://www.hertrails.com/offers/nCJFznkz/checkout",
       "finalUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout",
       "status": 200,
@@ -3178,11 +3024,9 @@
       "bytes": 90684,
       "identityNeedsReview": false,
       "programs": [
-        "Gold Coast Marathon: 42.2K",
-        "Queenstown Marathon: 42.2k"
+        "Gold Coast Marathon: 42.2K"
       ],
       "sourceRecordIds": [
-        "reccW9lu7MbjhXNfn",
         "recnQlkfy1KEgiOwQ"
       ],
       "expectedPrices": [
@@ -3199,7 +3043,7 @@
         "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
         "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
@@ -3214,7 +3058,8 @@
       "bytes": 98633,
       "identityNeedsReview": false,
       "programs": [
-        "GPT 100 Mile Solo"
+        "GPT 100 Mile Solo",
+        "Grampians Peaks Trail Ultra: 100 Mile Solo"
       ],
       "sourceRecordIds": [
         "recWYNEchJBPsqvnu"
@@ -3226,10 +3071,13 @@
         20
       ],
       "surfaces": [
+        "program finder",
+        "public catalogue",
+        "source: Program offer [Publishing / Publishing]",
         "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
         "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/PVSmTNyD/checkout",
@@ -3785,19 +3633,15 @@
       "bytes": 91026,
       "identityNeedsReview": true,
       "programs": [
-        "Run the Forest (Rotorua): 10K",
         "Ultra-Trail Australia: UTA11"
       ],
       "sourceRecordIds": [
-        "recDMT9NOl1zODJr3",
-        "recXZmpjhXXQV74xZ"
+        "recDMT9NOl1zODJr3"
       ],
       "expectedPrices": [
-        249,
         370
       ],
       "expectedWeeks": [
-        8,
         14
       ],
       "surfaces": [
@@ -3808,7 +3652,7 @@
         "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
         "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 2
+      "sharedByPrograms": 1
     },
     {
       "url": "https://www.hertrails.com/offers/SqmMLkcg/checkout",
@@ -3870,9 +3714,9 @@
       "surfaces": [
         "program finder",
         "source: Program offer [No race date / Publishing]",
+        "source: Recommended Offer Link [No customer checkout link / No customer checkout link]",
         "source: Recommended Offer Link [No race date / Publishing]",
         "source: Recommended Offer Link [Publishing / Publishing]",
-        "source: Recommended Offer Link [Race already run / Race already run]",
         "source: Recommended Program Name (legacy URL data) [No race date / Publishing]",
         "source: Recommended Program offer [No race date / Publishing]"
       ],
@@ -4215,30 +4059,28 @@
         "Cairns Marathon: 42.2K",
         "Gazley Volkswagen Wellington Marathon: 42.2K",
         "Outback Marathon: 42.2K",
-        "Run the Forest (Rotorua): Half Marathon 21K",
+        "Queenstown Marathon: 42.2k",
         "Speight’s Taupo Marathon: 42.2K",
         "Sunshine Coast Marathon: 42.2K",
         "Townsville Running Festival: Marathon 42.2K"
       ],
       "sourceRecordIds": [
         "rec5IFrrNhpJO4FQv",
-        "rec68vDTmDFeSW6rj",
         "rec6uzbPj1y3aEg4U",
         "recLDL7MEIiXG3uLs",
         "recT0O307B8GQdvfy",
         "recUdTgVC1VEqRHXM",
         "recbThPk2TjhNEImR",
         "reccVNzgMpSGLcSKw",
+        "reccW9lu7MbjhXNfn",
         "receuJJGhdFNTyG1E",
         "recg2kJGX687f5Vsq"
       ],
       "expectedPrices": [
-        335,
         380,
         420
       ],
       "expectedWeeks": [
-        12,
         16
       ],
       "surfaces": [
@@ -4745,9 +4587,11 @@
       "bytes": 91797,
       "identityNeedsReview": true,
       "programs": [
-        "Rotorua Trail Festival 10K"
+        "Rotorua Trail Festival 10K",
+        "Run the Forest (Rotorua): 10K"
       ],
       "sourceRecordIds": [
+        "recXZmpjhXXQV74xZ",
         "recany8m7cnia416i"
       ],
       "expectedPrices": [
@@ -4757,40 +4601,16 @@
         12
       ],
       "surfaces": [
+        "program finder",
+        "public catalogue",
         "source: Program offer [Archived / Archived]",
+        "source: Program offer [Publishing / Publishing]",
         "source: Recommended Program Name (legacy URL data) [Archived / Archived]",
-        "source: Recommended Program offer [Archived / Archived]"
+        "source: Recommended Program Name (legacy URL data) [Publishing / Publishing]",
+        "source: Recommended Program offer [Archived / Archived]",
+        "source: Recommended Program offer [Publishing / Publishing]"
       ],
-      "sharedByPrograms": 1
-    },
-    {
-      "url": "https://www.hertrails.com/offers/XXELLwPZ/checkout",
-      "finalUrl": "https://www.hertrails.com/offers/XXELLwPZ/checkout",
-      "status": 404,
-      "ok": false,
-      "broken": true,
-      "unavailable": false,
-      "redirectedAway": false,
-      "title": "The page you were looking for doesn't exist (404)",
-      "heading": "Hmm... the page you're looking for doesn't exist.",
-      "bytes": 9415,
-      "identityNeedsReview": false,
-      "programs": [
-        "Run the Forest (Rotorua): 10K"
-      ],
-      "sourceRecordIds": [
-        "recXZmpjhXXQV74xZ"
-      ],
-      "expectedPrices": [
-        249
-      ],
-      "expectedWeeks": [
-        8
-      ],
-      "surfaces": [
-        "source: Kajabi Product Link [Publishing / Publishing]"
-      ],
-      "sharedByPrograms": 1
+      "sharedByPrograms": 2
     },
     {
       "url": "https://www.hertrails.com/offers/XxzsfFXr/checkout",

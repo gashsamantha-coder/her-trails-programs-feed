@@ -1,12 +1,12 @@
 # Checkout audit
 
-Generated: 2026-09-13T16:10:30.104Z
+Generated: 2026-09-13T16:18:34.063Z
 
-- Unique checkout URLs: 157
-- Live: 152
-- Broken: 5
+- Unique checkout URLs: 151
+- Live: 151
+- Broken: 0
 - Identity review: 83
-- Shared by multiple catalogue programmes: 43
+- Shared by multiple catalogue programmes: 41
 
 A LIVE result means the URL returned successfully and remained on a Her Trails offer path.
 REVIEW means the URL is live but the visible heading did not confidently match any linked catalogue programme.
@@ -34,8 +34,7 @@ LIVE | 200 | Find Your Fast 10km | 10km Find Your Fast Program for Women | https
 REVIEW | 200 | Snowy Mountains UTRA50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/AgS2ELMA/checkout
 LIVE | 200 | Kunanyi Mountain Run: Mountain Run 25K | kunanyi Mountain Run 25km Program for Women | https://www.hertrails.com/offers/Ai2fWF9N/checkout
 REVIEW | 200 | Ultra-Trail Australia: UTA100; Ultra-Trail Australia: UTA100  | UTA100 Program for Women | https://www.hertrails.com/offers/aLFUiqEz/checkout
-LIVE | 200 | GPT 100 Mile Solo | GPT 100 Miler Staged (solo) Program for Women | https://www.hertrails.com/offers/AoRVgTd4
-LIVE | 200 | GPT 100 Mile Solo; GPT 100 Mile Staged; Grampians Peaks Trail Ultra: 100 Mile Solo; Grampians Peaks Trail Ultra: 100 Mile Staged Solo | GPT 100 Miler Staged (solo) Program for Women | https://www.hertrails.com/offers/AoRVgTd4/checkout
+LIVE | 200 | GPT 100 Mile Staged; Grampians Peaks Trail Ultra: 100 Mile Staged Solo | GPT 100 Miler Staged (solo) Program for Women | https://www.hertrails.com/offers/AoRVgTd4/checkout
 REVIEW | 200 | Feral Pig Ultra 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/AwH9y22H/checkout
 REVIEW | 200 | Truth or Consequences 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/bJqgBPig/checkout
 REVIEW | 200 | Yandina Five O - 50K; Yandina Five ’O’ - 50K | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/bTrRLMGr/checkout
@@ -47,7 +46,7 @@ REVIEW | 200 | Federation Ultra Trail 26K | Her Trails \| Women's Trail Running 
 REVIEW | 200 | * All in Members* Ranges 50km Trail Ultra | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/cwuPt3GL
 LIVE | 200 | Roller Coaster Run: 46K Double Loop | Roller Coaster 46km Program for Women | https://www.hertrails.com/offers/D9FEuqZs
 LIVE | 200 | Roller Coaster Run: 46K Double Loop | Roller Coaster 46km Program for Women | https://www.hertrails.com/offers/D9FEuqZs/checkout
-REVIEW | 200 | Legend of the Peaks: Half Marathon 21K; Rotorua Trail Festival 21K | Run The Forest 21km Pohutu Geyser Trail Program for Women | https://www.hertrails.com/offers/DEZoVXtu/checkout
+REVIEW | 200 | Legend of the Peaks: Half Marathon 21K; Rotorua Trail Festival 21K; Run the Forest (Rotorua): Half Marathon 21K | Run The Forest 21km Pohutu Geyser Trail Program for Women | https://www.hertrails.com/offers/DEZoVXtu/checkout
 REVIEW | 200 | Ultra Adelaide 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/DfPnfLfq/checkout
 REVIEW | 200 | Run the Lighthouse 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/DVgQ9Ygp/checkout
 LIVE | 200 | Noosa Ultra-Trail:  30km Pomona Sundowner  | Noosa Ultra-Trail Pomona Sundowner 30km Program for Women | https://www.hertrails.com/offers/e3kYFrjo
@@ -56,7 +55,6 @@ REVIEW | 200 | Goldfields Pipeline Marathon 50 | Her Trails \| Women's Trail Run
 REVIEW | 200 | Coastal High 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/ELEcmMWz/checkout
 REVIEW | 200 | 1:1 Coaching Session | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/etTGoeFn
 LIVE | 200 | GPT100 Stage Race Team Relay; Grampians Peaks Trail 100 mile Team Relay [Staged] (3 person) | GPT100 Stage Race Team Relay Program for Women | https://www.hertrails.com/offers/ey5okEmT/checkout
-BROKEN | 404 | Woodlands Trail Run 50 | Hmm... the page you're looking for doesn't exist. | https://www.hertrails.com/offers/F9HhnM3H/checkout
 LIVE | 200 | Buffalo Stampede: SkyMarathon 42K; Buffalo Stampede: SkyMarathon 42K  | Buffalo SkyMarathon 42km Program for Women | https://www.hertrails.com/offers/FAq7LrTt/checkout
 LIVE | 200 | Hounslow 17km; Hounslow 17km - 12 weeks | Hounslow Classic 17km Program for Women | https://www.hertrails.com/offers/Fhbmq3pf/checkout
 LIVE | 200 | Half Trail Marathon Program - Intermediate | Half Trail Marathon: Intermediate Program for Women | https://www.hertrails.com/offers/FQMZCEKy/checkout
@@ -70,10 +68,8 @@ REVIEW | 200 | Ikara Ultra 100 Mile | Her Trails \| Women's Trail Running Coachi
 REVIEW | 200 | Alpine Challenge 60 | 60-65km Trail Ultra Build the mountains, perfect your descent | https://www.hertrails.com/offers/H2EooCX4
 LIVE | 200 | 60-65km Trail Program; Alpine Challenge 60 | 60-65km Trail Ultra Build the mountains, perfect your descent | https://www.hertrails.com/offers/H2EooCX4/checkout
 REVIEW | 200 | Gone Nuts 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/hLZVLho3/checkout
-BROKEN | 404 | Coastal Classic: 30km | Hmm... the page you're looking for doesn't exist. | https://www.hertrails.com/offers/hPq8tLEj/checkout
 REVIEW | 200 | Macedon Trail Run 10km | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/Htai82FB/checkout
 LIVE | 200 | Roller Coaster Run: 12.4km; Roller Coaster Run: 12.4km  | Roller Coaster 12km Program for Women | https://www.hertrails.com/offers/Hyt9pBcU/checkout
-BROKEN | 404 | Alpine Challenge; Alpine Challenge 100 Mile | Hmm... the page you're looking for doesn't exist. | https://www.hertrails.com/offers/igGCodzH/checkout
 LIVE | 200 | Half Trail Marathon Program - Foundations | Half Trail Marathon: Foundations Program for Women | https://www.hertrails.com/offers/JbRMxVS3/checkout
 REVIEW | 200 | Hume & Hovell Ultra 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/jevwazob/checkout
 LIVE | 200 | Buffalo Stampede: Bright SkyRun 10k; Buffalo Stampede: Bright SkyRun 20K | Buffalo Stampede 20km Program for Women | https://www.hertrails.com/offers/jiB26aYn/checkout
@@ -98,7 +94,6 @@ REVIEW | 200 | Coastal High: 28K | Her Trails \| Women's Trail Running Coaching,
 REVIEW | 200 | Macedon Trail Run 21.1km | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/MMLwNHkL/checkout
 LIVE | 200 | Noosa Ultra-Trail: 25K Cross Country | Noosa Ultra-Trail Cross Country 25km Program for Women | https://www.hertrails.com/offers/mZi6BuoY
 LIVE | 200 | Noosa Ultra-Trail: 25K Cross Country | Noosa Ultra-Trail Cross Country 25km Program for Women | https://www.hertrails.com/offers/mZi6BuoY/checkout
-BROKEN | 404 | DIVERGE Mt Lyell Skyrun 50; Elephant Trail Race (ETR50); Mt Solitary Ultra 45 | Hmm... the page you're looking for doesn't exist. | https://www.hertrails.com/offers/N2Fe2HuV
 REVIEW | 200 | Marysville Marathon 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/nCJFznkz/checkout
 REVIEW | 200 | Convicts & Wenches 50; DORMANT / VERIFY — Convicts & Wenches 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/ndzzPsqG/checkout
 REVIEW | 200 | Great Ocean Trail Ultra 45 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/NLwJ3wJs/checkout
@@ -111,8 +106,8 @@ LIVE | 200 | GPT 50km (49.5km); Grampians Peaks Trail Ultra: 50K | Grampians Pea
 REVIEW | 200 | Run Larapinta Stage Race - Malbunka (Long Course); Run Larapinta Stage Race – Malbunka (Long Course) | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/oUrPXmcL/checkout
 LIVE | 200 | 50km Trail Ultra [Ranges - 1500 to 2500m]; Whaka Ultra 50K | 50km Trail Ultra Ranges Tier: 1,500 to 2,500m Elevation 20-Week Program for Women | https://www.hertrails.com/offers/p22MW2J6/checkout
 REVIEW | 200 | Her Shift | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/p4mfWio2/checkout
-LIVE | 200 | Gold Coast Marathon: 42.2K; Queenstown Marathon: 42.2k | Gold Coast Marathon Program for Women | https://www.hertrails.com/offers/pCjFmhUy/checkout
-LIVE | 200 | GPT 100 Mile Solo | GPT 100 Miler Solo Program for Women | https://www.hertrails.com/offers/pJ4bCcNM/checkout
+LIVE | 200 | Gold Coast Marathon: 42.2K | Gold Coast Marathon Program for Women | https://www.hertrails.com/offers/pCjFmhUy/checkout
+LIVE | 200 | GPT 100 Mile Solo; Grampians Peaks Trail Ultra: 100 Mile Solo | GPT 100 Miler Solo Program for Women | https://www.hertrails.com/offers/pJ4bCcNM/checkout
 LIVE | 200 | Roller Coaster Run: 23km Double Loop | Roller Coaster 23km Program for Women | https://www.hertrails.com/offers/PVSmTNyD/checkout
 LIVE | 200 | Tarawera Ultra-Trail by UTMB: T21 | Tarawera Ultra-Trail T21 Program for Women | https://www.hertrails.com/offers/PyRFfEpr/checkout
 LIVE | 200 | 5km Foundations: For New Runners, Returners & Seekers of Balance | 5km Foundations Program for Women | https://www.hertrails.com/offers/qrRJMnAn/checkout
@@ -130,7 +125,7 @@ REVIEW | 200 | Elephant Trail Race (ETR50) | Her Trails \| Women's Trail Running
 REVIEW | 200 | Macedon Trail Run 42.2km | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/S5rEUQH7/checkout
 LIVE | 200 | Nike Melbourne Marathon Festival: Marathon 42.2K | Nike Melbourne Marathon Program for Women | https://www.hertrails.com/offers/sDdQQ7Y4/checkout
 REVIEW | 200 | Scenic Rim Ultra 65 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/Skw8MzG9/checkout
-REVIEW | 200 | Run the Forest (Rotorua): 10K; Ultra-Trail Australia: UTA11 | UTA11 Program for Women | https://www.hertrails.com/offers/SpddxDBE/checkout
+REVIEW | 200 | Ultra-Trail Australia: UTA11 | UTA11 Program for Women | https://www.hertrails.com/offers/SpddxDBE/checkout
 LIVE | 200 | 50km Trail Ultra [Coast & Forest 1000m to 1500m); Brimbank Running Festival 50; Collie River Ultra 50; DORMANT / VERIFY — Convicts & Wenches 50; DORMANT / VERIFY — Walhalla Wound Up 50; Glasshouse 100: 50K; Goldfields Pipeline Marathon 50; Heroes & Villains 50; Heysen / Deep Creek 50; Hume & Hovell Ultra 50; Lakes Trail Festival 50; NYE Rock Around the Clock 50; Run Narawntapu 50; Snowy Mountains UTRA50; WildBoar Trail Run 50; Woodlands Trail Run 50; Yaberoo Trail Ultra 50 | 50km Trail Ultra Coast & Forest: 1,000 to 1,500m Program for Women | https://www.hertrails.com/offers/SqmMLkcg/checkout
 REVIEW | 200 | Sydney 50km Trail Ultra | SUM 50 12-Week Build for Women | https://www.hertrails.com/offers/sWJhVVqL/checkout
 REVIEW | 200 | Peri Framework Bundle | — | https://www.hertrails.com/offers/SWUAQH6Q/checkout
@@ -142,7 +137,7 @@ LIVE | 200 | UTMB Kosci 50km | Ultra-Trail Kosciuszko 50km by UTMB Program for W
 REVIEW | 200 | Scenic Rim Ultra 25 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/tmLnwYCq/checkout
 LIVE | 200 | Ikara Ultra 50 Mile | Ikara Ultra 50 Mile Program for Women | https://www.hertrails.com/offers/TRYgWB6J/checkout
 LIVE | 200 | Noosa Ultra-Trail: 50K Out'n'Back; Noosa Ultra-Trail: 50K Out’n’Back; Noosa Ultra-Trail: 50K Out’n’Back  | Noosa Ultra-Trail Out'N'Back 50km Program for Women | https://www.hertrails.com/offers/ubvvhgVv/checkout
-REVIEW | 200 | 42.2km Road Program; ASICS Runaway Hawke's Bay Marathon: 42.2K; ASICS Runaway Hawke’s Bay Marathon: 42.2K; Brisbane Marathon Festival: Marathon 42.2K; Cairns Marathon: 42.2K; Gazley Volkswagen Wellington Marathon: 42.2K; Outback Marathon: 42.2K; Run the Forest (Rotorua): Half Marathon 21K; Speight’s Taupo Marathon: 42.2K; Sunshine Coast Marathon: 42.2K; Townsville Running Festival: Marathon 42.2K | Road Marathon Program for Women | https://www.hertrails.com/offers/UsejcnH5/checkout
+REVIEW | 200 | 42.2km Road Program; ASICS Runaway Hawke's Bay Marathon: 42.2K; ASICS Runaway Hawke’s Bay Marathon: 42.2K; Brisbane Marathon Festival: Marathon 42.2K; Cairns Marathon: 42.2K; Gazley Volkswagen Wellington Marathon: 42.2K; Outback Marathon: 42.2K; Queenstown Marathon: 42.2k; Speight’s Taupo Marathon: 42.2K; Sunshine Coast Marathon: 42.2K; Townsville Running Festival: Marathon 42.2K | Road Marathon Program for Women | https://www.hertrails.com/offers/UsejcnH5/checkout
 LIVE | 200 | Buffalo Stampede: Bright Ultra 100K Relay | Buffalo Stampede 100km Relay | https://www.hertrails.com/offers/UXgEzJoa/checkout
 REVIEW | 200 | Lakes Trail Festival 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/Uxzfrotv/checkout
 REVIEW | 200 | Ultra-Trail Australia: UTA50; Ultra-Trail Australia: UTA50  | UTA50 Program for Women | https://www.hertrails.com/offers/vnpzvHhr/checkout
@@ -158,8 +153,7 @@ REVIEW | 200 | DORMANT / VERIFY — Walhalla Wound Up 50; Walhalla Wound Up 50 |
 LIVE | 200 | Heysen Trail Ultra: 115km | Heysen Trail Ultra 115km Rocky Creek to Victor Harbor, 20-week build | https://www.hertrails.com/offers/XpQqMw28/checkout
 REVIEW | 200 | GSER: 56K | GSER 56km · 20 Week Training Program | https://www.hertrails.com/offers/XPYFDk53
 REVIEW | 200 | GSER: 56K | GSER 56km · 20 Week Training Program | https://www.hertrails.com/offers/XPYFDk53/checkout
-REVIEW | 200 | Rotorua Trail Festival 10K | Run The Forest 10km Geothermal Traverse Program for Women | https://www.hertrails.com/offers/xuQwsuoA/checkout
-BROKEN | 404 | Run the Forest (Rotorua): 10K | Hmm... the page you're looking for doesn't exist. | https://www.hertrails.com/offers/XXELLwPZ/checkout
+REVIEW | 200 | Rotorua Trail Festival 10K; Run the Forest (Rotorua): 10K | Run The Forest 10km Geothermal Traverse Program for Women | https://www.hertrails.com/offers/xuQwsuoA/checkout
 REVIEW | 200 | Collie River Ultra 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/XxzsfFXr/checkout
 REVIEW | 200 | Tarawera Ultra-Trail by UTMB: T50 | Tarawera 50km A 20-Week Program for Women | https://www.hertrails.com/offers/Y6Uwkd76/checkout
 REVIEW | 200 | WildBoar Trail Run 50 | Her Trails \| Women's Trail Running Coaching, AU & NZ | https://www.hertrails.com/offers/yengwzXc/checkout
