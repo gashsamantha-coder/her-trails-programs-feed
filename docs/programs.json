@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T20:47:10.749Z",
-  "today": "2026-09-13",
-  "count": 113,
+  "generatedAt": "2026-09-14T04:51:56.587Z",
+  "today": "2026-09-14",
+  "count": 112,
   "programs": [
     {
       "id": "rec3nL9RogiHiQh3x",
@@ -244,29 +244,6 @@
       "plan": "180 x 3 = $540",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/D9FEuqZs/checkout"
-    },
-    {
-      "id": "recXqy6nb1Y671lpM",
-      "name": "Hounslow 17km",
-      "category": "Event Based Programs",
-      "location": "Blackheath, Blue Mountains, NSW",
-      "km": 17,
-      "distanceLabel": "17km",
-      "elevation": 900,
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)",
-        "Mountain"
-      ],
-      "tagline": "A 12-week program built specifically for the Hounslow Classic 17km. With 900m of vertical in only 17km, an average gradient of 53m per kilometre and a sustained technical descent through the Grand Canyon, this is sky-running terrain. The program prepares you for what the course actually asks of you.\nStarting at Allview Escape, runners make their way across the stony clifftops to the Grand Canyon, descending into ancient canyon trails before returning to reset for Round 2: the famous out-and-back to the Pinnacles via Perrys Lookdown, the Blue Gum Forest, and Lockleys Pylon. Technical Blue Mountains terrain with major climbs.",
-      "weeks": 12,
-      "raceDate": "2026-09-13",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 335,
-      "plan": "131 x 3 = $393",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout"
     },
     {
       "id": "recZeK2gNCY7yA0Pa",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T20:47:10.749Z",
-  "today": "2026-09-13",
+  "generatedAt": "2026-09-14T04:51:56.587Z",
+  "today": "2026-09-14",
   "hierarchy": [
     "exact",
     "curated",
@@ -1129,11 +1129,11 @@
         "name": "Hounslow 17km",
         "weeks": 12,
         "startDate": "2026-06-22",
-        "raceDate": "2026-09-13",
+        "raceDate": null,
         "price": 335,
         "plan": "131 x 3 = $393",
-        "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5554,7 +5554,7 @@
     {
       "id": "recMUyNkxlGbrcEy0",
       "name": "Glasshouse 100 - 50",
-      "raceDate": "2026-09-13",
+      "raceDate": null,
       "distance": 50,
       "elevation": 900,
       "terrain": null,

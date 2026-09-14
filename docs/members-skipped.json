@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:47:10.749Z",
+  "generatedAt": "2026-09-14T04:51:56.587Z",
   "skipped": [
     {
       "name": "The Archie 50 (Mt Buller)",
@@ -75,6 +75,10 @@
     },
     {
       "name": "Ultra Adelaide 50",
+      "why": "Race already run"
+    },
+    {
+      "name": "Hounslow 17km",
       "why": "Race already run"
     },
     {
