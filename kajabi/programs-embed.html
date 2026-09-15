@@ -42,7 +42,7 @@
 <script>
 (function(){
   var FEED_URL = 'https://gashsamantha-coder.github.io/her-trails-programs-feed/programs.json';   // <- set this once
-  var ALL_IN   = 'https://www.hertrails.com/all-in-member';
+  var ALL_IN   = 'https://www.hertrails.com/all-in-membership';
 
   var SVG_S='<svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0"><circle cx="7" cy="7" r="6" stroke="#597b52" stroke-width="1.5"/><circle cx="7" cy="7" r="2.5" fill="#597b52"/></svg>';
   var SVG_R='<svg width="14" height="14" viewBox="0 0 14 14" fill="none" style="flex-shrink:0"><line x1="3" y1="1" x2="3" y2="13" stroke="#c45c33" stroke-width="1.5" stroke-linecap="round"/><path d="M3 2 L11 4 L3 6 Z" fill="#c45c33"/></svg>';
@@ -58,10 +58,18 @@
     var canBuy=p.canPurchase===true && /^https:\/\/www\.hertrails\.com\/offers\/[A-Za-z0-9]+\/checkout\/?$/.test(p.checkoutUrl||'');
     var tags=(p.tags||[]).slice(0,4).map(function(t){return '<span class="ht-tag">'+esc(t)+'</span>';}).join('');
     var price=p.price!=null?('$'+p.price+' AUD'):'', plan=p.plan?('<small>or '+esc(p.plan)+'</small>'):'';
-    var prog=p.status==='in_progress';
-    var avail=prog
-      ?'<strong>In progress:</strong> this block is already underway. Join now for full program access, the Her Trails Community Hub and Coaching Corner, and work forward from the current week.'
-      :'<strong>Available now:</strong> Introductory content, access to the Her Trails Community Hub, Coaching Corner and Week 1 of your program.';
+    var prog=p.status==='in_progress', evergreen=p.status==='evergreen';
+    var dates=evergreen
+      ?'<div class="ht-dates"><div class="ht-date-badge">'+SVG_S+'<span class="ht-date-val">Enrol anytime</span></div></div>'
+      :'<div class="ht-dates">'
+        +'<div class="ht-date-badge">'+SVG_S+'<span class="ht-date-label">Program starts</span> <span class="ht-date-val">'+fmt(p.startDate)+'</span></div>'
+        +'<div class="ht-date-badge">'+SVG_R+'<span class="ht-date-label">Race day</span> <span class="ht-date-val">'+fmt(p.raceDate)+'</span></div>'
+        +'</div>';
+    var avail=evergreen
+      ?'<strong>Enrol anytime:</strong> start when it suits you, with full program access, the Her Trails Community Hub and Coaching Corner.'
+      :prog
+        ?'<strong>In progress:</strong> this block is already underway. Join now for full program access, the Her Trails Community Hub and Coaching Corner, and work forward from the current week.'
+        :'<strong>Available now:</strong> Introductory content, access to the Her Trails Community Hub, Coaching Corner and Week 1 of your program.';
     return '<div class="ht-up-card'+(prog?' is-progress':'')+'">'
       +'<div class="ht-up-ename">'+name+km+el+'</div>'
       +(p.location?'<div class="ht-up-loc">'+esc(p.location)+'</div>':'')
@@ -71,10 +79,7 @@
       +'<div class="ht-up-plabel">Program</div>'
       +'<div class="ht-up-pname">'+name+'</div>'
       +(p.weeks?'<div class="ht-up-wks">'+p.weeks+' weeks</div>':'')
-      +'<div class="ht-dates">'
-      +'<div class="ht-date-badge">'+SVG_S+'<span class="ht-date-label">Program starts</span> <span class="ht-date-val">'+fmt(p.startDate)+'</span></div>'
-      +'<div class="ht-date-badge">'+SVG_R+'<span class="ht-date-label">Race day</span> <span class="ht-date-val">'+fmt(p.raceDate)+'</span></div>'
-      +'</div>'
+      +dates
       +(price||plan?'<div class="ht-price">'+price+plan+'</div>':'')
       +'<div class="ht-up-avail">'+avail+'</div>'
       +'<div class="ht-ctas">'
