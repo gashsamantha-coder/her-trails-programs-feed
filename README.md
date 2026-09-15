@@ -16,27 +16,33 @@ updates the website on the next run. No new subscriptions: GitHub Actions and Pa
    old hand-written cards. Set `FEED_URL` at the top of the script to the URL from step 4.
 
 Three customer-facing files are published:
-- `programs.json` for the public `/programs` page (upcoming race-specific programs with a price).
+- `programs.json` for the public `/programs` page (upcoming race-specific programs and evergreen Distance Based programs with a price).
 - `members.json` for the Member Program Library finder (every live program, generic ones included).
 - `finder.json` for the universal public Program Finder: every canonical physical race, the exact → curated → calculated recommendation hierarchy, all matching fields, reasons and resolved programme purchase details.
 
 ## What gets published to programs.json
-Eligibility is decided in Airtable itself, by the **"Public Feed Status"** formula field on
-each program record — it evaluates to `Publishing` or a specific reason (e.g. "No race date",
-"Race already run", "No price"). `build.mjs` just reads that field and skips anything that
-isn't `Publishing`. Open that field's formula in Airtable any time to see or change the exact rule:
-- it has a customer checkout link (`hertrails.com/offers/...`) in **Program offer url** — the same
-  field is used for every category, including Recommended programs; there's no separate link field
+Dated-program eligibility is decided in Airtable itself, by the **"Public Feed Status"** formula
+field on each program record. It evaluates to `Publishing` or a specific skip reason. Open that
+field's formula in Airtable any time to see or change the exact dated-program rule:
+- it has a customer checkout link (`hertrails.com/offers/...`) in **Program offer url**. The same
+  field is used for every category, including Recommended programs
 - it has a race date, and the race has not happened yet
 - it has a program start date, or a duration in weeks so one can be computed
-  (start = race date minus (weeks − 1), back to the Monday)
+  (start = race date minus (weeks - 1), back to the Monday)
 - it has a price or a payment plan
 - it is not in the Archive category
 
-Everything else is listed in `docs/skipped.json` with the reason (copied straight from the
-Airtable field), so nothing disappears silently. The build also applies a defensive final check:
-a public row must have a future-or-today race date and a valid Her Trails checkout URL. It fails
-the workflow if Rainbow Beach Trail 50 appears or if Tarawera T102 is not labelled `102km`.
+Evergreen programs are the narrow exception. A record with no race date can publish only when
+its category is **Distance Based**, its **Member Feed Status** is `Publishing`, it has a valid
+customer checkout link, and it has a price or payment plan. These records publish with
+`status: "evergreen"`, `raceDate: null`, and `startDate: null` so the embed can show
+"Enrol anytime" instead of fixed dates.
+
+Everything else is listed in `docs/skipped.json` with the reason, so nothing disappears silently.
+The build also applies defensive final checks. Dated rows must have a future-or-today race date,
+evergreen rows must not carry fixed dates, and every public row must have a valid Her Trails
+checkout URL. It fails the workflow if Rainbow Beach Trail 50 appears or if Tarawera T102 is not
+labelled `102km`.
 
 ## What gets published to members.json
 Eligibility here is decided by the companion **"Member Feed Status"** formula field: `Publishing`
