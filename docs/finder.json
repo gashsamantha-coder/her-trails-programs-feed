@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T20:37:30.375Z",
-  "today": "2026-09-19",
+  "generatedAt": "2026-09-20T04:51:03.985Z",
+  "today": "2026-09-20",
   "hierarchy": [
     "exact",
     "curated",
@@ -5353,7 +5353,7 @@
     {
       "id": "recTOkFpuMD4erXV8",
       "name": "Collie River Ultra 50",
-      "raceDate": "2026-09-19",
+      "raceDate": null,
       "distance": 50,
       "elevation": 900,
       "terrain": null,
