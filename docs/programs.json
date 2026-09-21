@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-09-20T20:46:52.186Z",
-  "today": "2026-09-20",
-  "count": 112,
+  "generatedAt": "2026-09-21T04:51:58.552Z",
+  "today": "2026-09-21",
+  "count": 111,
   "programs": [
-    {
-      "id": "rec3nL9RogiHiQh3x",
-      "name": "Great North Walk Trail Running Festival 50",
-      "category": "50km events - tier allocation",
-      "location": "NSW, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1485,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-09-20",
-      "startDate": "2026-05-04",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/8V3PnAyU/checkout"
-    },
     {
       "id": "recAKnUpIOtArKPko",
       "name": "Waterous Trail on Foot 50",

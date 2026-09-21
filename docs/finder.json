@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T20:46:52.186Z",
-  "today": "2026-09-20",
+  "generatedAt": "2026-09-21T04:51:58.552Z",
+  "today": "2026-09-21",
   "hierarchy": [
     "exact",
     "curated",
@@ -584,11 +584,11 @@
         "name": "Great North Walk Trail Running Festival 50",
         "weeks": 20,
         "startDate": "2026-05-04",
-        "raceDate": "2026-09-20",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/8V3PnAyU/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5794,7 +5794,7 @@
     {
       "id": "recij5Mb0uklhBr6i",
       "name": "Great North Walk Trail Running Festival 50",
-      "raceDate": "2026-09-20",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1485,
       "terrain": null,
@@ -6946,7 +6946,7 @@
     {
       "id": "rec3DTDdCoFqTm0VV",
       "name": "Scenic Rim Ultra 25",
-      "raceDate": "2026-09-20",
+      "raceDate": null,
       "distance": 25,
       "elevation": 1200,
       "terrain": "Mountain/forest trail",
@@ -6983,7 +6983,7 @@
     {
       "id": "recDRVrGN6id2aijT",
       "name": "Scenic Rim Ultra 65",
-      "raceDate": "2026-09-20",
+      "raceDate": null,
       "distance": 65,
       "elevation": 3200,
       "terrain": "Mountain/technical",
