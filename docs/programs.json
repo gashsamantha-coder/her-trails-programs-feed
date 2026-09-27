@@ -1,52 +1,8 @@
 {
-  "generatedAt": "2026-09-26T21:07:04.986Z",
-  "today": "2026-09-26",
-  "count": 111,
+  "generatedAt": "2026-09-27T05:15:27.058Z",
+  "today": "2026-09-27",
+  "count": 109,
   "programs": [
-    {
-      "id": "recAKnUpIOtArKPko",
-      "name": "Waterous Trail on Foot 50",
-      "category": "50km events - tier allocation",
-      "location": "WA, Australia",
-      "km": 52,
-      "distanceLabel": "52km",
-      "elevation": 1760,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-09-26",
-      "startDate": "2026-05-11",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/LnEKfdZg/checkout"
-    },
-    {
-      "id": "recJijgzI7tXaFCaf",
-      "name": "Lonely Mountain Ultra 50",
-      "category": "50km events - tier allocation",
-      "location": "NSW, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1900,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-09-26",
-      "startDate": "2026-05-11",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout"
-    },
     {
       "id": "recx0VNH1k8f3jKVS",
       "name": "Yurrebilla 56K",

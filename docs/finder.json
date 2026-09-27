@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T21:07:04.986Z",
-  "today": "2026-09-26",
+  "generatedAt": "2026-09-27T05:15:27.058Z",
+  "today": "2026-09-27",
   "hierarchy": [
     "exact",
     "curated",
@@ -265,11 +265,11 @@
         "name": "Lonely Mountain Ultra 50",
         "weeks": 20,
         "startDate": "2026-05-11",
-        "raceDate": "2026-09-26",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -352,11 +352,11 @@
         "name": "Waterous Trail on Foot 50",
         "weeks": 20,
         "startDate": "2026-05-11",
-        "raceDate": "2026-09-26",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/LnEKfdZg/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -6247,7 +6247,7 @@
     {
       "id": "recyxMZOC4uxovv7Z",
       "name": "Lonely Mountain Ultra 50",
-      "raceDate": "2026-09-26",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1900,
       "terrain": null,
@@ -7719,7 +7719,7 @@
     {
       "id": "recmIkmlmxRZKhhpr",
       "name": "Waterous Trail on Foot 50",
-      "raceDate": "2026-09-26",
+      "raceDate": null,
       "distance": 52,
       "elevation": 1760,
       "terrain": null,
