@@ -1,40 +1,8 @@
 {
-  "generatedAt": "2026-09-27T21:18:51.348Z",
-  "today": "2026-09-27",
-  "count": 135,
+  "generatedAt": "2026-09-28T05:19:40.962Z",
+  "today": "2026-09-28",
+  "count": 134,
   "programs": [
-    {
-      "id": "recx0VNH1k8f3jKVS",
-      "name": "Yurrebilla 56K",
-      "sub": "SA, Australia · 20 weeks",
-      "location": "SA, Australia",
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "startDateDisplay": "May 2026",
-      "distKm": "56km",
-      "km": 56,
-      "weeks": 20,
-      "dist": "ultra",
-      "cat": "Trail Ultra",
-      "cc": "#9b5e3a",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-05-11",
-      "raceDateISO": "2026-09-27",
-      "raceDateDisplay": "Sep 2026",
-      "raceMonth": 9,
-      "startMonth": 5,
-      "elevGainDisplay": "1,865m",
-      "dur": "18-20",
-      "elev": "high",
-      "elevClass2": "Hilly",
-      "techRating": "Technical",
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
-    },
     {
       "id": "recYIEWvEboOSia2a",
       "name": "Heysen Trail Ultra: 115km",

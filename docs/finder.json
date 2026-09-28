@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T21:18:51.348Z",
-  "today": "2026-09-27",
+  "generatedAt": "2026-09-28T05:19:40.962Z",
+  "today": "2026-09-28",
   "hierarchy": [
     "exact",
     "curated",
@@ -3220,11 +3220,11 @@
         "name": "Yurrebilla 56K",
         "weeks": 20,
         "startDate": "2026-05-11",
-        "raceDate": "2026-09-27",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -7976,7 +7976,7 @@
     {
       "id": "recKoWLAEvA5kM69n",
       "name": "Yurrebilla 56K",
-      "raceDate": "2026-09-27",
+      "raceDate": null,
       "distance": 56,
       "elevation": 1865,
       "terrain": null,
