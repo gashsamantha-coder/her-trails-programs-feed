@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T05:19:40.962Z",
+  "generatedAt": "2026-09-28T13:48:52.088Z",
   "today": "2026-09-28",
   "count": 108,
   "programs": [
@@ -926,6 +926,29 @@
       "checkoutUrl": "https://www.hertrails.com/offers/o4c2o8CL/checkout"
     },
     {
+      "id": "rec0pmkLGMqi34QDe",
+      "name": "Kunanyi Mountain Run: Alpine Marathon 46K",
+      "category": "Event Based Programs",
+      "location": "kunanyi/Mt Wellington, Wellington Park, Hobart (nipaluna), Tasmania",
+      "km": 46.16,
+      "distanceLabel": "46.2km",
+      "elevation": 2360,
+      "tier": "T3 Alpine & Technical",
+      "tags": [
+        "42.2km Trail Marathon",
+        "Mountain"
+      ],
+      "tagline": "Alpine and technical terrain with steep, sustained vertical.",
+      "weeks": 20,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-11-02",
+      "status": "upcoming",
+      "price": 480,
+      "plan": "160 x 3 = $480",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout"
+    },
+    {
       "id": "rec5x40MLerA8xwzR",
       "name": "Kunanyi Mountain Run: Ultra Solo 66km",
       "category": "Event Based Programs",
@@ -1126,29 +1149,6 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Wo7xRLAL/checkout"
-    },
-    {
-      "id": "rec0pmkLGMqi34QDe",
-      "name": "Kunanyi Mountain Run: Alpine Marathon 46K",
-      "category": "Event Based Programs",
-      "location": "kunanyi/Mt Wellington, Wellington Park, Hobart (nipaluna), Tasmania",
-      "km": 46.16,
-      "distanceLabel": "46.2km",
-      "elevation": 2360,
-      "tier": "T3 Alpine & Technical",
-      "tags": [
-        "42.2km Trail Marathon",
-        "Mountain"
-      ],
-      "tagline": "Alpine and technical terrain with steep, sustained vertical.",
-      "weeks": 16,
-      "raceDate": "2027-03-20",
-      "startDate": "2026-11-30",
-      "status": "upcoming",
-      "price": 480,
-      "plan": "160 x 3 = $480",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout"
     },
     {
       "id": "rec8Mn53jfSKbctMN",

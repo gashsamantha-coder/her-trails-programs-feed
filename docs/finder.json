@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T05:19:40.962Z",
+  "generatedAt": "2026-09-28T13:48:52.088Z",
   "today": "2026-09-28",
   "hierarchy": [
     "exact",
@@ -2192,8 +2192,8 @@
       "sale": {
         "sourceRecordId": "rec0pmkLGMqi34QDe",
         "name": "Kunanyi Mountain Run: Alpine Marathon 46K",
-        "weeks": 16,
-        "startDate": "2026-11-30",
+        "weeks": 20,
+        "startDate": "2026-11-02",
         "raceDate": "2027-03-20",
         "price": 480,
         "plan": "160 x 3 = $480",
