@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T22:12:44.779Z",
-  "today": "2026-09-29",
+  "generatedAt": "2026-09-30T05:28:47.924Z",
+  "today": "2026-09-30",
   "count": 134,
   "programs": [
     {
@@ -1759,6 +1759,39 @@
       "link": "https://www.hertrails.com/offers/vtquSYao/checkout"
     },
     {
+      "id": "recUXwvjSVvZCgxFM",
+      "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
+      "sub": "Hobart, Tasmania · 14 weeks",
+      "location": "Hobart, Tasmania",
+      "tagline": "Teams of up to 6 runners divide the full 66km ultra course across kunanyi/Mt Wellington into legs of roughly 7-12km each, traversing technical alpine terrain with views across nipaluna/Hobart.",
+      "startDateDisplay": "Dec 2026",
+      "distKm": "16.5km",
+      "km": 16.5,
+      "weeks": 14,
+      "dist": "relay",
+      "cat": "Relay and Team",
+      "cc": "#8a7a9b",
+      "event": "other",
+      "eventLabel": "Other",
+      "openDateISO": "2026-12-07",
+      "raceDateISO": "2027-03-20",
+      "raceDateDisplay": "Mar 2027",
+      "raceMonth": 3,
+      "startMonth": 12,
+      "elevGainDisplay": "945m",
+      "dur": "14-16",
+      "elev": "high",
+      "elevClass2": "Hilly",
+      "techRating": "Runnable",
+      "tier": null,
+      "tags": [
+        "Adapted Program",
+        "Relay event"
+      ],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/7FBYecqb/checkout"
+    },
+    {
       "id": "receEYtGl3ZVg6ARR",
       "name": "Kunanyi Mountain Run: Mountain Run 25K",
       "sub": "Nipaluna/Hobart, Tasmania, Australia · 14 weeks",
@@ -2036,7 +2069,7 @@
       "raceDateDisplay": "Mar 2027",
       "raceMonth": 3,
       "startMonth": 12,
-      "elevGainDisplay": "339m",
+      "elevGainDisplay": "352m",
       "dur": "12",
       "elev": "rolling",
       "elevClass2": "Rolling",
@@ -2047,39 +2080,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
-    },
-    {
-      "id": "recUXwvjSVvZCgxFM",
-      "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
-      "sub": "Hobart, Tasmania · 12 weeks",
-      "location": "Hobart, Tasmania",
-      "tagline": "Teams of up to 6 runners divide the full 66km ultra course across kunanyi/Mt Wellington into legs of roughly 7-12km each, traversing technical alpine terrain with views across nipaluna/Hobart.",
-      "startDateDisplay": "Dec 2026",
-      "distKm": "16.5km",
-      "km": 16.5,
-      "weeks": 12,
-      "dist": "relay",
-      "cat": "Relay and Team",
-      "cc": "#8a7a9b",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-12-28",
-      "raceDateISO": "2027-03-20",
-      "raceDateDisplay": "Mar 2027",
-      "raceMonth": 3,
-      "startMonth": 12,
-      "elevGainDisplay": "945m",
-      "dur": "12",
-      "elev": "high",
-      "elevClass2": "Hilly",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "Adapted Program",
-        "Relay event"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/7FBYecqb/checkout"
     },
     {
       "id": "recOy5jxRaSuSuhlT",

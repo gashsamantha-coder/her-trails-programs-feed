@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T22:12:44.779Z",
-  "today": "2026-09-29",
+  "generatedAt": "2026-09-30T05:28:47.924Z",
+  "today": "2026-09-30",
   "hierarchy": [
     "exact",
     "curated",
@@ -291,7 +291,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "recIX8RvI5GJIF6mA",
-        "name": "Noosa Ultra-Trail:  30km Pomona Sundowner",
+        "name": "Noosa Ultra-Trail: 30km Pomona Sundowner",
         "weeks": 12,
         "startDate": "2026-12-28",
         "raceDate": "2027-03-20",
@@ -3131,8 +3131,8 @@
       "sale": {
         "sourceRecordId": "recUXwvjSVvZCgxFM",
         "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
-        "weeks": 12,
-        "startDate": "2026-12-28",
+        "weeks": 14,
+        "startDate": "2026-12-07",
         "raceDate": "2027-03-20",
         "price": 299,
         "plan": "117 x 3 = $351",
@@ -6462,8 +6462,8 @@
       "id": "reclFL9odqpkuHbM0",
       "name": "Noosa Ultra-Trail: 30km Pomona Sundowner",
       "raceDate": "2027-03-20",
-      "distance": 30.1,
-      "elevation": 339,
+      "distance": 30,
+      "elevation": 352,
       "terrain": "Runnable Trail",
       "environment": "Subtropical",
       "categories": [

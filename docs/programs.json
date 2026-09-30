@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T22:12:44.779Z",
-  "today": "2026-09-29",
+  "generatedAt": "2026-09-30T05:28:47.924Z",
+  "today": "2026-09-30",
   "count": 108,
   "programs": [
     {
@@ -1219,6 +1219,29 @@
       "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout"
     },
     {
+      "id": "recUXwvjSVvZCgxFM",
+      "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+      "category": "Event Based Programs",
+      "location": "Hobart, Tasmania",
+      "km": 16.5,
+      "distanceLabel": "16.5km",
+      "elevation": 945,
+      "tier": null,
+      "tags": [
+        "Adapted Program",
+        "Relay event"
+      ],
+      "tagline": "Teams of up to 6 runners divide the full 66km ultra course across kunanyi/Mt Wellington into legs of roughly 7-12km each, traversing technical alpine terrain with views across nipaluna/Hobart.",
+      "weeks": 14,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-12-07",
+      "status": "upcoming",
+      "price": 299,
+      "plan": "117 x 3 = $351",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout"
+    },
+    {
       "id": "receEYtGl3ZVg6ARR",
       "name": "Kunanyi Mountain Run: Mountain Run 25K",
       "category": "Event Based Programs",
@@ -1398,12 +1421,12 @@
     },
     {
       "id": "recIX8RvI5GJIF6mA",
-      "name": "Noosa Ultra-Trail:  30km Pomona Sundowner",
+      "name": "Noosa Ultra-Trail: 30km Pomona Sundowner",
       "category": "Event Based Programs",
       "location": "Noosa",
       "km": 30,
       "distanceLabel": "30km",
-      "elevation": 339,
+      "elevation": 352,
       "tier": null,
       "tags": [
         "22km - 29km Trail Mid "
@@ -1417,29 +1440,6 @@
       "plan": "135 x 3 = $405",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
-    },
-    {
-      "id": "recUXwvjSVvZCgxFM",
-      "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
-      "category": "Event Based Programs",
-      "location": "Hobart, Tasmania",
-      "km": 16.5,
-      "distanceLabel": "16.5km",
-      "elevation": 945,
-      "tier": null,
-      "tags": [
-        "Adapted Program",
-        "Relay event"
-      ],
-      "tagline": "Teams of up to 6 runners divide the full 66km ultra course across kunanyi/Mt Wellington into legs of roughly 7-12km each, traversing technical alpine terrain with views across nipaluna/Hobart.",
-      "weeks": 12,
-      "raceDate": "2027-03-20",
-      "startDate": "2026-12-28",
-      "status": "upcoming",
-      "price": 299,
-      "plan": "117 x 3 = $351",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout"
     },
     {
       "id": "recOy5jxRaSuSuhlT",
