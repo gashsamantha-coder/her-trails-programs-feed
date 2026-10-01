@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T22:12:51.857Z",
-  "today": "2026-09-30",
+  "generatedAt": "2026-10-01T05:47:44.035Z",
+  "today": "2026-10-01",
   "hierarchy": [
     "exact",
     "curated",
@@ -380,7 +380,7 @@
         "sourceRecordId": "recZt5CsOCCupWdEh",
         "name": "Coastal High: 28K",
         "weeks": 14,
-        "startDate": "2026-05-11",
+        "startDate": "2026-05-25",
         "raceDate": null,
         "price": 370,
         "plan": "145 x 3 = $435",
@@ -2066,12 +2066,12 @@
         "sourceRecordId": "recUdTgVC1VEqRHXM",
         "name": "Speight’s Taupo Marathon: 42.2K",
         "weeks": 16,
-        "startDate": "2026-04-13",
-        "raceDate": null,
+        "startDate": "2027-04-19",
+        "raceDate": "2027-08-07",
         "price": 420,
         "plan": "165 x 3 = $495",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
+        "available": true
       }
     },
     {
@@ -2772,12 +2772,12 @@
         "sourceRecordId": "recX6kgz3jSYMXeHJ",
         "name": "Ultra Adelaide 50",
         "weeks": 20,
-        "startDate": "2026-02-23",
-        "raceDate": null,
+        "startDate": "2027-02-22",
+        "raceDate": "2027-07-10",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/DfPnfLfq/checkout",
+        "available": true
       }
     },
     {
@@ -3132,7 +3132,7 @@
         "sourceRecordId": "recUXwvjSVvZCgxFM",
         "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
         "weeks": 14,
-        "startDate": "2026-12-07",
+        "startDate": "2026-12-14",
         "raceDate": "2027-03-20",
         "price": 299,
         "plan": "117 x 3 = $351",
@@ -4472,7 +4472,7 @@
         "sourceRecordId": "recJZWWVt9AJwA01z",
         "name": "Roller Coaster Run: 23km Double Loop",
         "weeks": 16,
-        "startDate": "2026-07-13",
+        "startDate": "2026-06-29",
         "raceDate": "2026-10-17",
         "price": 299,
         "plan": "115 x 3 = $345",
