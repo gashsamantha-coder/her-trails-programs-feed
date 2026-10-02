@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:29:24.622Z",
+  "generatedAt": "2026-10-02T22:11:10.801Z",
   "today": "2026-10-02",
   "count": 136,
   "programs": [
@@ -1127,7 +1127,7 @@
       "raceDateDisplay": "Jan 2027",
       "raceMonth": 1,
       "startMonth": 10,
-      "elevGainDisplay": "1,350m",
+      "elevGainDisplay": "1,599m",
       "dur": "14-16",
       "elev": "rolling",
       "elevClass2": "Rolling",
@@ -1224,7 +1224,7 @@
       "raceDateDisplay": "Jan 2027",
       "raceMonth": 1,
       "startMonth": 10,
-      "elevGainDisplay": "705m",
+      "elevGainDisplay": "890m",
       "dur": "12",
       "elev": "rolling",
       "elevClass2": "Rolling",

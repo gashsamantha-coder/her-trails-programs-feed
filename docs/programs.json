@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:29:24.622Z",
+  "generatedAt": "2026-10-02T22:11:10.801Z",
   "today": "2026-10-02",
   "count": 110,
   "programs": [
@@ -774,7 +774,7 @@
       "location": "Cape Schanck",
       "km": 56,
       "distanceLabel": "56km",
-      "elevation": 1350,
+      "elevation": 1599,
       "tier": "T1 Coast & Forest",
       "tags": [
         "60km Trail Ultra",
@@ -841,7 +841,7 @@
       "location": "Dromana",
       "km": 28,
       "distanceLabel": "28km",
-      "elevation": 705,
+      "elevation": 890,
       "tier": null,
       "tags": [
         "22km - 29km Trail Mid ",
