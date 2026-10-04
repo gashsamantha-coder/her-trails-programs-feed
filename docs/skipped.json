@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:11:41.925Z",
+  "generatedAt": "2026-10-04T05:48:32.459Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -19,6 +19,10 @@
     },
     {
       "name": "Great North Walk Trail Running Festival 50",
+      "why": "Race already run"
+    },
+    {
+      "name": "Lakes Trail Festival 50",
       "why": "Race already run"
     },
     {

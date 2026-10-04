@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T21:11:41.925Z",
-  "today": "2026-10-03",
-  "count": 110,
+  "generatedAt": "2026-10-04T05:48:32.459Z",
+  "today": "2026-10-04",
+  "count": 109,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -24,28 +24,6 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout"
-    },
-    {
-      "id": "rec3p4n7vmexmnVbG",
-      "name": "Lakes Trail Festival 50",
-      "category": "50km events - tier allocation",
-      "location": "NSW, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 182,
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
-      "weeks": 20,
-      "raceDate": "2026-10-03",
-      "startDate": "2026-05-18",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Uxzfrotv/checkout"
     },
     {
       "id": "rec3ci4T7ZtmA6AYr",
