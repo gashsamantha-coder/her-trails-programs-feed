@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T05:48:32.459Z",
+  "generatedAt": "2026-10-04T12:17:49.723Z",
   "today": "2026-10-04",
   "hierarchy": [
     "exact",
@@ -179,8 +179,8 @@
         "weeks": 14,
         "startDate": "2026-10-12",
         "raceDate": "2027-01-17",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 390,
+        "plan": "150 x 3 = $450",
         "checkoutUrl": "https://www.hertrails.com/offers/FurRFHQ4/checkout",
         "available": true
       }
@@ -2253,8 +2253,8 @@
         "weeks": 12,
         "startDate": "2026-10-26",
         "raceDate": "2027-01-17",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 299,
+        "plan": "160 x 2 = $320",
         "checkoutUrl": "https://www.hertrails.com/offers/rodo5tLj/checkout",
         "available": true
       }
@@ -7457,8 +7457,8 @@
       "id": "recCO67R9Yz6GSm57",
       "name": "Two Bays Trail Run 28km",
       "raceDate": "2027-01-17",
-      "distance": 28,
-      "elevation": 890,
+      "distance": 27.4,
+      "elevation": 705,
       "terrain": "Runnable Trail",
       "environment": "Coastal",
       "categories": [
@@ -7482,7 +7482,7 @@
       "name": "Two Bays Trail Run 56km",
       "raceDate": "2027-01-17",
       "distance": 56,
-      "elevation": 1599,
+      "elevation": 1350,
       "terrain": "Runnable Trail",
       "environment": "Coastal",
       "categories": [
