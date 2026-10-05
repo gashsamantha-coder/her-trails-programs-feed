@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "generatedAt": "2026-10-05T14:31:25.463Z",
   "today": "2026-10-05",
-  "count": 108,
+  "count": 113,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -680,6 +680,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout"
     },
     {
+      "id": "rec2XD3h26K9WKU9L",
+      "name": "The Archie 50 (Mt Buller)",
+      "category": "50km events - tier allocation",
+      "location": "Mount Buller Alpine Village, VIC",
+      "km": 52,
+      "distanceLabel": "52km",
+      "elevation": 2500,
+      "tier": "T3 Alpine & Technical",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Alpine and technical terrain with steep, sustained vertical.",
+      "weeks": 20,
+      "raceDate": "2027-02-20",
+      "startDate": "2026-10-05",
+      "status": "in_progress",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/9U5DgSUh/checkout"
+    },
+    {
       "id": "recSleW75jWWaa9me",
       "name": "Run the Lighthouse 50",
       "category": "50km events - tier allocation",
@@ -700,28 +722,6 @@
       "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout"
-    },
-    {
-      "id": "recj6XSh2aNJ7SbKi",
-      "name": "Oscars Hut 2 Hut 50km",
-      "category": "Event Based Programs",
-      "location": "Mount Buller Alpine Village, VIC",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 2530,
-      "tier": "T3 Alpine & Technical",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Loop course starting and finishing at Buller Resort Village. Runners head out via Buller Summit Car Park and the Summit Nature Walk singletrack, descend the rocky, technical Four Mile section, pass through Eight Mile and Pikes Flat (crossing the Howqua River more than a dozen times), reach Howqua Gap Hut, then climb back up via logging roads, jeep tracks and mountain bike trails to re-summit Buller.",
-      "weeks": 20,
-      "raceDate": "2027-02-20",
-      "startDate": "2026-10-05",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/M7nSbzfF/checkout"
     },
     {
       "id": "recv2iiUhcLlsFfeo",
@@ -1332,6 +1332,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout"
     },
     {
+      "id": "recQXB2Xovrv3LTyl",
+      "name": "Wilsons Prom Festival 50",
+      "category": "50km events - tier allocation",
+      "location": "VIC, Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 2010,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-05-01",
+      "startDate": "2026-12-14",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/KxrSgHGF/checkout"
+    },
+    {
       "id": "recowLXzA5lfqOlUU",
       "name": "Ikara Ultra 100K",
       "category": "Event Based Programs",
@@ -1491,6 +1513,30 @@
       "checkoutUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout"
     },
     {
+      "id": "recktfD6I4HqsizxH",
+      "name": "Diverge: Mt Owen 25km SkyRun",
+      "category": "Event Based Programs",
+      "location": "Queenstown, West Coast, Tasmania, Australia",
+      "km": 25,
+      "distanceLabel": "25km",
+      "elevation": 1500,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Technical",
+        "Mountain"
+      ],
+      "tagline": "Starts on the main street of Queenstown (Orr Street) and ascends Mt Owen via the most direct route, up the Little Owen Ridgeline to access open, runnable off-track alpine ridgelines across conglomerate gravel and boulder scrambling. Descends via 'Natural Selection', a steep and direct MTB trail, passing Horsetail Falls (a 50m waterfall) and out-and-back to the Iron Blow Lookout (views of the open-cut mine). Returns via the MTB trails and around the Miners Siding sculpture to the finish.",
+      "weeks": 14,
+      "raceDate": "2027-05-01",
+      "startDate": "2027-01-25",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "169 x 3 = $507",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/T9kc3wa2/checkout"
+    },
+    {
       "id": "rec7CsGAXnWzl39jb",
       "name": "Ultra-Trail Australia: UTA22",
       "category": "Event Based Programs",
@@ -1629,16 +1675,16 @@
       "name": "Brisbane Trail Ultra 110 (BTU)",
       "category": "Recommended programs",
       "location": "D'Aguilar National Park / Mt Coot-tha, Brisbane, QLD",
-      "km": 110,
-      "distanceLabel": "110km",
-      "elevation": 4800,
+      "km": 111.9,
+      "distanceLabel": "111.9km",
+      "elevation": 4880,
       "tier": null,
       "tags": [
         ">100km Trail Ultra ",
         "Mountain",
         "Technical"
       ],
-      "tagline": "Starts in the D'Aguilar National Park / Mt Coot-tha hinterland area west of Brisbane and finishes at the Kangaroo Point Cliffs along the Brisbane River, running through eucalyptus forest and rainforest singletrack trails.",
+      "tagline": "The Brisbane Trail Ultra 110km is a grueling 111.9 km trail race featuring around 4,880 metres of elevation gain through D'Aguilar National Park (including the Mount Nebo and Mount Glorious area), finishing at Kangaroo Point, Brisbane.",
       "weeks": 20,
       "raceDate": "2027-06-26",
       "startDate": "2027-02-08",
@@ -1675,16 +1721,16 @@
       "name": "Brisbane Trail Ultra 60 (BTU)",
       "category": "Recommended programs",
       "location": "Brisbane, Queensland (D'Aguilar National Park and Brisbane Hinterland, finishing at Kangaroo Point Cliffs)",
-      "km": 60,
-      "distanceLabel": "60km",
-      "elevation": 2200,
+      "km": 61.1,
+      "distanceLabel": "61.1km",
+      "elevation": 2130,
       "tier": null,
       "tags": [
         "60km Trail Ultra",
         "Mountain",
         "Technical"
       ],
-      "tagline": "The BTU60 course traverses D'Aguilar National Park rainforest and eucalypt woodland trails, connects through Brisbane's western suburbs via challenging single track with views of the Brisbane skyline, and finishes at Kangaroo Point Cliffs along the Brisbane River.",
+      "tagline": "The Brisbane Trail Ultra 60 (BTU60) is a challenging 61.1 km to 61.7 km trail running event featuring approximately 2,060m to 2,130m of vertical elevation gain and loss. Single tracks, sub-tropical rainforests in D'Aguilar National Park and towering eucalypt woodlands, connecting the wilderness to the city and finishing at the iconic Kangaroo Point Cliffs with views of the Brisbane skyline.",
       "weeks": 20,
       "raceDate": "2027-06-26",
       "startDate": "2027-02-08",
@@ -1981,6 +2027,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
+      "id": "rectsLBHNk9gmq61L",
+      "name": "Federation Ultra Trail 55K",
+      "category": "Recommended programs",
+      "location": "Monarto, South Australia (start), Murray Bridge, South Australia (finish)",
+      "km": 55,
+      "distanceLabel": "55km",
+      "elevation": 1100,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "60km Trail Ultra"
+      ],
+      "tagline": "Starts inside Monarto Safari Park before public opening hours, traverses the southern end of the Lavender Federation Trail through Kinchina Conservation Park, passes beneath Murray Bridge, and finishes at Sturt Reserve on the Murray Bridge riverfront.",
+      "weeks": 20,
+      "raceDate": "2027-08-08",
+      "startDate": "2027-03-22",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/MoF7qChU/checkout"
+    },
+    {
       "id": "recR6gSaCrs05IKtv",
       "name": "Run Larapinta Stage Race – Malbunka (Long Course)",
       "category": "Recommended programs",
@@ -2068,6 +2136,28 @@
       "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "recdUBC4scVG0mqjp",
+      "name": "Wonderland Run 50",
+      "category": "50km events - tier allocation",
+      "location": "VIC, Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": null,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-08-29",
+      "startDate": "2027-04-12",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/vrwXMzF2/checkout"
     },
     {
       "id": "recUdTgVC1VEqRHXM",
@@ -2292,6 +2382,28 @@
       "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
+    },
+    {
+      "id": "reco91kGcwuW6V7Ld",
+      "name": "Blackall50",
+      "category": "50km events - tier allocation",
+      "location": "Mapleton, Sunshine Coast Hinterland, QLD",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1580,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-10-16",
+      "startDate": "2027-05-31",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/BthYYyWk/checkout"
     },
     {
       "id": "recP1HD9gyluRt3ox",

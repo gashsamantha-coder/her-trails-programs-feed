@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "generatedAt": "2026-10-05T14:31:25.463Z",
   "today": "2026-10-05",
   "hierarchy": [
     "exact",
@@ -16,7 +16,7 @@
   },
   "caveat": "Time-on-feet contributes only when the race has a populated band. Readiness guidance is advisory and configured separately.",
   "counts": {
-    "races": 131,
+    "races": 132,
     "programs": 163,
     "calculatedPool": 11
   },
@@ -979,17 +979,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recR0nVXSZCLKQs84",
-        "name": "Woodlands Trail Run 50",
-        "weeks": 20,
-        "startDate": "2026-01-05",
-        "raceDate": null,
-        "price": 440,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
-      }
+      "sale": null
     },
     {
       "id": "recFPuxWk38Oj7uV1",
@@ -1985,17 +1975,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recj6XSh2aNJ7SbKi",
-        "name": "Oscars Hut 2 Hut 50km",
-        "weeks": 20,
-        "startDate": "2026-10-05",
-        "raceDate": "2027-02-20",
-        "price": 499,
-        "plan": "147 x 4 = $588",
-        "checkoutUrl": "https://www.hertrails.com/offers/M7nSbzfF/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recRd9pipb9Gr2L1R",
@@ -2411,17 +2391,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recLnNDYRqAIT8TXP",
-        "name": "Legend of the Peaks: Half Marathon 21K",
-        "weeks": 12,
-        "startDate": null,
-        "raceDate": null,
-        "price": 335,
-        "plan": "131 x 3 = $393",
-        "checkoutUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recXSDe9slIVr4Yw8",
@@ -2469,17 +2439,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "rec4LG19VZu0zLxWA",
-        "name": "Run Narawntapu 50",
-        "weeks": 20,
-        "startDate": null,
-        "raceDate": null,
-        "price": 440,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/6ki9po47/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recXu7Ypg3gDbmJv4",
@@ -2855,17 +2815,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "rec9Imt98wKHUaXm8",
-        "name": "Snowy Mountains UTRA50",
-        "weeks": 20,
-        "startDate": null,
-        "raceDate": null,
-        "price": 440,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/AgS2ELMA/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recg2AqZXvkrJlkXs",
@@ -3107,8 +3057,8 @@
         "raceDate": "2027-10-16",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/BthYYyWk/checkout",
+        "available": true
       }
     },
     {
@@ -3549,17 +3499,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recc6hicHli82gB8o",
-        "name": "DORMANT / VERIFY — Walhalla Wound Up 50",
-        "weeks": 20,
-        "startDate": null,
-        "raceDate": null,
-        "price": null,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/xPpAw5yj/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recn3hvBItRdvnsU1",
@@ -3848,17 +3788,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recYz6mHHPweu8o03",
-        "name": "DORMANT / VERIFY — Convicts & Wenches 50",
-        "weeks": 20,
-        "startDate": null,
-        "raceDate": null,
-        "price": null,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/ndzzPsqG/checkout",
-        "available": true
-      }
+      "sale": null
     },
     {
       "id": "recqPQkYr74zWgxjt",
@@ -4153,12 +4083,12 @@
         "sourceRecordId": "recdUBC4scVG0mqjp",
         "name": "Wonderland Run 50",
         "weeks": 20,
-        "startDate": "2026-04-13",
-        "raceDate": null,
+        "startDate": "2027-04-12",
+        "raceDate": "2027-08-29",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/vrwXMzF2/checkout",
+        "available": true
       }
     },
     {
@@ -4273,8 +4203,8 @@
         "raceDate": "2027-08-08",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/MoF7qChU/checkout",
+        "available": true
       }
     },
     {
@@ -4356,8 +4286,8 @@
         "sourceRecordId": "recQXB2Xovrv3LTyl",
         "name": "Wilsons Prom Festival 50",
         "weeks": 20,
-        "startDate": null,
-        "raceDate": null,
+        "startDate": "2026-12-14",
+        "raceDate": "2027-05-01",
         "price": 440,
         "plan": "129 x 4 = $516",
         "checkoutUrl": "https://www.hertrails.com/offers/KxrSgHGF/checkout",
@@ -4985,9 +4915,9 @@
     {
       "id": "recxjcVOhnqGdRA05",
       "name": "Brisbane Trail Ultra 110 (BTU)",
-      "raceDate": "2027-07-03",
-      "distance": 110,
-      "elevation": 4800,
+      "raceDate": "2027-06-26",
+      "distance": 111.9,
+      "elevation": 4880,
       "terrain": "Rainforest/eucalyptus forest singletrack",
       "environment": "Rainforest/subtropical hinterland",
       "categories": [
@@ -5002,7 +4932,7 @@
         {
           "programId": "recPpwiJjKfbLYBjN",
           "kind": "calculated",
-          "score": 80,
+          "score": 79,
           "reason": "This is the strongest calculated fit for the race's distance, terrain, time on feet. The technicality fit is less exact, so bring that part to Coaching Corner."
         },
         {
@@ -5046,9 +4976,9 @@
     {
       "id": "recZy9SyaUsLOFcUP",
       "name": "Brisbane Trail Ultra 60 (BTU)",
-      "raceDate": "2027-07-03",
-      "distance": 60,
-      "elevation": 2200,
+      "raceDate": "2027-06-26",
+      "distance": 61.1,
+      "elevation": 2130,
       "terrain": "Rainforest/hinterland singletrack",
       "environment": "Rainforest/hinterland",
       "categories": [
@@ -5063,19 +4993,19 @@
         {
           "programId": "recDS1h4PLlQiiAQ9",
           "kind": "calculated",
-          "score": 100,
+          "score": 97,
           "reason": "This is the strongest calculated fit for the race's distance, elevation, terrain."
         },
         {
           "programId": "recnLbqMUuoiduMYf",
           "kind": "calculated",
-          "score": 97,
+          "score": 93,
           "reason": "This is the strongest calculated fit for the race's distance, elevation, terrain."
         },
         {
           "programId": "recPpwiJjKfbLYBjN",
           "kind": "calculated",
-          "score": 69,
+          "score": 71,
           "reason": "This is the strongest calculated fit for the race's elevation, terrain, technicality."
         }
       ]
@@ -5419,6 +5349,40 @@
           "programId": "recnLbqMUuoiduMYf",
           "kind": "curated",
           "reason": "Around 3,000m climbing with exposed alpine skyrunning and boulder scrambling requires the Alpine & Technical build."
+        }
+      ]
+    },
+    {
+      "id": "recu284Lv9VnuCcAP",
+      "name": "Diverge: Mt Owen 25km SkyRun",
+      "raceDate": "2027-05-01",
+      "distance": 25,
+      "elevation": 1500,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": null,
+      "recommendations": [
+        {
+          "programId": "rechJRFMVlMnANszH",
+          "kind": "calculated",
+          "score": 75,
+          "reason": "This is the strongest calculated fit for the race's distance, elevation. The terrain fit is less exact, so bring that part to Coaching Corner."
+        },
+        {
+          "programId": "recPpwiJjKfbLYBjN",
+          "kind": "calculated",
+          "score": 31,
+          "reason": "This is the strongest calculated fit for the race's elevation. The distance and terrain fit is less exact, so bring that part to Coaching Corner."
+        },
+        {
+          "programId": "recnAJAnlnayaKvZg",
+          "kind": "calculated",
+          "score": 31,
+          "reason": "This is the strongest calculated fit for the race's elevation. The distance and terrain fit is less exact, so bring that part to Coaching Corner."
         }
       ]
     },

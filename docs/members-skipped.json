@@ -1,10 +1,6 @@
 {
-  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "generatedAt": "2026-10-05T14:31:25.463Z",
   "skipped": [
-    {
-      "name": "The Archie 50 (Mt Buller)",
-      "why": "No customer checkout link"
-    },
     {
       "name": "Maven Resources",
       "why": "No customer checkout link"
@@ -74,10 +70,6 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Woodlands Trail Run 50",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Truth or Consequences 50",
       "why": "Race already run"
     },
@@ -106,10 +98,6 @@
       "why": "Archived"
     },
     {
-      "name": "Wonderland Run 50",
-      "why": "Race already run"
-    },
-    {
       "name": "1:1 Coaching Session",
       "why": "Member-only variant, not a program card"
     },
@@ -124,10 +112,6 @@
     {
       "name": "Hounslow Classic: Marathon 43km",
       "why": "Race already run"
-    },
-    {
-      "name": "Diverge: Mt Owen 25km SkyRun",
-      "why": "No customer checkout link"
     },
     {
       "name": "100km Trail Ultra Program 2025",
@@ -150,10 +134,6 @@
       "why": "Archived"
     },
     {
-      "name": "Blackall50",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Larapinta Hike and Adventure Fit Program",
       "why": "Archived"
     },
@@ -164,10 +144,6 @@
     {
       "name": "HER Strength Orientation",
       "why": "No distance or duration"
-    },
-    {
-      "name": "Federation Ultra Trail 55K",
-      "why": "No customer checkout link"
     },
     {
       "name": "City2Surf Training Program",
