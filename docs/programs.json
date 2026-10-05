@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T21:21:10.398Z",
-  "today": "2026-10-04",
-  "count": 109,
+  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "today": "2026-10-05",
+  "count": 108,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -24,28 +24,6 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout"
-    },
-    {
-      "id": "rec3ci4T7ZtmA6AYr",
-      "name": "Macedon Trail Run 50",
-      "category": "50km events - tier allocation",
-      "location": "VIC, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1945,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-10-04",
-      "startDate": "2026-05-18",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
     {
       "id": "recydnlyWiNHv7zOi",
@@ -717,7 +695,7 @@
       "weeks": 20,
       "raceDate": "2027-02-20",
       "startDate": "2026-10-05",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 440,
       "plan": "129 x 4 = $516",
       "canPurchase": true,
@@ -739,7 +717,7 @@
       "weeks": 20,
       "raceDate": "2027-02-20",
       "startDate": "2026-10-05",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 499,
       "plan": "147 x 4 = $588",
       "canPurchase": true,
@@ -1450,7 +1428,7 @@
       "location": "VIC, Australia",
       "km": 45,
       "distanceLabel": "45km",
-      "elevation": null,
+      "elevation": 1700,
       "tier": "T2 Ranges",
       "tags": [
         "50km Trail Ultra"

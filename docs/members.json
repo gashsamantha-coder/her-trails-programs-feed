@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T21:21:10.398Z",
-  "today": "2026-10-04",
-  "count": 135,
+  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "today": "2026-10-05",
+  "count": 134,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -34,38 +34,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/XpQqMw28/checkout"
-    },
-    {
-      "id": "rec3ci4T7ZtmA6AYr",
-      "name": "Macedon Trail Run 50",
-      "sub": "VIC, Australia · 20 weeks",
-      "location": "VIC, Australia",
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "startDateDisplay": "May 2026",
-      "distKm": "50km",
-      "km": 50,
-      "weeks": 20,
-      "dist": "ultra",
-      "cat": "Trail Ultra",
-      "cc": "#9b5e3a",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-05-18",
-      "raceDateISO": "2026-10-04",
-      "raceDateDisplay": "Oct 2026",
-      "raceMonth": 10,
-      "startMonth": 5,
-      "elevGainDisplay": "1,945m",
-      "dur": "18-20",
-      "elev": "high",
-      "elevClass2": "Hilly",
-      "techRating": "Technical",
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
     {
       "id": "recydnlyWiNHv7zOi",
@@ -2103,7 +2071,7 @@
       "raceDateDisplay": "May 2027",
       "raceMonth": 5,
       "startMonth": 12,
-      "elevGainDisplay": "",
+      "elevGainDisplay": "1,700m",
       "dur": "18-20",
       "elev": "high",
       "elevClass2": "Hilly",

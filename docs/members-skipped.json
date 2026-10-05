@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:21:10.398Z",
+  "generatedAt": "2026-10-05T05:34:31.946Z",
   "skipped": [
     {
       "name": "The Archie 50 (Mt Buller)",
@@ -12,6 +12,10 @@
     {
       "name": "Grampians Peaks Trail: 30km",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Macedon Trail Run 50",
+      "why": "Race already run"
     },
     {
       "name": "Great North Walk Trail Running Festival 50",

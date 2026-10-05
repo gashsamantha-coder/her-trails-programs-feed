@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T21:21:10.398Z",
-  "today": "2026-10-04",
+  "generatedAt": "2026-10-05T05:34:31.946Z",
+  "today": "2026-10-05",
   "hierarchy": [
     "exact",
     "curated",
@@ -2503,11 +2503,11 @@
         "name": "Macedon Trail Run 50",
         "weeks": 20,
         "startDate": "2026-05-18",
-        "raceDate": "2026-10-04",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -6271,7 +6271,7 @@
     {
       "id": "recvqPkXh0VLHKZ1D",
       "name": "Macedon Trail Run 50",
-      "raceDate": "2026-10-04",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1945,
       "terrain": null,
