@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T14:31:25.463Z",
-  "today": "2026-10-05",
+  "generatedAt": "2026-10-06T00:01:10.374Z",
+  "today": "2026-10-06",
   "hierarchy": [
     "exact",
     "curated",
@@ -152,7 +152,7 @@
         "raceDate": "2026-11-14",
         "price": 420,
         "plan": "165 x 3 = $495",
-        "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
+        "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout",
         "available": true
       }
     },
@@ -264,12 +264,12 @@
         "sourceRecordId": "recJijgzI7tXaFCaf",
         "name": "Lonely Mountain Ultra 50",
         "weeks": 20,
-        "startDate": "2026-05-11",
-        "raceDate": null,
+        "startDate": "2027-05-10",
+        "raceDate": "2027-09-25",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout",
+        "available": true
       }
     },
     {
@@ -380,12 +380,12 @@
         "sourceRecordId": "recZt5CsOCCupWdEh",
         "name": "Coastal High: 28K",
         "weeks": 14,
-        "startDate": "2026-05-25",
-        "raceDate": null,
+        "startDate": "2027-05-24",
+        "raceDate": "2027-08-28",
         "price": 370,
         "plan": "145 x 3 = $435",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/Mm5rMXXK/checkout",
+        "available": true
       }
     },
     {
@@ -554,12 +554,12 @@
         "sourceRecordId": "rec6YuVieoP1m6zi0",
         "name": "Scenic Rim Ultra 25",
         "weeks": 14,
-        "startDate": "2026-05-04",
-        "raceDate": null,
+        "startDate": "2027-05-03",
+        "raceDate": "2027-08-07",
         "price": 370,
         "plan": "145 x 3 = $435",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/tmLnwYCq/checkout",
+        "available": true
       }
     },
     {
@@ -824,8 +824,8 @@
         "sourceRecordId": "rec7t3fVuk7bcdT81",
         "name": "Alpine Challenge 100 Mile",
         "weeks": 20,
-        "startDate": "2026-11-16",
-        "raceDate": "2027-04-03",
+        "startDate": "2026-11-23",
+        "raceDate": "2027-04-10",
         "price": 499,
         "plan": "147 x 4 = $588",
         "checkoutUrl": null,
@@ -1118,12 +1118,12 @@
         "sourceRecordId": "recXqy6nb1Y671lpM",
         "name": "Hounslow 17km",
         "weeks": 12,
-        "startDate": "2026-06-22",
-        "raceDate": null,
+        "startDate": "2027-06-21",
+        "raceDate": "2027-09-12",
         "price": 335,
         "plan": "131 x 3 = $393",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
+        "available": true
       }
     },
     {
@@ -1379,8 +1379,8 @@
         "sourceRecordId": "recCl6LbF5McWZg0d",
         "name": "Lithgow Ridgy-Didge 50",
         "weeks": 20,
-        "startDate": "2026-11-16",
-        "raceDate": "2027-04-03",
+        "startDate": "2026-11-09",
+        "raceDate": "2027-03-27",
         "price": 440,
         "plan": "129 x 4 = $516",
         "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout",
@@ -2337,8 +2337,8 @@
         "sourceRecordId": "recjMmDJcauBZjs7I",
         "name": "Sydney 50km Trail Ultra",
         "weeks": 20,
-        "startDate": "2027-03-01",
-        "raceDate": "2027-07-16",
+        "startDate": "2027-03-08",
+        "raceDate": "2027-07-24",
         "price": 499,
         "plan": "147 x 4 = $588",
         "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout",
@@ -3169,12 +3169,12 @@
         "sourceRecordId": "recx0VNH1k8f3jKVS",
         "name": "Yurrebilla 56K",
         "weeks": 20,
-        "startDate": "2026-05-11",
-        "raceDate": null,
+        "startDate": "2027-05-10",
+        "raceDate": "2027-09-26",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout",
+        "available": true
       }
     },
     {
@@ -3256,12 +3256,12 @@
         "sourceRecordId": "reclpm53ipg9SkQjQ",
         "name": "Coastal High 50",
         "weeks": 20,
-        "startDate": "2026-04-13",
-        "raceDate": null,
+        "startDate": "2027-04-12",
+        "raceDate": "2027-08-28",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout",
+        "available": true
       }
     },
     {
@@ -4141,12 +4141,12 @@
         "sourceRecordId": "recX64EnQdMxJVz8H",
         "name": "Scenic Rim Ultra 65",
         "weeks": 20,
-        "startDate": "2026-03-23",
-        "raceDate": null,
+        "startDate": "2027-03-22",
+        "raceDate": "2027-08-07",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/Skw8MzG9/checkout",
+        "available": true
       }
     },
     {
@@ -4489,12 +4489,12 @@
         "sourceRecordId": "recj60iklTvAEXMRs",
         "name": "Hounslow Classic: Marathon 43km",
         "weeks": 20,
-        "startDate": "2026-04-27",
-        "raceDate": null,
+        "startDate": "2027-04-26",
+        "raceDate": "2027-09-12",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout",
+        "available": true
       }
     },
     {

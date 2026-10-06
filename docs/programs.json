@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T14:31:25.463Z",
-  "today": "2026-10-05",
-  "count": 113,
+  "generatedAt": "2026-10-06T00:01:10.374Z",
+  "today": "2026-10-06",
+  "count": 121,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -521,7 +521,7 @@
       "price": 420,
       "plan": "165 x 3 = $495",
       "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+      "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout"
     },
     {
       "id": "recNcOpkQJWI2oNiZ",
@@ -996,6 +996,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/FAq7LrTt/checkout"
     },
     {
+      "id": "recCl6LbF5McWZg0d",
+      "name": "Lithgow Ridgy-Didge 50",
+      "category": "50km events - tier allocation",
+      "location": "NSW, Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 2400,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-03-27",
+      "startDate": "2026-11-09",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
+    },
+    {
       "id": "recjP0T4whGmfqYqB",
       "name": "Noosa Ultra-Trail: 50K Out’n’Back",
       "category": "Event Based Programs",
@@ -1018,51 +1040,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
-      "id": "recCl6LbF5McWZg0d",
-      "name": "Lithgow Ridgy-Didge 50",
-      "category": "50km events - tier allocation",
-      "location": "NSW, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 2400,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2027-04-03",
-      "startDate": "2026-11-16",
-      "status": "upcoming",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
-    },
-    {
-      "id": "recwNrAG5HkmrXcnf",
-      "name": "Alpine Challenge 60",
-      "category": "Recommended programs",
-      "location": "Falls Creek, Victoria",
-      "km": 61,
-      "distanceLabel": "61km",
-      "elevation": 1980,
-      "tier": null,
-      "tags": [
-        "60km Trail Ultra",
-        "Mountain"
-      ],
-      "tagline": null,
-      "weeks": 20,
-      "raceDate": "2027-04-03",
-      "startDate": "2026-11-16",
-      "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout"
-    },
-    {
       "id": "recSip0esYN0NJyRM",
       "name": "Tarawera Ultra-Trail by UTMB: T21",
       "category": "Event Based Programs",
@@ -1083,6 +1060,29 @@
       "plan": "131 x 3 = $393",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/PyRFfEpr/checkout"
+    },
+    {
+      "id": "recwNrAG5HkmrXcnf",
+      "name": "Alpine Challenge 60",
+      "category": "Recommended programs",
+      "location": "Falls Creek, Victoria",
+      "km": 61,
+      "distanceLabel": "61km",
+      "elevation": 1980,
+      "tier": null,
+      "tags": [
+        "60km Trail Ultra",
+        "Mountain"
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-04-10",
+      "startDate": "2026-11-23",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout"
     },
     {
       "id": "recmEdnwU5ng7a624",
@@ -1785,28 +1785,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/DfPnfLfq/checkout"
     },
     {
-      "id": "recjMmDJcauBZjs7I",
-      "name": "Sydney 50km Trail Ultra",
-      "category": "Event Based Programs",
-      "location": "St Ives, Sydney, NSW (Ku-ring-gai Chase National Park)",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1575,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Starts at St Ives Showground, through Wildflower Gardens on technical sandstone singletrack, via North Turramurra Trails, into Ku-ring-gai Chase National Park via Murrua Track, Bobbin Head Fire Trail with marina views, Warimoo Track along Cowan Creek, returns to St Ives Showground (51km loop).",
-      "weeks": 20,
-      "raceDate": "2027-07-16",
-      "startDate": "2027-03-01",
-      "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
-    },
-    {
       "id": "rec2MyylkR8uhCFc2",
       "name": "The Guzzler Ultra 100",
       "category": "Recommended programs",
@@ -1939,6 +1917,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
     {
+      "id": "recjMmDJcauBZjs7I",
+      "name": "Sydney 50km Trail Ultra",
+      "category": "Event Based Programs",
+      "location": "St Ives, Sydney, NSW (Ku-ring-gai Chase National Park)",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1575,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Starts at St Ives Showground, through Wildflower Gardens on technical sandstone singletrack, via North Turramurra Trails, into Ku-ring-gai Chase National Park via Murrua Track, Bobbin Head Fire Trail with marina views, Warimoo Track along Cowan Creek, returns to St Ives Showground (51km loop).",
+      "weeks": 20,
+      "raceDate": "2027-07-24",
+      "startDate": "2027-03-08",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
+    },
+    {
       "id": "recnQlkfy1KEgiOwQ",
       "name": "Gold Coast Marathon: 42.2K",
       "category": "Road Marathon",
@@ -2025,6 +2025,28 @@
       "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "recX64EnQdMxJVz8H",
+      "name": "Scenic Rim Ultra 65",
+      "category": "Recommended programs",
+      "location": "Coulson / Lillybrook Camping Area (Western Trail Head), Scenic Rim region, Queensland",
+      "km": 65,
+      "distanceLabel": "65km",
+      "elevation": 3200,
+      "tier": null,
+      "tags": [
+        "60km Trail Ultra"
+      ],
+      "tagline": "Point-to-point/loop course starting and finishing at Lillybrook Recreation Area (Western Trail Head) on Beaudesert-Boonah Rd, traversing four mountains, the Dugandan Range and Wyaralong Dam area.",
+      "weeks": 20,
+      "raceDate": "2027-08-07",
+      "startDate": "2027-03-22",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/Skw8MzG9/checkout"
     },
     {
       "id": "rectsLBHNk9gmq61L",
@@ -2136,6 +2158,28 @@
       "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
+    },
+    {
+      "id": "reclpm53ipg9SkQjQ",
+      "name": "Coastal High 50",
+      "category": "50km events - tier allocation",
+      "location": "QLD, Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1918,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-08-28",
+      "startDate": "2027-04-12",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout"
     },
     {
       "id": "recdUBC4scVG0mqjp",
@@ -2274,6 +2318,53 @@
       "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout"
     },
     {
+      "id": "recj60iklTvAEXMRs",
+      "name": "Hounslow Classic: Marathon 43km",
+      "category": "Event Based Programs",
+      "location": "Blue Mountains",
+      "km": 43,
+      "distanceLabel": "43km",
+      "elevation": 2500,
+      "tier": null,
+      "tags": [
+        "42.2km Trail Marathon",
+        "Mountain"
+      ],
+      "tagline": "Starting at Allview Escape, runners make their way across the stony clifftops to the Grand Canyon, heading clockwise through the canyon to Evans Lookout, descending into carved canyon walls and swirling pools, then climbing back to Neates Glen and the Grand Canyon Aid Station before returning to Allview Escape for Round 2. The second part is the famous out-and-back to the Pinnacles via Perrys Lookdown, plunging into the Grose Wilderness to the Giant Blue Gum Forest, crossing Govetts Creek and ascending to Lockleys Pylon, traversing to the Pinnacles Aid Station, then returning up the steps of Perrys Lookdown to the finish.",
+      "weeks": 20,
+      "raceDate": "2027-09-12",
+      "startDate": "2027-04-26",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout"
+    },
+    {
+      "id": "rec6YuVieoP1m6zi0",
+      "name": "Scenic Rim Ultra 25",
+      "category": "Recommended programs",
+      "location": "Lillybrook Recreation Area (Western Trail Head), Beaudesert-Boonah Road, Coulson/Kooralbyn, Scenic Rim, QLD",
+      "km": 25,
+      "distanceLabel": "25km",
+      "elevation": 1200,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Mountain",
+        "Technical"
+      ],
+      "tagline": "Starts and finishes at the Lillybrook Recreation Area western trail head, looping out through the Scenic Rim's mountain and forest trails via dirt road and singletrack.",
+      "weeks": 14,
+      "raceDate": "2027-08-07",
+      "startDate": "2027-05-03",
+      "status": "upcoming",
+      "price": 370,
+      "plan": "145 x 3 = $435",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/tmLnwYCq/checkout"
+    },
+    {
       "id": "recM4YEb8GArfG7qE",
       "name": "Collie River Ultra 50",
       "category": "50km events - tier allocation",
@@ -2362,6 +2453,50 @@
       "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
     },
     {
+      "id": "recJijgzI7tXaFCaf",
+      "name": "Lonely Mountain Ultra 50",
+      "category": "50km events - tier allocation",
+      "location": "NSW, Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1900,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-09-25",
+      "startDate": "2027-05-10",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout"
+    },
+    {
+      "id": "recx0VNH1k8f3jKVS",
+      "name": "Yurrebilla 56K",
+      "category": "50km events - tier allocation",
+      "location": "SA, Australia",
+      "km": 56,
+      "distanceLabel": "56km",
+      "elevation": 1865,
+      "tier": "T2 Ranges",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Ranges terrain with sustained climbing and long descents.",
+      "weeks": 20,
+      "raceDate": "2027-09-26",
+      "startDate": "2027-05-10",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
+    },
+    {
       "id": "recPusPgPsm7iUmxG",
       "name": "Macedon 50km",
       "category": "50km events - tier allocation",
@@ -2382,6 +2517,30 @@
       "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
+    },
+    {
+      "id": "recZt5CsOCCupWdEh",
+      "name": "Coastal High: 28K",
+      "category": "Recommended programs",
+      "location": "Binna Burra to Springbrook, Gold Coast Hinterland, QLD",
+      "km": 28.5,
+      "distanceLabel": "28.5km",
+      "elevation": 1200,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Mountain",
+        "Technical"
+      ],
+      "tagline": "Point-to-point course starting at Binna Burra with an uphill start, a long descent to Numinbah Valley, technical singletrack through the Caves Circuit and rainforest, the stair climb to Apple Tree Park, and a long ascent finishing at Springbrook",
+      "weeks": 14,
+      "raceDate": "2027-08-28",
+      "startDate": "2027-05-24",
+      "status": "upcoming",
+      "price": 370,
+      "plan": "145 x 3 = $435",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/Mm5rMXXK/checkout"
     },
     {
       "id": "reco91kGcwuW6V7Ld",
@@ -2472,6 +2631,29 @@
       "plan": "115 x 3 = $345",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
+    },
+    {
+      "id": "recXqy6nb1Y671lpM",
+      "name": "Hounslow 17km",
+      "category": "Event Based Programs",
+      "location": "Blackheath, Blue Mountains, NSW",
+      "km": 17,
+      "distanceLabel": "17km",
+      "elevation": 900,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)",
+        "Mountain"
+      ],
+      "tagline": "A 12-week program built specifically for the Hounslow Classic 17km. With 900m of vertical in only 17km, an average gradient of 53m per kilometre and a sustained technical descent through the Grand Canyon, this is sky-running terrain. The program prepares you for what the course actually asks of you.\nStarting at Allview Escape, runners make their way across the stony clifftops to the Grand Canyon, descending into ancient canyon trails before returning to reset for Round 2: the famous out-and-back to the Pinnacles via Perrys Lookdown, the Blue Gum Forest, and Lockleys Pylon. Technical Blue Mountains terrain with major climbs.",
+      "weeks": 12,
+      "raceDate": "2027-09-12",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 335,
+      "plan": "131 x 3 = $393",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout"
     },
     {
       "id": "recj0NjScucXoWJmt",

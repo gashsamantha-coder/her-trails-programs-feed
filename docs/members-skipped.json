@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:31:25.463Z",
+  "generatedAt": "2026-10-06T00:01:10.374Z",
   "skipped": [
     {
       "name": "Maven Resources",
@@ -26,10 +26,6 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Scenic Rim Ultra 25",
-      "why": "Race already run"
-    },
-    {
       "name": "Alpine Challenge 100 Mile",
       "why": "Archived"
     },
@@ -52,10 +48,6 @@
     {
       "name": "* All in Members* Half Trail Marathon Progressions",
       "why": "Member-only variant, not a program card"
-    },
-    {
-      "name": "Lonely Mountain Ultra 50",
-      "why": "Race already run"
     },
     {
       "name": "* All in Members* 21.1km Road Performance",
@@ -82,18 +74,6 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Scenic Rim Ultra 65",
-      "why": "Race already run"
-    },
-    {
-      "name": "Hounslow 17km",
-      "why": "Race already run"
-    },
-    {
-      "name": "Coastal High: 28K",
-      "why": "Race already run"
-    },
-    {
       "name": "Rotorua Trail Festival 10K",
       "why": "Archived"
     },
@@ -110,16 +90,8 @@
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Hounslow Classic: Marathon 43km",
-      "why": "Race already run"
-    },
-    {
       "name": "100km Trail Ultra Program 2025",
       "why": "Archived"
-    },
-    {
-      "name": "Coastal High 50",
-      "why": "Race already run"
     },
     {
       "name": "Her Trails Cycle Training",
@@ -148,10 +120,6 @@
     {
       "name": "City2Surf Training Program",
       "why": "No customer checkout link"
-    },
-    {
-      "name": "Yurrebilla 56K",
-      "why": "Race already run"
     }
   ]
 }
