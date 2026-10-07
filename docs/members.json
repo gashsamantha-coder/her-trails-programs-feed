@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T22:38:22.246Z",
-  "today": "2026-10-06",
-  "count": 141,
+  "generatedAt": "2026-10-07T04:58:21.260Z",
+  "today": "2026-10-07",
+  "count": 142,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -1888,6 +1888,39 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
+    },
+    {
+      "id": "recDBkQEpxBQTJqAe",
+      "name": "Wilsons Prom 100km",
+      "sub": "Wilsons Promontory · 20 weeks",
+      "location": "Wilsons Promontory",
+      "tagline": "Official 100km race starting and finishing at the Australian Commando Memorial, Ring Rd, Tidal River VIC 3960. Start time 6:00am, approximately 3,500m ascent/descent and a 24-hour cut-off. No drop bags are available because of remote aid-station access.",
+      "startDateDisplay": "Dec 2026",
+      "distKm": "100km",
+      "km": 100,
+      "weeks": 20,
+      "dist": "mountain",
+      "cat": "Mountain Ultra",
+      "cc": "#3d5a4c",
+      "event": "other",
+      "eventLabel": "Other",
+      "openDateISO": "2026-12-14",
+      "raceDateISO": "2027-05-01",
+      "raceDateDisplay": "May 2027",
+      "raceMonth": 5,
+      "startMonth": 12,
+      "elevGainDisplay": "3,500m",
+      "dur": "18-20",
+      "elev": "high",
+      "elevClass2": "Mountain",
+      "techRating": "Moderate",
+      "tier": null,
+      "tags": [
+        "100km Trail Ultra",
+        "Coastal"
+      ],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/MFjgTETZ/checkout"
     },
     {
       "id": "recE3agjLlCcBdDC9",

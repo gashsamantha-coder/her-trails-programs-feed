@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T22:38:22.246Z",
-  "today": "2026-10-06",
+  "generatedAt": "2026-10-07T04:58:21.260Z",
+  "today": "2026-10-07",
   "hierarchy": [
     "exact",
     "curated",
@@ -1172,17 +1172,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "recRWKV8cC5Al8tI8",
-        "name": "Truth or Consequences 50",
-        "weeks": 20,
-        "startDate": "2026-03-16",
-        "raceDate": null,
-        "price": 440,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
-      }
+      "sale": null
     },
     {
       "id": "recJZBfWUjkTPzhbI",
@@ -4348,8 +4338,8 @@
         "raceDate": "2027-05-01",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/MFjgTETZ/checkout",
+        "available": true
       }
     },
     {
