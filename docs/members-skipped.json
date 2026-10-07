@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:54:55.303Z",
+  "generatedAt": "2026-10-07T13:17:39.567Z",
   "skipped": [
     {
       "name": "Maven Resources",
@@ -15,10 +15,6 @@
     },
     {
       "name": "Great North Walk Trail Running Festival 50",
-      "why": "Race already run"
-    },
-    {
-      "name": "Lakes Trail Festival 50",
       "why": "Race already run"
     },
     {
@@ -91,7 +87,7 @@
     },
     {
       "name": "Blackall100: 100K",
-      "why": "Archived"
+      "why": "No customer checkout link"
     },
     {
       "name": "Buffalo Stampede: Bright SkyRun 10k",

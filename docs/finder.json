@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:54:55.303Z",
+  "generatedAt": "2026-10-07T13:17:39.567Z",
   "today": "2026-10-07",
   "hierarchy": [
     "exact",
@@ -4446,17 +4446,7 @@
       "tier50": [],
       "eligible": false,
       "priority": 999,
-      "sale": {
-        "sourceRecordId": "rec3p4n7vmexmnVbG",
-        "name": "Lakes Trail Festival 50",
-        "weeks": 20,
-        "startDate": "2026-05-18",
-        "raceDate": null,
-        "price": 440,
-        "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
-      }
+      "sale": null
     },
     {
       "id": "recxzyfaunJwfzAqA",
