@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:58:57.567Z",
+  "generatedAt": "2026-10-08T13:24:08.954Z",
   "today": "2026-10-08",
   "hierarchy": [
     "exact",
@@ -1679,8 +1679,8 @@
         "weeks": 16,
         "startDate": "2026-11-30",
         "raceDate": "2027-03-20",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 399,
+        "plan": "169 x 3 = $507",
         "checkoutUrl": "https://www.hertrails.com/offers/jiB26aYn/checkout",
         "available": true
       }
