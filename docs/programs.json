@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T23:18:57.255Z",
-  "today": "2026-10-08",
+  "generatedAt": "2026-10-09T06:04:32.055Z",
+  "today": "2026-10-09",
   "count": 122,
   "programs": [
     {
@@ -728,15 +728,15 @@
       "name": "Two Bays Trail Run 56km",
       "category": "Event Based Programs",
       "location": "Cape Schanck",
-      "km": 56,
-      "distanceLabel": "56km",
+      "km": 55.7,
+      "distanceLabel": "55.7km",
       "elevation": 1350,
       "tier": "T1 Coast & Forest",
       "tags": [
         "60km Trail Ultra",
         "Coastal"
       ],
-      "tagline": "56km trail run from Cape Schanck along the Mornington Peninsula. Route via Arthur's Seat, Greens Bush, and Bass Strait cliff tops through coastal bushland.",
+      "tagline": "Cape Schanck to Dromana and back to Cape Schanck, approximately 55.7km. Coastal sections, Greens Bush and Arthurs Seat outbound; after the Dromana turnaround, climb Arthurs Seat again before returning through forest and coastal terrain. Approximately 1,350m ascent and 1,350m descent; organiser wording is '1350m of ascent/descent', not a combined 1,350m total.",
       "weeks": 14,
       "raceDate": "2027-01-17",
       "startDate": "2026-10-12",
@@ -803,7 +803,7 @@
         "22km - 29km Trail Mid ",
         "Coastal"
       ],
-      "tagline": "28km trail run from Dromana to Cape Schanck along the Mornington Peninsula. Route via Arthur's Seat and coastal trails with views of Bass Strait.",
+      "tagline": "Point-to-point from Dromana to Cape Schanck, approximately 27.4km on the organiser Trail page (Entrant Info gives about 27.55km). Steep early climb over Arthurs Seat; undulating national park and forest through Greens Bush; road sections around Rosebud; Bushrangers Bay and some sandy sections toward Cape Schanck. Finish in the bus lane at Cape Schanck. Approximately 705m ascent and 659m descent.",
       "weeks": 12,
       "raceDate": "2027-01-17",
       "startDate": "2026-10-26",
@@ -977,9 +977,9 @@
       "name": "Buffalo Stampede: SkyMarathon 42K",
       "category": "Event Based Programs",
       "location": "Bright",
-      "km": 42,
-      "distanceLabel": "42km",
-      "elevation": 1542,
+      "km": 42.2,
+      "distanceLabel": "42.2km",
+      "elevation": 1600,
       "tier": null,
       "tags": [
         "42.2km Trail Marathon",

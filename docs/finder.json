@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T23:18:57.254Z",
-  "today": "2026-10-08",
+  "generatedAt": "2026-10-09T06:04:32.054Z",
+  "today": "2026-10-09",
   "hierarchy": [
     "exact",
     "curated",
@@ -5069,8 +5069,8 @@
       "id": "recxeDanDf1ouwZqn",
       "name": "Buffalo Stampede: SkyMarathon 42K",
       "raceDate": "2027-03-21",
-      "distance": 42,
-      "elevation": 1542,
+      "distance": 42.2,
+      "elevation": 1600,
       "terrain": "Technical Trail",
       "environment": "Alpine",
       "categories": [
@@ -7425,7 +7425,7 @@
       "id": "recKIEmoGBSvNcIAp",
       "name": "Two Bays Trail Run 56km",
       "raceDate": "2027-01-17",
-      "distance": 56,
+      "distance": 55.7,
       "elevation": 1350,
       "terrain": "Runnable Trail",
       "environment": "Coastal",
