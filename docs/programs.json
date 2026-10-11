@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T21:40:31.801Z",
-  "today": "2026-10-10",
-  "count": 122,
+  "generatedAt": "2026-10-11T05:42:10.961Z",
+  "today": "2026-10-11",
+  "count": 121,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -24,28 +24,6 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout"
-    },
-    {
-      "id": "recydnlyWiNHv7zOi",
-      "name": "Hume & Hovell Ultra 50",
-      "category": "50km events - tier allocation",
-      "location": "NSW, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1490,
-      "tier": "T1-T2 borderline",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Rolling to ranges terrain with steady climbing through the middle of the course.",
-      "weeks": 20,
-      "raceDate": "2026-10-10",
-      "startDate": "2026-05-25",
-      "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/jevwazob/checkout"
     },
     {
       "id": "recxnBStS6EYwCKRB",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T21:40:31.801Z",
-  "today": "2026-10-10",
+  "generatedAt": "2026-10-11T05:42:10.961Z",
+  "today": "2026-10-11",
   "hierarchy": [
     "exact",
     "curated",
@@ -1061,11 +1061,11 @@
         "name": "Hume & Hovell Ultra 50",
         "weeks": 20,
         "startDate": "2026-05-25",
-        "raceDate": "2026-10-10",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/jevwazob/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5950,7 +5950,7 @@
     {
       "id": "recCGSKdkHJVRm6zr",
       "name": "Hume & Hovell Ultra 50",
-      "raceDate": "2026-10-10",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1490,
       "terrain": null,
