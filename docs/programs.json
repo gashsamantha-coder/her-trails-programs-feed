@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:44:59.925Z",
+  "generatedAt": "2026-10-11T21:55:04.342Z",
   "today": "2026-10-11",
   "count": 121,
   "programs": [
@@ -279,7 +279,7 @@
       "location": "Bright, Victorian Alps",
       "km": null,
       "distanceLabel": null,
-      "elevation": null,
+      "elevation": 5600,
       "tier": null,
       "tags": [
         "Mountain",

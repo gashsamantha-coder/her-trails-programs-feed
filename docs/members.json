@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:44:59.925Z",
+  "generatedAt": "2026-10-11T21:55:04.342Z",
   "today": "2026-10-11",
   "count": 141,
   "programs": [
@@ -412,10 +412,10 @@
       "raceDateDisplay": "Oct 2026",
       "raceMonth": 10,
       "startMonth": 7,
-      "elevGainDisplay": "",
+      "elevGainDisplay": "5,600m",
       "dur": "14-16",
-      "elev": "high",
-      "elevClass2": "Mountain",
+      "elev": "alpine",
+      "elevClass2": "Alpine",
       "techRating": "Runnable",
       "tier": null,
       "tags": [
