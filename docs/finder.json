@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T21:55:04.342Z",
-  "today": "2026-10-11",
+  "generatedAt": "2026-10-12T05:52:02.185Z",
+  "today": "2026-10-12",
   "hierarchy": [
     "exact",
     "curated",
@@ -6336,7 +6336,7 @@
     {
       "id": "receJKUtvqia4NwrH",
       "name": "Nike Melbourne Marathon Festival: Marathon 42.2K",
-      "raceDate": "2026-10-11",
+      "raceDate": null,
       "distance": 42.2,
       "elevation": 150,
       "terrain": "Road",
