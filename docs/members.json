@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:57:15.407Z",
+  "generatedAt": "2026-10-15T21:20:11.867Z",
   "today": "2026-10-15",
   "count": 141,
   "programs": [
@@ -825,8 +825,8 @@
       "location": "Perisher to Thredbo, Snowy Mountains, NSW",
       "tagline": "32km trail race in Thredbo, Kosciuszko National Park. Shorter distance option through the Snowy Mountains with alpine trails and mountain scenery.",
       "startDateDisplay": "Aug 2026",
-      "distKm": "32km",
-      "km": 32,
+      "distKm": "33km",
+      "km": 33,
       "weeks": 14,
       "dist": "mid",
       "cat": "Trail Mid",
@@ -838,7 +838,7 @@
       "raceDateDisplay": "Nov 2026",
       "raceMonth": 11,
       "startMonth": 8,
-      "elevGainDisplay": "670m",
+      "elevGainDisplay": "596m",
       "dur": "14-16",
       "elev": "rolling",
       "elevClass2": "Rolling",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:57:15.407Z",
+  "generatedAt": "2026-10-15T21:20:11.867Z",
   "today": "2026-10-15",
   "count": 121,
   "programs": [
@@ -573,9 +573,9 @@
       "name": "UTMB Kosci 30km",
       "category": "Event Based Programs",
       "location": "Perisher to Thredbo, Snowy Mountains, NSW",
-      "km": 32,
-      "distanceLabel": "32km",
-      "elevation": 670,
+      "km": 33,
+      "distanceLabel": "33km",
+      "elevation": 596,
       "tier": null,
       "tags": [
         "30km - 40km Trail Mid ",
