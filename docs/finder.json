@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T20:33:27.669Z",
-  "today": "2026-10-17",
+  "generatedAt": "2026-10-18T04:27:16.583Z",
+  "today": "2026-10-18",
   "hierarchy": [
     "exact",
     "curated",
@@ -1032,11 +1032,11 @@
         "name": "Roller Coaster Run: 46K Double Loop",
         "weeks": 18,
         "startDate": "2026-06-15",
-        "raceDate": "2026-10-17",
+        "raceDate": null,
         "price": 460,
         "plan": "180 x 3 = $540",
-        "checkoutUrl": "https://www.hertrails.com/offers/D9FEuqZs/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -1552,11 +1552,11 @@
         "name": "Roller Coaster Run: 12.4km",
         "weeks": 12,
         "startDate": "2026-07-27",
-        "raceDate": "2026-10-17",
+        "raceDate": null,
         "price": 335,
         "plan": "131 x 3 = $393",
-        "checkoutUrl": "https://www.hertrails.com/offers/Hyt9pBcU/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -4209,11 +4209,11 @@
         "name": "Blackall 100",
         "weeks": 20,
         "startDate": "2026-06-01",
-        "raceDate": "2026-10-17",
+        "raceDate": null,
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -4383,11 +4383,11 @@
         "name": "Roller Coaster Run: 23km Double Loop",
         "weeks": 16,
         "startDate": "2026-06-29",
-        "raceDate": "2026-10-17",
+        "raceDate": null,
         "price": 299,
         "plan": "115 x 3 = $345",
-        "checkoutUrl": "https://www.hertrails.com/offers/PVSmTNyD/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -4743,7 +4743,7 @@
     {
       "id": "rech3qpyIhXH9NFC5",
       "name": "Blackall100: 100K",
-      "raceDate": "2026-10-17",
+      "raceDate": null,
       "distance": 100,
       "elevation": 3500,
       "terrain": null,
@@ -4767,7 +4767,7 @@
     {
       "id": "recJjukQVF3N61fvS",
       "name": "Blackall100: 50K",
-      "raceDate": "2026-10-17",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1580,
       "terrain": null,
@@ -6582,7 +6582,7 @@
     {
       "id": "recSo0HaT4Y8hKxNE",
       "name": "Roller Coaster Run: 12.4km",
-      "raceDate": "2026-10-17",
+      "raceDate": null,
       "distance": 12.4,
       "elevation": 574,
       "terrain": "Technical Trail",
@@ -6606,7 +6606,7 @@
     {
       "id": "recgWH89a4xUGrzXR",
       "name": "Roller Coaster Run: 23km Double Loop",
-      "raceDate": "2026-10-17",
+      "raceDate": null,
       "distance": 23,
       "elevation": 1090,
       "terrain": "Technical Trail",
@@ -6630,7 +6630,7 @@
     {
       "id": "recglUdcuh6vh5T8p",
       "name": "Roller Coaster Run: 46K Double Loop",
-      "raceDate": "2026-10-17",
+      "raceDate": null,
       "distance": 46,
       "elevation": 2200,
       "terrain": "Technical Trail",

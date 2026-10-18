@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:33:27.669Z",
+  "generatedAt": "2026-10-18T04:27:16.583Z",
   "skipped": [
     {
       "name": "Maven Resources",
@@ -42,6 +42,14 @@
       "why": "Member-only variant, not a program card"
     },
     {
+      "name": "Roller Coaster Run: 23km Double Loop",
+      "why": "Race already run"
+    },
+    {
+      "name": "Roller Coaster Run: 12.4km",
+      "why": "Race already run"
+    },
+    {
       "name": "* All in Members* 21.1km Road Performance",
       "why": "Member-only variant, not a program card"
     },
@@ -52,6 +60,10 @@
     {
       "name": "* All in Members* 10km Trail Progressions",
       "why": "Member-only variant, not a program card"
+    },
+    {
+      "name": "Roller Coaster Run: 46K Double Loop",
+      "why": "Race already run"
     },
     {
       "name": "* All in Members* 10km Trail Foundations",
@@ -104,6 +116,10 @@
     {
       "name": "City2Surf Training Program",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Blackall 100",
+      "why": "Race already run"
     },
     {
       "name": "Hume & Hovell Ultra 50",

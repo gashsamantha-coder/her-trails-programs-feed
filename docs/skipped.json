@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:33:27.669Z",
+  "generatedAt": "2026-10-18T04:27:16.583Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -74,6 +74,14 @@
       "why": "No race date"
     },
     {
+      "name": "Roller Coaster Run: 23km Double Loop",
+      "why": "Race already run"
+    },
+    {
+      "name": "Roller Coaster Run: 12.4km",
+      "why": "Race already run"
+    },
+    {
       "name": "Her Training Cycles",
       "why": "No race date"
     },
@@ -88,6 +96,10 @@
     {
       "name": "* All in Members* 10km Trail Progressions",
       "why": "No race date"
+    },
+    {
+      "name": "Roller Coaster Run: 46K Double Loop",
+      "why": "Race already run"
     },
     {
       "name": "Glasshouse 100: 50K",
@@ -176,6 +188,10 @@
     {
       "name": "Half Trail Marathon Program - Foundations",
       "why": "No race date"
+    },
+    {
+      "name": "Blackall 100",
+      "why": "Race already run"
     },
     {
       "name": "Hume & Hovell Ultra 50",
