@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T20:38:13.224Z",
-  "today": "2026-10-18",
+  "generatedAt": "2026-10-19T04:35:44.287Z",
+  "today": "2026-10-19",
   "count": 117,
   "programs": [
     {
@@ -674,7 +674,7 @@
       "weeks": 20,
       "raceDate": "2027-03-06",
       "startDate": "2026-10-19",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 440,
       "plan": "129 x 4 = $516",
       "canPurchase": true,
