@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T04:35:44.287Z",
+  "generatedAt": "2026-10-19T13:07:15.455Z",
   "today": "2026-10-19",
-  "count": 137,
+  "count": 138,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -1306,6 +1306,36 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
+    },
+    {
+      "id": "recZg5CPfM9JlKO5t",
+      "name": "Noosa Ultra-Trail: 45",
+      "sub": "Noosa · 18 weeks",
+      "location": "Noosa",
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "startDateDisplay": "Nov 2026",
+      "distKm": "50km",
+      "km": 50,
+      "weeks": 18,
+      "dist": "ultra",
+      "cat": "Trail Ultra",
+      "cc": "#9b5e3a",
+      "event": "noosa",
+      "eventLabel": "Noosa",
+      "openDateISO": "2026-11-16",
+      "raceDateISO": "2027-03-20",
+      "raceDateDisplay": "Mar 2027",
+      "raceMonth": 3,
+      "startMonth": 11,
+      "elevGainDisplay": "876m",
+      "dur": "18-20",
+      "elev": "rolling",
+      "elevClass2": "Rolling",
+      "techRating": "Moderate",
+      "tier": "T1 Coast & Forest",
+      "tags": [],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
       "id": "recjP0T4whGmfqYqB",

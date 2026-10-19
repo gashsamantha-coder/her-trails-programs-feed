@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T04:35:44.287Z",
+  "generatedAt": "2026-10-19T13:07:15.455Z",
   "today": "2026-10-19",
-  "count": 117,
+  "count": 118,
   "programs": [
     {
       "id": "recYIEWvEboOSia2a",
@@ -906,6 +906,26 @@
       "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
+    },
+    {
+      "id": "recZg5CPfM9JlKO5t",
+      "name": "Noosa Ultra-Trail: 45",
+      "category": "Event Based Programs",
+      "location": "Noosa",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 876,
+      "tier": "T1 Coast & Forest",
+      "tags": [],
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "weeks": 18,
+      "raceDate": "2027-03-20",
+      "startDate": "2026-11-16",
+      "status": "upcoming",
+      "price": 460,
+      "plan": "180 x 3 = $540",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
     {
       "id": "recjP0T4whGmfqYqB",
