@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T21:34:43.522Z",
-  "today": "2026-10-20",
+  "generatedAt": "2026-10-21T04:41:22.732Z",
+  "today": "2026-10-21",
   "hierarchy": [
     "exact",
     "curated",
@@ -4326,8 +4326,8 @@
         "weeks": 20,
         "startDate": "2026-12-14",
         "raceDate": "2027-05-01",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 490,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/MFjgTETZ/checkout",
         "available": true
       }
@@ -7725,7 +7725,7 @@
       "name": "Wilsons Prom 100km",
       "raceDate": "2027-05-01",
       "distance": 96.6,
-      "elevation": 3685,
+      "elevation": 3500,
       "terrain": "Technical Trail",
       "environment": "Mountain/coastal",
       "categories": [

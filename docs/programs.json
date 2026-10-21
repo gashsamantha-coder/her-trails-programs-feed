@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T21:34:43.522Z",
-  "today": "2026-10-20",
+  "generatedAt": "2026-10-21T04:41:22.732Z",
+  "today": "2026-10-21",
   "count": 118,
   "programs": [
     {
@@ -1237,8 +1237,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 490,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/MFjgTETZ/checkout"
     },
