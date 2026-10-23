@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:32:44.671Z",
+  "generatedAt": "2026-10-23T04:44:50.352Z",
   "skipped": [
     {
       "name": "Her Shift",
@@ -123,6 +123,10 @@
     },
     {
       "name": "* All in Members* 5km Foundations",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Ultra-Trail Australia: UTAMiler",
       "why": "No customer checkout link"
     },
     {
