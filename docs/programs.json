@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-10-24T20:44:45.347Z",
-  "today": "2026-10-24",
-  "count": 118,
+  "generatedAt": "2026-10-25T04:36:25.244Z",
+  "today": "2026-10-25",
+  "count": 115,
   "programs": [
-    {
-      "id": "recYIEWvEboOSia2a",
-      "name": "Heysen Trail Ultra: 115km",
-      "category": "Recommended programs",
-      "location": "Meadows to Victor Harbor, Fleurieu Peninsula, SA",
-      "km": 115,
-      "distanceLabel": "115km",
-      "elevation": 2481,
-      "tier": null,
-      "tags": [
-        ">100km Trail Ultra "
-      ],
-      "tagline": "Point-to-point 115km along the iconic Heysen Trail from Rocky Creek to Victor Harbor, South Australia. Route includes paddocks, country roads, pine forests, beaches, and the hilly Yultie and Myponga singletrack. Finishes at Heysen Village on the Esplanade, Victor Harbor.",
-      "weeks": 24,
-      "raceDate": "2026-10-24",
-      "startDate": "2026-05-11",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout"
-    },
     {
       "id": "recQruHUL1508NKHG",
       "name": "Heysen / Deep Creek 50",
@@ -46,29 +24,6 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
-    },
-    {
-      "id": "recZeK2gNCY7yA0Pa",
-      "name": "Bondi to Manly 80km (Solo)",
-      "category": "Event Based Programs",
-      "location": "Sydney",
-      "km": 80,
-      "distanceLabel": "80km",
-      "elevation": 1648,
-      "tier": null,
-      "tags": [
-        "80km Trail Ultra",
-        "Coastal"
-      ],
-      "tagline": "The Bondi to Manly Ultra traverses the coastline between Sydney’s two most famous beaches, Bondi Beach and Manly Beach.",
-      "weeks": 18,
-      "raceDate": "2026-10-24",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 460,
-      "plan": "180 x 3 = $540",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout"
     },
     {
       "id": "recRtX5oA6iZj1eS4",
@@ -412,29 +367,6 @@
       "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout"
-    },
-    {
-      "id": "recNcOpkQJWI2oNiZ",
-      "name": "Bondi to Manly 80km (Team relay)",
-      "category": "Event Based Programs",
-      "location": "Sydney",
-      "km": 20,
-      "distanceLabel": "20km",
-      "elevation": 225,
-      "tier": null,
-      "tags": [
-        "Relay event",
-        "Coastal"
-      ],
-      "tagline": "The Bondi to Manly Ultra traverses the coastline between Sydney’s two most famous beaches, Bondi Beach and Manly Beach.",
-      "weeks": 12,
-      "raceDate": "2026-10-24",
-      "startDate": "2026-08-03",
-      "status": "in_progress",
-      "price": 299,
-      "plan": "117 x 3 = $351",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout"
     },
     {
       "id": "rec7r0jobxvfWHZcy",

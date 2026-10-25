@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T20:44:45.347Z",
-  "today": "2026-10-24",
+  "generatedAt": "2026-10-25T04:36:25.244Z",
+  "today": "2026-10-25",
   "hierarchy": [
     "exact",
     "curated",
@@ -1389,11 +1389,11 @@
         "name": "Bondi to Manly 80km (Team relay)",
         "weeks": 12,
         "startDate": "2026-08-03",
-        "raceDate": "2026-10-24",
+        "raceDate": null,
         "price": 299,
         "plan": "117 x 3 = $351",
-        "checkoutUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -1815,11 +1815,11 @@
         "name": "Heysen Trail Ultra: 115km",
         "weeks": 24,
         "startDate": "2026-05-11",
-        "raceDate": "2026-10-24",
+        "raceDate": null,
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": "https://www.hertrails.com/offers/XpQqMw28/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3092,11 +3092,11 @@
         "name": "Bondi to Manly 80km (Solo)",
         "weeks": 18,
         "startDate": "2026-06-22",
-        "raceDate": "2026-10-24",
+        "raceDate": null,
         "price": 460,
         "plan": "180 x 3 = $540",
-        "checkoutUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -4790,7 +4790,7 @@
     {
       "id": "rec7CQm0uAdNsH2xv",
       "name": "Bondi to Manly 80km (Solo)",
-      "raceDate": "2026-10-24",
+      "raceDate": null,
       "distance": 80,
       "elevation": 1648,
       "terrain": "Runnable Trail",
@@ -4814,7 +4814,7 @@
     {
       "id": "recpjiALn9d7LYzrZ",
       "name": "Bondi to Manly 80km (Team relay)",
-      "raceDate": "2026-10-24",
+      "raceDate": null,
       "distance": 80,
       "elevation": 225,
       "terrain": "Runnable Trail",
@@ -5751,7 +5751,7 @@
     {
       "id": "rect4ZwQbrztoNfSn",
       "name": "Great Ocean Trail Ultra 45",
-      "raceDate": "2026-10-24",
+      "raceDate": null,
       "distance": 45,
       "elevation": 1700,
       "terrain": null,
@@ -5869,7 +5869,7 @@
     {
       "id": "rec7DL0PvlQHSyWu0",
       "name": "Heysen Trail Ultra: 115km",
-      "raceDate": "2026-10-24",
+      "raceDate": null,
       "distance": 115,
       "elevation": 2481,
       "terrain": "Runnable Trail",
