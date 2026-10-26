@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "generatedAt": "2026-10-26T12:55:23.128Z",
   "today": "2026-10-26",
   "hierarchy": [
     "exact",
@@ -73,8 +73,8 @@
         "weeks": 20,
         "startDate": "2026-07-13",
         "raceDate": "2026-11-27",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 490,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout",
         "available": true
       }
@@ -150,8 +150,8 @@
         "weeks": 16,
         "startDate": "2026-07-27",
         "raceDate": "2026-11-14",
-        "price": 420,
-        "plan": "165 x 3 = $495",
+        "price": 445,
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout",
         "available": true
       }
@@ -238,7 +238,7 @@
         "startDate": "2026-10-26",
         "raceDate": "2027-02-12",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "150 x 3 = $450",
         "checkoutUrl": "https://www.hertrails.com/offers/LGNSkDAB/checkout",
         "available": true
       }
@@ -267,7 +267,7 @@
         "startDate": "2027-05-10",
         "raceDate": "2027-09-25",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout",
         "available": true
       }
@@ -295,8 +295,8 @@
         "weeks": 12,
         "startDate": "2026-12-28",
         "raceDate": "2027-03-20",
-        "price": 350,
-        "plan": "135 x 3 = $405",
+        "price": 300,
+        "plan": "112 x 3 = $336",
         "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout",
         "available": true
       }
@@ -325,7 +325,7 @@
         "startDate": "2026-11-02",
         "raceDate": "2027-03-21",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/3tqirzMU/checkout",
         "available": true
       }
@@ -383,7 +383,7 @@
         "startDate": "2027-05-24",
         "raceDate": "2027-08-28",
         "price": 370,
-        "plan": "145 x 3 = $435",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/Mm5rMXXK/checkout",
         "available": true
       }
@@ -411,8 +411,8 @@
         "weeks": 14,
         "startDate": "2026-08-24",
         "raceDate": "2026-11-26",
-        "price": 420,
-        "plan": "165 x 3 = $495",
+        "price": 350,
+        "plan": "130 x 3 = $390",
         "checkoutUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout",
         "available": true
       }
@@ -441,7 +441,7 @@
         "startDate": "2027-03-22",
         "raceDate": "2027-07-11",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -470,7 +470,7 @@
         "startDate": "2026-10-26",
         "raceDate": "2027-03-13",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/7tsHmwfJ/checkout",
         "available": true
       }
@@ -527,10 +527,10 @@
         "weeks": 14,
         "startDate": "2026-08-03",
         "raceDate": "2026-11-08",
-        "price": 370,
-        "plan": "145 x 3 = $435",
-        "checkoutUrl": null,
-        "available": false
+        "price": 500,
+        "plan": "149 x 4 = $596",
+        "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout",
+        "available": true
       }
     },
     {
@@ -557,7 +557,7 @@
         "startDate": "2027-05-03",
         "raceDate": "2027-08-07",
         "price": 370,
-        "plan": "145 x 3 = $435",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/tmLnwYCq/checkout",
         "available": true
       }
@@ -614,8 +614,8 @@
         "weeks": 20,
         "startDate": "2027-04-26",
         "raceDate": "2027-09-11",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 480,
+        "plan": "140 x 4 = $560",
         "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout",
         "available": true
       }
@@ -673,7 +673,7 @@
         "startDate": "2026-11-30",
         "raceDate": "2027-04-18",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout",
         "available": true
       }
@@ -701,8 +701,8 @@
         "weeks": 20,
         "startDate": "2027-01-25",
         "raceDate": "2027-06-12",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 450,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/bTrRLMGr/checkout",
         "available": true
       }
@@ -778,8 +778,8 @@
         "weeks": 20,
         "startDate": "2026-11-02",
         "raceDate": "2027-03-20",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 550,
+        "plan": "149 x 4 = $596",
         "checkoutUrl": "https://www.hertrails.com/offers/o4c2o8CL/checkout",
         "available": true
       }
@@ -899,7 +899,7 @@
         "startDate": "2027-05-03",
         "raceDate": "2027-09-17",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout",
         "available": true
       }
@@ -928,7 +928,7 @@
         "startDate": "2027-03-01",
         "raceDate": "2027-07-18",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/ZU23fHwo/checkout",
         "available": true
       }
@@ -957,7 +957,7 @@
         "startDate": "2027-02-08",
         "raceDate": "2027-06-26",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/wmcJLUHH/checkout",
         "available": true
       }
@@ -1004,8 +1004,8 @@
         "weeks": 12,
         "startDate": "2027-05-10",
         "raceDate": "2027-07-31",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 299,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout",
         "available": true
       }
@@ -1092,7 +1092,7 @@
         "startDate": "2026-12-14",
         "raceDate": "2027-05-01",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": "169 x 3 = $507",
         "checkoutUrl": "https://www.hertrails.com/offers/kquTVB4D/checkout",
         "available": true
       }
@@ -1120,8 +1120,8 @@
         "weeks": 12,
         "startDate": "2027-06-21",
         "raceDate": "2027-09-12",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 299,
+        "plan": "160 x 2 = $320",
         "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout",
         "available": true
       }
@@ -1150,7 +1150,7 @@
         "startDate": "2027-04-19",
         "raceDate": "2027-08-08",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/cTgSAoLD/checkout",
         "available": true
       }
@@ -1226,8 +1226,8 @@
         "weeks": 12,
         "startDate": "2027-03-22",
         "raceDate": "2027-06-12",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 299,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/CHtc3AGp/checkout",
         "available": true
       }
@@ -1362,7 +1362,7 @@
         "startDate": "2026-11-09",
         "raceDate": "2027-03-27",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout",
         "available": true
       }
@@ -1419,8 +1419,8 @@
         "weeks": 20,
         "startDate": "2026-11-02",
         "raceDate": "2027-03-20",
-        "price": 495,
-        "plan": "189 x 3 = $567",
+        "price": 475,
+        "plan": "185 x 3 = $555",
         "checkoutUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout",
         "available": true
       }
@@ -1582,8 +1582,8 @@
         "weeks": 14,
         "startDate": "2027-02-08",
         "raceDate": "2027-05-13",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 350,
+        "plan": "130 x 3 = $390",
         "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout",
         "available": true
       }
@@ -1612,7 +1612,7 @@
         "startDate": "2027-03-08",
         "raceDate": "2027-06-27",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -1641,7 +1641,7 @@
         "startDate": "2027-03-01",
         "raceDate": "2027-07-17",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/oGZ2dkeh/checkout",
         "available": true
       }
@@ -1698,8 +1698,8 @@
         "weeks": 16,
         "startDate": "2026-07-13",
         "raceDate": "2026-10-31",
-        "price": 420,
-        "plan": "165 x 3 = $495",
+        "price": 440,
+        "plan": "129 x 4 = $516",
         "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout",
         "available": true
       }
@@ -1747,7 +1747,7 @@
         "startDate": "2027-01-25",
         "raceDate": "2027-06-12",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout",
         "available": true
       }
@@ -1846,7 +1846,7 @@
         "startDate": "2026-06-22",
         "raceDate": "2026-11-08",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout",
         "available": true
       }
@@ -1875,7 +1875,7 @@
         "startDate": "2027-03-01",
         "raceDate": "2027-07-17",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/ruTfs5pd/checkout",
         "available": true
       }
@@ -1904,7 +1904,7 @@
         "startDate": "2027-02-08",
         "raceDate": "2027-06-26",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/SYAFKAAz/checkout",
         "available": true
       }
@@ -1932,8 +1932,8 @@
         "weeks": 16,
         "startDate": "2027-01-25",
         "raceDate": "2027-05-14",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 450,
+        "plan": "169 x 3 = $507",
         "checkoutUrl": "https://www.hertrails.com/offers/rEke2LPA/checkout",
         "available": true
       }
@@ -1980,8 +1980,8 @@
         "weeks": 12,
         "startDate": "2026-12-28",
         "raceDate": "2027-03-20",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 300,
+        "plan": "115 x 3 = $345",
         "checkoutUrl": "https://www.hertrails.com/offers/mZi6BuoY/checkout",
         "available": true
       }
@@ -2029,7 +2029,7 @@
         "startDate": "2027-04-19",
         "raceDate": "2027-08-07",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -2058,7 +2058,7 @@
         "startDate": "2027-06-21",
         "raceDate": "2027-09-11",
         "price": 299,
-        "plan": "115 x 3 = $345",
+        "plan": "160 x 2 = $320",
         "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout",
         "available": true
       }
@@ -2126,8 +2126,8 @@
         "weeks": 18,
         "startDate": "2026-11-16",
         "raceDate": "2027-03-20",
-        "price": 460,
-        "plan": "180 x 3 = $540",
+        "price": 450,
+        "plan": "175 x 3 = $525",
         "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout",
         "available": true
       }
@@ -2155,8 +2155,8 @@
         "weeks": 20,
         "startDate": "2026-11-02",
         "raceDate": "2027-03-20",
-        "price": 480,
-        "plan": "160 x 3 = $480",
+        "price": 420,
+        "plan": "159 x 3 = $477",
         "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout",
         "available": true
       }
@@ -2184,8 +2184,8 @@
         "weeks": 20,
         "startDate": "2026-12-28",
         "raceDate": "2027-05-15",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 440,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout",
         "available": true
       }
@@ -2319,8 +2319,8 @@
         "weeks": 20,
         "startDate": "2027-03-08",
         "raceDate": "2027-07-24",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 480,
+        "plan": "160 x 3 = $480",
         "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout",
         "available": true
       }
@@ -2349,7 +2349,7 @@
         "startDate": "2027-04-12",
         "raceDate": "2027-08-01",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -2396,8 +2396,8 @@
         "weeks": 20,
         "startDate": "2026-06-22",
         "raceDate": "2026-11-05",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 450,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
         "available": true
       }
@@ -2473,8 +2473,8 @@
         "weeks": 20,
         "startDate": "2026-07-13",
         "raceDate": "2026-11-26",
-        "price": 549,
-        "plan": "161 x 4 = $644",
+        "price": 495,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout",
         "available": true
       }
@@ -2502,8 +2502,8 @@
         "weeks": 14,
         "startDate": "2026-12-14",
         "raceDate": "2027-03-20",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 350,
+        "plan": "135 x 3 = $405",
         "checkoutUrl": "https://www.hertrails.com/offers/Ai2fWF9N/checkout",
         "available": true
       }
@@ -2550,8 +2550,8 @@
         "weeks": 16,
         "startDate": "2026-07-20",
         "raceDate": "2026-11-06",
-        "price": 380,
-        "plan": "149 x 3 = $447",
+        "price": 450,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout",
         "available": true
       }
@@ -2579,8 +2579,8 @@
         "weeks": 12,
         "startDate": "2026-11-23",
         "raceDate": "2027-02-13",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 300,
+        "plan": "115 x 3 = $345",
         "checkoutUrl": "https://www.hertrails.com/offers/PyRFfEpr/checkout",
         "available": true
       }
@@ -2609,7 +2609,7 @@
         "startDate": "2027-06-21",
         "raceDate": "2027-10-10",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout",
         "available": true
       }
@@ -2637,8 +2637,8 @@
         "weeks": 16,
         "startDate": "2026-07-20",
         "raceDate": "2026-11-05",
-        "price": 380,
-        "plan": "149 x 3 = $447",
+        "price": 450,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout",
         "available": true
       }
@@ -2715,7 +2715,7 @@
         "startDate": "2027-02-22",
         "raceDate": "2027-07-10",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/DfPnfLfq/checkout",
         "available": true
       }
@@ -2744,7 +2744,7 @@
         "startDate": "2027-02-08",
         "raceDate": "2027-06-26",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/gt2HJv6i/checkout",
         "available": true
       }
@@ -2772,8 +2772,8 @@
         "weeks": 16,
         "startDate": "2027-03-15",
         "raceDate": "2027-07-04",
-        "price": 420,
-        "plan": "165 x 3 = $495",
+        "price": 360,
+        "plan": "140 x 3 = $420",
         "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout",
         "available": true
       }
@@ -2821,7 +2821,7 @@
         "startDate": "2026-10-12",
         "raceDate": "2027-02-28",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/vuJNPWFn/checkout",
         "available": true
       }
@@ -2849,8 +2849,8 @@
         "weeks": 20,
         "startDate": "2026-12-28",
         "raceDate": "2027-05-15",
-        "price": 549,
-        "plan": "161 x 4 = $644",
+        "price": 590,
+        "plan": "160 x 4 = $640",
         "checkoutUrl": "https://www.hertrails.com/offers/aLFUiqEz/checkout",
         "available": true
       }
@@ -2879,7 +2879,7 @@
         "startDate": "2026-10-19",
         "raceDate": "2027-03-06",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/hLZVLho3/checkout",
         "available": true
       }
@@ -2907,8 +2907,8 @@
         "weeks": 14,
         "startDate": "2027-03-22",
         "raceDate": "2027-06-26",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 350,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/Rbri99Kd/checkout",
         "available": true
       }
@@ -2937,7 +2937,7 @@
         "startDate": "2026-08-17",
         "raceDate": "2026-12-31",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout",
         "available": true
       }
@@ -2966,7 +2966,7 @@
         "startDate": "2027-02-15",
         "raceDate": "2027-06-06",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -3036,7 +3036,7 @@
         "startDate": "2027-05-31",
         "raceDate": "2027-10-16",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/BthYYyWk/checkout",
         "available": true
       }
@@ -3065,7 +3065,7 @@
         "startDate": "2026-12-14",
         "raceDate": "2027-03-20",
         "price": 299,
-        "plan": "117 x 3 = $351",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout",
         "available": true
       }
@@ -3122,8 +3122,8 @@
         "weeks": 20,
         "startDate": "2026-11-02",
         "raceDate": "2027-03-21",
-        "price": 470,
-        "plan": "138 x 4 = $552",
+        "price": 500,
+        "plan": "149 x 4 = $596",
         "checkoutUrl": "https://www.hertrails.com/offers/FAq7LrTt/checkout",
         "available": true
       }
@@ -3152,7 +3152,7 @@
         "startDate": "2027-05-10",
         "raceDate": "2027-09-26",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout",
         "available": true
       }
@@ -3209,8 +3209,8 @@
         "weeks": 20,
         "startDate": "2026-12-14",
         "raceDate": "2027-05-01",
-        "price": 499,
-        "plan": "149 x 4 = $596",
+        "price": 450,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout",
         "available": true
       }
@@ -3239,7 +3239,7 @@
         "startDate": "2027-04-12",
         "raceDate": "2027-08-28",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout",
         "available": true
       }
@@ -3267,8 +3267,8 @@
         "weeks": 20,
         "startDate": "2026-12-28",
         "raceDate": "2027-05-15",
-        "price": 549,
-        "plan": "161 x 4 = $644",
+        "price": 489,
+        "plan": "190 x 3 = $570",
         "checkoutUrl": "https://www.hertrails.com/offers/vnpzvHhr/checkout",
         "available": true
       }
@@ -3296,8 +3296,8 @@
         "weeks": 20,
         "startDate": "2027-04-26",
         "raceDate": "2027-09-11",
-        "price": 450,
-        "plan": "175 x 3 = $525",
+        "price": 480,
+        "plan": "140 x 4 = $560",
         "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout",
         "available": true
       }
@@ -3326,7 +3326,7 @@
         "startDate": "2026-10-05",
         "raceDate": "2027-02-20",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout",
         "available": true
       }
@@ -3355,7 +3355,7 @@
         "startDate": "2026-06-22",
         "raceDate": "2026-11-05",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": "149 x 4 = $596",
         "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
         "available": true
       }
@@ -3428,7 +3428,7 @@
         "startDate": "2026-07-13",
         "raceDate": "2026-11-28",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout",
         "available": true
       }
@@ -3457,7 +3457,7 @@
         "startDate": "2027-01-25",
         "raceDate": "2027-05-15",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -3504,8 +3504,8 @@
         "weeks": 14,
         "startDate": "2026-08-17",
         "raceDate": "2026-11-22",
-        "price": 370,
-        "plan": "145 x 3 = $435",
+        "price": 350,
+        "plan": "135 x 2 = $270",
         "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
         "available": true
       }
@@ -3620,8 +3620,8 @@
         "weeks": 20,
         "startDate": "2026-06-22",
         "raceDate": "2026-11-05",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 549,
+        "plan": "169 x 4 = $676",
         "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
         "available": true
       }
@@ -3668,8 +3668,8 @@
         "weeks": 20,
         "startDate": "2026-12-28",
         "raceDate": "2027-05-16",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 550,
+        "plan": "150 x 4 = $600",
         "checkoutUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout",
         "available": true
       }
@@ -3697,8 +3697,8 @@
         "weeks": 20,
         "startDate": "2026-07-06",
         "raceDate": "2026-11-22",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 500,
+        "plan": "150 x 4 = $600",
         "checkoutUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout",
         "available": true
       }
@@ -3745,8 +3745,8 @@
         "weeks": 20,
         "startDate": "2026-11-02",
         "raceDate": "2027-03-20",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 480,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/xkjUA9MG/checkout",
         "available": true
       }
@@ -3793,8 +3793,8 @@
         "weeks": 12,
         "startDate": "2027-05-10",
         "raceDate": "2027-07-31",
-        "price": 335,
-        "plan": "131 x 3 = $393",
+        "price": 299,
+        "plan": "115 x 3 = $345",
         "checkoutUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout",
         "available": true
       }
@@ -3823,7 +3823,7 @@
         "startDate": "2026-09-28",
         "raceDate": "2027-02-13",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/8ruFKwzz/checkout",
         "available": true
       }
@@ -3881,7 +3881,7 @@
         "startDate": "2027-04-12",
         "raceDate": "2027-08-01",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -3909,8 +3909,8 @@
         "weeks": 20,
         "startDate": "2026-11-23",
         "raceDate": "2027-04-11",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 440,
+        "plan": "165 x 3 = $495",
         "checkoutUrl": "https://www.hertrails.com/offers/2E22kFRh/checkout",
         "available": true
       }
@@ -3939,7 +3939,7 @@
         "startDate": "2027-01-25",
         "raceDate": "2027-06-13",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/yengwzXc/checkout",
         "available": true
       }
@@ -3968,7 +3968,7 @@
         "startDate": "2026-09-28",
         "raceDate": "2027-02-13",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": "149 x 4 = $596",
         "checkoutUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout",
         "available": true
       }
@@ -3996,8 +3996,8 @@
         "weeks": 20,
         "startDate": "2026-07-20",
         "raceDate": "2026-12-06",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 440,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/3iTvmUoL/checkout",
         "available": true
       }
@@ -4066,7 +4066,7 @@
         "startDate": "2027-04-12",
         "raceDate": "2027-08-29",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/vrwXMzF2/checkout",
         "available": true
       }
@@ -4123,8 +4123,8 @@
         "weeks": 20,
         "startDate": "2027-03-22",
         "raceDate": "2027-08-07",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 469,
+        "plan": "169 x 3 = $507",
         "checkoutUrl": "https://www.hertrails.com/offers/Skw8MzG9/checkout",
         "available": true
       }
@@ -4152,8 +4152,8 @@
         "weeks": 16,
         "startDate": "2026-11-30",
         "raceDate": "2027-03-20",
-        "price": 380,
-        "plan": "149 x 3 = $447",
+        "price": 389,
+        "plan": "110 x 4 = $440",
         "checkoutUrl": "https://www.hertrails.com/offers/UXgEzJoa/checkout",
         "available": true
       }
@@ -4181,8 +4181,8 @@
         "weeks": 20,
         "startDate": "2027-03-22",
         "raceDate": "2027-08-08",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 440,
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/MoF7qChU/checkout",
         "available": true
       }
@@ -4240,7 +4240,7 @@
         "startDate": "2027-03-29",
         "raceDate": "2027-08-13",
         "price": 499,
-        "plan": "147 x 4 = $588",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/oUrPXmcL/checkout",
         "available": true
       }
@@ -4269,7 +4269,7 @@
         "startDate": "2026-12-14",
         "raceDate": "2027-05-01",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/KxrSgHGF/checkout",
         "available": true
       }
@@ -4297,8 +4297,8 @@
         "weeks": 20,
         "startDate": "2027-03-01",
         "raceDate": "2027-07-17",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 450,
+        "plan": "195 x 3 = $585",
         "checkoutUrl": "https://www.hertrails.com/offers/nQr3XFcN/checkout",
         "available": true
       }
@@ -4356,7 +4356,7 @@
         "startDate": "2027-04-12",
         "raceDate": "2027-07-31",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout",
         "available": true
       }
@@ -4414,7 +4414,7 @@
         "startDate": "2027-04-26",
         "raceDate": "2027-08-13",
         "price": 420,
-        "plan": "165 x 3 = $495",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/mBLWy6kE/checkout",
         "available": true
       }
@@ -4461,8 +4461,8 @@
         "weeks": 20,
         "startDate": "2027-04-26",
         "raceDate": "2027-09-12",
-        "price": 499,
-        "plan": "147 x 4 = $588",
+        "price": 480,
+        "plan": "140 x 4 = $560",
         "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout",
         "available": true
       }
@@ -4520,7 +4520,7 @@
         "startDate": "2027-03-01",
         "raceDate": "2027-07-18",
         "price": 440,
-        "plan": "129 x 4 = $516",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/e5jTTP52/checkout",
         "available": true
       }
@@ -4549,7 +4549,7 @@
         "startDate": "2026-12-14",
         "raceDate": "2027-05-01",
         "price": 450,
-        "plan": "175 x 3 = $525",
+        "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout",
         "available": true
       }
@@ -4637,8 +4637,8 @@
         "weeks": 16,
         "startDate": "2027-05-10",
         "raceDate": "2027-08-29",
-        "price": 420,
-        "plan": "165 x 3 = $495",
+        "price": 445,
+        "plan": "149 x 3 = $447",
         "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout",
         "available": true
       }

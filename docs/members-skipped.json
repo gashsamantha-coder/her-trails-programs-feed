@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "generatedAt": "2026-10-26T12:55:23.128Z",
   "skipped": [
     {
       "name": "Maven Resources",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Grampians Peaks Trail: 30km",
       "why": "No customer checkout link"
     },
     {
@@ -86,10 +82,6 @@
       "why": "Race already run"
     },
     {
-      "name": "Ultra-Trail Australia: UTAMiler",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Bondi to Manly 80km (Solo)",
       "why": "Race already run"
     },
@@ -132,10 +124,6 @@
     {
       "name": "HER Strength Orientation",
       "why": "No distance or duration"
-    },
-    {
-      "name": "City2Surf Training Program",
-      "why": "No customer checkout link"
     },
     {
       "name": "Blackall 100",

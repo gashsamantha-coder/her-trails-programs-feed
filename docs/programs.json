@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "generatedAt": "2026-10-26T12:55:23.128Z",
   "today": "2026-10-26",
-  "count": 114,
+  "count": 119,
   "programs": [
     {
       "id": "recRtX5oA6iZj1eS4",
@@ -23,7 +23,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": "149 x 4 = $596",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
     },
@@ -45,8 +45,8 @@
       "raceDate": "2026-11-05",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 450,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout"
     },
@@ -68,8 +68,8 @@
       "raceDate": "2026-11-05",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 549,
+      "plan": "169 x 4 = $676",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
     },
@@ -90,8 +90,8 @@
       "raceDate": "2026-11-07",
       "startDate": "2026-06-22",
       "status": "in_progress",
-      "price": 440,
-      "plan": "129 x 4 = $516",
+      "price": 480,
+      "plan": "160 x 3 = $480",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/p22MW2J6/checkout"
     },
@@ -113,7 +113,7 @@
       "startDate": "2026-06-22",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout"
     },
@@ -134,8 +134,8 @@
       "raceDate": "2026-11-22",
       "startDate": "2026-07-06",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 500,
+      "plan": "150 x 4 = $600",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout"
     },
@@ -157,8 +157,8 @@
       "raceDate": "2026-10-31",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 440,
+      "plan": "129 x 4 = $516",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout"
     },
@@ -180,8 +180,8 @@
       "raceDate": "2026-11-26",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 549,
-      "plan": "161 x 4 = $644",
+      "price": 495,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout"
     },
@@ -205,8 +205,8 @@
       "raceDate": "2026-11-27",
       "startDate": "2026-07-13",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 490,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
     },
@@ -228,7 +228,7 @@
       "startDate": "2026-07-13",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout"
     },
@@ -251,8 +251,8 @@
       "raceDate": "2026-11-05",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 380,
-      "plan": "149 x 3 = $447",
+      "price": 450,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout"
     },
@@ -275,8 +275,8 @@
       "raceDate": "2026-11-06",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 380,
-      "plan": "149 x 3 = $447",
+      "price": 450,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
     },
@@ -297,8 +297,8 @@
       "raceDate": "2026-12-05",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 500,
+      "plan": "169 x 3 = $507",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/bU4dTsyF/checkout"
     },
@@ -319,8 +319,8 @@
       "raceDate": "2026-12-06",
       "startDate": "2026-07-20",
       "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 440,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/3iTvmUoL/checkout"
     },
@@ -341,10 +341,33 @@
       "raceDate": "2026-11-14",
       "startDate": "2026-07-27",
       "status": "in_progress",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 445,
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout"
+    },
+    {
+      "id": "rec2iEY5pjjfbdXsa",
+      "name": "Grampians Peaks Trail: 30km",
+      "category": "Event Based Programs",
+      "location": "Dunkeld",
+      "km": 33,
+      "distanceLabel": "33km",
+      "elevation": 1555,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Technical"
+      ],
+      "tagline": "30km trail through the Grampians Peaks Trail covering sandstone ridges, rocky peaks, and native bushland in the Grampians National Park (Gariwerd). Point-to-point course.",
+      "weeks": 14,
+      "raceDate": "2026-11-08",
+      "startDate": "2026-08-03",
+      "status": "in_progress",
+      "price": 500,
+      "plan": "149 x 4 = $596",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout"
     },
     {
       "id": "rec7r0jobxvfWHZcy",
@@ -363,8 +386,8 @@
       "raceDate": "2026-11-22",
       "startDate": "2026-08-17",
       "status": "in_progress",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 350,
+      "plan": "135 x 2 = $270",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout"
     },
@@ -386,7 +409,7 @@
       "startDate": "2026-08-17",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout"
     },
@@ -408,8 +431,8 @@
       "raceDate": "2026-11-26",
       "startDate": "2026-08-24",
       "status": "in_progress",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 350,
+      "plan": "130 x 3 = $390",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout"
     },
@@ -431,7 +454,7 @@
       "startDate": "2026-09-28",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/8ruFKwzz/checkout"
     },
@@ -475,7 +498,7 @@
       "startDate": "2026-09-28",
       "status": "in_progress",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": "149 x 4 = $596",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/t4sHWD7o/checkout"
     },
@@ -497,7 +520,7 @@
       "startDate": "2026-10-05",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/9U5DgSUh/checkout"
     },
@@ -519,9 +542,32 @@
       "startDate": "2026-10-05",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/DVgQ9Ygp/checkout"
+    },
+    {
+      "id": "recMoIJlewnqFxlrg",
+      "name": "Snowy Mountains UTRA 50",
+      "category": "50km events - tier allocation",
+      "location": "Lake Crackenback, Snowy Mountains, NSW",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": null,
+      "tier": null,
+      "tags": [
+        "50km Trail Ultra",
+        "Mountain"
+      ],
+      "tagline": "50K Ultra at Lake Crackenback in the Snowy Mountains, run as part of Trail Run Australia's Snowy Mountains event on 21 February 2027.",
+      "weeks": 20,
+      "raceDate": "2027-02-21",
+      "startDate": "2026-10-05",
+      "status": "in_progress",
+      "price": 440,
+      "plan": null,
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/AgS2ELMA/checkout"
     },
     {
       "id": "recv2iiUhcLlsFfeo",
@@ -564,7 +610,7 @@
       "startDate": "2026-10-12",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/vuJNPWFn/checkout"
     },
@@ -586,7 +632,7 @@
       "startDate": "2026-10-19",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/hLZVLho3/checkout"
     },
@@ -632,7 +678,7 @@
       "startDate": "2026-10-26",
       "status": "in_progress",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "150 x 3 = $450",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/LGNSkDAB/checkout"
     },
@@ -654,7 +700,7 @@
       "startDate": "2026-10-26",
       "status": "in_progress",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/7tsHmwfJ/checkout"
     },
@@ -676,8 +722,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 550,
+      "plan": "149 x 4 = $596",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/o4c2o8CL/checkout"
     },
@@ -699,8 +745,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 480,
-      "plan": "160 x 3 = $480",
+      "price": 420,
+      "plan": "159 x 3 = $477",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/kHFUL8pa/checkout"
     },
@@ -723,8 +769,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 495,
-      "plan": "189 x 3 = $567",
+      "price": 475,
+      "plan": "185 x 3 = $555",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/REBfa7Kv/checkout"
     },
@@ -745,8 +791,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 480,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/xkjUA9MG/checkout"
     },
@@ -768,7 +814,7 @@
       "startDate": "2026-11-02",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/3tqirzMU/checkout"
     },
@@ -790,10 +836,33 @@
       "raceDate": "2027-03-21",
       "startDate": "2026-11-02",
       "status": "upcoming",
-      "price": 470,
-      "plan": "138 x 4 = $552",
+      "price": 500,
+      "plan": "149 x 4 = $596",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/FAq7LrTt/checkout"
+    },
+    {
+      "id": "recZPsTX27WEDGyY6",
+      "name": "Ultra-Trail Australia: UTAMiler",
+      "category": "Event Based Programs",
+      "location": "Blue Mountains, NSW",
+      "km": 161,
+      "distanceLabel": "161km",
+      "elevation": 7200,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Technical"
+      ],
+      "tagline": null,
+      "weeks": 28,
+      "raceDate": "2027-05-14",
+      "startDate": "2026-11-02",
+      "status": "upcoming",
+      "price": null,
+      "plan": "169 x 5 = $845",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/LYntKG9H/checkout"
     },
     {
       "id": "recCl6LbF5McWZg0d",
@@ -813,7 +882,7 @@
       "startDate": "2026-11-09",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/6djWJ6sd/checkout"
     },
@@ -832,8 +901,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-16",
       "status": "upcoming",
-      "price": 460,
-      "plan": "180 x 3 = $540",
+      "price": 450,
+      "plan": "175 x 3 = $525",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
@@ -854,8 +923,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-16",
       "status": "upcoming",
-      "price": 460,
-      "plan": "180 x 3 = $540",
+      "price": 450,
+      "plan": "175 x 3 = $525",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ubvvhgVv/checkout"
     },
@@ -876,8 +945,8 @@
       "raceDate": "2027-02-13",
       "startDate": "2026-11-23",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 300,
+      "plan": "115 x 3 = $345",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/PyRFfEpr/checkout"
     },
@@ -899,8 +968,8 @@
       "raceDate": "2027-04-10",
       "startDate": "2026-11-23",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 480,
+      "plan": "160 x 3 = $480",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/H2EooCX4/checkout"
     },
@@ -921,8 +990,8 @@
       "raceDate": "2027-04-11",
       "startDate": "2026-11-23",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 440,
+      "plan": "165 x 3 = $495",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/2E22kFRh/checkout"
     },
@@ -967,8 +1036,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-11-30",
       "status": "upcoming",
-      "price": 380,
-      "plan": "149 x 3 = $447",
+      "price": 389,
+      "plan": "110 x 4 = $440",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UXgEzJoa/checkout"
     },
@@ -990,7 +1059,7 @@
       "startDate": "2026-11-30",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout"
     },
@@ -1013,7 +1082,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 299,
-      "plan": "117 x 3 = $351",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/7FBYecqb/checkout"
     },
@@ -1034,8 +1103,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 350,
+      "plan": "135 x 3 = $405",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Ai2fWF9N/checkout"
     },
@@ -1058,7 +1127,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 499,
-      "plan": "149 x 4 = $596",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/CoESymVJ/checkout"
     },
@@ -1079,8 +1148,8 @@
       "raceDate": "2027-04-30",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "price": 450,
+      "plan": "189 x 4 = $756",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/GUwyd8NX/checkout"
     },
@@ -1102,7 +1171,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": "169 x 3 = $507",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/kquTVB4D/checkout"
     },
@@ -1125,7 +1194,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 475,
-      "plan": "185 x 3 = $555",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/TRYgWB6J/checkout"
     },
@@ -1170,7 +1239,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 450,
-      "plan": "175 x 3 = $525",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/2aadNZ55/checkout"
     },
@@ -1192,7 +1261,7 @@
       "startDate": "2026-12-14",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/KxrSgHGF/checkout"
     },
@@ -1213,8 +1282,8 @@
       "raceDate": "2027-05-01",
       "startDate": "2026-12-14",
       "status": "upcoming",
-      "price": 499,
-      "plan": "149 x 4 = $596",
+      "price": 450,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout"
     },
@@ -1235,8 +1304,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 300,
+      "plan": "115 x 3 = $345",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/mZi6BuoY/checkout"
     },
@@ -1257,8 +1326,8 @@
       "raceDate": "2027-03-20",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 350,
-      "plan": "135 x 3 = $405",
+      "price": 300,
+      "plan": "112 x 3 = $336",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/e3kYFrjo/checkout"
     },
@@ -1281,8 +1350,8 @@
       "raceDate": "2027-05-15",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 549,
-      "plan": "161 x 4 = $644",
+      "price": 590,
+      "plan": "160 x 4 = $640",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/aLFUiqEz/checkout"
     },
@@ -1303,8 +1372,8 @@
       "raceDate": "2027-05-15",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 440,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/NLwJ3wJs/checkout"
     },
@@ -1326,8 +1395,8 @@
       "raceDate": "2027-05-15",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 549,
-      "plan": "161 x 4 = $644",
+      "price": 489,
+      "plan": "190 x 3 = $570",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/vnpzvHhr/checkout"
     },
@@ -1350,8 +1419,8 @@
       "raceDate": "2027-05-16",
       "startDate": "2026-12-28",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 550,
+      "plan": "150 x 4 = $600",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/nwL5wZpR/checkout"
     },
@@ -1397,8 +1466,8 @@
       "raceDate": "2027-05-14",
       "startDate": "2027-01-25",
       "status": "upcoming",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 450,
+      "plan": "169 x 3 = $507",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/rEke2LPA/checkout"
     },
@@ -1420,7 +1489,7 @@
       "startDate": "2027-01-25",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1442,7 +1511,7 @@
       "startDate": "2027-01-25",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/AwH9y22H/checkout"
     },
@@ -1463,8 +1532,8 @@
       "raceDate": "2027-06-12",
       "startDate": "2027-01-25",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 450,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/bTrRLMGr/checkout"
     },
@@ -1486,7 +1555,7 @@
       "startDate": "2027-01-25",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/yengwzXc/checkout"
     },
@@ -1508,8 +1577,8 @@
       "raceDate": "2027-05-13",
       "startDate": "2027-02-08",
       "status": "upcoming",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 350,
+      "plan": "130 x 3 = $390",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/SpddxDBE/checkout"
     },
@@ -1533,7 +1602,7 @@
       "startDate": "2027-02-08",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/SYAFKAAz/checkout"
     },
@@ -1555,7 +1624,7 @@
       "startDate": "2027-02-08",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/gt2HJv6i/checkout"
     },
@@ -1579,7 +1648,7 @@
       "startDate": "2027-02-08",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/wmcJLUHH/checkout"
     },
@@ -1601,7 +1670,7 @@
       "startDate": "2027-02-15",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1623,7 +1692,7 @@
       "startDate": "2027-02-22",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/DfPnfLfq/checkout"
     },
@@ -1645,7 +1714,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/oGZ2dkeh/checkout"
     },
@@ -1667,7 +1736,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ruTfs5pd/checkout"
     },
@@ -1688,8 +1757,8 @@
       "raceDate": "2027-07-17",
       "startDate": "2027-03-01",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 450,
+      "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/nQr3XFcN/checkout"
     },
@@ -1711,7 +1780,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/e5jTTP52/checkout"
     },
@@ -1733,7 +1802,7 @@
       "startDate": "2027-03-01",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ZU23fHwo/checkout"
     },
@@ -1755,7 +1824,7 @@
       "startDate": "2027-03-08",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1776,8 +1845,8 @@
       "raceDate": "2027-07-24",
       "startDate": "2027-03-08",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 480,
+      "plan": "160 x 3 = $480",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/sWJhVVqL/checkout"
     },
@@ -1798,8 +1867,8 @@
       "raceDate": "2027-07-04",
       "startDate": "2027-03-15",
       "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 360,
+      "plan": "140 x 3 = $420",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/pCjFmhUy/checkout"
     },
@@ -1820,8 +1889,8 @@
       "raceDate": "2027-06-12",
       "startDate": "2027-03-22",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 299,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/CHtc3AGp/checkout"
     },
@@ -1842,8 +1911,8 @@
       "raceDate": "2027-06-26",
       "startDate": "2027-03-22",
       "status": "upcoming",
-      "price": 370,
-      "plan": "145 x 3 = $435",
+      "price": 350,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Rbri99Kd/checkout"
     },
@@ -1865,7 +1934,7 @@
       "startDate": "2027-03-22",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1886,8 +1955,8 @@
       "raceDate": "2027-08-07",
       "startDate": "2027-03-22",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 469,
+      "plan": "169 x 3 = $507",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Skw8MzG9/checkout"
     },
@@ -1908,8 +1977,8 @@
       "raceDate": "2027-08-08",
       "startDate": "2027-03-22",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 440,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/MoF7qChU/checkout"
     },
@@ -1932,7 +2001,7 @@
       "startDate": "2027-03-29",
       "status": "upcoming",
       "price": 499,
-      "plan": "147 x 4 = $588",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/oUrPXmcL/checkout"
     },
@@ -1954,7 +2023,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1976,7 +2045,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -1998,7 +2067,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -2020,7 +2089,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout"
     },
@@ -2042,7 +2111,7 @@
       "startDate": "2027-04-12",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/vrwXMzF2/checkout"
     },
@@ -2064,7 +2133,7 @@
       "startDate": "2027-04-19",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/UsejcnH5/checkout"
     },
@@ -2086,7 +2155,7 @@
       "startDate": "2027-04-19",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/cTgSAoLD/checkout"
     },
@@ -2109,7 +2178,7 @@
       "startDate": "2027-04-26",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/mBLWy6kE/checkout"
     },
@@ -2132,8 +2201,8 @@
       "raceDate": "2027-09-11",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 450,
-      "plan": "175 x 3 = $525",
+      "price": 480,
+      "plan": "140 x 4 = $560",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout"
     },
@@ -2155,10 +2224,33 @@
       "raceDate": "2027-09-11",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 480,
+      "plan": "140 x 4 = $560",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout"
+    },
+    {
+      "id": "reckzN1VeWcxKKsOo",
+      "name": "Surf Coast Century: 100K Solo",
+      "category": "Event Based Programs",
+      "location": "Anglesea",
+      "km": 100,
+      "distanceLabel": "100km",
+      "elevation": 2300,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "100km Trail Ultra ",
+        "Coastal"
+      ],
+      "tagline": "Four legs from Anglesea along the Great Ocean Road: sea cliffs, remote beaches, wildflower hinterland, singletrack and 2WD/4WD tracks. Around 2,300m of climbing. One of the most runnable 100km courses in Australia.",
+      "weeks": 20,
+      "raceDate": "2027-09-11",
+      "startDate": "2027-04-26",
+      "status": "upcoming",
+      "price": 500,
+      "plan": "150 x 4 = $600",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/rJjwfsLU/checkout"
     },
     {
       "id": "recj60iklTvAEXMRs",
@@ -2178,8 +2270,8 @@
       "raceDate": "2027-09-12",
       "startDate": "2027-04-26",
       "status": "upcoming",
-      "price": 499,
-      "plan": "147 x 4 = $588",
+      "price": 480,
+      "plan": "140 x 4 = $560",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/NxhdsKNz/checkout"
     },
@@ -2203,7 +2295,7 @@
       "startDate": "2027-05-03",
       "status": "upcoming",
       "price": 370,
-      "plan": "145 x 3 = $435",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/tmLnwYCq/checkout"
     },
@@ -2225,7 +2317,7 @@
       "startDate": "2027-05-03",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout"
     },
@@ -2246,8 +2338,8 @@
       "raceDate": "2027-07-31",
       "startDate": "2027-05-10",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 299,
+      "plan": "115 x 3 = $345",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout"
     },
@@ -2268,8 +2360,8 @@
       "raceDate": "2027-07-31",
       "startDate": "2027-05-10",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 299,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
     },
@@ -2290,8 +2382,8 @@
       "raceDate": "2027-08-29",
       "startDate": "2027-05-10",
       "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 445,
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/jm2v3dU4/checkout"
     },
@@ -2313,7 +2405,7 @@
       "startDate": "2027-05-10",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Zvxo6pgb/checkout"
     },
@@ -2335,7 +2427,7 @@
       "startDate": "2027-05-10",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/MFBNj7ro/checkout"
     },
@@ -2357,7 +2449,7 @@
       "startDate": "2027-05-17",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/rmtTGhHu/checkout"
     },
@@ -2381,7 +2473,7 @@
       "startDate": "2027-05-24",
       "status": "upcoming",
       "price": 370,
-      "plan": "145 x 3 = $435",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Mm5rMXXK/checkout"
     },
@@ -2403,9 +2495,32 @@
       "startDate": "2027-05-31",
       "status": "upcoming",
       "price": 440,
-      "plan": "129 x 4 = $516",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/BthYYyWk/checkout"
+    },
+    {
+      "id": "recu9mjmA2VX7NDPv",
+      "name": "City2Surf Training Program",
+      "category": "Event Based Programs",
+      "location": "Sydney, NSW",
+      "km": 14,
+      "distanceLabel": "14km",
+      "elevation": 221,
+      "tier": null,
+      "tags": [
+        "Road",
+        "Trail Short (<20km)"
+      ],
+      "tagline": null,
+      "weeks": 8,
+      "raceDate": "2027-08-08",
+      "startDate": "2027-06-14",
+      "status": "upcoming",
+      "price": 199,
+      "plan": "110 x 2 = $220",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/AUDAfncJ/checkout"
     },
     {
       "id": "recP1HD9gyluRt3ox",
@@ -2425,7 +2540,7 @@
       "startDate": "2027-06-14",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "159 x 3 = $477",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/S5rEUQH7/checkout"
     },
@@ -2446,8 +2561,8 @@
       "raceDate": "2027-10-03",
       "startDate": "2027-06-14",
       "status": "upcoming",
-      "price": 420,
-      "plan": "165 x 3 = $495",
+      "price": 350,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/qUNgLqqe/checkout"
     },
@@ -2471,7 +2586,7 @@
       "startDate": "2027-06-21",
       "status": "upcoming",
       "price": 299,
-      "plan": "115 x 3 = $345",
+      "plan": "160 x 2 = $320",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
     },
@@ -2493,8 +2608,8 @@
       "raceDate": "2027-09-12",
       "startDate": "2027-06-21",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 299,
+      "plan": "160 x 2 = $320",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Fhbmq3pf/checkout"
     },
@@ -2516,7 +2631,7 @@
       "startDate": "2027-06-21",
       "status": "upcoming",
       "price": 420,
-      "plan": "165 x 3 = $495",
+      "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
     },
@@ -2537,8 +2652,8 @@
       "raceDate": "2027-10-03",
       "startDate": "2027-07-12",
       "status": "upcoming",
-      "price": 335,
-      "plan": "131 x 3 = $393",
+      "price": 299,
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/MMLwNHkL/checkout"
     },
@@ -2560,7 +2675,7 @@
       "startDate": "2027-08-09",
       "status": "upcoming",
       "price": 249,
-      "plan": "146 x 2 = $292",
+      "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Htai82FB/checkout"
     }

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "generatedAt": "2026-10-26T12:55:23.128Z",
   "skipped": [
+    {
+      "name": "Lakes Trail Festival 50",
+      "why": "No race date"
+    },
     {
       "name": "Her Shift",
       "why": "No race date"
     },
     {
       "name": "Maven Resources",
-      "why": "No customer checkout link"
-    },
-    {
-      "name": "Grampians Peaks Trail: 30km",
       "why": "No customer checkout link"
     },
     {
@@ -68,6 +68,10 @@
     {
       "name": "* All in Members* Half Trail Marathon Progressions",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Truth or Consequences 50",
+      "why": "No race date"
     },
     {
       "name": "5km Foundations: For New Runners, Returners & Seekers of Balance",
@@ -138,10 +142,6 @@
       "why": "Race already run"
     },
     {
-      "name": "Ultra-Trail Australia: UTAMiler",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Bondi to Manly 80km (Solo)",
       "why": "Race already run"
     },
@@ -151,6 +151,10 @@
     },
     {
       "name": "100km Trail Ultra Program - Undulating",
+      "why": "No race date"
+    },
+    {
+      "name": "Convicts & Wenches 50",
       "why": "No race date"
     },
     {
@@ -194,16 +198,16 @@
       "why": "No customer checkout link"
     },
     {
+      "name": "Run Narawntapu 50",
+      "why": "No race date"
+    },
+    {
       "name": "HER Strength Orientation",
       "why": "No race date"
     },
     {
       "name": "Peri Framework Bundle",
       "why": "No race date"
-    },
-    {
-      "name": "City2Surf Training Program",
-      "why": "No customer checkout link"
     },
     {
       "name": "Half Trail Marathon Program - Foundations",
@@ -219,6 +223,10 @@
     },
     {
       "name": "50km Trail Ultra [Ranges - 1500 to 2500m]",
+      "why": "No race date"
+    },
+    {
+      "name": "Walhalla Wound Up 50",
       "why": "No race date"
     },
     {
