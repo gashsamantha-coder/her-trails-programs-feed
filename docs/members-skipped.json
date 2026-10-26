@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:47:39.882Z",
+  "generatedAt": "2026-10-26T04:41:39.180Z",
   "skipped": [
     {
       "name": "Maven Resources",
@@ -63,6 +63,10 @@
     },
     {
       "name": "Bondi to Manly 80km (Team relay)",
+      "why": "Race already run"
+    },
+    {
+      "name": "Heysen / Deep Creek 50",
       "why": "Race already run"
     },
     {

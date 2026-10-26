@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-10-25T20:47:39.882Z",
-  "today": "2026-10-25",
-  "count": 115,
+  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "today": "2026-10-26",
+  "count": 114,
   "programs": [
-    {
-      "id": "recQruHUL1508NKHG",
-      "name": "Heysen / Deep Creek 50",
-      "category": "Event Based Programs",
-      "location": "Deep Creek, South Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1278,
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
-      "weeks": 20,
-      "raceDate": "2026-10-25",
-      "startDate": "2026-06-08",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "147 x 4 = $588",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
-    },
     {
       "id": "recRtX5oA6iZj1eS4",
       "name": "GPT 100 Mile Staged",
@@ -629,7 +607,7 @@
       "weeks": 12,
       "raceDate": "2027-01-17",
       "startDate": "2026-10-26",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 299,
       "plan": "160 x 2 = $320",
       "canPurchase": true,
@@ -652,7 +630,7 @@
       "weeks": 16,
       "raceDate": "2027-02-12",
       "startDate": "2026-10-26",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 420,
       "plan": "165 x 3 = $495",
       "canPurchase": true,
@@ -674,7 +652,7 @@
       "weeks": 20,
       "raceDate": "2027-03-13",
       "startDate": "2026-10-26",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 440,
       "plan": "129 x 4 = $516",
       "canPurchase": true,
@@ -1018,7 +996,7 @@
     },
     {
       "id": "recUXwvjSVvZCgxFM",
-      "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+      "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
       "category": "Event Based Programs",
       "location": "Hobart, Tasmania",
       "km": 16.5,
@@ -1827,7 +1805,7 @@
     },
     {
       "id": "rec0VJ1yYYO3h6C5E",
-      "name": "Yandina Five ’O’ -  21K",
+      "name": "Yandina Five ’O’ - 21K",
       "category": "Event Based Programs",
       "location": "Yandina / North Arm, Sunshine Coast hinterland, QLD",
       "km": 21,

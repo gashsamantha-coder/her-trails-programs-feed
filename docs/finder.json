@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T20:47:39.882Z",
-  "today": "2026-10-25",
+  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "today": "2026-10-26",
   "hierarchy": [
     "exact",
     "curated",
@@ -1222,7 +1222,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "rec0VJ1yYYO3h6C5E",
-        "name": "Yandina Five ’O’ -  21K",
+        "name": "Yandina Five ’O’ - 21K",
         "weeks": 12,
         "startDate": "2027-03-22",
         "raceDate": "2027-06-12",
@@ -2665,11 +2665,11 @@
         "name": "Heysen / Deep Creek 50",
         "weeks": 20,
         "startDate": "2026-06-08",
-        "raceDate": "2026-10-25",
+        "raceDate": null,
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3060,7 +3060,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "recUXwvjSVvZCgxFM",
-        "name": "Kunanyi Mountain Run:  Ultra Relay 66K (team of 4)",
+        "name": "Kunanyi Mountain Run: Ultra Relay 66K (team of 4)",
         "weeks": 14,
         "startDate": "2026-12-14",
         "raceDate": "2027-03-20",
@@ -4032,7 +4032,7 @@
       "priority": 1,
       "sale": {
         "sourceRecordId": "recUIM2kEySNBWz3T",
-        "name": "10km Foundations\nNew or Returning to Run",
+        "name": "10km Foundations New or Returning to Run",
         "weeks": 8,
         "startDate": null,
         "raceDate": null,

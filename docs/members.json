@@ -1,40 +1,8 @@
 {
-  "generatedAt": "2026-10-25T20:47:39.882Z",
-  "today": "2026-10-25",
-  "count": 135,
+  "generatedAt": "2026-10-26T04:41:39.180Z",
+  "today": "2026-10-26",
+  "count": 134,
   "programs": [
-    {
-      "id": "recQruHUL1508NKHG",
-      "name": "Heysen / Deep Creek 50",
-      "sub": "Deep Creek, South Australia · 20 weeks",
-      "location": "Deep Creek, South Australia",
-      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
-      "startDateDisplay": "Jun 2026",
-      "distKm": "50km",
-      "km": 50,
-      "weeks": 20,
-      "dist": "ultra",
-      "cat": "Trail Ultra",
-      "cc": "#9b5e3a",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-06-08",
-      "raceDateISO": "2026-10-25",
-      "raceDateDisplay": "Oct 2026",
-      "raceMonth": 10,
-      "startMonth": 6,
-      "elevGainDisplay": "1,278m",
-      "dur": "18-20",
-      "elev": "rolling",
-      "elevClass2": "Rolling",
-      "techRating": "Moderate",
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
-    },
     {
       "id": "recRtX5oA6iZj1eS4",
       "name": "GPT 100 Mile Staged",
