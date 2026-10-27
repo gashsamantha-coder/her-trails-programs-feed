@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-10-27T04:58:58.474Z",
+  "generatedAt": "2026-10-27T12:06:07.859Z",
   "skipped": [
+    {
+      "name": "Lakes Trail Festival 50",
+      "why": "Archived"
+    },
     {
       "name": "Maven Resources",
       "why": "No customer checkout link"
@@ -38,6 +42,10 @@
       "why": "Member-only variant, not a program card"
     },
     {
+      "name": "Truth or Consequences 50",
+      "why": "Archived"
+    },
+    {
       "name": "Roller Coaster Run: 23km Double Loop",
       "why": "Race already run"
     },
@@ -70,6 +78,10 @@
       "why": "Race already run"
     },
     {
+      "name": "Glasshouse 100: 50K",
+      "why": "Archived"
+    },
+    {
       "name": "* All in Members* 10km Trail Foundations",
       "why": "Member-only variant, not a program card"
     },
@@ -87,6 +99,10 @@
     },
     {
       "name": "Rotorua Trail Festival 10K",
+      "why": "Archived"
+    },
+    {
+      "name": "Convicts & Wenches 50",
       "why": "Archived"
     },
     {
@@ -122,6 +138,10 @@
       "why": "Member-only variant, not a program card"
     },
     {
+      "name": "Run Narawntapu 50",
+      "why": "Archived"
+    },
+    {
       "name": "HER Strength Orientation",
       "why": "No distance or duration"
     },
@@ -132,6 +152,10 @@
     {
       "name": "Hume & Hovell Ultra 50",
       "why": "Race already run"
+    },
+    {
+      "name": "Walhalla Wound Up 50",
+      "why": "Archived"
     }
   ]
 }

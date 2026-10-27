@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T04:58:58.474Z",
+  "generatedAt": "2026-10-27T12:06:07.859Z",
   "today": "2026-10-27",
   "hierarchy": [
     "exact",
@@ -3182,8 +3182,8 @@
         "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/SqmMLkcg/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
