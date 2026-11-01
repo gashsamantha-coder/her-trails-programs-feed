@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T21:30:18.992Z",
-  "today": "2026-10-31",
+  "generatedAt": "2026-11-01T05:57:37.326Z",
+  "today": "2026-11-01",
   "hierarchy": [
     "exact",
     "curated",
@@ -1697,11 +1697,11 @@
         "name": "4 Peaks: Alpine multi staged program",
         "weeks": 16,
         "startDate": "2026-07-13",
-        "raceDate": "2026-10-31",
+        "raceDate": null,
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -4648,7 +4648,7 @@
     {
       "id": "recTybyAN7duelYP4",
       "name": "4 Peaks: Alpine multi staged program",
-      "raceDate": "2026-10-31",
+      "raceDate": null,
       "distance": 16,
       "elevation": null,
       "terrain": "Technical Trail",
