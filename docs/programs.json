@@ -1,78 +1,8 @@
 {
-  "generatedAt": "2026-11-05T19:54:16.621Z",
-  "today": "2026-11-05",
-  "count": 118,
+  "generatedAt": "2026-11-06T06:36:26.197Z",
+  "today": "2026-11-06",
+  "count": 114,
   "programs": [
-    {
-      "id": "recRtX5oA6iZj1eS4",
-      "name": "GPT 100 Mile Staged",
-      "category": "Event Based Programs",
-      "location": "Mount Zero to Dunkeld, Gariwerd/Grampians National Park, VIC",
-      "km": 162,
-      "distanceLabel": "162km",
-      "elevation": 7700,
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Staged Race",
-        "Technical"
-      ],
-      "tagline": null,
-      "weeks": 20,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 499,
-      "plan": "149 x 4 = $596",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
-    },
-    {
-      "id": "recTp9J2l55SFY6F7",
-      "name": "GPT 50km (49.5km)",
-      "category": "Event Based Programs",
-      "location": "Grampians National Park, VIC",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 2040,
-      "tier": null,
-      "tags": [
-        "50km Trail Ultra",
-        "Technical"
-      ],
-      "tagline": null,
-      "weeks": 20,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout"
-    },
-    {
-      "id": "recWYNEchJBPsqvnu",
-      "name": "GPT 100 Mile Solo",
-      "category": "Event Based Programs",
-      "location": "Gariwerd/Grampians National Park, VIC",
-      "km": 162,
-      "distanceLabel": "162km",
-      "elevation": 7700,
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Technical"
-      ],
-      "tagline": null,
-      "weeks": 20,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 549,
-      "plan": "169 x 4 = $676",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
-    },
     {
       "id": "recQsvsiozSkTPH6y",
       "name": "Whaka Ultra 50K",
@@ -208,30 +138,6 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/kMjrpU3L/checkout"
-    },
-    {
-      "id": "recGtn10HTB4TiH41",
-      "name": "GPT100 Stage Race Team Relay",
-      "category": "Event Based Programs",
-      "location": "Grampians National Park, VIC",
-      "km": 162,
-      "distanceLabel": "162km",
-      "elevation": 7700,
-      "tier": null,
-      "tags": [
-        "100mile Trail Ultra",
-        "Stage Race – Team Relay (3-person team)",
-        "Technical"
-      ],
-      "tagline": null,
-      "weeks": 16,
-      "raceDate": "2026-11-05",
-      "startDate": "2026-07-20",
-      "status": "in_progress",
-      "price": 450,
-      "plan": "195 x 3 = $585",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout"
     },
     {
       "id": "recCAIGvojWhxez0G",

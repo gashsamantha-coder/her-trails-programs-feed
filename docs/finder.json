@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T19:54:16.621Z",
-  "today": "2026-11-05",
+  "generatedAt": "2026-11-06T06:36:26.197Z",
+  "today": "2026-11-06",
   "hierarchy": [
     "exact",
     "curated",
@@ -2395,11 +2395,11 @@
         "name": "GPT 50km (49.5km)",
         "weeks": 20,
         "startDate": "2026-06-22",
-        "raceDate": "2026-11-05",
+        "raceDate": null,
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -2636,11 +2636,11 @@
         "name": "GPT100 Stage Race Team Relay",
         "weeks": 16,
         "startDate": "2026-07-20",
-        "raceDate": "2026-11-05",
+        "raceDate": null,
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3353,11 +3353,11 @@
         "name": "GPT 100 Mile Staged",
         "weeks": 20,
         "startDate": "2026-06-22",
-        "raceDate": "2026-11-05",
+        "raceDate": null,
         "price": 499,
         "plan": "149 x 4 = $596",
-        "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3619,11 +3619,11 @@
         "name": "GPT 100 Mile Solo",
         "weeks": 20,
         "startDate": "2026-06-22",
-        "raceDate": "2026-11-05",
+        "raceDate": null,
         "price": 549,
         "plan": "169 x 4 = $676",
-        "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5580,7 +5580,7 @@
     {
       "id": "recQmGAfMFQcU14Do",
       "name": "Grampians Peaks Trail 100 mile Team Relay [Staged] (3 person)",
-      "raceDate": "2026-11-05",
+      "raceDate": null,
       "distance": 161,
       "elevation": 7700,
       "terrain": null,
@@ -5606,7 +5606,7 @@
     {
       "id": "rec9etgCMrKiGKEWD",
       "name": "Grampians Peaks Trail Ultra: 100 Mile Solo",
-      "raceDate": "2026-11-05",
+      "raceDate": null,
       "distance": 161,
       "elevation": 7700,
       "terrain": "Technical Trail",
@@ -5630,7 +5630,7 @@
     {
       "id": "recjQRMD66YEeTHxE",
       "name": "Grampians Peaks Trail Ultra: 100 Mile Staged Solo",
-      "raceDate": "2026-11-05",
+      "raceDate": null,
       "distance": 162,
       "elevation": 7700,
       "terrain": "Mountain/technical singletrack",
@@ -5655,7 +5655,7 @@
     {
       "id": "recqhkUJUjMts8UM9",
       "name": "Grampians Peaks Trail Ultra: 50K",
-      "raceDate": "2026-11-05",
+      "raceDate": null,
       "distance": 49.5,
       "elevation": 2000,
       "terrain": "Technical Trail",
@@ -5679,7 +5679,7 @@
     {
       "id": "recUI99c25IelrJQH",
       "name": "Grampians Peaks Trail: 100 Mile Team Relay [continuous] (4 person)",
-      "raceDate": "2026-11-05",
+      "raceDate": null,
       "distance": 160,
       "elevation": 7700,
       "terrain": null,

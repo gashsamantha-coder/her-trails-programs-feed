@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:54:16.621Z",
+  "generatedAt": "2026-11-06T06:36:26.197Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -38,6 +38,10 @@
       "why": "No customer checkout link"
     },
     {
+      "name": "GPT100 Stage Race Team Relay",
+      "why": "Race already run"
+    },
+    {
       "name": "* All in Members* Half Trail Marathon Progressions",
       "why": "Member-only variant, not a program card"
     },
@@ -74,7 +78,15 @@
       "why": "Race already run"
     },
     {
+      "name": "GPT 100 Mile Staged",
+      "why": "Race already run"
+    },
+    {
       "name": "Roller Coaster Run: 46K Double Loop",
+      "why": "Race already run"
+    },
+    {
+      "name": "GPT 50km (49.5km)",
       "why": "Race already run"
     },
     {
@@ -84,6 +96,10 @@
     {
       "name": "* All in Members* 10km Trail Foundations",
       "why": "Member-only variant, not a program card"
+    },
+    {
+      "name": "GPT 100 Mile Solo",
+      "why": "Race already run"
     },
     {
       "name": "* All in Members* 5km Foundations",
