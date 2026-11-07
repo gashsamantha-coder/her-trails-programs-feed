@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:21:00.410Z",
+  "generatedAt": "2026-11-07T05:54:35.572Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -51,6 +51,10 @@
     },
     {
       "name": "Waterous Trail on Foot 50",
+      "why": "Race already run"
+    },
+    {
+      "name": "GPT100 Miler Team Relay - Continuous",
       "why": "Race already run"
     },
     {

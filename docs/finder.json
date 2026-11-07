@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T19:21:00.410Z",
-  "today": "2026-11-06",
+  "generatedAt": "2026-11-07T05:54:35.572Z",
+  "today": "2026-11-07",
   "hierarchy": [
     "exact",
     "curated",
@@ -2549,11 +2549,11 @@
         "name": "GPT100 Miler Team Relay - Continuous",
         "weeks": 16,
         "startDate": "2026-07-20",
-        "raceDate": "2026-11-06",
+        "raceDate": null,
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
