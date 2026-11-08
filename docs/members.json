@@ -1,40 +1,8 @@
 {
-  "generatedAt": "2026-11-07T21:45:56.521Z",
-  "today": "2026-11-07",
-  "count": 132,
+  "generatedAt": "2026-11-08T05:56:32.437Z",
+  "today": "2026-11-08",
+  "count": 131,
   "programs": [
-    {
-      "id": "recQsvsiozSkTPH6y",
-      "name": "Whaka Ultra 50K",
-      "sub": "Rotorua, Bay of Plenty · 20 weeks",
-      "location": "Rotorua, Bay of Plenty",
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "startDateDisplay": "Jun 2026",
-      "distKm": "50.2km",
-      "km": 50.2,
-      "weeks": 20,
-      "dist": "ultra",
-      "cat": "Trail Ultra",
-      "cc": "#9b5e3a",
-      "event": "other",
-      "eventLabel": "Other",
-      "openDateISO": "2026-06-22",
-      "raceDateISO": "2026-11-07",
-      "raceDateDisplay": "Nov 2026",
-      "raceMonth": 11,
-      "startMonth": 6,
-      "elevGainDisplay": "2,240m",
-      "dur": "18-20",
-      "elev": "high",
-      "elevClass2": "Hilly",
-      "techRating": "Technical",
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/p22MW2J6/checkout"
-    },
     {
       "id": "rechLd64einS6Ua83",
       "name": "Marysville Marathon 50",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T21:45:56.521Z",
-  "today": "2026-11-07",
+  "generatedAt": "2026-11-08T05:56:32.437Z",
+  "today": "2026-11-08",
   "hierarchy": [
     "exact",
     "curated",
@@ -5442,7 +5442,7 @@
     {
       "id": "reckVc8IhQQ0IeRcW",
       "name": "Feral Pig Ultra 50",
-      "raceDate": "2026-11-07",
+      "raceDate": null,
       "distance": 53,
       "elevation": 1290,
       "terrain": null,
