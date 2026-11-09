@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:59:32.627Z",
+  "generatedAt": "2026-11-09T06:19:39.610Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -12,6 +12,10 @@
     {
       "name": "Maven Resources",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Grampians Peaks Trail: 30km",
+      "why": "Race already run"
     },
     {
       "name": "Macedon Trail Run 50",
@@ -188,6 +192,10 @@
     {
       "name": "Her Strength",
       "why": "No race date"
+    },
+    {
+      "name": "Marysville Marathon 50",
+      "why": "Race already run"
     },
     {
       "name": "1:1 Coaching Session",

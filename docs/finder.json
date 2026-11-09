@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T21:59:32.627Z",
-  "today": "2026-11-08",
+  "generatedAt": "2026-11-09T06:19:39.610Z",
+  "today": "2026-11-09",
   "hierarchy": [
     "exact",
     "curated",
@@ -526,11 +526,11 @@
         "name": "Grampians Peaks Trail: 30km",
         "weeks": 14,
         "startDate": "2026-08-03",
-        "raceDate": "2026-11-08",
+        "raceDate": null,
         "price": 500,
         "plan": "149 x 4 = $596",
-        "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -1844,11 +1844,11 @@
         "name": "Marysville Marathon 50",
         "weeks": 20,
         "startDate": "2026-06-22",
-        "raceDate": "2026-11-08",
+        "raceDate": null,
         "price": 440,
         "plan": null,
-        "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5704,7 +5704,7 @@
     {
       "id": "recjRRDCwoOXpr9r1",
       "name": "Grampians Peaks Trail: 30km",
-      "raceDate": "2026-11-08",
+      "raceDate": null,
       "distance": 33,
       "elevation": 1555,
       "terrain": "Technical Trail",
@@ -6253,7 +6253,7 @@
     {
       "id": "recmDB2kKJyqtKVTl",
       "name": "Marysville Marathon 50",
-      "raceDate": "2026-11-08",
+      "raceDate": null,
       "distance": 50,
       "elevation": 1700,
       "terrain": null,

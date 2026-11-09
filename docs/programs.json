@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-11-08T21:59:32.627Z",
-  "today": "2026-11-08",
-  "count": 112,
+  "generatedAt": "2026-11-09T06:19:39.610Z",
+  "today": "2026-11-09",
+  "count": 110,
   "programs": [
-    {
-      "id": "rechLd64einS6Ua83",
-      "name": "Marysville Marathon 50",
-      "category": "50km events - tier allocation",
-      "location": "VIC, Australia",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1700,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra"
-      ],
-      "tagline": "Ranges terrain with sustained climbing and long descents.",
-      "weeks": 20,
-      "raceDate": "2026-11-08",
-      "startDate": "2026-06-22",
-      "status": "in_progress",
-      "price": 440,
-      "plan": null,
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/nCJFznkz/checkout"
-    },
     {
       "id": "rec49EGB3QrKMPpob",
       "name": "GSER: 56K",
@@ -182,29 +160,6 @@
       "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout"
-    },
-    {
-      "id": "rec2iEY5pjjfbdXsa",
-      "name": "Grampians Peaks Trail: 30km",
-      "category": "Event Based Programs",
-      "location": "Dunkeld",
-      "km": 33,
-      "distanceLabel": "33km",
-      "elevation": 1555,
-      "tier": null,
-      "tags": [
-        "22km - 29km Trail Mid ",
-        "Technical"
-      ],
-      "tagline": "30km trail through the Grampians Peaks Trail covering sandstone ridges, rocky peaks, and native bushland in the Grampians National Park (Gariwerd). Point-to-point course.",
-      "weeks": 14,
-      "raceDate": "2026-11-08",
-      "startDate": "2026-08-03",
-      "status": "in_progress",
-      "price": 500,
-      "plan": "149 x 4 = $596",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout"
     },
     {
       "id": "rec7r0jobxvfWHZcy",
@@ -717,7 +672,7 @@
       "weeks": 20,
       "raceDate": "2027-03-27",
       "startDate": "2026-11-09",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 440,
       "plan": null,
       "canPurchase": true,
