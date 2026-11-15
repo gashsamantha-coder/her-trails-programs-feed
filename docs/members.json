@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T22:19:50.328Z",
-  "today": "2026-11-14",
-  "count": 129,
+  "generatedAt": "2026-11-15T06:22:37.507Z",
+  "today": "2026-11-15",
+  "count": 128,
   "programs": [
     {
       "id": "rec49EGB3QrKMPpob",
@@ -198,38 +198,6 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/3iTvmUoL/checkout"
-    },
-    {
-      "id": "reccW9lu7MbjhXNfn",
-      "name": "Queenstown Marathon: 42.2k",
-      "sub": "Queenstown, Otago · 16 weeks",
-      "location": "Queenstown, Otago",
-      "tagline": "Starts at The Avenue, Millbrook Resort at 8:20am, heads through Arrowtown, around Lake Hayes, along the Arrow River, under the Old Shotover Bridge, via the Twin Rivers trail beside the Kawarau River, then through Queenstown Gardens to finish at Queenstown Recreation Ground.",
-      "startDateDisplay": "Jul 2026",
-      "distKm": "42.2km",
-      "km": 42.2,
-      "weeks": 16,
-      "dist": "road",
-      "cat": "Road Marathon",
-      "cc": "#597b52",
-      "event": "road-marathon",
-      "eventLabel": "Road Marathons",
-      "openDateISO": "2026-07-27",
-      "raceDateISO": "2026-11-14",
-      "raceDateDisplay": "Nov 2026",
-      "raceMonth": 11,
-      "startMonth": 7,
-      "elevGainDisplay": "340m",
-      "dur": "14-16",
-      "elev": "flat",
-      "elevClass2": "Flat",
-      "techRating": "Runnable",
-      "tier": null,
-      "tags": [
-        "Road Marathon"
-      ],
-      "allin": true,
-      "link": "https://www.hertrails.com/offers/u9yhKV2W/checkout"
     },
     {
       "id": "rec7r0jobxvfWHZcy",

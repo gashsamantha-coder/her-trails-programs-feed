@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T22:19:50.328Z",
-  "today": "2026-11-14",
+  "generatedAt": "2026-11-15T06:22:37.507Z",
+  "today": "2026-11-15",
   "hierarchy": [
     "exact",
     "curated",
@@ -149,11 +149,11 @@
         "name": "Queenstown Marathon: 42.2k",
         "weeks": 16,
         "startDate": "2026-07-27",
-        "raceDate": "2026-11-14",
+        "raceDate": null,
         "price": 445,
         "plan": "149 x 3 = $447",
-        "checkoutUrl": "https://www.hertrails.com/offers/u9yhKV2W/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -5775,7 +5775,7 @@
     {
       "id": "recriYCV9IO5FWEQR",
       "name": "GSER: 28K",
-      "raceDate": "2026-11-14",
+      "raceDate": null,
       "distance": 26.9,
       "elevation": 1910,
       "terrain": "Technical Trail",
@@ -5799,7 +5799,7 @@
     {
       "id": "rec870AIIJrVH2ZJE",
       "name": "GSER: 56K",
-      "raceDate": "2026-11-14",
+      "raceDate": null,
       "distance": 55.6,
       "elevation": 2810,
       "terrain": "Technical Trail",
@@ -6511,7 +6511,7 @@
     {
       "id": "recxvJS81Dd9Olz5p",
       "name": "Queenstown Marathon: 42.2k",
-      "raceDate": "2026-11-14",
+      "raceDate": null,
       "distance": 42.2,
       "elevation": 340,
       "terrain": "Road",
