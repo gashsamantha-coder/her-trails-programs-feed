@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T18:47:46.530Z",
-  "today": "2026-11-15",
+  "generatedAt": "2026-11-16T06:21:23.541Z",
+  "today": "2026-11-16",
   "count": 109,
   "programs": [
     {
@@ -670,7 +670,7 @@
       "weeks": 18,
       "raceDate": "2027-03-20",
       "startDate": "2026-11-16",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 450,
       "plan": "175 x 3 = $525",
       "canPurchase": true,
@@ -692,7 +692,7 @@
       "weeks": 18,
       "raceDate": "2027-03-20",
       "startDate": "2026-11-16",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 450,
       "plan": "175 x 3 = $525",
       "canPurchase": true,
