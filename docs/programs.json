@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T07:08:08.507Z",
+  "generatedAt": "2026-11-20T20:09:24.265Z",
   "today": "2026-11-20",
-  "count": 109,
+  "count": 115,
   "programs": [
     {
       "id": "rec49EGB3QrKMPpob",
@@ -27,12 +27,12 @@
     },
     {
       "id": "recTwdTPS6KtCYT00",
-      "name": "UTMB Kosci 50km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
       "category": "Event Based Programs",
       "location": "Snowy Mountains",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1300,
+      "km": 50.3,
+      "distanceLabel": "50.3km",
+      "elevation": 1355,
       "tier": "T2 Ranges",
       "tags": [
         "50km Trail Ultra",
@@ -50,12 +50,12 @@
     },
     {
       "id": "recaJxOlc4xHHs937",
-      "name": "UTMB Kosci 100km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
       "category": "Event Based Programs",
       "location": "Snowy Mountains",
-      "km": 106,
-      "distanceLabel": "106km",
-      "elevation": 3260,
+      "km": 105.6,
+      "distanceLabel": "105.6km",
+      "elevation": 2973,
       "tier": null,
       "tags": [
         ">100km Trail Ultra ",
@@ -185,7 +185,7 @@
     },
     {
       "id": "reco3HyosgpTLHMqJ",
-      "name": "UTMB Kosci 30km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
       "category": "Event Based Programs",
       "location": "Perisher to Thredbo, Snowy Mountains, NSW",
       "km": 33,
@@ -1953,76 +1953,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/mBLWy6kE/checkout"
     },
     {
-      "id": "recGa81EjzoNSjGlu",
-      "name": "Surf Coast Century Relay 100km (team of 2)",
-      "category": "Event Based Programs",
-      "location": "Anglesea, Victoria (Great Ocean Road)",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1205,
-      "tier": null,
-      "tags": [
-        "50km Trail Ultra",
-        "Relay event",
-        "Coastal"
-      ],
-      "tagline": "Two-person teams run two legs each, either consecutive or alternating: legs 1 and 2 are 49km with 1,080m of gain, legs 3 and 4 are 51km with 1,205m of gain. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
-      "weeks": 20,
-      "raceDate": "2027-09-11",
-      "startDate": "2027-04-26",
-      "status": "upcoming",
-      "price": 480,
-      "plan": "140 x 4 = $560",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout"
-    },
-    {
-      "id": "recSSOY6XkRkgrkcb",
-      "name": "Surf Coast Century: 50K",
-      "category": "Event Based Programs",
-      "location": "Anglesea",
-      "km": 50,
-      "distanceLabel": "50km",
-      "elevation": 1205,
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "50km Trail Ultra",
-        "Coastal"
-      ],
-      "tagline": "Leg 1: 0km – 27km\nDistance: 27km | Elevation gain: 715m | Elevation loss: 690m\n\nLeg 2 (Race Leg 3): 27km – 50km\nDistance: 23.5km | Elevation gain: 490m | Elevation loss: 515m\nTerrain: Mix of 2WD, 4WD tracks and singletrack, finishing with beach running\n\nStart & Finish: Anglesea Green, Great Ocean Road\n\n\nSummary: Rewarding climb to Ocean Views lookout with sweeping coastal panoramas. \nCourse flows through Moggs Creek, Fairhaven, and Aireys Inlet past the iconic lighthouse. \n\nSpectacular clifftop trail with wild ocean views, then a final fling along Urquharts Beach back to the finish in Anglesea.",
-      "weeks": 20,
-      "raceDate": "2027-09-11",
-      "startDate": "2027-04-26",
-      "status": "upcoming",
-      "price": 480,
-      "plan": "140 x 4 = $560",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout"
-    },
-    {
-      "id": "reckzN1VeWcxKKsOo",
-      "name": "Surf Coast Century: 100K Solo",
-      "category": "Event Based Programs",
-      "location": "Anglesea",
-      "km": 100,
-      "distanceLabel": "100km",
-      "elevation": 2300,
-      "tier": "T1 Coast & Forest",
-      "tags": [
-        "100km Trail Ultra ",
-        "Coastal"
-      ],
-      "tagline": "Four legs from Anglesea along the Great Ocean Road: sea cliffs, remote beaches, wildflower hinterland, singletrack and 2WD/4WD tracks. Around 2,300m of climbing. One of the most runnable 100km courses in Australia.",
-      "weeks": 20,
-      "raceDate": "2027-09-11",
-      "startDate": "2027-04-26",
-      "status": "upcoming",
-      "price": 500,
-      "plan": "150 x 4 = $600",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/rJjwfsLU/checkout"
-    },
-    {
       "id": "recj60iklTvAEXMRs",
       "name": "Hounslow Classic: Marathon 43km",
       "category": "Event Based Programs",
@@ -2090,6 +2020,76 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/XxzsfFXr/checkout"
+    },
+    {
+      "id": "recGa81EjzoNSjGlu",
+      "name": "Surf Coast Century Relay 100km (team of 2)",
+      "category": "Event Based Programs",
+      "location": "Anglesea, Victoria (Great Ocean Road)",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1205,
+      "tier": null,
+      "tags": [
+        "50km Trail Ultra",
+        "Relay event",
+        "Coastal"
+      ],
+      "tagline": "Two-person teams run two legs each, either consecutive or alternating: legs 1 and 2 are 49km with 1,080m of gain, legs 3 and 4 are 51km with 1,205m of gain. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
+      "weeks": 20,
+      "raceDate": "2027-09-18",
+      "startDate": "2027-05-03",
+      "status": "upcoming",
+      "price": 480,
+      "plan": "140 x 4 = $560",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout"
+    },
+    {
+      "id": "recSSOY6XkRkgrkcb",
+      "name": "Surf Coast Century: 50K",
+      "category": "Event Based Programs",
+      "location": "Anglesea",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1205,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "50km Trail Ultra",
+        "Coastal"
+      ],
+      "tagline": "Leg 1: 0km – 27km\nDistance: 27km | Elevation gain: 715m | Elevation loss: 690m\n\nLeg 2 (Race Leg 3): 27km – 50km\nDistance: 23.5km | Elevation gain: 490m | Elevation loss: 515m\nTerrain: Mix of 2WD, 4WD tracks and singletrack, finishing with beach running\n\nStart & Finish: Anglesea Green, Great Ocean Road\n\n\nSummary: Rewarding climb to Ocean Views lookout with sweeping coastal panoramas. \nCourse flows through Moggs Creek, Fairhaven, and Aireys Inlet past the iconic lighthouse. \n\nSpectacular clifftop trail with wild ocean views, then a final fling along Urquharts Beach back to the finish in Anglesea.",
+      "weeks": 20,
+      "raceDate": "2027-09-18",
+      "startDate": "2027-05-03",
+      "status": "upcoming",
+      "price": 480,
+      "plan": "140 x 4 = $560",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout"
+    },
+    {
+      "id": "reckzN1VeWcxKKsOo",
+      "name": "Surf Coast Century: 100K Solo",
+      "category": "Event Based Programs",
+      "location": "Anglesea",
+      "km": 100,
+      "distanceLabel": "100km",
+      "elevation": 2300,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "100km Trail Ultra ",
+        "Coastal"
+      ],
+      "tagline": "Four legs from Anglesea along the Great Ocean Road: sea cliffs, remote beaches, wildflower hinterland, singletrack and 2WD/4WD tracks. Around 2,300m of climbing. One of the most runnable 100km courses in Australia.",
+      "weeks": 20,
+      "raceDate": "2027-09-18",
+      "startDate": "2027-05-03",
+      "status": "upcoming",
+      "price": 500,
+      "plan": "150 x 4 = $600",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/rJjwfsLU/checkout"
     },
     {
       "id": "rec68vDTmDFeSW6rj",
@@ -2337,30 +2337,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/qUNgLqqe/checkout"
     },
     {
-      "id": "reckd54rsvsw9oe3A",
-      "name": "Surf Coast Century 100K Relay (team of 4)",
-      "category": "Event Based Programs",
-      "location": "Anglesea",
-      "km": 25,
-      "distanceLabel": "25km",
-      "elevation": 715,
-      "tier": null,
-      "tags": [
-        "22km - 29km Trail Mid ",
-        "Relay event",
-        "Coastal"
-      ],
-      "tagline": "Four-person teams run one leg each on the same four-leg 100km loop. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
-      "weeks": 12,
-      "raceDate": "2027-09-11",
-      "startDate": "2027-06-21",
-      "status": "upcoming",
-      "price": 299,
-      "plan": "160 x 2 = $320",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
-    },
-    {
       "id": "recXqy6nb1Y671lpM",
       "name": "Hounslow 17km",
       "category": "Event Based Programs",
@@ -2406,6 +2382,100 @@
       "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
     },
     {
+      "id": "recRtX5oA6iZj1eS4",
+      "name": "GPT 100 Mile Staged",
+      "category": "Event Based Programs",
+      "location": "Mount Zero to Dunkeld, Gariwerd/Grampians National Park, VIC",
+      "km": 162,
+      "distanceLabel": "162km",
+      "elevation": 7700,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Staged Race",
+        "Technical"
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-11-04",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "149 x 4 = $596",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout"
+    },
+    {
+      "id": "recTp9J2l55SFY6F7",
+      "name": "GPT 50km (49.5km)",
+      "category": "Event Based Programs",
+      "location": "Grampians National Park, VIC",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 2040,
+      "tier": null,
+      "tags": [
+        "50km Trail Ultra",
+        "Technical"
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-11-04",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 450,
+      "plan": "195 x 3 = $585",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout"
+    },
+    {
+      "id": "recWYNEchJBPsqvnu",
+      "name": "GPT 100 Mile Solo",
+      "category": "Event Based Programs",
+      "location": "Gariwerd/Grampians National Park, VIC",
+      "km": 162,
+      "distanceLabel": "162km",
+      "elevation": 7700,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Technical"
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-11-04",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 549,
+      "plan": "169 x 4 = $676",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout"
+    },
+    {
+      "id": "reckd54rsvsw9oe3A",
+      "name": "Surf Coast Century 100K Relay (team of 4)",
+      "category": "Event Based Programs",
+      "location": "Anglesea",
+      "km": 25,
+      "distanceLabel": "25km",
+      "elevation": 715,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Relay event",
+        "Coastal"
+      ],
+      "tagline": "Four-person teams run one leg each on the same four-leg 100km loop. The Surf Coast Century 100km is a loop starting and finishing at Anglesea, run as two out and back halves. Legs 1 and 2 head north east to Torquay and back, legs 3 and 4 head south west inland to Moggs Creek and return along the coast. You pass through Anglesea at about 4km and again at the 49km changeover. Total 100km with 2,285m of gain. Changeovers happen only at CP2 (Torquay Rotary Rotunda), CP4 (Anglesea Green) and CP6 (Moggs Creek Picnic Ground), and only after your teammate has arrived. CP5 Distillery Creek is not a changeover point.\n\nLeg 1 Coastline Crusade, 0 to 24.5km, 625m gain, 625m loss. Anglesea Main Beach at the river mouth to CP2 Torquay Surf Beach. A mixture of wide gravel path (Surf Coast Walk), hard sandy beach and inter tidal zone with some technical terrain over reefs and rocks. Climb beside Anglesea SLSC, Surf Coast Walk to Point Roadknight, back along the beach past the start at 4km, across the Anglesea River, clifftop track to Point Addis Back Beach, Red Rocks Beach with steeper softer sand, stairs at Point Addis to CP1 at 10km, the Point Addis Koori Culture Walk through ironbark, down into Tiger Snake Gully, up to the Surf Coast Walk at Ironbark Basin past Jarosite Mine and a dieback foot wash, Southside car park, Bells Beach at 18km, the compulsory stairs and the Winkipop stairs, then about 3km of coastal rock and reef platforms with rock pools that are very technical and slow with sharp rocks, past the Steps stairs, around the rock pool at Bird Rock, Jan Juc Beach, sandy trail over Rocky Point headland and up past Torquay SLSC. A high tide detour along the Surf Coast Walk is used when the tide is up.\n\nLeg 2 Ironbark Basin, 24.5 to 49km, 455m gain, 455m loss. CP2 Torquay Rotary Park to CP4 Anglesea Green. A mixture of gravel footpaths and narrow single track through the bush. Whilst not exactly hilly, this section is best described as undulating. Boardwalk over Spring Creek, gravel path beside Torquay Golf Course, clifftop gravel path to Bells Beach car park at 30km, a brief stretch of sand, Southside car park, the Jarosite Trail with a compulsory dieback shoe wash, the high route around the old Jarosite mine and around Ironbark Basin with views to Point Addis, CP3 hydration at 35km at Ironbark Basin Picnic Area, then singletrack into the Eumeralla trail network at 36km, a myriad of trails where you must stay alert for course markings, past a lookout over Anglesea, behind the caravan park, onto Anglesea Main Beach and off beside the river.\n\nLeg 3 Currawong Falls, 49 to 76km, 27km, 715m gain, 690m loss. CP4 Anglesea to CP6 Moggs Creek Picnic Ground. A mixture of 2WD, 4WD and single tracks through more remote sections of the coastal bushland (with extensive wildflowers all around). This is the hilliest leg of the race and the crux of the course. Runners clamber under the bridge at water level, crawling on hands and knees in sections, then cross footbridges through Coogoorah Park before the lung busting climb up Heartbreak Hill to the top of Mt Ingoldsby at 55km. A red clay 4WD track carries views across the Anglesea Heath, then drops to Hutt Gully, very slippery when wet, and on to Teds Ridge at 59 to 60km among spring wildflowers. Flowing singletrack climbs past Currawong Falls to a trig point on Love's Track at 68km and descends into Ironbark Gorge. CP5 at 71km, Distillery Creek Picnic Ground, is not a changeover point. The leg crosses the Painkalac Reservoir wall, climbs 4WD track to Gentle Annie Rd at 76km and takes a long descent to CP6.\n\nLeg 4 Lookouts and Lighthouses, 76 to 100km, 24km, 490m gain, 515m loss. CP6 Moggs Creek to the finish at Anglesea Green. Another mixture of 2WD, 4WD tracks and single track that returns you to the beach for a stint along the sand to the finish. This has a hilly start but a flat finish. Singletrack through tall timber reaches the Ocean Views Ridge lookout above Moggs Creek at 80km, about 100m above the water with panoramic views to Lorne and the Aireys Inlet Lighthouse, the point where the course turns for home. Then a footbridge over Moggs Creek, Old Coach Road, sandy double track to a ridgeline, down beside Painkalac Creek at Fairhaven and under the Great Ocean Road bridge to CP7 at Aireys Inlet Skate Park at 86km. Uphill to the Split Point Lighthouse, 2.7km of clifftop gravel singletrack above secluded beaches and rocky pinnacles, stairs at 90km to Sunnymeade Beach, then 3.4km along Urquhart Beach where some runners will encounter this beach at high tide (soft sand and challenging) and some at low tide (hard sand and easy), then Melba Parade, the Surf Coast Walk at Point Roadknight and Anglesea Main Beach to the finish.",
+      "weeks": 12,
+      "raceDate": "2027-09-18",
+      "startDate": "2027-06-28",
+      "status": "upcoming",
+      "price": 299,
+      "plan": "160 x 2 = $320",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout"
+    },
+    {
       "id": "recVOqL0gEIKTA4TP",
       "name": "Macedon Trail Run 21.1km",
       "category": "Event Based Programs",
@@ -2426,6 +2496,77 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/MMLwNHkL/checkout"
+    },
+    {
+      "id": "recGtn10HTB4TiH41",
+      "name": "GPT100 Stage Race Team Relay",
+      "category": "Event Based Programs",
+      "location": "Grampians National Park, VIC",
+      "km": 162,
+      "distanceLabel": "162km",
+      "elevation": 7700,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Stage Race – Team Relay (3-person team)",
+        "Technical"
+      ],
+      "tagline": null,
+      "weeks": 16,
+      "raceDate": "2027-11-04",
+      "startDate": "2027-07-19",
+      "status": "upcoming",
+      "price": 450,
+      "plan": "195 x 3 = $585",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout"
+    },
+    {
+      "id": "recCAIGvojWhxez0G",
+      "name": "GPT100 Miler Team Relay - Continuous",
+      "category": "Event Based Programs",
+      "location": "Grampians, Victoria ",
+      "km": 162,
+      "distanceLabel": "162km",
+      "elevation": 7700,
+      "tier": null,
+      "tags": [
+        "100mile Trail Ultra",
+        "Relay event",
+        "Technical"
+      ],
+      "tagline": "Teams of four will tackle the 100 mile course running alongside the solo competitors.\n\nThe Legs of the team’s race will be the same as the stage race, where teams will relay at the three major aid stations in Halls Gap, Mt William Carpark and Griffin Fireline.\n\nTeams will have to play to each other’s strengths with some legs being longer or at night. Night runners will get to experience the beauty of the Grampians in the dark while being fresh, and able to absorb the nature and landscapes they run through.\n\nIf one or more runner cannot complete their leg, we will be flexible in letting the other runners share the load in completing the full course.\n\nTeams in the Miler Team Relay will be responsible for transporting their next runner to the changeover points. The first runner can get the shuttle to the start and the last runner can get the shuttle back to Halls Gap if required.\n\nIt is highly encouraged that teams book accomodation in Halls Gap from Thursday to Monday as this will be where the event village is and all the shuttles will leave from and return to the Event Village at Centenary Hall.\n\nThe first Leg to Halls Gap starts with the iconic climb up Flat Rock to reveal the entirety of the world famous Taipan Wall. After running under the rock wall the trail finds its groove as it toggles between a thin rocky uneven surface and a smooth dirt ribbon. There are numerous waterfalls through here, with continual 360 views of the entire Grampians grandeur, which is a common theme throughout the whole run.\n\nThe second Leg through to Duwul/Mt William has continual long climbs. It may be nightfall for the majority of the field heading up to the famous Pinnacles Lookout or Mount Rosea. This section is draining with foot placement and ankle stability being the key. Conserve energy when possible. Take time at Borough Huts to compose yourself and fuel and hydrate. The next 15km to Mt William are the crux of the race. There is much technical trail, especially up to, and across the Seven Dials and Redmans Bluff. However, the trail improves from here and the views from the top are spectacular as the trail adheres to a clifftop along to Mt William Aid Station. \n\nThe third Leg through to Griffin Fireline is a net downhill. Except for the speedy teams it will be into the daylight of Saturday for the bulk of the field to navigate this difficult stretch in the day. It starts with a very challenging 19k which crosses the Major Mitchell Plateau up to the high point of the race, Durd Durd at 1167m asl. A very long and initially steep descent brings you to Jimmy Creek where the runner will be rewarded for having done the hardest section of their race. Many short punchy climbs and flowy downs follow. There is a lot of newly built trail, and it is much appreciated. It will be hard to find rhythm through these shorter continual hills, with some rock hopping, choppy climbs mixed in with fast terrain.\n\nThe fourth Leg passes over some of the well-known peaks in the southern section of the range. This means lots of steep ascent, often on stairs to some striking summits including Mud-Dadjug/Mt Abrupt, and Wurgarri/Mt Sturgeon. Despite being a short Leg it has three big steep climbs with stairs. It is pound for pound the most scenic section of the route. Teams will have a sense of the journey’s end, which may bring joy but also sadness that the adventure must come to an end. Runners take an enjoyable river trail to the town centre, where the celebration awaits!\n\nin summary - \nUnlike solo runners, team relay success hinges entirely on your vehicle choreography and timing at the three designated aid stations GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER:Halls Gap (End of Leg 1 / Start of Leg 2): High energy, easy vehicle access, and the central basecamp of the event GPT100 Miler Team Relay | GRAMPIANS PEAKS TRAIL 100 MILER.Mt William Carpark (End of Leg 2 / Start of Leg 3): High elevation and highly exposed. Your incoming runner will experience rapid temperature drops; the crew must have heavy insulation ready Grampians Peak Trail: Section C4 - Duwul (Mt William) to Durd Durd.Griffin Fireline (End of Leg 3 / Start of Leg 4): Remote, deeper into the southern section, requiring precise navigation across open pasture transitions [Grampians Peaks Trail: Section S2 - Wannon to Djardji-djawara].",
+      "weeks": 16,
+      "raceDate": "2027-11-05",
+      "startDate": "2027-07-19",
+      "status": "upcoming",
+      "price": 450,
+      "plan": "195 x 3 = $585",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
+    },
+    {
+      "id": "rec2iEY5pjjfbdXsa",
+      "name": "Grampians Peaks Trail: 30km",
+      "category": "Event Based Programs",
+      "location": "Dunkeld",
+      "km": 33,
+      "distanceLabel": "33km",
+      "elevation": 1555,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid ",
+        "Technical"
+      ],
+      "tagline": "30km trail through the Grampians Peaks Trail covering sandstone ridges, rocky peaks, and native bushland in the Grampians National Park (Gariwerd). Point-to-point course.",
+      "weeks": 14,
+      "raceDate": "2027-11-07",
+      "startDate": "2027-08-02",
+      "status": "upcoming",
+      "price": 500,
+      "plan": "149 x 4 = $596",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout"
     },
     {
       "id": "rectjlhhc0hKodEGk",

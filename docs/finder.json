@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:08:08.507Z",
+  "generatedAt": "2026-11-20T20:09:24.265Z",
   "today": "2026-11-20",
   "hierarchy": [
     "exact",
@@ -53,7 +53,7 @@
     {
       "id": "rec0L53mpI6XdOTz4",
       "sourceRecordId": "recaJxOlc4xHHs937",
-      "name": "UTMB Kosci 100km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
       "weeks": 20,
       "description": null,
       "raceCategories": [],
@@ -69,7 +69,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "recaJxOlc4xHHs937",
-        "name": "UTMB Kosci 100km",
+        "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
         "weeks": 20,
         "startDate": "2026-07-13",
         "raceDate": "2026-11-27",
@@ -391,7 +391,7 @@
     {
       "id": "rec88VuANURNq70t0",
       "sourceRecordId": "reco3HyosgpTLHMqJ",
-      "name": "UTMB Kosci 32",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
       "weeks": 14,
       "description": null,
       "raceCategories": [],
@@ -407,7 +407,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "reco3HyosgpTLHMqJ",
-        "name": "UTMB Kosci 30km",
+        "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
         "weeks": 14,
         "startDate": "2026-08-24",
         "raceDate": "2026-11-26",
@@ -525,12 +525,12 @@
         "sourceRecordId": "rec2iEY5pjjfbdXsa",
         "name": "Grampians Peaks Trail: 30km",
         "weeks": 14,
-        "startDate": "2026-08-03",
-        "raceDate": null,
+        "startDate": "2027-08-02",
+        "raceDate": "2027-11-07",
         "price": 500,
         "plan": "149 x 4 = $596",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/NRdLFoYb/checkout",
+        "available": true
       }
     },
     {
@@ -612,8 +612,8 @@
         "sourceRecordId": "recSSOY6XkRkgrkcb",
         "name": "Surf Coast Century: 50K",
         "weeks": 20,
-        "startDate": "2027-04-26",
-        "raceDate": "2027-09-11",
+        "startDate": "2027-05-03",
+        "raceDate": "2027-09-18",
         "price": 480,
         "plan": "140 x 4 = $560",
         "checkoutUrl": "https://www.hertrails.com/offers/SzNwzaMT/checkout",
@@ -2055,8 +2055,8 @@
         "sourceRecordId": "reckd54rsvsw9oe3A",
         "name": "Surf Coast Century 100K Relay (team of 4)",
         "weeks": 12,
-        "startDate": "2027-06-21",
-        "raceDate": "2027-09-11",
+        "startDate": "2027-06-28",
+        "raceDate": "2027-09-18",
         "price": 299,
         "plan": "160 x 2 = $320",
         "checkoutUrl": "https://www.hertrails.com/offers/Rsjwtzg9/checkout",
@@ -2394,12 +2394,12 @@
         "sourceRecordId": "recTp9J2l55SFY6F7",
         "name": "GPT 50km (49.5km)",
         "weeks": 20,
-        "startDate": "2026-06-22",
-        "raceDate": null,
+        "startDate": "2027-06-21",
+        "raceDate": "2027-11-04",
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/oRMF7jGe/checkout",
+        "available": true
       }
     },
     {
@@ -2453,7 +2453,7 @@
     {
       "id": "recY4Tycd5LnxKvid",
       "sourceRecordId": "recTwdTPS6KtCYT00",
-      "name": "UTMB Kosci 50km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
       "weeks": 20,
       "description": null,
       "raceCategories": [],
@@ -2469,7 +2469,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "recTwdTPS6KtCYT00",
-        "name": "UTMB Kosci 50km",
+        "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
         "weeks": 20,
         "startDate": "2026-07-13",
         "raceDate": "2026-11-26",
@@ -2548,12 +2548,12 @@
         "sourceRecordId": "recCAIGvojWhxez0G",
         "name": "GPT100 Miler Team Relay - Continuous",
         "weeks": 16,
-        "startDate": "2026-07-20",
-        "raceDate": null,
+        "startDate": "2027-07-19",
+        "raceDate": "2027-11-05",
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout",
+        "available": true
       }
     },
     {
@@ -2635,12 +2635,12 @@
         "sourceRecordId": "recGtn10HTB4TiH41",
         "name": "GPT100 Stage Race Team Relay",
         "weeks": 16,
-        "startDate": "2026-07-20",
-        "raceDate": null,
+        "startDate": "2027-07-19",
+        "raceDate": "2027-11-04",
         "price": 450,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/ey5okEmT/checkout",
+        "available": true
       }
     },
     {
@@ -3294,8 +3294,8 @@
         "sourceRecordId": "recGa81EjzoNSjGlu",
         "name": "Surf Coast Century Relay 100km (team of 2)",
         "weeks": 20,
-        "startDate": "2027-04-26",
-        "raceDate": "2027-09-11",
+        "startDate": "2027-05-03",
+        "raceDate": "2027-09-18",
         "price": 480,
         "plan": "140 x 4 = $560",
         "checkoutUrl": "https://www.hertrails.com/offers/gAcgvSV2/checkout",
@@ -3352,12 +3352,12 @@
         "sourceRecordId": "recRtX5oA6iZj1eS4",
         "name": "GPT 100 Mile Staged",
         "weeks": 20,
-        "startDate": "2026-06-22",
-        "raceDate": null,
+        "startDate": "2027-06-21",
+        "raceDate": "2027-11-04",
         "price": 499,
         "plan": "149 x 4 = $596",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/AoRVgTd4/checkout",
+        "available": true
       }
     },
     {
@@ -3618,12 +3618,12 @@
         "sourceRecordId": "recWYNEchJBPsqvnu",
         "name": "GPT 100 Mile Solo",
         "weeks": 20,
-        "startDate": "2026-06-22",
-        "raceDate": null,
+        "startDate": "2027-06-21",
+        "raceDate": "2027-11-04",
         "price": 549,
         "plan": "169 x 4 = $676",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/pJ4bCcNM/checkout",
+        "available": true
       }
     },
     {
@@ -7556,10 +7556,10 @@
     },
     {
       "id": "rec4pDwpiW7SSpa7y",
-      "name": "UTMB Kosci 100km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
       "raceDate": "2026-11-27",
-      "distance": 106,
-      "elevation": 3260,
+      "distance": 105.6,
+      "elevation": 2973,
       "terrain": "Runnable Trail",
       "environment": "Alpine",
       "categories": [
@@ -7580,10 +7580,10 @@
     },
     {
       "id": "recBF8SNiFid0ZPzi",
-      "name": "UTMB Kosci 32",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
       "raceDate": "2026-11-26",
-      "distance": 32,
-      "elevation": 670,
+      "distance": 33,
+      "elevation": 596,
       "terrain": "Runnable Trail",
       "environment": "Alpine",
       "categories": [
@@ -7604,10 +7604,10 @@
     },
     {
       "id": "recyBXkPaIRBveZjh",
-      "name": "UTMB Kosci 50km",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
       "raceDate": "2026-11-26",
-      "distance": 50,
-      "elevation": 1300,
+      "distance": 50.3,
+      "elevation": 1355,
       "terrain": "Runnable Trail",
       "environment": "Alpine",
       "categories": [
