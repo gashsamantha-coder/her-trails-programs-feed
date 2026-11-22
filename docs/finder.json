@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T20:09:24.265Z",
-  "today": "2026-11-20",
+  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "today": "2026-11-22",
   "hierarchy": [
     "exact",
     "curated",
@@ -16,8 +16,8 @@
   },
   "caveat": "Time-on-feet contributes only when the race has a populated band. Readiness guidance is advisory and configured separately.",
   "counts": {
-    "races": 132,
-    "programs": 163,
+    "races": 160,
+    "programs": 165,
     "calculatedPool": 11
   },
   "programs": [
@@ -1175,6 +1175,35 @@
       "sale": null
     },
     {
+      "id": "recI4R4oHasPE04cJ",
+      "sourceRecordId": "reczvh6YUEsgoSx0R",
+      "name": "Redwoods Rush 27km (12 weeks)",
+      "weeks": 12,
+      "description": null,
+      "raceCategories": [],
+      "terrainCategories": [],
+      "distanceMin": null,
+      "distanceMax": null,
+      "elevationMin": null,
+      "elevationMax": null,
+      "technicality": [],
+      "timeOnFeet": [],
+      "tier50": [],
+      "eligible": false,
+      "priority": 999,
+      "sale": {
+        "sourceRecordId": "reczvh6YUEsgoSx0R",
+        "name": "Redwoods Rush 27km (12 weeks)",
+        "weeks": 12,
+        "startDate": "2026-12-14",
+        "raceDate": "2027-03-06",
+        "price": 299,
+        "plan": "160 x 2 = $320",
+        "checkoutUrl": "https://www.hertrails.com/offers/odFg3zuF/checkout",
+        "available": true
+      }
+    },
+    {
       "id": "recJZBfWUjkTPzhbI",
       "sourceRecordId": "recHn8cuBw7b5vxlN",
       "name": "Half Progressions (Member)",
@@ -1388,12 +1417,12 @@
         "sourceRecordId": "recNcOpkQJWI2oNiZ",
         "name": "Bondi to Manly 80km (Team relay)",
         "weeks": 12,
-        "startDate": "2026-08-03",
-        "raceDate": null,
+        "startDate": "2027-08-02",
+        "raceDate": "2027-10-23",
         "price": 299,
         "plan": "117 x 3 = $351",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout",
+        "available": true
       }
     },
     {
@@ -1696,12 +1725,12 @@
         "sourceRecordId": "reccLC9pX4SMP5RHK",
         "name": "4 Peaks: Alpine multi staged program",
         "weeks": 16,
-        "startDate": "2026-07-13",
-        "raceDate": null,
+        "startDate": "2027-07-12",
+        "raceDate": "2027-10-30",
         "price": 440,
         "plan": "129 x 4 = $516",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout",
+        "available": true
       }
     },
     {
@@ -3091,12 +3120,12 @@
         "sourceRecordId": "recZeK2gNCY7yA0Pa",
         "name": "Bondi to Manly 80km (Solo)",
         "weeks": 18,
-        "startDate": "2026-06-22",
-        "raceDate": null,
+        "startDate": "2027-06-21",
+        "raceDate": "2027-10-23",
         "price": 460,
         "plan": "180 x 3 = $540",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout",
+        "available": true
       }
     },
     {
@@ -3242,6 +3271,35 @@
         "plan": null,
         "checkoutUrl": "https://www.hertrails.com/offers/ELEcmMWz/checkout",
         "available": true
+      }
+    },
+    {
+      "id": "reckW3kF8s74ryC4U",
+      "sourceRecordId": "rec1qi51X5lwBEKqL",
+      "name": "Backyard Ultra (20 weeks)",
+      "weeks": 20,
+      "description": null,
+      "raceCategories": [],
+      "terrainCategories": [],
+      "distanceMin": null,
+      "distanceMax": null,
+      "elevationMin": null,
+      "elevationMax": null,
+      "technicality": [],
+      "timeOnFeet": [],
+      "tier50": [],
+      "eligible": false,
+      "priority": 999,
+      "sale": {
+        "sourceRecordId": "rec1qi51X5lwBEKqL",
+        "name": "Backyard Ultra",
+        "weeks": 20,
+        "startDate": null,
+        "raceDate": null,
+        "price": null,
+        "plan": null,
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3505,7 +3563,7 @@
         "startDate": "2026-08-17",
         "raceDate": "2026-11-22",
         "price": 350,
-        "plan": "135 x 2 = $270",
+        "plan": "190 x 2 = $380",
         "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
         "available": true
       }
@@ -4208,12 +4266,12 @@
         "sourceRecordId": "recxnBStS6EYwCKRB",
         "name": "Blackall 100",
         "weeks": 20,
-        "startDate": "2026-06-01",
-        "raceDate": null,
+        "startDate": "2027-05-31",
+        "raceDate": "2027-10-16",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout",
+        "available": true
       }
     },
     {
@@ -4646,6 +4704,27 @@
   ],
   "races": [
     {
+      "id": "recF0G6GFnpCOgeWo",
+      "name": "2 Rivers Backyard Ultra",
+      "raceDate": "2027-03-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recTybyAN7duelYP4",
       "name": "4 Peaks: Alpine multi staged program",
       "raceDate": null,
@@ -4741,9 +4820,30 @@
       ]
     },
     {
+      "id": "recYjrRUu2mUFdSNv",
+      "name": "Birdy's Backyard Ultra",
+      "raceDate": "2027-08-06",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "rech3qpyIhXH9NFC5",
       "name": "Blackall100: 100K",
-      "raceDate": null,
+      "raceDate": "2027-10-16",
       "distance": 100,
       "elevation": 3500,
       "terrain": null,
@@ -4788,9 +4888,30 @@
       ]
     },
     {
+      "id": "recCYr8fxSAOL423Z",
+      "name": "Bom Bom Backyard Ultra",
+      "raceDate": "2027-02-26",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "rec7CQm0uAdNsH2xv",
       "name": "Bondi to Manly 80km (Solo)",
-      "raceDate": null,
+      "raceDate": "2027-10-23",
       "distance": 80,
       "elevation": 1648,
       "terrain": "Runnable Trail",
@@ -4814,7 +4935,7 @@
     {
       "id": "recpjiALn9d7LYzrZ",
       "name": "Bondi to Manly 80km (Team relay)",
-      "raceDate": null,
+      "raceDate": "2027-10-23",
       "distance": 80,
       "elevation": 225,
       "terrain": "Runnable Trail",
@@ -5251,6 +5372,27 @@
       ]
     },
     {
+      "id": "recN3wTGwPbam0TDf",
+      "name": "Coffs Backyard Ultra",
+      "raceDate": "2027-06-12",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recTOkFpuMD4erXV8",
       "name": "Collie River Ultra 50",
       "raceDate": null,
@@ -5294,6 +5436,48 @@
           "programId": "reclZ76dEpSe6hodZ",
           "kind": "curated",
           "reason": "Low-vert coastal running and headland trail are best served by the 50km Coast & Forest program."
+        }
+      ]
+    },
+    {
+      "id": "recKggyzmhQ1UAKs0",
+      "name": "Dead Cow Gully Backyard Ultra",
+      "raceDate": "2027-06-19",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recvexcLX2qj8QcFV",
+      "name": "Deep Creek Backyard Ultra",
+      "raceDate": "2027-10-30",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -5486,6 +5670,27 @@
       ]
     },
     {
+      "id": "recVQWHM0CjlUhLY9",
+      "name": "Gil's Galavant Backyard Ultra",
+      "raceDate": "2027-04-03",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recMUyNkxlGbrcEy0",
       "name": "Glasshouse 100 - 50",
       "raceDate": null,
@@ -5505,6 +5710,27 @@
           "programId": "reclZ76dEpSe6hodZ",
           "kind": "curated",
           "reason": "Lower overall vert with gravel and trail running is best served by the 50km Coast & Forest program."
+        }
+      ]
+    },
+    {
+      "id": "recUYdXdEEuOoG95b",
+      "name": "Gold Coast Backyard Ultra",
+      "raceDate": "2027-03-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -5773,6 +5999,27 @@
       ]
     },
     {
+      "id": "recS0VXbSTnfcbIzJ",
+      "name": "Great Ultra Mediocre Back Yarder (GUMBY)",
+      "raceDate": "2027-04-24",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recriYCV9IO5FWEQR",
       "name": "GSER: 28K",
       "raceDate": null,
@@ -5815,6 +6062,48 @@
       "recommendations": [
         {
           "programId": "recpRJOKmtfxqSgHP",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "rec5RwAflSIjwE65Q",
+      "name": "GV Last Man Standing",
+      "raceDate": "2027-09-11",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recne31JIDCxhZCFX",
+      "name": "Herdy's Frontyard Ultra",
+      "raceDate": "2027-03-12",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
           "kind": "exact",
           "reason": "Her Trails has a programme built specifically for this event."
         }
@@ -5890,6 +6179,27 @@
       ]
     },
     {
+      "id": "recSLqA6eV5CxDGr8",
+      "name": "Hold It Flats Backyard Ultra",
+      "raceDate": "2027-04-17",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recX2hlAvPa07QF2p",
       "name": "Hounslow 17km - 12 weeks",
       "raceDate": null,
@@ -5957,6 +6267,48 @@
           "programId": "reclZ76dEpSe6hodZ",
           "kind": "curated",
           "reason": "Mostly runnable singletrack and fire road with about 1,500m climbing fits the upper end of Coast & Forest."
+        }
+      ]
+    },
+    {
+      "id": "reczFbjYiJnr719Xu",
+      "name": "Hunter Valley Backyard Ultra",
+      "raceDate": "2027-03-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recaR9jbn90F9lEQs",
+      "name": "I'm Still Standing Sydney Backyard Ultra",
+      "raceDate": "2027-03-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -6131,6 +6483,27 @@
       ]
     },
     {
+      "id": "rec74n03wjqU4NjXa",
+      "name": "Lap The Valley Backyard Ultra",
+      "raceDate": "2027-09-11",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recGAuJG0BbmLAHsY",
       "name": "Lithgow Ridgy-Didge 50",
       "raceDate": "2027-03-28",
@@ -6227,6 +6600,27 @@
       ]
     },
     {
+      "id": "recPDuwU24mn2dEVP",
+      "name": "Maribyrnong Valley Park (MVP) Backyard Ultra",
+      "raceDate": "2027-02-05",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recFspOk1UO3ALLNH",
       "name": "Maroondah Dam 50",
       "raceDate": "2027-04-18",
@@ -6271,6 +6665,27 @@
           "programId": "recDS1h4PLlQiiAQ9",
           "kind": "curated",
           "reason": "Runnable forest terrain but around 1,700m climbing makes Ranges the best overall match."
+        }
+      ]
+    },
+    {
+      "id": "reckOB4cR0ocNYaRh",
+      "name": "MelbOURne Frontyard Ultra",
+      "raceDate": "2027-05-01",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -6341,6 +6756,27 @@
       "recommendations": [
         {
           "programId": "reccRvOaRU7gtAuFr",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recYUWHTk4JiVbvMA",
+      "name": "No Time To Die Frontyard Ultra",
+      "raceDate": "2027-05-14",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
           "kind": "exact",
           "reason": "Her Trails has a programme built specifically for this event."
         }
@@ -6580,6 +7016,27 @@
       ]
     },
     {
+      "id": "recXxBSki5vMCTgFj",
+      "name": "Riverland Backyard Ultra",
+      "raceDate": "2027-03-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recSo0HaT4Y8hKxNE",
       "name": "Roller Coaster Run: 12.4km",
       "raceDate": null,
@@ -6707,6 +7164,27 @@
           "kind": "calculated",
           "score": 32,
           "reason": "This is the strongest calculated fit for the race's technicality. The distance and terrain fit is less exact, so bring that part to Coaching Corner."
+        }
+      ]
+    },
+    {
+      "id": "recY7WcKNMWIFfhOm",
+      "name": "Rumbalara Rumble",
+      "raceDate": "2027-07-25",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -6878,6 +7356,48 @@
       ]
     },
     {
+      "id": "recjU3k2Drx0S8OSK",
+      "name": "Run Your : Outback Ultra",
+      "raceDate": "2027-06-19",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recQGBWDHXCzB2glL",
+      "name": "Salomon Warburton Trail Fest: Redwoods Rush 27km",
+      "raceDate": "2027-03-06",
+      "distance": 27,
+      "elevation": 450,
+      "terrain": "Runnable Trail",
+      "environment": "Forest",
+      "categories": [],
+      "technicality": "Low",
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "recI4R4oHasPE04cJ",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "rec3DTDdCoFqTm0VV",
       "name": "Scenic Rim Ultra 25",
       "raceDate": null,
@@ -6972,6 +7492,27 @@
           "programId": "recDS1h4PLlQiiAQ9",
           "kind": "curated",
           "reason": "Six Foot Track's sustained climbing, long descents and moderate-high technicality are best matched by the 50km Ranges program."
+        }
+      ]
+    },
+    {
+      "id": "recWtTKIXdqrp6Rxy",
+      "name": "Smurf's Backyard Ultra",
+      "raceDate": "2027-10-30",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },
@@ -7188,6 +7729,27 @@
       ]
     },
     {
+      "id": "recoW7DeEQMKLaBmO",
+      "name": "Sydney's Backyard Ultra",
+      "raceDate": "2027-04-17",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "rect6DwhWEro86g3L",
       "name": "Tarawera Ultra-Trail by UTMB: T102",
       "raceDate": "2027-02-13",
@@ -7282,6 +7844,48 @@
       ]
     },
     {
+      "id": "rec5gAH5Hr7oUiQv8",
+      "name": "The Clint Eastwood Last One Standing",
+      "raceDate": "2027-08-13",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
+      "id": "recPDnebb4Qh5LCwA",
+      "name": "The Furnace Backyard Ultra",
+      "raceDate": "2027-02-20",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
+        }
+      ]
+    },
+    {
       "id": "recIVr9TiLjj6tzAS",
       "name": "The Guzzler Ultra 100",
       "raceDate": null,
@@ -7338,6 +7942,40 @@
           "programId": "recDS1h4PLlQiiAQ9",
           "kind": "curated",
           "reason": "Technical reservoir climbs and about 2,300m vert sit at the upper end of the Ranges program."
+        }
+      ]
+    },
+    {
+      "id": "recQSCD4OKUUCMA2S",
+      "name": "The Kokoda Challenge",
+      "raceDate": "2027-07-17",
+      "distance": 96,
+      "elevation": 4442,
+      "terrain": "Steep hinterland ridgelines, forest trail and creek crossings",
+      "environment": null,
+      "categories": [
+        "Trail Ultra 80-120km",
+        "Mountain / Skyrun"
+      ],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Curated recommendation",
+      "recommendations": [
+        {
+          "programId": "recOl6i2dY4KGH4ec",
+          "kind": "curated",
+          "reason": "Closest match on distance and climb: 100km with 4,400m of repeated, steep hill trail, and it is a Queensland winter race, so the build and conditions line up. Includes night running and rehearsed fuelling, which suit a run through the night."
+        },
+        {
+          "programId": "recR7retbfaTiCiK3",
+          "kind": "curated",
+          "reason": "Around 112km with roughly 4,880m of climbing on technical Queensland hinterland singletrack, so it prepares you for more vertical than Kokoda asks for."
+        },
+        {
+          "programId": "recgFIT4SRopPV2vZ",
+          "kind": "curated",
+          "reason": "Our flagship 100km build for about 4,400m of climbing, matching Kokoda's vertical, with strong strength work for punishing descents."
         }
       ]
     },
@@ -7694,6 +8332,27 @@
           "programId": "recDS1h4PLlQiiAQ9",
           "kind": "curated",
           "reason": "Around 2,240m climbing and moderate-high technicality make the 50km Ranges program the best fit."
+        }
+      ]
+    },
+    {
+      "id": "rec9ylvcYsIMFQNWu",
+      "name": "Wild Dog Backyard Ultra",
+      "raceDate": "2027-06-25",
+      "distance": null,
+      "elevation": null,
+      "terrain": null,
+      "environment": null,
+      "categories": [],
+      "technicality": null,
+      "timeOnFeet": null,
+      "tier50": null,
+      "finderStatus": "Exact event-specific program",
+      "recommendations": [
+        {
+          "programId": "reckW3kF8s74ryC4U",
+          "kind": "exact",
+          "reason": "Her Trails has a programme built specifically for this event."
         }
       ]
     },

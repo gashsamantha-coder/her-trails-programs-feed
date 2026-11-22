@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:09:24.265Z",
+  "generatedAt": "2026-11-22T06:41:00.527Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -8,6 +8,10 @@
     {
       "name": "Her Shift",
       "why": "No race date"
+    },
+    {
+      "name": "Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Maven Resources",
@@ -102,10 +106,6 @@
       "why": "No race date"
     },
     {
-      "name": "Bondi to Manly 80km (Team relay)",
-      "why": "Race already run"
-    },
-    {
       "name": "Heysen / Deep Creek 50",
       "why": "Race already run"
     },
@@ -146,20 +146,12 @@
       "why": "Race already run"
     },
     {
-      "name": "Bondi to Manly 80km (Solo)",
-      "why": "Race already run"
-    },
-    {
       "name": "Rotorua Trail Festival 10K",
       "why": "Archived"
     },
     {
       "name": "100km Trail Ultra Program - Undulating",
       "why": "No race date"
-    },
-    {
-      "name": "4 Peaks: Alpine multi staged program",
-      "why": "Race already run"
     },
     {
       "name": "Queenstown Marathon: 42.2k",
@@ -228,10 +220,6 @@
     {
       "name": "Half Trail Marathon Program - Foundations",
       "why": "No race date"
-    },
-    {
-      "name": "Blackall 100",
-      "why": "Race already run"
     },
     {
       "name": "Hume & Hovell Ultra 50",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T20:09:24.265Z",
-  "today": "2026-11-20",
-  "count": 115,
+  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "today": "2026-11-22",
+  "count": 120,
   "programs": [
     {
       "id": "rec49EGB3QrKMPpob",
@@ -157,7 +157,7 @@
       "startDate": "2026-08-17",
       "status": "in_progress",
       "price": 350,
-      "plan": "135 x 2 = $270",
+      "plan": "190 x 2 = $380",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout"
     },
@@ -832,6 +832,28 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/vtquSYao/checkout"
+    },
+    {
+      "id": "reczvh6YUEsgoSx0R",
+      "name": "Redwoods Rush 27km (12 weeks)",
+      "category": "Event Based Programs",
+      "location": "Warburton",
+      "km": 27,
+      "distanceLabel": "27km",
+      "elevation": 450,
+      "tier": null,
+      "tags": [
+        "22km - 29km Trail Mid"
+      ],
+      "tagline": "27km out-and-back from Warburton along the O'Shannassy Aqueduct Trail, turning at the Redwoods Forest and returning the same way.",
+      "weeks": 12,
+      "raceDate": "2027-03-06",
+      "startDate": "2026-12-14",
+      "status": "upcoming",
+      "price": 299,
+      "plan": "160 x 2 = $320",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/odFg3zuF/checkout"
     },
     {
       "id": "recUXwvjSVvZCgxFM",
@@ -2270,6 +2292,28 @@
       "checkoutUrl": "https://www.hertrails.com/offers/BthYYyWk/checkout"
     },
     {
+      "id": "recxnBStS6EYwCKRB",
+      "name": "Blackall 100",
+      "category": "Event Based Programs",
+      "location": "Mapleton, Sunshine Coast Hinterland, QLD",
+      "km": 100,
+      "distanceLabel": "100km",
+      "elevation": 3290,
+      "tier": null,
+      "tags": [
+        "100km Trail Ultra "
+      ],
+      "tagline": null,
+      "weeks": 20,
+      "raceDate": "2027-10-16",
+      "startDate": "2027-05-31",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
+    },
+    {
       "id": "recu9mjmA2VX7NDPv",
       "name": "City2Surf Training Program",
       "category": "Event Based Programs",
@@ -2380,6 +2424,29 @@
       "plan": "149 x 3 = $447",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
+    },
+    {
+      "id": "recZeK2gNCY7yA0Pa",
+      "name": "Bondi to Manly 80km (Solo)",
+      "category": "Event Based Programs",
+      "location": "Sydney",
+      "km": 80,
+      "distanceLabel": "80km",
+      "elevation": 1648,
+      "tier": null,
+      "tags": [
+        "80km Trail Ultra",
+        "Coastal"
+      ],
+      "tagline": "The Bondi to Manly Ultra traverses the coastline between Sydney’s two most famous beaches, Bondi Beach and Manly Beach.",
+      "weeks": 18,
+      "raceDate": "2027-10-23",
+      "startDate": "2027-06-21",
+      "status": "upcoming",
+      "price": 460,
+      "plan": "180 x 3 = $540",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/9fEZusRx/checkout"
     },
     {
       "id": "recRtX5oA6iZj1eS4",
@@ -2498,6 +2565,29 @@
       "checkoutUrl": "https://www.hertrails.com/offers/MMLwNHkL/checkout"
     },
     {
+      "id": "reccLC9pX4SMP5RHK",
+      "name": "4 Peaks: Alpine multi staged program",
+      "category": "Event Based Programs",
+      "location": "Bright, Victorian Alps",
+      "km": null,
+      "distanceLabel": null,
+      "elevation": 5600,
+      "tier": null,
+      "tags": [
+        "Mountain",
+        "Staged Race"
+      ],
+      "tagline": null,
+      "weeks": 16,
+      "raceDate": "2027-10-30",
+      "startDate": "2027-07-12",
+      "status": "upcoming",
+      "price": 440,
+      "plan": "129 x 4 = $516",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/L3n9XfQH/checkout"
+    },
+    {
       "id": "recGtn10HTB4TiH41",
       "name": "GPT100 Stage Race Team Relay",
       "category": "Event Based Programs",
@@ -2544,6 +2634,29 @@
       "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/WjmSeT6u/checkout"
+    },
+    {
+      "id": "recNcOpkQJWI2oNiZ",
+      "name": "Bondi to Manly 80km (Team relay)",
+      "category": "Event Based Programs",
+      "location": "Sydney",
+      "km": 20,
+      "distanceLabel": "20km",
+      "elevation": 225,
+      "tier": null,
+      "tags": [
+        "Relay event",
+        "Coastal"
+      ],
+      "tagline": "The Bondi to Manly Ultra traverses the coastline between Sydney’s two most famous beaches, Bondi Beach and Manly Beach.",
+      "weeks": 12,
+      "raceDate": "2027-10-23",
+      "startDate": "2027-08-02",
+      "status": "upcoming",
+      "price": 299,
+      "plan": "117 x 3 = $351",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/YNjZFpBR/checkout"
     },
     {
       "id": "rec2iEY5pjjfbdXsa",
