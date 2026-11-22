@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "generatedAt": "2026-11-22T19:32:36.596Z",
   "today": "2026-11-22",
-  "count": 120,
+  "count": 121,
   "programs": [
     {
       "id": "rec49EGB3QrKMPpob",
@@ -2312,6 +2312,28 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
+    },
+    {
+      "id": "recQruHUL1508NKHG",
+      "name": "Heysen / Deep Creek 50",
+      "category": "Event Based Programs",
+      "location": "Deep Creek, South Australia",
+      "km": 50,
+      "distanceLabel": "50km",
+      "elevation": 1423,
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "weeks": 20,
+      "raceDate": "2027-10-24",
+      "startDate": "2027-06-07",
+      "status": "upcoming",
+      "price": 499,
+      "plan": "147 x 4 = $588",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
     },
     {
       "id": "recu9mjmA2VX7NDPv",

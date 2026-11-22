@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "generatedAt": "2026-11-22T19:32:36.596Z",
   "today": "2026-11-22",
-  "count": 139,
+  "count": 140,
   "programs": [
     {
       "id": "rec49EGB3QrKMPpob",
@@ -3342,6 +3342,38 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
+    },
+    {
+      "id": "recQruHUL1508NKHG",
+      "name": "Heysen / Deep Creek 50",
+      "sub": "Deep Creek, South Australia · 20 weeks",
+      "location": "Deep Creek, South Australia",
+      "tagline": "Coast and forest terrain with rolling, runnable climbing.",
+      "startDateDisplay": "Jun 2027",
+      "distKm": "50km",
+      "km": 50,
+      "weeks": 20,
+      "dist": "ultra",
+      "cat": "Trail Ultra",
+      "cc": "#9b5e3a",
+      "event": "other",
+      "eventLabel": "Other",
+      "openDateISO": "2027-06-07",
+      "raceDateISO": "2027-10-24",
+      "raceDateDisplay": "Oct 2027",
+      "raceMonth": 10,
+      "startMonth": 6,
+      "elevGainDisplay": "1,423m",
+      "dur": "18-20",
+      "elev": "rolling",
+      "elevClass2": "Rolling",
+      "techRating": "Moderate",
+      "tier": "T1 Coast & Forest",
+      "tags": [
+        "50km Trail Ultra"
+      ],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/md9m2zJ8/checkout"
     },
     {
       "id": "recu9mjmA2VX7NDPv",

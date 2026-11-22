@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "generatedAt": "2026-11-22T19:32:36.596Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
       "why": "Archived"
+    },
+    {
+      "name": "Backyard Ultra: Wild Dog Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Backyard Ultra",
@@ -24,6 +28,14 @@
     {
       "name": "* All in Members* Half Trail Marathon: Foundations",
       "why": "Member-only variant, not a program card"
+    },
+    {
+      "name": "Backyard Ultra: The Furnace Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Maribyrnong Valley Park (MVP) Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Alpine Challenge 100 Mile",
@@ -50,12 +62,24 @@
       "why": "Archived"
     },
     {
+      "name": "Backyard Ultra: I'm Still Standing Sydney Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Roller Coaster Run: 23km Double Loop",
       "why": "Race already run"
     },
     {
       "name": "Roller Coaster Run: 12.4km",
       "why": "Race already run"
+    },
+    {
+      "name": "Backyard Ultra: Herdy's Frontyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Gold Coast Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "* All in Members* 21.1km Road Performance",
@@ -66,16 +90,32 @@
       "why": "Member-only variant, not a program card"
     },
     {
+      "name": "Backyard Ultra: Birdy's Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "* All in Members* 10km Trail Progressions",
       "why": "Member-only variant, not a program card"
     },
     {
-      "name": "Heysen / Deep Creek 50",
-      "why": "Race already run"
+      "name": "Backyard Ultra: MelbOURne Frontyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Sydney's Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Whaka Ultra 50K",
       "why": "Race already run"
+    },
+    {
+      "name": "Backyard Ultra: Lap The Valley Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Hold It Flats Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Roller Coaster Run: 46K Double Loop",
@@ -84,6 +124,10 @@
     {
       "name": "Glasshouse 100: 50K",
       "why": "Archived"
+    },
+    {
+      "name": "Backyard Ultra: Hunter Valley Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "* All in Members* 10km Trail Foundations",
@@ -98,20 +142,52 @@
       "why": "Race already run"
     },
     {
+      "name": "Backyard Ultra: Great Ultra Mediocre Back Yarder (GUMBY)",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Rotorua Trail Festival 10K",
       "why": "Archived"
+    },
+    {
+      "name": "Backyard Ultra: GV Last Man Standing",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: No Time To Die Frontyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Queenstown Marathon: 42.2k",
       "why": "Race already run"
     },
     {
+      "name": "Backyard Ultra: Smurf's Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Convicts & Wenches 50",
       "why": "Archived"
     },
     {
+      "name": "Backyard Ultra: 2 Rivers Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Rumbalara Rumble",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Coffs Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Marysville Marathon 50",
       "why": "Race already run"
+    },
+    {
+      "name": "Backyard Ultra: Gil's Galavant Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "1:1 Coaching Session",
@@ -126,11 +202,19 @@
       "why": "Member-only variant, not a program card"
     },
     {
+      "name": "Backyard Ultra: Deep Creek Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "100km Trail Ultra Program 2025",
       "why": "Archived"
     },
     {
       "name": "Her Trails Cycle Training",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: The Clint Eastwood Last One Standing",
       "why": "No customer checkout link"
     },
     {
@@ -152,6 +236,22 @@
     {
       "name": "HER Strength Orientation",
       "why": "No distance or duration"
+    },
+    {
+      "name": "Backyard Ultra: Run Your : Outback Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Dead Cow Gully Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Bom Bom Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Backyard Ultra: Riverland Backyard Ultra",
+      "why": "No customer checkout link"
     },
     {
       "name": "Hume & Hovell Ultra 50",

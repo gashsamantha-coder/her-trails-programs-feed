@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:41:00.527Z",
+  "generatedAt": "2026-11-22T19:32:36.596Z",
   "today": "2026-11-22",
   "hierarchy": [
     "exact",
@@ -2693,12 +2693,12 @@
         "sourceRecordId": "recQruHUL1508NKHG",
         "name": "Heysen / Deep Creek 50",
         "weeks": 20,
-        "startDate": "2026-06-08",
-        "raceDate": null,
+        "startDate": "2027-06-07",
+        "raceDate": "2027-10-24",
         "price": 499,
         "plan": "147 x 4 = $588",
-        "checkoutUrl": null,
-        "available": false
+        "checkoutUrl": "https://www.hertrails.com/offers/md9m2zJ8/checkout",
+        "available": true
       }
     },
     {
