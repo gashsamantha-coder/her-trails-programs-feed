@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T07:29:57.783Z",
+  "generatedAt": "2026-11-23T23:50:03.338Z",
   "today": "2026-11-23",
-  "count": 139,
+  "count": 140,
   "programs": [
     {
       "id": "recTwdTPS6KtCYT00",
@@ -1494,6 +1494,39 @@
       ],
       "allin": true,
       "link": "https://www.hertrails.com/offers/7LwyLYqf/checkout"
+    },
+    {
+      "id": "recnQzw5EkjIXYVdG",
+      "name": "Buffalo Twilight 10km - 12 weeks",
+      "sub": "Bright · 12 weeks",
+      "location": "Bright",
+      "tagline": "20km skyrunning race from Bright. Fast, technical Victorian Alps course.",
+      "startDateDisplay": "Dec 2026",
+      "distKm": "10km",
+      "km": 10,
+      "weeks": 12,
+      "dist": "short",
+      "cat": "5 to 10km",
+      "cc": "#7a9b7a",
+      "event": "buffalo",
+      "eventLabel": "Buffalo",
+      "openDateISO": "2026-12-21",
+      "raceDateISO": "2027-03-19",
+      "raceDateDisplay": "Mar 2027",
+      "raceMonth": 3,
+      "startMonth": 12,
+      "elevGainDisplay": "540m",
+      "dur": "12",
+      "elev": "high",
+      "elevClass2": "Mountain",
+      "techRating": "Runnable",
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)",
+        "Mountain"
+      ],
+      "allin": true,
+      "link": "https://www.hertrails.com/offers/R3FM7abn/checkout"
     },
     {
       "id": "rec9Fk6xME3aOEKLE",
@@ -4225,7 +4258,7 @@
     },
     {
       "id": "recUY0QGJD7aWFTFL",
-      "name": "Backyard Ultra First Loops",
+      "name": "Backyard Essentials",
       "sub": "12 weeks",
       "location": null,
       "tagline": null,

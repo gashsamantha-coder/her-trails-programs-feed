@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:29:57.783Z",
+  "generatedAt": "2026-11-23T23:50:03.338Z",
   "today": "2026-11-23",
   "hierarchy": [
     "exact",
@@ -3292,7 +3292,7 @@
       "priority": 999,
       "sale": {
         "sourceRecordId": "rec1qi51X5lwBEKqL",
-        "name": "Backyard Ultra",
+        "name": "Backyard Endurance",
         "weeks": 20,
         "startDate": null,
         "raceDate": null,
@@ -6202,7 +6202,7 @@
     {
       "id": "recX2hlAvPa07QF2p",
       "name": "Hounslow 17km - 12 weeks",
-      "raceDate": null,
+      "raceDate": "2027-09-12",
       "distance": 17,
       "elevation": 900,
       "terrain": "Technical Trail",
@@ -6226,7 +6226,7 @@
     {
       "id": "receA1hLkjf9AqtG1",
       "name": "Hounslow Classic: Marathon 43km",
-      "raceDate": null,
+      "raceDate": "2027-09-11",
       "distance": 43,
       "elevation": 2500,
       "terrain": "Technical Trail",

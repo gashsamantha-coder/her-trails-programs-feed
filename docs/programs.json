@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T07:29:57.783Z",
+  "generatedAt": "2026-11-23T23:50:03.338Z",
   "today": "2026-11-23",
-  "count": 119,
+  "count": 120,
   "programs": [
     {
       "id": "recTwdTPS6KtCYT00",
@@ -994,7 +994,7 @@
     {
       "id": "recQXB2Xovrv3LTyl",
       "name": "Wilsons Prom Festival 50",
-      "category": "50km events - tier allocation",
+      "category": "Event Based Programs",
       "location": "VIC, Australia",
       "km": 50,
       "distanceLabel": "50km",
@@ -1034,6 +1034,29 @@
       "plan": "195 x 3 = $585",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/7LwyLYqf/checkout"
+    },
+    {
+      "id": "recnQzw5EkjIXYVdG",
+      "name": "Buffalo Twilight 10km - 12 weeks",
+      "category": "Event Based Programs",
+      "location": "Bright",
+      "km": 10,
+      "distanceLabel": "10km",
+      "elevation": 540,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)",
+        "Mountain"
+      ],
+      "tagline": "20km skyrunning race from Bright. Fast, technical Victorian Alps course.",
+      "weeks": 12,
+      "raceDate": "2027-03-19",
+      "startDate": "2026-12-21",
+      "status": "upcoming",
+      "price": 169,
+      "plan": "99 x 2 = $198",
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/R3FM7abn/checkout"
     },
     {
       "id": "rec9Fk6xME3aOEKLE",
