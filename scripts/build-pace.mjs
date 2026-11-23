@@ -15,6 +15,11 @@ const S = { name:'fldloZnkwSW7gGtno', event:'fldbdEEeIbgXa3xya', order:'fldKYo5P
 const C = { id:'fldL2gPMl2M04Zs0k', terrain:'fldfpB6Hh7Ir0Socq', start:'fldkIkBDVXbRkr7oR',
   pacing:'fldO8D4zhHt48L1mw', challenges:'fldUWWXMJdkUZEYjV', mistakes:'fld7vP7EcNhcyySeu' };
 
+// Programs table (source of truth for program name, weeks, start date, checkout link).
+const T_PROGS = 'tblHODgkd3uMS1nAM';
+const P = { name:'fldk7hRn85v7PKHfs', weeks:'fld3KJAASkyUQuJQ8', start:'fldCAvd6Xr6MiYcmv',
+  url:'fldE1uSdOFE4GN1Nn', status:'fldg3lF0dxXNp1mq3', events:'fldrQcxY18oXj9tPJ' };
+
 const TYPE = { 'Climbing / tough':'climb', 'Runnable / flat':'runnable', 'Fast / downhill':'descent',
   'Technical / rocky':'technical', 'Mixed':'mixed', 'Steady / rolling (start)':'mixed' };
 
@@ -39,10 +44,11 @@ async function fetchTable(table, fields) {
   return out;
 }
 
-const [evRecs, segRecs, cueRecs] = await Promise.all([
+const [evRecs, segRecs, cueRecs, progRecs] = await Promise.all([
   fetchTable(T_EVENTS, Object.values(E)),
   fetchTable(T_SEGS, Object.values(S)),
   fetchTable(T_CUES, Object.values(C)),
+  fetchTable(T_PROGS, Object.values(P)),
 ]);
 
 const today = new Date().toISOString().slice(0, 10);
@@ -56,6 +62,21 @@ for (const r of segRecs) {
   }
   if (!segsByEvent.has(evId)) segsByEvent.set(evId, []);
   segsByEvent.get(evId).push({ order: f[S.order] ?? 999, name: clean(f[S.name]), km, idx, type });
+}
+
+// Only programs the Airtable formula marks "Publishing" with a real checkout link are offered.
+const progsByEvent = new Map();
+for (const r of progRecs) {
+  const f = r.fields;
+  if (f[P.status] !== 'Publishing') continue;
+  const url = f[P.url];
+  if (!/^https:\/\/www\.hertrails\.com\/offers\/[A-Za-z0-9]+\/checkout$/.test(url || '')) continue;
+  const start = f[P.start] && f[P.start] >= today ? f[P.start] : null;
+  const prog = { name: clean(f[P.name] || ''), weeks: typeof f[P.weeks] === 'number' ? f[P.weeks] : null, start, url };
+  for (const evId of (f[P.events] || [])) {
+    if (!progsByEvent.has(evId)) progsByEvent.set(evId, []);
+    progsByEvent.get(evId).push(prog);
+  }
 }
 
 const events = [];
@@ -76,6 +97,7 @@ for (const r of evRecs) {
     location: clean(f[E.location] || '') || null,
     raceDate: f[E.date] && f[E.date] >= today ? f[E.date] : null,
     terrain: sel(f[E.terrain]), segments: segs,
+    programs: progsByEvent.get(r.id) || [],
   });
 }
 events.sort((a, b) => a.name.localeCompare(b.name));
