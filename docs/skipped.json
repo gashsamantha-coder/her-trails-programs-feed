@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:32:36.596Z",
+  "generatedAt": "2026-11-23T07:29:57.783Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -22,12 +22,24 @@
       "why": "No customer checkout link"
     },
     {
+      "name": "Your Week, Reworked",
+      "why": "No customer checkout link"
+    },
+    {
       "name": "Macedon Trail Run 50",
       "why": "Race already run"
     },
     {
       "name": "Great North Walk Trail Running Festival 50",
       "why": "Race already run"
+    },
+    {
+      "name": "GSER: 56K",
+      "why": "Race already run"
+    },
+    {
+      "name": "Long Run Ready | Prepare with purpose. Run with a plan.",
+      "why": "No customer checkout link"
     },
     {
       "name": "42.2km Trail Marathon Program",
@@ -56,6 +68,14 @@
     {
       "name": "Backyard Ultra: Maribyrnong Valley Park (MVP) Backyard Ultra",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Race Day, Your Way",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "GSER: 28K",
+      "why": "Race already run"
     },
     {
       "name": "Alpine Challenge 100 Mile",
@@ -174,6 +194,10 @@
       "why": "No race date"
     },
     {
+      "name": "Backyard Ultra First Loops",
+      "why": "No race date"
+    },
+    {
       "name": "* All in Members* 10km Trail Foundations",
       "why": "No customer checkout link"
     },
@@ -188,6 +212,10 @@
     {
       "name": "Heysen Trail Ultra: 115km",
       "why": "Race already run"
+    },
+    {
+      "name": "Understand Your Training | Five decisions that make your program work",
+      "why": "No customer checkout link"
     },
     {
       "name": "Backyard Ultra: Great Ultra Mediocre Back Yarder (GUMBY)",
@@ -270,16 +298,12 @@
       "why": "No race date"
     },
     {
-      "name": "Her Trails Cycle Training",
-      "why": "No customer checkout link"
-    },
-    {
       "name": "Backyard Ultra: The Clint Eastwood Last One Standing",
       "why": "No customer checkout link"
     },
     {
       "name": "Buffalo Stampede: Bright SkyRun 10k",
-      "why": "Archived"
+      "why": "No customer checkout link"
     },
     {
       "name": "Larapinta Hike and Adventure Fit Program",
@@ -319,6 +343,10 @@
     },
     {
       "name": "Backyard Ultra: Riverland Backyard Ultra",
+      "why": "No customer checkout link"
+    },
+    {
+      "name": "Lactate Threshold & Training Zones | Micro-Course",
       "why": "No customer checkout link"
     },
     {

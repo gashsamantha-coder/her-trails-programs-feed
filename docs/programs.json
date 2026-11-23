@@ -1,30 +1,8 @@
 {
-  "generatedAt": "2026-11-22T19:32:36.596Z",
-  "today": "2026-11-22",
-  "count": 121,
+  "generatedAt": "2026-11-23T07:29:57.783Z",
+  "today": "2026-11-23",
+  "count": 119,
   "programs": [
-    {
-      "id": "rec49EGB3QrKMPpob",
-      "name": "GSER: 56K",
-      "category": "Event Based Programs",
-      "location": "Mt Hotham, VIC (Victorian High Country)",
-      "km": 55.6,
-      "distanceLabel": "55.6km",
-      "elevation": 2810,
-      "tier": "T3 Alpine & Technical",
-      "tags": [
-        "60km Trail Ultra"
-      ],
-      "tagline": "56km ultra trail through Victoria's High Country from Mt Hotham. Alpine ridgelines, sub-alpine meadows, and mountain trails in the Victorian Alps.",
-      "weeks": 20,
-      "raceDate": "2026-11-22",
-      "startDate": "2026-07-06",
-      "status": "in_progress",
-      "price": 500,
-      "plan": "150 x 4 = $600",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout"
-    },
     {
       "id": "recTwdTPS6KtCYT00",
       "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
@@ -138,28 +116,6 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/3iTvmUoL/checkout"
-    },
-    {
-      "id": "rec7r0jobxvfWHZcy",
-      "name": "GSER: 28K",
-      "category": "Event Based Programs",
-      "location": "Mt Hotham, VIC (Victorian High Country)",
-      "km": 26.9,
-      "distanceLabel": "26.9km",
-      "elevation": 1910,
-      "tier": null,
-      "tags": [
-        "22km - 29km Trail Mid "
-      ],
-      "tagline": "28km trail race through Victoria's High Country from Mt Hotham. Alpine and sub-alpine terrain in the Victorian Alps.",
-      "weeks": 14,
-      "raceDate": "2026-11-22",
-      "startDate": "2026-08-17",
-      "status": "in_progress",
-      "price": 350,
-      "plan": "190 x 2 = $380",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout"
     },
     {
       "id": "recoJ7YuEQ4MNci4M",
@@ -714,7 +670,7 @@
       "weeks": 12,
       "raceDate": "2027-02-13",
       "startDate": "2026-11-23",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 300,
       "plan": "115 x 3 = $345",
       "canPurchase": true,
@@ -737,7 +693,7 @@
       "weeks": 20,
       "raceDate": "2027-04-10",
       "startDate": "2026-11-23",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 480,
       "plan": "160 x 3 = $480",
       "canPurchase": true,
@@ -759,7 +715,7 @@
       "weeks": 20,
       "raceDate": "2027-04-11",
       "startDate": "2026-11-23",
-      "status": "upcoming",
+      "status": "in_progress",
       "price": 440,
       "plan": "165 x 3 = $495",
       "canPurchase": true,
@@ -2136,28 +2092,6 @@
       "checkoutUrl": "https://www.hertrails.com/offers/DEZoVXtu/checkout"
     },
     {
-      "id": "recXZmpjhXXQV74xZ",
-      "name": "Run the Forest (Rotorua): 10K",
-      "category": "Event Based Programs",
-      "location": "Rotorua, Bay of Plenty, New Zealand",
-      "km": 10.7,
-      "distanceLabel": "10.7km",
-      "elevation": 93,
-      "tier": null,
-      "tags": [
-        "Trail Short (<20km)"
-      ],
-      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
-      "weeks": 12,
-      "raceDate": "2027-07-31",
-      "startDate": "2027-05-10",
-      "status": "upcoming",
-      "price": 299,
-      "plan": null,
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
-    },
-    {
       "id": "recBSTwQyahguvp2Z",
       "name": "Sydney Marathon: 42.2K",
       "category": "Road Marathon",
@@ -2312,6 +2246,28 @@
       "plan": "147 x 4 = $588",
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/CJq4JzFW/checkout"
+    },
+    {
+      "id": "recXZmpjhXXQV74xZ",
+      "name": "Run the Forest (Rotorua): 10K",
+      "category": "Event Based Programs",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "km": 10.7,
+      "distanceLabel": "10.7km",
+      "elevation": 93,
+      "tier": null,
+      "tags": [
+        "Trail Short (<20km)"
+      ],
+      "tagline": "10km Geothermal Traverse, 10.7km actual. Starts at Froude Street Reserve and sets off through the steaming pools of the Whakarewarewa Living Maori Village, into manuka lined trails leading to the towering redwoods of Whakarewarewa Forest, finishing in the Government Gardens in the Rotorua CBD. About 93m of gain; the organiser describes it as flattish and fun.",
+      "weeks": 8,
+      "raceDate": "2027-07-31",
+      "startDate": "2027-06-07",
+      "status": "upcoming",
+      "price": 299,
+      "plan": null,
+      "canPurchase": true,
+      "checkoutUrl": "https://www.hertrails.com/offers/xuQwsuoA/checkout"
     },
     {
       "id": "recQruHUL1508NKHG",

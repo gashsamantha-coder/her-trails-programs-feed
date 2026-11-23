@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T19:32:36.596Z",
-  "today": "2026-11-22",
+  "generatedAt": "2026-11-23T07:29:57.783Z",
+  "today": "2026-11-23",
   "hierarchy": [
     "exact",
     "curated",
@@ -1001,8 +1001,8 @@
       "sale": {
         "sourceRecordId": "recXZmpjhXXQV74xZ",
         "name": "Run the Forest (Rotorua): 10K",
-        "weeks": 12,
-        "startDate": "2027-05-10",
+        "weeks": 8,
+        "startDate": "2027-06-07",
         "raceDate": "2027-07-31",
         "price": 299,
         "plan": null,
@@ -3296,8 +3296,8 @@
         "weeks": 20,
         "startDate": null,
         "raceDate": null,
-        "price": null,
-        "plan": null,
+        "price": 490,
+        "plan": "3 monthly payments of AUD $180 ($540 total)",
         "checkoutUrl": null,
         "available": false
       }
@@ -3561,11 +3561,11 @@
         "name": "GSER: 28K",
         "weeks": 14,
         "startDate": "2026-08-17",
-        "raceDate": "2026-11-22",
+        "raceDate": null,
         "price": 350,
         "plan": "190 x 2 = $380",
-        "checkoutUrl": "https://www.hertrails.com/offers/Z7LwLz3W/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -3754,11 +3754,11 @@
         "name": "GSER: 56K",
         "weeks": 20,
         "startDate": "2026-07-06",
-        "raceDate": "2026-11-22",
+        "raceDate": null,
         "price": 500,
         "plan": "150 x 4 = $600",
-        "checkoutUrl": "https://www.hertrails.com/offers/XPYFDk53/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
