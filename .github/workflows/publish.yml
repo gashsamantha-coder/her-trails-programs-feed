@@ -27,11 +27,17 @@ jobs:
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
         run: node scripts/build.mjs
+      - name: Build pace-predictor.json from Airtable
+        continue-on-error: true
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: node scripts/build-pace.mjs
       - name: Commit if changed
         run: |
           git config user.name  "programs-feed-bot"
           git config user.email "bot@users.noreply.github.com"
           git add docs/programs.json docs/skipped.json docs/members.json docs/members-skipped.json docs/finder.json
+          git add -f docs/pace-predictor.json docs/pace-predictor-qa.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No change"
             exit 0
