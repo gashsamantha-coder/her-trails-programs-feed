@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-11-24T01:03:50.548Z",
+  "problems": [
+    "Event \"Buffalo Stampede 42.2km\": segments sum to 40.4km, event says 42.2km",
+    "Event \"Buffalo Stampede 20km\": segments sum to 20.8km, event says 20km",
+    "Event \"UTA 50km\": segments sum to 51.4km, event says 50km",
+    "Event \"Ultra-Trail Kosciuszko by UTMB: Kosci100\": segments sum to 106.5km, event says 100km"
+  ]
+}

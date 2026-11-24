@@ -1,0 +1,1511 @@
+{
+  "generatedAt": "2026-11-24T01:03:50.548Z",
+  "today": "2026-11-24",
+  "count": 27,
+  "events": [
+    {
+      "id": "buffalo-stampede-100km",
+      "airtableId": "recDwZyePkI5uSJ0f",
+      "name": "Buffalo Stampede 100km",
+      "km": 101.6,
+      "segmentKm": 102.5,
+      "location": "Bright, Victoria",
+      "raceDate": "2027-03-20",
+      "terrain": "Alpine",
+      "segments": [
+        {
+          "name": "Emily's Spur",
+          "km": 1.7,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Water Reserve Track",
+          "km": 20,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Snake Ridge",
+          "km": 18,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Buckland Valley",
+          "km": 3,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Keatings Ridge",
+          "km": 2.5,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "The Big Walk",
+          "km": 10,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Mount Buffalo Plateau",
+          "km": 28,
+          "idx": 1.15,
+          "type": "mixed"
+        },
+        {
+          "name": "Dingo Ridge",
+          "km": 6.3,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Middle Track",
+          "km": 5,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Bakers Gully and Bright Streets",
+          "km": 8,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Buffalo Stampede: Bright Ultra 100K",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/o4c2o8CL/checkout"
+        }
+      ]
+    },
+    {
+      "id": "buffalo-stampede-20km",
+      "airtableId": "rec0lijQSlWS6Igei",
+      "name": "Buffalo Stampede 20km",
+      "km": 20,
+      "segmentKm": 20.8,
+      "location": "Bright, Victoria",
+      "raceDate": "2027-03-20",
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "Pioneer Park to Mystic Bike Park",
+          "km": 3,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Emily's Spur Climb",
+          "km": 1.7,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Water Reserve Track",
+          "km": 3,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Middle Track to Bakers Gully",
+          "km": 4,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Bakers Gully to Breen Road",
+          "km": 2.5,
+          "idx": 0.9,
+          "type": "descent"
+        },
+        {
+          "name": "Breen Road Climb",
+          "km": 2,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Clearspot Climb",
+          "km": 2.58,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Clearspot Descent to Town",
+          "km": 2,
+          "idx": 1.2,
+          "type": "technical"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Buffalo Stampede: Bright SkyRun 20K",
+          "weeks": 16,
+          "start": "2026-11-30",
+          "url": "https://www.hertrails.com/offers/jiB26aYn/checkout"
+        },
+        {
+          "name": "Buffalo Twilight 10km - 12 weeks",
+          "weeks": 12,
+          "start": "2026-12-21",
+          "url": "https://www.hertrails.com/offers/R3FM7abn/checkout"
+        }
+      ]
+    },
+    {
+      "id": "buffalo-stampede-42-2km",
+      "airtableId": "rec0GmU4zZ9NB8dyI",
+      "name": "Buffalo Stampede 42.2km",
+      "km": 42.2,
+      "segmentKm": 40.4,
+      "location": "Bright, Victoria",
+      "raceDate": "2027-03-21",
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "Chalet to Monolith Track Start",
+          "km": 2,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Monolith Track",
+          "km": 2.5,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Lake Catani Section",
+          "km": 1.5,
+          "idx": 0.85,
+          "type": "descent"
+        },
+        {
+          "name": "Underground River Track",
+          "km": 2.5,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Big Walk Descent",
+          "km": 9.5,
+          "idx": 0.85,
+          "type": "descent"
+        },
+        {
+          "name": "Keatings Ridge",
+          "km": 6,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Buckland Valley Road",
+          "km": 3,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Dingo Ridge Climb",
+          "km": 6.29,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Clearspot to Eagle Peak",
+          "km": 1.5,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Water Reserve / Middle Track",
+          "km": 2,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Bakers Gully to Bright",
+          "km": 3.6,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Buffalo Stampede: SkyMarathon 42K",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/FAq7LrTt/checkout"
+        }
+      ]
+    },
+    {
+      "id": "diverge-mt-lyell-skyrun-52km",
+      "airtableId": "recMB2ECQuOJrzOk7",
+      "name": "DIVERGE Mt Lyell Skyrun 52km",
+      "km": 52.5,
+      "segmentKm": 52,
+      "location": "Queenstown, TAS",
+      "raceDate": null,
+      "terrain": "Mountain",
+      "segments": [
+        {
+          "name": "Direct ascent of Mt Owen",
+          "km": 8,
+          "idx": 1.4,
+          "type": "climb"
+        },
+        {
+          "name": "Ridgelines and MTB trails",
+          "km": 12,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Ascent and traverse of Mt Lyell",
+          "km": 10,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Super steep, super direct descents",
+          "km": 7,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "Railway formation run-in",
+          "km": 15,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "diverge-skyruns-25km-run-hike",
+      "airtableId": "recQaHLtxJ7kaGJqk",
+      "name": "DIVERGE Skyruns 25km Run/Hike",
+      "km": 25,
+      "segmentKm": 25,
+      "location": "Queenstown, TAS",
+      "raceDate": null,
+      "terrain": "Mountain",
+      "segments": [
+        {
+          "name": "Climb out of Queenstown",
+          "km": 7,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Ridge and moonscape traverse",
+          "km": 8,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Rainforest and waterfalls",
+          "km": 5,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "Descent to the finish",
+          "km": 5,
+          "idx": 0.95,
+          "type": "descent"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "gpt-100-mile-staged-solo-grampians-peaks-trail",
+      "airtableId": "receeIvFSAKXJuYOi",
+      "name": "GPT 100 Mile Staged Solo (Grampians Peaks Trail)",
+      "km": 164,
+      "segmentKm": 163.9,
+      "location": "Grampians National Park, Mt Zero to Dunkeld, Victoria",
+      "raceDate": null,
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "N1: Mt Zero to Barigar (Mt Stapylton)",
+          "km": 12.1,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "N2: Barigar to Gar (Mt Difficult 806m)",
+          "km": 11.3,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "N3: Gar to Werdug (Mt Difficult Range ridgeline)",
+          "km": 14,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "N4: Werdug to Halls Gap (Lake Wartook Lookout)",
+          "km": 13,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "C1: Halls Gap to Bugiga (The Pinnacle 715m)",
+          "km": 8.9,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "C2: Bugiga to Barri-Yalug (Mt Rosea 1,009m)",
+          "km": 14.7,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "C3: Barri-Yalug to Duwul (Mt William 1,167m, highest)",
+          "km": 13.2,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "C4: Duwul to Durd Durd (Mt William range)",
+          "km": 14.5,
+          "idx": 1.15,
+          "type": "mixed"
+        },
+        {
+          "name": "C5: Durd Durd to Yarram",
+          "km": 11.9,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "S1: Yarram to Wannon (Mt Nelson 819m)",
+          "km": 11.1,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "S2: Wannon to Djardji-djawara (Serra Range, longest)",
+          "km": 16.3,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "S3: Djardji-djawara to Mud-Dadjug (Mt Abrupt 822m)",
+          "km": 8.1,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "S4: Mud-Dadjug to Dunkeld (Mt Sturgeon 582m, finish)",
+          "km": 14.8,
+          "idx": 1.05,
+          "type": "mixed"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "gpt-50km",
+      "airtableId": "recMOQXUqUKl3R0zQ",
+      "name": "GPT 50km",
+      "km": 50,
+      "segmentKm": 49.5,
+      "location": "Grampians, Victoria",
+      "raceDate": null,
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "Start to GAR Trailhead",
+          "km": 15.5,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "GAR Trailhead to Mt Difficult Rd",
+          "km": 20,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Mt Difficult Rd to Halls Gap (Finish)",
+          "km": 14,
+          "idx": 0.9,
+          "type": "descent"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "heysen-deep-creek-50km",
+      "airtableId": "rec9EOjvHbL2jkx7o",
+      "name": "Heysen Deep Creek 50km",
+      "km": 50,
+      "segmentKm": 50,
+      "location": "Deep Creek Conservation Park, SA",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Opening farmland and forest",
+          "km": 12,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Into Deep Creek Conservation Park",
+          "km": 13,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Coastal cliffs and gullies",
+          "km": 13,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Rolling run to the finish",
+          "km": 12,
+          "idx": 1.05,
+          "type": "mixed"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "lofty-s-revenge-50km",
+      "airtableId": "recdUnUt2DNRQxCCc",
+      "name": "Lofty's Revenge 50km",
+      "km": 50,
+      "segmentKm": 50.2,
+      "location": "Adelaide, SA",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Felixstow to Black Hill",
+          "km": 16.1,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Black Hill to Norton Summit",
+          "km": 19.5,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Norton Summit to Mt Lofty",
+          "km": 14.6,
+          "idx": 1.2,
+          "type": "climb"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "maroondah-dam-50km",
+      "airtableId": "recJYtihyUvfUpFVP",
+      "name": "Maroondah Dam 50km",
+      "km": 50.35,
+      "segmentKm": 50,
+      "location": "Healesville, VIC",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Reservoir park opening",
+          "km": 10,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "First big climb",
+          "km": 12,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Rolling ridge and descents",
+          "km": 14,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "Second climb",
+          "km": 8,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "Descent to the dam finish",
+          "km": 6,
+          "idx": 0.9,
+          "type": "descent"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "marysville-marathon-50km",
+      "airtableId": "recKTr9R1MS8EIhPi",
+      "name": "Marysville Marathon 50km",
+      "km": 50,
+      "segmentKm": 50,
+      "location": "Marysville, VIC",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Rolling opening loops",
+          "km": 12,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "The sharp climb",
+          "km": 6,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Walking-only hills",
+          "km": 14,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Waterfall and rolling middle",
+          "km": 9,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Flat, gentle run home",
+          "km": 9,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "nike-melbourne-marathon-42-2km",
+      "airtableId": "recYcNBra8H0J3e4N",
+      "name": "Nike Melbourne Marathon 42.2km",
+      "km": 42.2,
+      "segmentKm": 42.2,
+      "location": "Melbourne, Victoria",
+      "raceDate": null,
+      "terrain": "Road",
+      "segments": [
+        {
+          "name": "CBD Start to St Kilda Road",
+          "km": 8,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "St Kilda Road to Albert Park Lake Loop",
+          "km": 8,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Beach Road Coastal Out-and-Back",
+          "km": 16,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Return via Botanic Gardens",
+          "km": 6.7,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Final Approach to MCG (Finish)",
+          "km": 3.5,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Nike Melbourne Marathon Festival: Marathon 42.2K",
+          "weeks": 16,
+          "start": "2027-06-21",
+          "url": "https://www.hertrails.com/offers/sDdQQ7Y4/checkout"
+        }
+      ]
+    },
+    {
+      "id": "noosa-out-n-back-50km",
+      "airtableId": "recxRb84pI8bpniCw",
+      "name": "Noosa Out'N'Back 50km",
+      "km": 50,
+      "segmentKm": 50,
+      "location": "Noosa, QLD",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Out through Ringtail State Forest",
+          "km": 15,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "To Twin Hill Views turnaround",
+          "km": 10,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Return via Yurol State Forest",
+          "km": 15,
+          "idx": 1,
+          "type": "runnable"
+        },
+        {
+          "name": "Lake McDonald to the finish",
+          "km": 10,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "rollercoaster-46km",
+      "airtableId": "recZQ56xRadQ5Bawp",
+      "name": "Rollercoaster 46km",
+      "km": 46,
+      "segmentKm": 46,
+      "location": "Kalorama Memorial Reserve, Dandenong Ranges, Victoria",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Kalorama to Observatory Track",
+          "km": 6,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "Observatory Track to Burkes Lookout",
+          "km": 5,
+          "idx": 1.15,
+          "type": "mixed"
+        },
+        {
+          "name": "Burkes Lookout to Zig Zag descent",
+          "km": 6,
+          "idx": 0.85,
+          "type": "descent"
+        },
+        {
+          "name": "Zig Zag to Kalorama (Lap 1 end)",
+          "km": 6,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Lap 2 (reversed): Kalorama up Zig Zag",
+          "km": 6,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Zig Zag to Burkes Lookout (reversed)",
+          "km": 5,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Observatory Track descent (reversed)",
+          "km": 6,
+          "idx": 0.9,
+          "type": "descent"
+        },
+        {
+          "name": "Final run to Kalorama finish",
+          "km": 6,
+          "idx": 1,
+          "type": "mixed"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "surf-coast-century-100km",
+      "airtableId": "rectfoWka8R8G5VrC",
+      "name": "Surf Coast Century 100km",
+      "km": 100,
+      "segmentKm": 100,
+      "location": "Torquay, Victoria",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "SCC 100km - Start to Anglesea",
+          "km": 12.5,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "SCC 100km - Anglesea to Binna Burra",
+          "km": 18,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "SCC 100km - Binna Burra to Point Addis",
+          "km": 16,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "SCC 100km - Point Addis to Winki Pop",
+          "km": 14,
+          "idx": 0.85,
+          "type": "descent"
+        },
+        {
+          "name": "SCC 100km - Winki Pop to Fairhaven",
+          "km": 15.5,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "SCC 100km - Fairhaven to Moggs Creek",
+          "km": 12,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "SCC 100km - Moggs Creek to Finish",
+          "km": 12,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "surf-coast-century-50km",
+      "airtableId": "recaTXiZcjtS184Zl",
+      "name": "Surf Coast Century 50km",
+      "km": 50,
+      "segmentKm": 49.6,
+      "location": "Surf Coast, Victoria (Anglesea area, SOLO)",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "SCC50 - 0 to 5km (start)",
+          "km": 5,
+          "idx": 0.95,
+          "type": "mixed"
+        },
+        {
+          "name": "SCC50 - 5 to 10.7km",
+          "km": 5.7,
+          "idx": 0.9,
+          "type": "runnable"
+        },
+        {
+          "name": "SCC50 - 10.7 to 14.5km",
+          "km": 3.8,
+          "idx": 1.03,
+          "type": "mixed"
+        },
+        {
+          "name": "SCC50 - 14.5 to 19.6km",
+          "km": 5.1,
+          "idx": 0.94,
+          "type": "runnable"
+        },
+        {
+          "name": "SCC50 - 19.6 to 24.4km (climb)",
+          "km": 4.8,
+          "idx": 1.12,
+          "type": "climb"
+        },
+        {
+          "name": "SCC50 - 24.4 to 29.4km",
+          "km": 5,
+          "idx": 1.09,
+          "type": "mixed"
+        },
+        {
+          "name": "SCC50 - 29.4 to 34.1km",
+          "km": 4.7,
+          "idx": 0.97,
+          "type": "mixed"
+        },
+        {
+          "name": "SCC50 - 34.1 to 36.7km (climb, biggest fade zone)",
+          "km": 2.6,
+          "idx": 1.12,
+          "type": "climb"
+        },
+        {
+          "name": "SCC50 - 36.7 to 44km (longest climb)",
+          "km": 7.3,
+          "idx": 1.11,
+          "type": "climb"
+        },
+        {
+          "name": "SCC50 - 44 to 47.6km",
+          "km": 3.6,
+          "idx": 0.94,
+          "type": "runnable"
+        },
+        {
+          "name": "SCC50 - 47.6 to 49.6km (fast downhill finish)",
+          "km": 2,
+          "idx": 0.76,
+          "type": "descent"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "sydney-marathon-42-2km",
+      "airtableId": "recd9UwE48MLtjs58",
+      "name": "Sydney Marathon 42.2km",
+      "km": 42.2,
+      "segmentKm": 42.2,
+      "location": "Sydney, NSW",
+      "raceDate": null,
+      "terrain": "Road",
+      "segments": [
+        {
+          "name": "Start to North Sydney",
+          "km": 9,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Harbour Bridge crossing",
+          "km": 2,
+          "idx": 1.1,
+          "type": "climb"
+        },
+        {
+          "name": "North Sydney back to the east",
+          "km": 10,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Centennial Park and the east",
+          "km": 12,
+          "idx": 1,
+          "type": "runnable"
+        },
+        {
+          "name": "ANZAC Bridge and run-in",
+          "km": 5,
+          "idx": 1.15,
+          "type": "climb"
+        },
+        {
+          "name": "Finish at the Opera House",
+          "km": 4.2,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "tarawera-100km",
+      "airtableId": "recDW9Sexpuqq9Wav",
+      "name": "Tarawera 100km",
+      "km": 100,
+      "segmentKm": 100.4,
+      "location": "Rotorua, New Zealand",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Firmin Field to Titoki",
+          "km": 13.7,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Titoki to Outlet",
+          "km": 12.9,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Outlet to Otamuri",
+          "km": 14.1,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Otamuri to Rotoiti",
+          "km": 10.6,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Rotoiti to Okataina",
+          "km": 5.1,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "Okataina to Millar",
+          "km": 15.1,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Millar to Tikitapu (Blue Lake)",
+          "km": 12,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Tikitapu to Redwoods",
+          "km": 9.8,
+          "idx": 1.1,
+          "type": "technical"
+        },
+        {
+          "name": "Redwoods to Village Green (Finish)",
+          "km": 7.1,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Tarawera Ultra-Trail by UTMB: T102",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/t4sHWD7o/checkout"
+        }
+      ]
+    },
+    {
+      "id": "tarawera-50km",
+      "airtableId": "recoFBFDzBOJdQ2g8",
+      "name": "Tarawera 50km",
+      "km": 52.1,
+      "segmentKm": 52,
+      "location": "Rotorua, New Zealand",
+      "raceDate": "2027-02-13",
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Te Puia to Puarenga",
+          "km": 10.5,
+          "idx": 0.95,
+          "type": "mixed"
+        },
+        {
+          "name": "Puarenga to Green Lake",
+          "km": 10.9,
+          "idx": 0.9,
+          "type": "runnable"
+        },
+        {
+          "name": "Green Lake to Blue Lake",
+          "km": 13.8,
+          "idx": 0.9,
+          "type": "runnable"
+        },
+        {
+          "name": "Blue Lake to Redwoods",
+          "km": 9.8,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Redwoods to Sulphur Flats",
+          "km": 4,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Sulphur Flats to Village Green",
+          "km": 3,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Tarawera Ultra-Trail by UTMB: T50",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/Y6Uwkd76/checkout"
+        }
+      ]
+    },
+    {
+      "id": "tarawera-ultra-trail-t21-23km",
+      "airtableId": "rec3qja7trdahdGdS",
+      "name": "Tarawera Ultra-Trail T21 (23km)",
+      "km": 23,
+      "segmentKm": 23,
+      "location": "Rotorua, New Zealand",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Blue Lake loop",
+          "km": 5.5,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Redwoods and forestry roads",
+          "km": 8,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Toward Sulphur Point",
+          "km": 5,
+          "idx": 1,
+          "type": "runnable"
+        },
+        {
+          "name": "Run-in to the Village Green",
+          "km": 4.5,
+          "idx": 0.95,
+          "type": "runnable"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "the-guzzler-50km-glass-half-full",
+      "airtableId": "rec9Y3SkenjE6R72M",
+      "name": "The Guzzler 50km (Glass Half Full)",
+      "km": 52,
+      "segmentKm": 52,
+      "location": "Mt Coot-tha, Brisbane, Queensland",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Start to Walkabout Creek (CP1)",
+          "km": 18,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Walkabout Creek to McAfees Lookout (CP2)",
+          "km": 6,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "McAfees Lookout to Gold Creek Reservoir (CP3, incl Hell Hole Hustle)",
+          "km": 8,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Gold Creek Reservoir to Finish",
+          "km": 20,
+          "idx": 1.1,
+          "type": "climb"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "two-bays-trail-run-56km",
+      "airtableId": "rec3vBK5B458voxsU",
+      "name": "Two Bays Trail Run 56km",
+      "km": 56,
+      "segmentKm": 56,
+      "location": "Cape Schanck to Dromana and return, Mornington Peninsula, Victoria",
+      "raceDate": null,
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Cape Schanck to Bushrangers Bay",
+          "km": 6,
+          "idx": 1.1,
+          "type": "technical"
+        },
+        {
+          "name": "Bushrangers Bay to Greens Bush",
+          "km": 10,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Greens Bush to Arthurs Seat",
+          "km": 8,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Arthurs Seat descent to Dromana (turnaround)",
+          "km": 4,
+          "idx": 0.85,
+          "type": "descent"
+        },
+        {
+          "name": "Dromana up Arthurs Seat (return)",
+          "km": 4,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Arthurs Seat to Greens Bush (return)",
+          "km": 8,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Greens Bush to Bushrangers Bay (return)",
+          "km": 10,
+          "idx": 1,
+          "type": "mixed"
+        },
+        {
+          "name": "Bushrangers Bay to Cape Schanck finish",
+          "km": 6,
+          "idx": 1.05,
+          "type": "technical"
+        }
+      ],
+      "programs": []
+    },
+    {
+      "id": "ultra-trail-kosciuszko-by-utmb-kosci100",
+      "airtableId": "recR07TkgdE2zXRpn",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
+      "km": 100,
+      "segmentKm": 106.5,
+      "location": "Snowy Mountains, NSW",
+      "raceDate": null,
+      "terrain": "Alpine",
+      "segments": [
+        {
+          "name": "Thredbo to Charlotte Pass Resort",
+          "km": 16.2,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Charlotte Pass Resort to Lookout (Kosci Summit)",
+          "km": 23.6,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "Lookout to Guthega Base Camp",
+          "km": 9.6,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Guthega Base Camp to Perisher Ski Tube",
+          "km": 12.2,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Perisher Ski Tube to Bullocks Flat",
+          "km": 12.4,
+          "idx": 0.9,
+          "type": "descent"
+        },
+        {
+          "name": "Bullocks Flat to Ngarigo Campground",
+          "km": 7.5,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Ngarigo Campground to Village Green",
+          "km": 11.3,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Village Green to Eagles Nest",
+          "km": 10.2,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Eagles Nest to Finish (Thredbo)",
+          "km": 3.5,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/frvKyC9N/checkout"
+        }
+      ]
+    },
+    {
+      "id": "ultra-trail-kosciuszko-by-utmb-kosci50",
+      "airtableId": "recRClvt4m53bgoNt",
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
+      "km": 50,
+      "segmentKm": 50,
+      "location": "Snowy Mountains, NSW",
+      "raceDate": null,
+      "terrain": "Alpine",
+      "segments": [
+        {
+          "name": "Thredbo to Bullocks Flat",
+          "km": 17.5,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Bullocks Flat to Ngarigo Campground",
+          "km": 7.5,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Ngarigo Campground to Village Green",
+          "km": 11.3,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Village Green to Eagles Nest",
+          "km": 10,
+          "idx": 1.3,
+          "type": "climb"
+        },
+        {
+          "name": "Eagles Nest to Finish (Friday Flat)",
+          "km": 3.7,
+          "idx": 0.85,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
+          "weeks": 20,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/TenXYSfk/checkout"
+        }
+      ]
+    },
+    {
+      "id": "uta-100km",
+      "airtableId": "recBQFCfrKpEcH6r5",
+      "name": "UTA 100km",
+      "km": 100,
+      "segmentKm": 101.3,
+      "location": "Snowy Mountains, NSW",
+      "raceDate": null,
+      "terrain": "Alpine",
+      "segments": [
+        {
+          "name": "Scenic World to Tarros Ladders",
+          "km": 13.8,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Tarros to Foggy Knob",
+          "km": 10,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Foggy Knob to Six Foot Track Outbound",
+          "km": 13.5,
+          "idx": 0.95,
+          "type": "runnable"
+        },
+        {
+          "name": "Six Foot Track to Water Point",
+          "km": 8.4,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Water Point to Katoomba Aquatic Centre",
+          "km": 10.5,
+          "idx": 1.35,
+          "type": "climb"
+        },
+        {
+          "name": "Katoomba to Fairmont Resort",
+          "km": 12.1,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Fairmont Resort to QVH",
+          "km": 11,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "QVH to Emergency Aid Station",
+          "km": 13.2,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Emergency Aid Station to Scenic World (Furber Steps)",
+          "km": 8.8,
+          "idx": 1.35,
+          "type": "technical"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Australia: UTA100",
+          "weeks": 20,
+          "start": "2026-12-28",
+          "url": "https://www.hertrails.com/offers/aLFUiqEz/checkout"
+        }
+      ]
+    },
+    {
+      "id": "uta-22km",
+      "airtableId": "recgOGYfXErpbeTb1",
+      "name": "UTA 22km",
+      "km": 22,
+      "segmentKm": 21.9,
+      "location": "Snowy Mountains, NSW",
+      "raceDate": null,
+      "terrain": "Mountain",
+      "segments": [
+        {
+          "name": "QVH to Emergency Aid Station",
+          "km": 13.1,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Emergency Aid Station to Scenic World (Furber Steps)",
+          "km": 8.8,
+          "idx": 1.35,
+          "type": "technical"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Australia: UTA22",
+          "weeks": 16,
+          "start": "2027-01-25",
+          "url": "https://www.hertrails.com/offers/rEke2LPA/checkout"
+        }
+      ]
+    },
+    {
+      "id": "uta-50km",
+      "airtableId": "recN7EL2xs67LC47d",
+      "name": "UTA 50km",
+      "km": 50,
+      "segmentKm": 51.4,
+      "location": "Snowy Mountains, NSW",
+      "raceDate": null,
+      "terrain": "Mountain",
+      "segments": [
+        {
+          "name": "Start to Fairmont Resort",
+          "km": 18.4,
+          "idx": 1.05,
+          "type": "mixed"
+        },
+        {
+          "name": "Fairmont Resort to QVH",
+          "km": 10.9,
+          "idx": 1.25,
+          "type": "climb"
+        },
+        {
+          "name": "QVH to Emergency Aid Station",
+          "km": 13.3,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Emergency Aid Station to Scenic World (Furber Steps)",
+          "km": 8.8,
+          "idx": 1.35,
+          "type": "technical"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Australia: UTA50",
+          "weeks": 20,
+          "start": "2026-12-28",
+          "url": "https://www.hertrails.com/offers/vnpzvHhr/checkout"
+        }
+      ]
+    }
+  ],
+  "cues": {
+    "mountain": {
+      "start": "Mountain ultras are won on the uphills and kept on the descents. Start conservatively, the grade is steeper than you think, and the altitude (if present) compounds aerobic demand. Settle into a hiking rhythm on major climbs from km 1.",
+      "pacing": "Even pacing means your perceived effort stays consistent. Climb at RPE 5-6, descent at RPE 5-6. You will run slower on climbs and faster on descents, and that's correct. The pacing table scales each segment by its terrain difficulty; trust that allocation.",
+      "challenges": "Relentless climbing in the first third of the race, switchback-dense ascents that break rhythm, altitude if applicable, exposed ridge sections in wind, long runnable flats that feel 'fast' but are deceptive energy drains.",
+      "mistakes": "Climbing at threshold instead of sustainable effort, leads to bonking by km 30-40. Descending too fast early, banking time you need later. Forgetting to fuel and hydrate on climbs (easy to skip when working hard)."
+    },
+    "technical": {
+      "start": "Technical terrain demands mental focus before muscle focus. Many athletes start fast on rocky ground and tire their brain before their legs. Your first 5km should be about footfall rhythm and line choice, not pace. Settle into the rock.",
+      "pacing": "Even pacing on technical terrain is about consistent confidence, not consistent speed. Rock hopping at RPE 5-6 on the rocks; faster running on any smooth sections. Your pacing table allocates time for the technical sections; running them faster = more risk of a stumble that costs you 30 seconds and confidence.",
+      "challenges": "Boulder fields and scree, rooty forest where every step is variable, steep rocky descents requiring hands-on scrambling, exposure (cliffsides, narrow ridges), sections that are slow and require navigation concentration.",
+      "mistakes": "Running technical sections at threshold to 'make time', a fall or twisted ankle ends the race. Nervous footfalls that slow you more than confident hiking would. Ignoring the pacing table's technical-segment allowance and cramping later when you realize you over-extended."
+    },
+    "alpine": {
+      "start": "Alpine races often start with a long climb or exposed ridge run. Your goal finish time assumes a steady effort, not speed chasing. The first km sets the tone: run 30 seconds slower than race pace to settle into a sustainable rhythm on steep ground. Alpine terrain punishes hard starts with calf and quad fatigue mid-race.",
+      "pacing": "Even pacing on alpine terrain means matching your effort to the gradient, not your speed. A runnable 5:00/km climb should feel the same effort as a 3:00/km descent. Use RPE (Rate of Perceived Exertion): aim for RPE 5-6 on climbs, RPE 5-6 on descents. This feels 'steady' across all gradients.",
+      "challenges": "Exposed ridges in wind, boulder fields requiring hands-on scrambling, sudden weather changes (temperature, visibility), long climbs that expose fitness gaps early, steep descents testing eccentric leg strength and confidence on loose rock.",
+      "mistakes": "Pushing climbs too hard in the first half, trying to match your goal pace instead of your goal effort. Overriding caution on technical descents and catching toe. Walking every steep climb instead of power-hiking (which costs more time than you save)."
+    },
+    "trail": {
+      "start": "Trail ultras sit between 'mountain' and 'runnable', expect rooty climbs, dirt descents, and sections of pure trail that feel easy until they bite your quads. Start steady and let the terrain speak. The first km is about settling into a rhythm, not testing your pace.",
+      "pacing": "Even pacing on trail means you maintain the same effort across varied terrain: runnable flats at RPE 5-6, climbs at RPE 5-6, descents at RPE 5-6. Your speed changes; your effort doesn't. The pacing table is built to match this.",
+      "challenges": "Rooty forest sections where every step varies, rolling terrain that tricks you into running too hard on 'gentle' sections, tree roots and rocks hidden by leaves (especially in wet conditions), descents that are fast but require confidence on uneven ground.",
+      "mistakes": "Overrunning the 'easy' rolling sections and running out of legs mid-race. Underestimating the quads damage of downhill running and bonking in the final stages. Not eating enough on the 'easy' runnable sections because you don't feel the effort."
+    },
+    "generic": {
+      "start": "For races without detailed course data, assume a 'mixed terrain' pacing model: expect rolling terrain with varied climbing and descent, some technical sections, some runnable flats. Start conservatively and let the first 10km show you the true character of the course.",
+      "pacing": "Even pacing means maintaining RPE 5-6 across all terrain changes. Slow down on climbs, speed up on descents; the pacing model (finish time spread across distance) assumes this. Trust the allocation.",
+      "challenges": "Varied terrain (climbs, technical sections, flat sections), potential for unexpected navigation, weather exposure, fatigue from repetitive impact or technical focus.",
+      "mistakes": "Pushing harder on the 'easy' sections to make time. Running technical sections at threshold. Neglecting hydration and fuel because you're not sure how much energy the race will demand."
+    },
+    "road": {
+      "start": "Road marathons reward consistency and penalise ego. The pace will feel easy for the first 10km, resist pushing harder. Road running is repetitive; your quads will tire from the impact, and your aerobic system can't spare the watts. Start at your goal pace and commit to steady effort.",
+      "pacing": "Even pacing on road is close to actual consistent pace (unlike trail). Aim for RPE 5-6 for the full distance. Your pacing table is your pace chart, run it. Any deviation up in the first half costs you in the final 10km.",
+      "challenges": "Quad fatigue from repetitive impact, mental monotony (road doesn't change), wind on exposed sections, a 'wall' at km 35+ if you went too hard early, the subtle slope you didn't notice on the reconnaissance.",
+      "mistakes": "Starting too fast because road running feels easier than trail. Pacing the early miles at threshold effort (RPE 6-7) instead of RPE 5-6, banking time that you can't spend later. Forgetting hydration on road because aid stations feel infrequent."
+    }
+  }
+}
