@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T21:38:17.650Z",
-  "today": "2026-11-25",
-  "count": 27,
+  "generatedAt": "2026-11-26T03:45:07.440Z",
+  "today": "2026-11-26",
+  "count": 31,
   "events": [
     {
       "id": "buffalo-stampede-100km",
@@ -687,6 +687,50 @@
       "programs": []
     },
     {
+      "id": "redwoods-rush-27km",
+      "airtableId": "recIvgfwW8KBZoxvT",
+      "name": "Redwoods Rush 27km",
+      "km": 27,
+      "segmentKm": 27,
+      "location": "Warburton, Victoria",
+      "raceDate": "2027-03-06",
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Warburton start to 5 km aid station",
+          "km": 5,
+          "idx": 1.2,
+          "type": "climb"
+        },
+        {
+          "name": "5 km to 11 km aid station",
+          "km": 6,
+          "idx": 0.93,
+          "type": "runnable"
+        },
+        {
+          "name": "11 km to 20 km aid station via Redwoods Forest",
+          "km": 9,
+          "idx": 0.97,
+          "type": "runnable"
+        },
+        {
+          "name": "20 km aid station to Warburton finish",
+          "km": 7,
+          "idx": 0.95,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Redwoods Rush 27km (12 weeks)",
+          "weeks": null,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/odFg3zuF/checkout"
+        }
+      ]
+    },
+    {
       "id": "rollercoaster-46km",
       "airtableId": "recZQ56xRadQ5Bawp",
       "name": "Rollercoaster 46km",
@@ -1135,6 +1179,56 @@
       "programs": []
     },
     {
+      "id": "two-bays-trail-run-28km",
+      "airtableId": "reclqhxj4JDgSeLOD",
+      "name": "Two Bays Trail Run 28km",
+      "km": 27.4,
+      "segmentKm": 27.4,
+      "location": "Mornington Peninsula, Victoria",
+      "raceDate": "2027-01-17",
+      "terrain": "Trail",
+      "segments": [
+        {
+          "name": "Dromana to Rosebud aid station",
+          "km": 7.5,
+          "idx": 1.22,
+          "type": "climb"
+        },
+        {
+          "name": "Rosebud to Hyslops Road aid station",
+          "km": 4.5,
+          "idx": 1.08,
+          "type": "climb"
+        },
+        {
+          "name": "Hyslops Road to Greens Bush East aid station",
+          "km": 6,
+          "idx": 0.96,
+          "type": "mixed"
+        },
+        {
+          "name": "Greens Bush East to Boneo Road aid station",
+          "km": 4,
+          "idx": 0.97,
+          "type": "mixed"
+        },
+        {
+          "name": "Boneo Road to Cape Schanck finish",
+          "km": 5.4,
+          "idx": 1.06,
+          "type": "technical"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Two Bays Trail Run 28km",
+          "weeks": null,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/rodo5tLj/checkout"
+        }
+      ]
+    },
+    {
       "id": "two-bays-trail-run-56km",
       "airtableId": "rec3vBK5B458voxsU",
       "name": "Two Bays Trail Run 56km",
@@ -1466,6 +1560,202 @@
           "weeks": 20,
           "start": "2026-12-28",
           "url": "https://www.hertrails.com/offers/vnpzvHhr/checkout"
+        }
+      ]
+    },
+    {
+      "id": "uta-miler",
+      "airtableId": "recUUwrcc9rW7Qf2S",
+      "name": "UTA Miler",
+      "km": 162.9,
+      "segmentKm": 162.9,
+      "location": "Blue Mountains, New South Wales",
+      "raceDate": "2027-05-14",
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "Govetts Leap to Govetts Leap Carpark",
+          "km": 12.4,
+          "idx": 1.25,
+          "type": "technical"
+        },
+        {
+          "name": "Govetts Leap Carpark to Perry’s Lookdown",
+          "km": 6.9,
+          "idx": 1.01,
+          "type": "mixed"
+        },
+        {
+          "name": "Perry’s Lookdown to Fortress Ridge",
+          "km": 10.6,
+          "idx": 1.48,
+          "type": "climb"
+        },
+        {
+          "name": "Fortress Ridge to Hydro Majestic",
+          "km": 17.5,
+          "idx": 1.1,
+          "type": "mixed"
+        },
+        {
+          "name": "Hydro Majestic to Narrow Neck Lookout",
+          "km": 7.8,
+          "idx": 1.29,
+          "type": "climb"
+        },
+        {
+          "name": "Narrow Neck Lookout to Tarros",
+          "km": 12.4,
+          "idx": 1.06,
+          "type": "technical"
+        },
+        {
+          "name": "Tarros to Foggy Knob",
+          "km": 9.9,
+          "idx": 1.13,
+          "type": "mixed"
+        },
+        {
+          "name": "Foggy Knob to Six Foot Track outbound",
+          "km": 13.7,
+          "idx": 1.21,
+          "type": "technical"
+        },
+        {
+          "name": "Six Foot Track outbound to Six Foot Track inbound",
+          "km": 15.8,
+          "idx": 1.18,
+          "type": "mixed"
+        },
+        {
+          "name": "Six Foot Track inbound to Katoomba Aquatic Centre",
+          "km": 10.5,
+          "idx": 1.34,
+          "type": "climb"
+        },
+        {
+          "name": "Katoomba Aquatic Centre to Fairmont Resort",
+          "km": 12.2,
+          "idx": 1.2,
+          "type": "technical"
+        },
+        {
+          "name": "Fairmont Resort to Queen Victoria Hospital",
+          "km": 11,
+          "idx": 1.14,
+          "type": "mixed"
+        },
+        {
+          "name": "Queen Victoria Hospital to Emergency Aid Station",
+          "km": 13.3,
+          "idx": 1.14,
+          "type": "mixed"
+        },
+        {
+          "name": "Emergency Aid Station to Scenic World finish",
+          "km": 8.9,
+          "idx": 1.39,
+          "type": "climb"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Ultra-Trail Australia: UTAMiler",
+          "weeks": null,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/LYntKG9H/checkout"
+        }
+      ]
+    },
+    {
+      "id": "wilsons-prom-100km",
+      "airtableId": "recPshRldIO1eCjso",
+      "name": "Wilsons Prom 100km",
+      "km": 95.2,
+      "segmentKm": 95.2,
+      "location": "Wilsons Promontory, Victoria",
+      "raceDate": "2027-05-01",
+      "terrain": "Technical",
+      "segments": [
+        {
+          "name": "Tidal River to Telegraph Saddle via Mt Oberon",
+          "km": 10.2,
+          "idx": 1.31,
+          "type": "climb"
+        },
+        {
+          "name": "Telegraph Saddle to Sealers Cove Camp",
+          "km": 9.5,
+          "idx": 1.09,
+          "type": "mixed"
+        },
+        {
+          "name": "Sealers Cove Camp to Refuge Cove Camp",
+          "km": 6.2,
+          "idx": 1.18,
+          "type": "technical"
+        },
+        {
+          "name": "Refuge Cove Camp to Little Waterloo Bay",
+          "km": 6.5,
+          "idx": 1.24,
+          "type": "technical"
+        },
+        {
+          "name": "Little Waterloo Bay to Telegraph Junction",
+          "km": 5.6,
+          "idx": 1.02,
+          "type": "mixed"
+        },
+        {
+          "name": "Telegraph Junction to Roaring Meg outbound",
+          "km": 6,
+          "idx": 1.17,
+          "type": "climb"
+        },
+        {
+          "name": "Roaring Meg outbound to Roaring Meg return via South Point",
+          "km": 6.1,
+          "idx": 1.18,
+          "type": "mixed"
+        },
+        {
+          "name": "Roaring Meg to the Lightstation",
+          "km": 5.2,
+          "idx": 1.21,
+          "type": "technical"
+        },
+        {
+          "name": "Lightstation to Telegraph Junction return",
+          "km": 13.9,
+          "idx": 1.24,
+          "type": "mixed"
+        },
+        {
+          "name": "Telegraph Junction to Tidal River via Oberon Bay",
+          "km": 11,
+          "idx": 1.15,
+          "type": "technical"
+        },
+        {
+          "name": "Tidal River to Mt Bishop lookout",
+          "km": 10.1,
+          "idx": 1.31,
+          "type": "climb"
+        },
+        {
+          "name": "Mt Bishop lookout to Tidal River finish",
+          "km": 4.9,
+          "idx": 1.02,
+          "type": "descent"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Wilsons Prom 100km",
+          "weeks": null,
+          "start": null,
+          "url": "https://www.hertrails.com/offers/MFjgTETZ/checkout"
         }
       ]
     }

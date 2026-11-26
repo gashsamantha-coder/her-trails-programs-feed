@@ -387,7 +387,82 @@ var EVENTS = {
       cue: {
         start: "The 25km run/hike is a short but genuinely hilly mountain course through Queenstown's moonscape hills, rainforest and waterfalls. It is billed as a run/hike for a reason: strong, patient hiking on the climbs is the right way to race it.",
         mistakes: "Racing the early climb out of the valley like a flat 25km, then having nothing for the rolling ridge and the slick rainforest descents. On a hilly short course, effort control still matters."
-      }}
+      }},
+
+    // Course reference: https://www.twobaystrailrun.com/iTheTrail.html and https://www.twobaystrailrun.com/iEntrantInfo.html
+    "twobays28": { name: "Two Bays Trail Run 28km", tier: 2, terrain: "Trail",
+      segments: [
+        {name:"Dromana to Rosebud aid station", km:7.5, idx:1.22, type:"climb", note:"The main climb over Arthurs Seat comes early. Hike the steep pitches if that keeps your effort steady, then ease into the descent towards Rosebud."},
+        {name:"Rosebud to Hyslops Road aid station", km:4.5, idx:1.08, type:"climb", note:"Regain elevation after Rosebud. Use shorter strides uphill and settle back into a run as the grade eases."},
+        {name:"Hyslops Road to Greens Bush East aid station", km:6, idx:0.96, type:"mixed", note:"Greens Bush rolls through forest. Fuel on the easier stretches and leave room to adjust on the short rises."},
+        {name:"Greens Bush East to Boneo Road aid station", km:4, idx:0.97, type:"mixed", note:"Use the gentler stretches to find a steady rhythm. Refill at Boneo Road if you need fluid for the final coastal leg."},
+        {name:"Boneo Road to Cape Schanck finish", km:5.4, idx:1.06, type:"technical", note:"Sand and the coastal trail through Bushrangers Bay can slow your pace. Shorten your stride where the footing changes and lift when the path opens."}
+      ],
+      cue: {
+        start: "Start at an effort you can hold over Arthurs Seat, even if you need to hike early. Use the drop into Rosebud to settle and start fuelling.",
+        mistakes: "Trying to bank time up Arthurs Seat can leave you pressing too hard through Greens Bush. Allow extra time for the sand and uneven footing near Cape Schanck."
+      }
+    },
+
+    // Course reference: https://uta.utmb.world/races/utamiler (checkpoint chart)
+    "utamiler": { name: "UTA Miler", tier: 2, terrain: "Technical",
+      segments: [
+        {name:"Govetts Leap to Govetts Leap Carpark", km:12.4, idx:1.25, type:"technical", note:"Give the opening Grand Canyon loop room. Stairs and narrow trail can break your rhythm before you return to Govetts Leap."},
+        {name:"Govetts Leap Carpark to Perry’s Lookdown", km:6.9, idx:1.01, type:"mixed", note:"Use the shorter leg to settle after Grand Canyon. Leave Perry’s with enough fluid and fuel for the valley crossing."},
+        {name:"Perry’s Lookdown to Fortress Ridge", km:10.6, idx:1.48, type:"climb", note:"The Grose Valley crossing drops into Blue Gum Forest before climbing towards Lockleys Pylon. Save your quads on the descent and hike the steep climbs early."},
+        {name:"Fortress Ridge to Hydro Majestic", km:17.5, idx:1.1, type:"mixed", note:"This is the longest gap between the charted stops. Take what you need for the full leg at Fortress Ridge and work through it in steady blocks."},
+        {name:"Hydro Majestic to Narrow Neck Lookout", km:7.8, idx:1.29, type:"climb", note:"Keep the effort even as you climb towards Narrow Neck and join the UTA100 route. Take stock before the longer stretch without crew access."},
+        {name:"Narrow Neck Lookout to Tarros", km:12.4, idx:1.06, type:"technical", note:"Run the more open fire trail comfortably. Allow time around the ladders and avoid chasing your watch through any queue or slow footing."},
+        {name:"Tarros to Foggy Knob", km:9.9, idx:1.13, type:"mixed", note:"As daylight fades for many runners, keep the effort easy on the runnable stretches. Slow down early where the footing becomes less clear."},
+        {name:"Foggy Knob to Six Foot Track outbound", km:13.7, idx:1.21, type:"technical", note:"Take the steep, loose Ironpot Ridge descent with control. Keep eating through the easier stretches so you arrive at Six Foot Track ready for the next loop."},
+        {name:"Six Foot Track outbound to Six Foot Track inbound", km:15.8, idx:1.18, type:"mixed", note:"Treat the Coxs River loop as a full leg. Give the narrower trail and exposed edges your attention, especially in the dark."},
+        {name:"Six Foot Track inbound to Katoomba Aquatic Centre", km:10.5, idx:1.34, type:"climb", note:"Hike the steeper grades up Nellies Glen and keep fuelling as you climb back to Katoomba."},
+        {name:"Katoomba Aquatic Centre to Fairmont Resort", km:12.2, idx:1.2, type:"technical", note:"Switch to short steps on the stairs and through the forest. Aim for steady movement as the terrain keeps interrupting your rhythm."},
+        {name:"Fairmont Resort to Queen Victoria Hospital", km:11, idx:1.14, type:"mixed", note:"Expect some slower trail around Wentworth Falls. Keep the effort level and refill at Queen Victoria Hospital before Kedumba."},
+        {name:"Queen Victoria Hospital to Emergency Aid Station", km:13.3, idx:1.14, type:"mixed", note:"The descent into Kedumba can feel quick. Keep it controlled so you can switch to a purposeful hike as the course rises again."},
+        {name:"Emergency Aid Station to Scenic World finish", km:8.9, idx:1.39, type:"climb", note:"Keep something in reserve for the final approach and the Furber Steps. Use the handrail or hike as needed to keep moving steadily."}
+      ],
+      cue: {
+        start: "Use the Grand Canyon loop and Grose Valley to establish an effort you can sustain into the night. This plan uses the organiser’s checkpoint chart, which totals 162.9 km.",
+        mistakes: "Leaving the long Fortress Ridge to Hydro Majestic leg short on fuel, or spending too much on the Kedumba descent. Check your projected checkpoint times against the current runner guide and allow for time to leave each stop before its cutoff."
+      }
+    },
+
+    // Course reference: https://www.warburtontrailfest.com/27km-redwoods-rush
+    "redwoodsrush27": { name: "Redwoods Rush 27km", tier: 2, terrain: "Trail",
+      segments: [
+        {name:"Warburton start to 5 km aid station", km:5, idx:1.2, type:"climb", note:"Warm into the riverside singletrack and hike the short, steep pitch up Martyrs Road if that keeps your breathing steady."},
+        {name:"5 km to 11 km aid station", km:6, idx:0.93, type:"runnable", note:"The aqueduct trail is mostly flat here. Let your stride settle and fuel while the surface makes it easy to do so."},
+        {name:"11 km to 20 km aid station via Redwoods Forest", km:9, idx:0.97, type:"runnable", note:"Keep the effort steady through the forest turnaround. Follow the marked turn and give other runners space on the return."},
+        {name:"20 km aid station to Warburton finish", km:7, idx:0.95, type:"descent", note:"Use the return towards town to build momentum if you have it. Stay in control when the grade drops and the surface narrows near the river."}
+      ],
+      cue: {
+        start: "Keep the first few kilometres easy and take Martyrs Road by effort. You can settle into a more even rhythm once you reach the aqueduct.",
+        mistakes: "Running the early climb too hard and then trying to make up time immediately on the flats. Keep the outbound leg steady so you can lift on the return."
+      }
+    },
+
+    // Course reference: https://www.singletrack.com.au/wilsons-prom/the-races (embedded 2027 course map)
+    "wilsonsprom100": { name: "Wilsons Prom 100km", tier: 2, terrain: "Technical",
+      segments: [
+        {name:"Tidal River to Telegraph Saddle via Mt Oberon", km:10.2, idx:1.31, type:"climb", note:"Take the opening climb past Telegraph Saddle and up Mt Oberon at a sustainable effort. Descend back to the saddle with your quads in mind."},
+        {name:"Telegraph Saddle to Sealers Cove Camp", km:9.5, idx:1.09, type:"mixed", note:"Expect the trail to rise before it drops towards the cove. Allow time for the tidal crossing and follow the organiser’s instructions on the day."},
+        {name:"Sealers Cove Camp to Refuge Cove Camp", km:6.2, idx:1.18, type:"technical", note:"Coastal singletrack alternates between climbs and descents. Shorten your stride on uneven surfaces and fuel where the footing allows."},
+        {name:"Refuge Cove Camp to Little Waterloo Bay", km:6.5, idx:1.24, type:"technical", note:"Repeated rises add up across this section. Let the pace change with the grade and recover on the gentler stretches."},
+        {name:"Little Waterloo Bay to Telegraph Junction", km:5.6, idx:1.02, type:"mixed", note:"Use the transition inland to settle your breathing. Refill at Telegraph Junction before the climbs ahead."},
+        {name:"Telegraph Junction to Roaring Meg outbound", km:6, idx:1.17, type:"climb", note:"This inland leg climbs through Halfway Hut towards Roaring Meg. Hike the steeper stretches if that keeps your effort consistent."},
+        {name:"Roaring Meg outbound to Roaring Meg return via South Point", km:6.1, idx:1.18, type:"mixed", note:"The South Point out-and-back drops towards the coast and climbs back to Roaring Meg. Keep the descent controlled so you can hike strongly back."},
+        {name:"Roaring Meg to the Lightstation", km:5.2, idx:1.21, type:"technical", note:"This short leg still has climbing and descending. Follow the marked route towards the Lightstation and keep eating even if the rhythm is broken."},
+        {name:"Lightstation to Telegraph Junction return", km:13.9, idx:1.24, type:"mixed", note:"Budget time for the long return leg and its repeated climbs. Keep eating and drinking between stops and take stock at Telegraph Junction."},
+        {name:"Telegraph Junction to Tidal River via Oberon Bay", km:11, idx:1.15, type:"technical", note:"Sand, coastal trail and the tidal crossing around Oberon Bay can interrupt the pace. Follow race-day crossing instructions and give this leg extra time."},
+        {name:"Tidal River to Mt Bishop lookout", km:10.1, idx:1.31, type:"climb", note:"You pass back near the start area before climbing towards Mt Bishop. Reset your effort and leave enough fuel and time for the final ascent."},
+        {name:"Mt Bishop lookout to Tidal River finish", km:4.9, idx:1.02, type:"descent", note:"Descend with control on tired legs. Pick up the pace where the footing opens on the way back to Tidal River."}
+      ],
+      cue: {
+        start: "Hike the steeper stretches of Mt Oberon early if that helps you keep the effort steady. This plan uses the organiser’s 2027 course map, which measures about 95.2 km.",
+        mistakes: "Trying to bank time before the coast and leaving too little for the final Mt Bishop climb. Allow for variable conditions at the tidal crossings and check the final race guide. The organiser lists a 24-hour finish cutoff."
+      }
+    }
 
   };
 
