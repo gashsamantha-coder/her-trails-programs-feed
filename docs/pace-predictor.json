@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:45:07.440Z",
+  "generatedAt": "2026-11-26T08:10:13.818Z",
   "today": "2026-11-26",
   "count": 31,
   "events": [
@@ -724,8 +724,8 @@
       "programs": [
         {
           "name": "Redwoods Rush 27km (12 weeks)",
-          "weeks": null,
-          "start": null,
+          "weeks": 12,
+          "start": "2026-12-14",
           "url": "https://www.hertrails.com/offers/odFg3zuF/checkout"
         }
       ]
@@ -1222,7 +1222,7 @@
       "programs": [
         {
           "name": "Two Bays Trail Run 28km",
-          "weeks": null,
+          "weeks": 12,
           "start": null,
           "url": "https://www.hertrails.com/offers/rodo5tLj/checkout"
         }
@@ -1661,7 +1661,7 @@
       "programs": [
         {
           "name": "Ultra-Trail Australia: UTAMiler",
-          "weeks": null,
+          "weeks": 28,
           "start": null,
           "url": "https://www.hertrails.com/offers/LYntKG9H/checkout"
         }
@@ -1753,8 +1753,8 @@
       "programs": [
         {
           "name": "Wilsons Prom 100km",
-          "weeks": null,
-          "start": null,
+          "weeks": 20,
+          "start": "2026-12-14",
           "url": "https://www.hertrails.com/offers/MFjgTETZ/checkout"
         }
       ]

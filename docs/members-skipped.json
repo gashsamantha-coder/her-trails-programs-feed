@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:38:17.133Z",
+  "generatedAt": "2026-11-26T08:10:13.076Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -68,6 +68,10 @@
     {
       "name": "Waterous Trail on Foot 50",
       "why": "Race already run"
+    },
+    {
+      "name": "Micro Learning | Train, Adapt or Rest",
+      "why": "No customer checkout link"
     },
     {
       "name": "Her Stride",
