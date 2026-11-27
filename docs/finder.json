@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T21:27:27.045Z",
-  "today": "2026-11-26",
+  "generatedAt": "2026-11-27T08:21:28.541Z",
+  "today": "2026-11-27",
   "hierarchy": [
     "exact",
     "curated",
@@ -410,11 +410,11 @@
         "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
         "weeks": 14,
         "startDate": "2026-08-24",
-        "raceDate": "2026-11-26",
+        "raceDate": null,
         "price": 350,
         "plan": "130 x 3 = $390",
-        "checkoutUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -2501,11 +2501,11 @@
         "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
         "weeks": 20,
         "startDate": "2026-07-13",
-        "raceDate": "2026-11-26",
+        "raceDate": null,
         "price": 495,
         "plan": "195 x 3 = $585",
-        "checkoutUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout",
-        "available": true
+        "checkoutUrl": null,
+        "available": false
       }
     },
     {
@@ -8219,7 +8219,7 @@
     {
       "id": "recBF8SNiFid0ZPzi",
       "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
-      "raceDate": "2026-11-26",
+      "raceDate": null,
       "distance": 33,
       "elevation": 596,
       "terrain": "Runnable Trail",
@@ -8243,7 +8243,7 @@
     {
       "id": "recyBXkPaIRBveZjh",
       "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
-      "raceDate": "2026-11-26",
+      "raceDate": null,
       "distance": 50.3,
       "elevation": 1355,
       "terrain": "Runnable Trail",

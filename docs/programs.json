@@ -1,31 +1,8 @@
 {
-  "generatedAt": "2026-11-26T21:27:27.045Z",
-  "today": "2026-11-26",
-  "count": 120,
+  "generatedAt": "2026-11-27T08:21:28.541Z",
+  "today": "2026-11-27",
+  "count": 118,
   "programs": [
-    {
-      "id": "recTwdTPS6KtCYT00",
-      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci50",
-      "category": "Event Based Programs",
-      "location": "Snowy Mountains",
-      "km": 50.3,
-      "distanceLabel": "50.3km",
-      "elevation": 1355,
-      "tier": "T2 Ranges",
-      "tags": [
-        "50km Trail Ultra",
-        "HT Pinnacle Event"
-      ],
-      "tagline": "50km race starting and finishing at Friday Flat, Thredbo, Kosciuszko National Park. Start time 7:00am. Alpine trails through the Snowy Mountains, 1,626m elevation gain. Event page / entry info: https://kosciuszko.utmb.world/runners/entry-info",
-      "weeks": 20,
-      "raceDate": "2026-11-26",
-      "startDate": "2026-07-13",
-      "status": "in_progress",
-      "price": 495,
-      "plan": "195 x 3 = $585",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/TenXYSfk/checkout"
-    },
     {
       "id": "recaJxOlc4xHHs937",
       "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
@@ -138,29 +115,6 @@
       "plan": null,
       "canPurchase": true,
       "checkoutUrl": "https://www.hertrails.com/offers/YvNeBKbB/checkout"
-    },
-    {
-      "id": "reco3HyosgpTLHMqJ",
-      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci30",
-      "category": "Event Based Programs",
-      "location": "Perisher to Thredbo, Snowy Mountains, NSW",
-      "km": 33,
-      "distanceLabel": "33km",
-      "elevation": 596,
-      "tier": null,
-      "tags": [
-        "30km - 40km Trail Mid ",
-        "HT Pinnacle Event"
-      ],
-      "tagline": "32km trail race in Thredbo, Kosciuszko National Park. Shorter distance option through the Snowy Mountains with alpine trails and mountain scenery.",
-      "weeks": 14,
-      "raceDate": "2026-11-26",
-      "startDate": "2026-08-24",
-      "status": "in_progress",
-      "price": 350,
-      "plan": "130 x 3 = $390",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/Gt8bHS3M/checkout"
     },
     {
       "id": "rec10h1BwdyNMWVDw",
