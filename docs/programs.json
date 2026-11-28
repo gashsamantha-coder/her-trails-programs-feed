@@ -1,33 +1,8 @@
 {
-  "generatedAt": "2026-11-27T21:12:31.259Z",
-  "today": "2026-11-27",
-  "count": 118,
+  "generatedAt": "2026-11-28T07:41:34.475Z",
+  "today": "2026-11-28",
+  "count": 117,
   "programs": [
-    {
-      "id": "recaJxOlc4xHHs937",
-      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
-      "category": "Event Based Programs",
-      "location": "Snowy Mountains",
-      "km": 105.6,
-      "distanceLabel": "105.6km",
-      "elevation": 2973,
-      "tier": null,
-      "tags": [
-        ">100km Trail Ultra ",
-        "Mountain",
-        "Technical",
-        "HT Pinnacle Event"
-      ],
-      "tagline": "100km race starting and finishing at Friday Flat, Thredbo, Kosciuszko National Park. Start time 7:30am. Kosci100 is a runnable alpine 100K. The program is built to develop aerobic durability first, then layer in the skills that determine whether an amateur athlete can keep moving well for up to 28 hours: fuelling, power hiking, low-light confidence, alpine kit fluency, downhill resilience, decision-making under fatigue and energy availability protection. This is not a mileage contest. It is a 20-week progression in becoming organised, durable, fuelled and calm enough to execute a long alpine race.",
-      "weeks": 20,
-      "raceDate": "2026-11-27",
-      "startDate": "2026-07-13",
-      "status": "in_progress",
-      "price": 490,
-      "plan": "195 x 3 = $585",
-      "canPurchase": true,
-      "checkoutUrl": "https://www.hertrails.com/offers/frvKyC9N/checkout"
-    },
     {
       "id": "recZ67WvNznFJo8G7",
       "name": "Heroes & Villains 50",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:12:31.259Z",
+  "generatedAt": "2026-11-28T07:41:34.475Z",
   "skipped": [
     {
       "name": "Lakes Trail Festival 50",
@@ -176,6 +176,10 @@
     {
       "name": "Backyard Ultra: Great Ultra Mediocre Back Yarder (GUMBY)",
       "why": "No customer checkout link"
+    },
+    {
+      "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
+      "why": "Race already run"
     },
     {
       "name": "Rotorua Trail Festival 10K",

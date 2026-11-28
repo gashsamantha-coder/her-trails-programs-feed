@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T21:12:32.010Z",
-  "today": "2026-11-27",
+  "generatedAt": "2026-11-28T07:41:35.292Z",
+  "today": "2026-11-28",
   "count": 31,
   "events": [
     {
@@ -1354,14 +1354,7 @@
           "type": "descent"
         }
       ],
-      "programs": [
-        {
-          "name": "Ultra-Trail Kosciuszko by UTMB: Kosci100",
-          "weeks": 20,
-          "start": null,
-          "url": "https://www.hertrails.com/offers/frvKyC9N/checkout"
-        }
-      ]
+      "programs": []
     },
     {
       "id": "ultra-trail-kosciuszko-by-utmb-kosci50",
